@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>PressTV-Iran, Russia to hold joint drills in Persian Gulf</title>
+    <meta name="msvalidate.01" content="263CB8D7092FC85261D957F6DC435199" />
+    <meta name="viewport" content="width=device-width">
+        <meta name="title" content="PressTV-Iran, Russia to hold joint drills in Persian Gulf" />
+        <meta property="og:title" content="PressTV-Iran, Russia to hold joint drills in Persian Gulf" />
+                <meta property="og:description" content="Iran and Russia have agreed to conduct joint naval drills in the Persian Gulf region “in the near future,” says the Iran navy chief. " />
+        <meta property="og:type" content="article" />
+        <meta name="description" content="Iran and Russia have agreed to conduct joint naval drills in the Persian Gulf region “in the near future,” says the Iran navy chief. " />
+            <meta property="og:image" content="https://cdn.presstv.com/photo/20190729/20a4ec63-788f-4983-b038-76ef0f388b89.jpg" />
+        <meta name="thumbnail" content="https://cdn.presstv.com/photo/20190729/20a4ec63-788f-4983-b038-76ef0f388b89.jpg" />
+        <meta itemprop="thumbnailUrl" content="https://cdn.presstv.com/photo/20190729/20a4ec63-788f-4983-b038-76ef0f388b89.jpg" />
+        <meta itemprop="image" content="https://cdn.presstv.com/photo/20190729/20a4ec63-788f-4983-b038-76ef0f388b89.jpg" />
+        <link rel="image_src" href="https://cdn.presstv.com/photo/20190729/20a4ec63-788f-4983-b038-76ef0f388b89.jpg" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/Content/Site151104.css">
+    <link rel="stylesheet" href="/Content/ovverrides.css?_=20190123">
+    <script src="/Scripts/modernizr-2.6.2.min.js"></script>
+    <script src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script>
+</head>
+<body>
+    <div id="breaking" style="display: none;">
+        <div class="inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="panel ticker ticker-breaking title-overlay">
+                            <div class="panel-title">
+                                <h2>Breaking News</h2>
+                            </div>
+                            <div class="panel-body">
+                                <ul></ul>
+                                <button type="button" class="close">&times;</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--<div id="ptvyt" style="background-color:black;">
+        <div class="inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <a href="/Default/Section/119" target="_blank">
+                            <img src="/static/thevoice190429.jpeg" style="width:100%;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>-->
+    <header id="header">
+        <div id="masthead" class="wrapper _bluedark">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-4 col-sm-3 col-md-2 col-lg-1">
+                        <h1 class="logo">
+                            <a href="/">PressTV</a>
+                        </h1>
+                    </div>
+                    <div class="col-xs-8 col-sm-9 col-md-10 col-lg-11">
+                        <ul class="menu header-menu">
+                            <li><a href="/Default/Schedule"><i class="icon-calendar"></i>Schedule</a></li>
+                            <li><a href="/Default/Live"><i class="icon-video"></i>Watch Live</a></li>
+                            <li class="search haschild">
+                                <a href="#"><i class="icon-search"></i></a>
+                                <div class="child">
+                                    <form role="form" class="search-form" action="/Default/Search" method="get">
+                                        <input type="text" name="q" class="form-control" placeholder="Search..." />
+                                        <button type="submit">&nbsp;</button>
+                                    </form>
+                                </div>
+                            </li>
+                            <li class="hidden-sm hidden-md hidden-lg"><a href="#" class="menu-toggle" data-toggle="slide" data-target="#menu"><i class="icon-bars"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="navbar" class="wrapper _bluedarker">
+            <div class="container">
+                <div class="row">
+                    <nav id="menu" class="col-xs-12 col-md-10">
+                        <ul class="menu menu-inline">
+                            <li class="haschild">
+                                <a href="#">News</a>
+                                <div class="child">
+                                    <ul>
+                                        <li><a href="/Default/Section/102">Middle East</a></li>
+                                        <li><a href="/Default/Section/104">Asia-Pacific</a></li>
+                                        <li><a href="/Default/Section/105">Africa</a></li>
+                                        <li><a href="/Default/Section/106">Europe</a></li>
+                                        <li><a href="/Default/Section/107">Americas</a></li>
+                                        <li><a href="/Default/Section/12001">Society</a></li>
+                                        <li><a href="/Default/Section/12002">Arts</a></li>
+                                        <li><a href="/Default/Section/12004">Business</a></li>
+                                        <li><a href="/Default/Section/12005">Sports</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="haschild">
+                                <a href="/Default/Section/101">Iran</a>
+                                <div class="child">
+                                    <ul>
+                                        <li><a href="/Default/Section/10101">Politics</a></li>
+                                        <li><a href="/Default/Section/10102">Economy</a></li>
+                                        <li><a href="/Default/Section/10103">Energy</a></li>
+                                        <li><a href="/Default/Section/10104">Nuclear Energy</a></li>
+                                        <li><a href="/Default/Section/10105">Culture</a></li>
+                                        <li><a href="/Default/Section/10106">Defence</a></li>
+                                        <li><a href="/Default/Section/10107">Sport</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li><a href="/Default/Section/103"><span>US</span></a></li>
+                            <li><a href="/Default/Section/108"><span>UK</span></a></li>
+                            <li><a href="/Default/Section/130"><span>Videos</span></a></li>
+                            <li class="haschild">
+                                <a href="/Default/Section/150">Programs</a>
+                                <div class="child">
+                                    <ul>
+                                        <li><a href="/Default/Section/15006">Iran Today</a></li>
+                                        <li><a href="/Default/Section/15067">Economic Divide</a></li>
+                                        <li><a href="/Default/Section/15070">On The News Line</a></li>
+                                        <li><a href="/Default/Section/15076">The Isle</a></li>
+                                        <li><a href="/Default/Section/15082">We The People</a></li>
+                                        <li><a href="/Default/Section/15064">Press Plus</a></li>
+                                        <li><a href="/Default/Section/15045">A Simple Question</a></li>
+                                        <li><a href="/Default/Section/15034">Africa Today</a></li>
+                                        <li><a href="/Default/Section/15060">The Sun Will Rise</a></li>
+                                        <li><a href="/Default/Section/15079">The Big Conversation</a></li>
+                                        <li><a href="/Default/Section/15072">Islam And Life</a></li>
+                                        <li><a href="/Default/Section/15071">Food For Thought</a></li>
+                                        <li><a href="/Default/Section/15031">Face To Face</a></li>
+                                        <li><a href="/Default/Section/15057">The Debate</a></li>
+                                        <li><a href="/Default/Section/15015">Iran</a></li>
+                                        <li><a href="/Default/Section/15081">Opinion</a></li>
+                                        <li><a href="/Default/Section/15084">Doc Review</a></li>
+                                        <li><a href="/Default/Section/15087">Underreported</a></li>
+                                        <li><a href="/Default/Section/15088">Doubling Down</a></li>
+                                        <li><a href="/Default/Section/15086">New Chapter</a></li>
+                                        <li><a href="/Default/Section/15089">Middle East Papers</a></li>
+                                        <li><a href="/Default/Section/15090">Press Release</a></li>
+                                        <li><a href="/Default/Section/15091">The Secret</a></li>
+                                        <li><a href="/Default/Section/15092">Trending</a></li>
+                                        <li><a href="/Default/Section/15093">Inside Israel</a></li>
+                                        <li><a href="/Default/Section/15094">Interface</a></li>
+                                        <li><a href="/Default/Section/15095">mideastream</a></li>
+                                        <li><a href="/Default/Section/15096">Iran Cinema</a></li>
+                                        <li><a href="/Default/Section/15097">Iran Art Magazine</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li><a target="_blank" href="http://presstvdoc.com">Docs</a></li>
+                            <li class="hidden-md hidden-lg"><a href="/Farsi">فارسی</a></li>
+                            <li class="hidden-md hidden-lg"><a href="/French">French</a></li>
+                        </ul>
+                    </nav>
+                    <div id="sidemenu" class="hidden-xs hidden-sm col-md-2">
+                        <ul class="menu menu-inline">
+                            <li class="rtl">
+                                <a href="/Farsi">فارسی</a>
+                            </li>
+                            <li class="rtl">
+                                <a href="/French">French</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    
+
+<section id="main">
+    <div id="mainbody" class="wrapper">
+        <div class="container">
+            <div id="page" class="row">
+                <div class="col-xs-12 col-md-8">
+                    <article id="item" class="item">
+                        <header class="page-heading">
+                            <h2 class="page-header">Iran, Russia to stage joint drills in Persian Gulf: Iran Navy chief</h2>
+                            <div class="item-meta">
+                                <div class="item-date" id="header-pubdate" data-id="602186">
+                                    Mon Jul 29, 2019 05:00PM 
+                                     [Updated: Mon Jul 29, 2019 05:11PM ]
+                                </div>
+                                <ol class="breadcrumb">
+                                    <li><a href="/">Home</a></li><li><a href="/Default/Section/101">Iran</a></li><li><a href="/Default/Section/10106">Defence</a></li>
+                                </ol>
+                            </div>
+                        </header>
+                        <div class="item-body">
+                            <figure class="item-image">
+
+
+                                    <img id="imgPlayback" src="https://cdn.presstv.com/photo/20190729/20a4ec63-788f-4983-b038-76ef0f388b89.jpg" alt="This handout photo made available by the Iranian Navy on February 23, 2019, shows Iranian Navy submarines sailing during a naval drill in the Sea of Oman. (Photo by AFP)" />
+
+                                <figcaption id="mainFigCap">This handout photo made available by the Iranian Navy on February 23, 2019, shows Iranian Navy submarines sailing during a naval drill in the Sea of Oman. (Photo by AFP)</figcaption>
+                                </figure>
+                                <input type="hidden" id="inpShortCode" value="2lGQ" />
+                                                                                                <div class="item-text">
+                                    <p><strong>Iranian Navy Commander Rear Admiral Hossein Khanzadi says Iran and Russia have agreed to conduct joint naval drills in the Persian Gulf region &ldquo;in the near future.&rdquo;</strong></p>
+
+<p>Khanzadi, who was attending the Russian Navy Day celebrations in Saint Petersburg, Russia, made the announcement in an interview with the Islamic Republic News Agency on Monday, saying the two sides have&nbsp;reached an agreement on holding the drills in the Indian Ocean, Makran waters, Strait of Hormuz and the Persian Gulf by the end of year.</p>
+
+<p>Heading a military delegation, Khanzadi participated in the Russian Navy Day celebrations, attended by representatives of 20 countries in Saint Petersburg on Sunday.</p>
+
+<p>Elaborating on the outcome of his trip to Russia, Khanzadi said an agreement was signed with the Ministry of Defense of the Russian Federation on behalf of the General Staff of the Armed Forces of the Islamic Republic of Iran.</p>
+
+<p>The Iranian Navy chief further noted that the agreement was&nbsp;the first of its kind between Tehran and Moscow and aimed to boost military cooperation between the two countries particularly with regard to naval forces.</p>
+
+<p>Back in late April, Khanzadi unveiled plans for a joint naval drill with Russia in coming months.</p>
+
+<div data-oembed-url="https://www.presstv.com/Detail/2019/04/29/594646/Iran-Russia-Persian-Gulf-drills-Admiral-Khanzadi-Damavand-destroyer">
+<div class="oembed"><a href="https://www.presstv.com/Detail/2019/04/29/594646/Iran-Russia-Persian-Gulf-drills-Admiral-Khanzadi-Damavand-destroyer" target="_blank"><img alt="PressTV-Iran, Russia navies to stage joint drill in Persian Gulf" class="thumbnail" src="https://cdn.presstv.com/photo/20190429/eb570629-8597-4acf-9516-e0c1b42f1613.jpg" /></a>
+
+<div class="title"><a href="https://www.presstv.com/Detail/2019/04/29/594646/Iran-Russia-Persian-Gulf-drills-Admiral-Khanzadi-Damavand-destroyer" target="_blank">PressTV-Iran, Russia navies to stage joint drill in Persian Gulf</a></div>
+</div>
+<a href="https://www.presstv.com/Detail/2019/04/29/594646/Iran-Russia-Persian-Gulf-drills-Admiral-Khanzadi-Damavand-destroyer" target="_blank">Iranian and Russian military forces will stage a rare naval drill in the Persian Gulf later this year, the commander of Iran&rsquo;s navy has announced.</a></div>
+
+<p>The announcement comes as tensions have been running high between Tehran and Washington since last year, when President Donald Trump unilaterally withdrew the US from the 2015 multilateral nuclear deal, officially known as the Joint Comprehensive Plan of Action (JCPOA), and unleashed the &ldquo;toughest&nbsp;ever&rdquo; sanctions against&nbsp;the Islamic Republic.</p>
+
+<p>Recently, the US has taken a quasi-warlike posture against Iran&nbsp;and stepped up its provocative military moves&nbsp;in the Middle East, among them the June 20 incursion&nbsp;of an American spy drone into the Iranian&nbsp;borders.</p>
+
+<p>The US says it is deploying an aircraft carrier strike group and a bomber task force to the Middle East in a &ldquo;clear and unmistakable&rdquo; message to Iran.</p>
+
+<p>In May, Washington dispatched an aircraft carrier strike group, a bomber task force, and an amphibious assault ship to the Persian Gulf, citing an alleged Iranian threat.</p>
+
+<p>The military deployment&nbsp;sparked global concerns that the US may be planning to wage war on Iran.</p>
+                                </div>
+</div>
+                        <div class="item-sharings">
+                            <ul>
+                                <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://presstv.com//Detail/2019/07/29/602186/Iran-Hossein-Khanzadi-Russia-joint-naval-drills"><i class="icon-facebook"></i></a></li>
+                                <li class="twitter"><a target="_blank" href="https://twitter.com/intent/tweet?text=Iran, Russia to hold joint drills in Persian Gulf&url=http://presstv.com//Detail/2019/07/29/602186/Iran-Hossein-Khanzadi-Russia-joint-naval-drills"><i class="icon-twitter"></i></a></li>
+                                <li class="gplus"><a target="_blank" href="https://plus.google.com/share?url=http://presstv.com//Detail/2019/07/29/602186/Iran-Hossein-Khanzadi-Russia-joint-naval-drills"><i class="icon-gplus"></i></a></li>
+                                <li class="pinterest"><a target="_blank" href="http://pinterest.com/pin/create/button/?url=http://presstv.com//Detail/2019/07/29/602186/Iran-Hossein-Khanzadi-Russia-joint-naval-drills&media=https://cdn.presstv.com/photo/20190729/20a4ec63-788f-4983-b038-76ef0f388b89.jpg"><i class="icon-pinterest"></i></a></li>
+                                <li class="reddit"><a target="_blank" href="https://www.reddit.com/url=http://presstv.com//Detail/2019/07/29/602186/Iran-Hossein-Khanzadi-Russia-joint-naval-drills"><i class="icon-reddit"></i></a></li>
+                                <li class="print margin-top"><a href="javascript:window.print()"><i class="icon-print"></i></a></li>
+                                <li class="mail"><a href="#"><i class="icon-mail"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="item-comments">
+                            <div id="hypercomments_widget"></div>
+                        </div>
+                        <script type="text/javascript">
+                            var extid = "ptvdefaultdetail602186";
+                            _hcwp = window._hcwp || [];
+                            _hcwp.push({ widget: "Stream", widget_id: 26215, xid: extid, hc_disable: 1, quote_disable: 1, social: "google, facebook, twitter, openid", comments_level: 2 });
+                            (function () {
+                                if ("HC_LOAD_INIT" in window) return;
+                                HC_LOAD_INIT = true;
+                                var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || "en").substr(0, 2).toLowerCase();
+                                var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                                hcc.src = ("https:" == document.location.protocol ? "https" : "http") + "://w.hypercomments.com/widget/hc/26215/" + lang + "/widget.js";
+                                var s = document.getElementsByTagName("script")[0];
+                                s.parentNode.insertBefore(hcc, s.nextSibling);
+                            })();
+                        </script>
+                    </article>
+                </div>
+                <div id="sidebar" class="col-xs-12 col-md-4">
+                    <div class="panel list titles sidebar-titles has-tabs">
+                        <span class="loading" data-loading="/callback/Latest1">Loading ...</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<img src="http://217.218.67.231/Submission/ViewCounter/602186" />
+    <footer id="footer">
+        <div class="wrapper _gray">
+            <div class="container">
+                <div id="sitemap" class="row">
+                    <div class="col-xs-4 col-sm-2 col-md-2 hidden-xs">
+                        &nbsp;
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4">
+                        <div class="footer-menu">
+                            <h4 class="menu-title">
+                                <a href="#">News</a>
+                            </h4>
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <ol>
+                                        <li><a href="/Default/Section/101">Iran</a></li>
+                                        <li><a href="/Default/Section/102">Middle East</a></li>
+                                        <li><a href="/Default/Section/103"><span>US</span></a></li>
+                                        <li><a href="/Default/Section/108"><span>UK</span></a></li>
+                                        <li><a href="/Default/Section/104">Asia-Pacific</a></li>
+                                        <li><a href="/Default/Section/105">Africa</a></li>
+                                    </ol>
+                                </div>
+                                <div class="col-xs-6">
+                                    <ol>
+                                        <li><a href="/Default/Section/106">Europe</a></li>
+                                        <li><a href="/Default/Section/107">Americas</a></li>
+                                        <li><a href="/Default/Section/12001">Society</a></li>
+                                        <li><a href="/Default/Section/12002">Arts</a></li>
+                                        <li><a href="/Default/Section/12004">Business</a></li>
+                                        <li><a href="/Default/Section/12005">Sports</a></li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-2 col-md-2">
+                        <div class="footer-menu">
+                            <h4 class="menu-title">
+                                <a href="/Default/Section/130">Video</a>
+                            </h4>
+                            <ol>
+                                <li><a href="/Default/Section/13012">News Bulletin</a></li>
+                                <li><a href="/Default/Section/13001">Reports</a></li>
+                                <li><a href="/Default/Section/13002">Interviews</a></li>
+                            </ol>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-2 col-md-2">
+                        <div class="footer-menu">
+                            <h4 class="menu-title">
+                                <a href="#">TV</a>
+                            </h4>
+                            <ol>
+                                <li><a href="/Default/Live">Watch Live</a></li>
+                                <li><a href="/Default/Schedule">Schedule</a></li>
+                                <li><a href="#">Shows</a></li>
+                                <li><a href="http://presstvdoc.com">Documentaries</a></li>
+                            </ol>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-2 col-md-2">
+                        <div class="footer-menu">
+                            <h4 class="menu-title">
+                                <a href="#">PressTV</a>
+                            </h4>
+                            <ol>
+                                <li><a href="/Detail/2014/12/31/390988/About-PressTV">About PressTV</a></li>
+                                <li><a href="/Default/Frequencies">Frequencies</a></li>
+                                <li><a href="/Detail/2018/02/20/553044/privacy-policy">Privacy Policy</a></li>
+                                <li><a href="/Detail/2014/12/31/390989/Contact-Press-TV">Contact Info</a></li>
+                                <li><a href="/Default/SMS">SMS</a></li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+                <div class="row hidden-xs">
+                    <div class="col-xs-12">
+                        <form class="form-inline newsletter" action="#" method="get" id="newsletter-form">
+                            <div class="form-group">
+                                <input id="inpEmail" type="email" placeholder="Subscribe to Newsletter" name="email" class="form-control" />
+                                <button type="submit" class="btn btn-default">Subscribe</button>
+                            </div>
+                            <div class="clearfix"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="copyright" class="wrapper _black">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2 logo-container text-right">
+                        <a href="#" class="footer-logo">PressTV</a>
+                    </div>
+                    <div class="col-sm-10 text-right">
+                        &copy; Copyright 2019 PressTV. All rights reserved.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="to-top">
+            <i class="icon-up-open-big"></i> Top
+        </div>
+    </footer>
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = { atrk_acct: "hRJRr1P8cT20VR", domain: "presstv.com", dynamic: true };
+        (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+    </script>
+    <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=hRJRr1P8cT20VR" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript -->
+    <script src="/Scripts/jquery-1.11.3.min.js"></script>
+    <script src="/Scripts/owl.carousel.min.js"></script>
+    <script src="/Scripts/site.js?20181025"></script>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-39704733-12', 'auto');
+        ga('send', 'pageview');
+
+
+        var upgradeTime = -69307550;
+        var seconds = upgradeTime;
+        function timer() {
+            var days = Math.floor(seconds / 24 / 60 / 60);
+            var hoursLeft = Math.floor((seconds) - (days * 86400));
+            var hours = Math.floor(hoursLeft / 3600);
+            var minutesLeft = Math.floor((hoursLeft) - (hours * 3600));
+            var minutes = Math.floor(minutesLeft / 60);
+            var remainingSeconds = seconds % 60;
+            if (remainingSeconds < 10) {
+                remainingSeconds = "0" + remainingSeconds;
+            }
+            if(location.pathname.toLowerCase().indexOf('section') < 0)
+                document.getElementById('countdown').innerHTML = 'VOTING STARTS IN ' + hours + ":" + minutes + ":" + remainingSeconds;
+            if (seconds <= 0) {
+                clearInterval(countdownTimer);
+                //document.getElementById('countdown').innerHTML = "Completed";
+            } else {
+                seconds--;
+            }
+        }
+
+    </script>
+	<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<amp-analytics type="alexametrics">
+<script type="application/json"> {"vars": { "atrk_acct": "I6qat1Y1Mn20Io", "domain": "presstv.com" }}</script>
+</amp-analytics>
+</body>
+</html>

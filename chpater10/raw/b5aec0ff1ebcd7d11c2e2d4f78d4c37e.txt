@@ -1,0 +1,669 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Major Siberian cities choking from strong wildfires</title>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+	<meta name="description" content="Krasnoyarsk and Novosibirsk suffering smoke pollution and infernos rage in forests after hot, dry weather."></meta>
+	<meta name="keywords" content="wildfires 2019, Siberian wildfires, Krasnoyarsk, Novosibirsk, smog"></meta>
+	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"></meta>
+	<link rel="stylesheet" type="text/css" href="/templates/template1/style.css?1523512814" />	<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="rss/" />
+	
+	<!-- jQuery -->
+	<script type="text/javascript" src="/hostcmsfiles/jquery/jquery-1.7.2.js"></script>
+	<!-- validate -->
+	<script type="text/javascript" src="/hostcmsfiles/jquery/jquery.validate.js"></script>
+	<!-- LightBox -->
+	<script type="text/javascript" src="/hostcmsfiles/jquery/lightbox/js/jquery.lightbox.js"></script>
+	<link rel="stylesheet" type="text/css" href="/hostcmsfiles/jquery/lightbox/css/jquery.lightbox.css" media="screen" />
+	
+	<script type="text/javascript" src="/templates/template1/hostcms.js"></script>
+	<script type="text/javascript" src="/hostcmsfiles/ajax/JsHttpRequest.js"></script>
+	<script type="text/javascript" src="/hostcmsfiles/ajax/ajax.js"></script>
+	<script type="text/javascript" src="/hostcmsfiles/main.js"></script>
+	<script type="text/javascript" src="/hostcmsfiles/add.js"></script>
+	<script type="text/javascript" src="/hostcmsfiles/on.js"></script>
+
+	<!--  BBcode -->
+	<script type="text/javascript" src="/hostcmsfiles/jquery/bbedit/jquery.bbedit.js"></script>
+
+</head>
+<style>
+
+#a_1:hover		{ color: #004950 !important; }
+#a_132:hover		{ color: #004950 !important; }
+#a_7:hover		{ color: #015581 !important; }
+#a_88:hover		{ color: #015581 !important; }
+#a_91:hover		{ color: #011f7f !important; }
+#a_94:hover		{ color: #5c238c !important; }
+#a_103:hover		{ color: #92013a !important; }
+#a_133:hover		{ color: #d76101 !important; }
+#a_97:hover		{ color: #09674f !important; }
+#a_100:hover		{ color: #5A352D !important; }
+#a_177:hover		{ color: #920e1b !important; }
+#a_125:hover		{ color: #004950 !important; }
+#a_202:hover		{ color: #004950 !important; }
+#a_205:hover		{ color: #004950 !important; }
+#a_127:hover		{ color: #004950 !important; }
+#a_199:hover		{ color: #004950 !important; }
+#a_129:hover		{ color: #004950 !important; }
+#a_224:hover		{ color: #004950 !important; }
+#a_22:hover		{ color: #004950 !important; }
+#a_198:hover		{ color: #004950 !important; }
+#a_109:hover		{ color: #004950 !important; }
+#a_276:hover		{ color: #004950 !important; }
+#a_10:hover		{ color: #004950 !important; }
+#a_208:hover		{ color: #004950 !important; }
+#a_223:hover		{ color: #004950 !important; }
+
+.tMenuBox			{ clear:both; margin:10px 0px 0px 0px;}
+.tMenuUL_0			{ clear:both; overflow:hidden; color:#222; font-family:Georgia; font-size: 11pt; background: #f2f2f2; margin: 0; padding: 0; list-style-type: none;}
+.tMenuUL_0 li			{ padding: 4px 4px 4px 5px; float: left; margin:0px;}
+.tMenuUL_0 li a			{ text-decoration:none; color: #222; margin:0px; padding:0px; }
+
+.tMenuCurLI 			{ background:#016502; }
+.tMenuCurLI a			{ color:#fff !important;  }
+
+.tMenuUL_1			{ min-height:24px; background:#016502; clear:both; overflow:hidden; color:#fff; font-family:Georgia; font-size: 11pt; margin: 0; padding: 0; list-style-type: none;}
+.tMenuUL_1 li			{ padding: 4px 6px 5px 6px; float: left; color: #fff;}
+.tMenuUL_1 li a			{ text-decoration:none; color: #fff;}
+.tMenuUL_1 li:hover		{ text-decoration:underline;}
+
+
+.cTitle, .cTitle a		{ color:#016502 !important;}
+.cOther, .cOther a		{ color:#77c300 !important;}
+
+.bgTitle, .bgTitle a		{ background-color:#016502 !important;}
+.bgOther, .bgOther a		{ background-color:#77c300 !important;}
+
+.brTitle			{ border:1px solid #016502 !important;}
+.brOther			{ border:1px solid #77c300 !important;}
+
+.brColorTitle			{ border-color:#016502 !important;}
+.brColorOther			{ border-color:#77c300 !important;}
+
+
+.brTopTitle			{ border-top:1px solid #016502 !important;}
+.brTopOther			{ border-top:1px solid #77c300 !important;}
+.brBottomTitle			{ border-bottom:1px solid #016502 !important;}
+.brBottomOther			{ border-bottom:1px solid #77c300 !important;}
+
+</style>
+<script>
+function blackoutHide(obj)
+{
+  if (!$('#blackout').lenght)
+  {
+    bl=$('#blackout');
+    obj.animate({opacity:0},300,"linear", function(){obj.hide();bl.animate({opacity:0},300,"linear", function(){bl.hide();$('object').css("visibility", "visible");});});
+  }
+}
+
+
+function blackout(obj)
+{
+  $('object').css("visibility", "hidden");
+  if (!$('#blackout').lenght)
+  {
+    $(document.body).append("<div id='blackout'></div>");
+  }
+  bl=$('#blackout')
+  bl.addClass("blackout")
+  bl.css({opacity:0.5,height:$(document).height()});
+//  bl.live("click", function(){obj.animate({opacity:0},300,"linear", function(){obj.hide();bl.animate({opacity:0},300,"linear", function(){bl.hide();$('object').css("visibility", "visible");});});});
+  bl.live("click", function(){blackoutHide(obj)});
+  bl.show()
+}
+
+
+$('.add_stories').live('click',function(){
+  artId=$(this).attr('id').substring(($(this).attr('id').indexOf('_')+1));
+//alert(artId)
+  aj('/news/?action=to_stories&sid='+artId+'&direct=1', 'get', 0, 0, callbackfunction_resToBox2);
+})
+
+$('.tBoxCitySelectOther').live('click',function(){
+  aj('/news/?action=selectCity&city_id=0', 'get', 0, 0, callbackfunction_resToBox2);
+
+})
+
+$('.cityFocusSelectOther').live('click',function(){
+
+  aj('/news/?action=selectCity&city_id=0&struct_id=94&link=city-focus/', 'get', 0, 0, callbackfunction_resToBox2);
+})
+
+
+$('.weatherSelectOther').live('click',function(){
+  aj('/news/?action=selectCity&city_id=0&struct_id=109&link=weather/', 'get', 0, 0, callbackfunction_resToBox2);
+})
+
+$('.citySelect a').live('click',function(){
+  artId=$(this).attr('id').substring(($(this).attr('id').indexOf('_')+1));
+  strId=$(this).attr('struct_id');
+  link=$(this).attr('link');
+
+  quer='';
+
+  $('#curCity').html($(this).html());
+  aj('/news/?action=add_ses_city&city_id='+artId, 'get', 0, 0, callbackfunction_resToBox2);
+  blackoutHide($('#newAd'))
+
+  if (link)
+  {
+
+//alert("http://siberiantimes.com/"+link)
+//    window.location.href="/city-focus/" 
+    location.href="http://siberiantimes.com/"+link 
+	
+  } else
+  {
+if (quer.match('curCity'))
+{
+    location.href="http://siberiantimes.com/weather/?curCity="+artId 
+//    location.href="http://siberiantimes.com/weather/" 
+} else
+{
+//    location.reload()	
+//alert(artId)
+    location.href="./?curCity="+artId 
+}
+
+  }
+
+})
+
+$('.like_up').live({
+	'click':function(e)
+	{
+          aj('?action=art_vote&guid='+$(this).attr('id').split('_')[1]+'&direct=1', 'get', 0, 0, callbackfunction_resToBox2); 
+	}
+
+})
+
+$('.like_down').live({
+	'click':function(e)
+	{
+          aj('?action=art_vote&guid='+$(this).attr('id').split('_')[1]+'&direct=-1', 'get', 0, 0, callbackfunction_resToBox2); 
+	}})
+
+</script>
+<body>
+<div class="page">
+	<div class="tBox">
+		<div class="tBoxDate">Tuesday, Jul 30 2019</div>
+		<div id="curCity" class="tBoxCitySelect cTitle brColorTitle">All Cities</div>
+		<div class="tBoxCitySelectOther">Choose Your City</div>
+<div class="novisible" id="addCitySelectRes"></div>
+		<div class="search">
+						<form action="/search/" method="get">
+
+				<div>
+	
+					<span>Search:</span><input type="text" class="text" value="" name="text" /> <input type="image" src="/images/cur/search.png" class="button" title="Search" />
+				</div>
+			</form>
+			
+		</div>
+		<ul class="socialBox">
+<li class="ig"><a target="_blank" href="http://instagram.com/siberian_times"></a></li>
+<li class="pi"><a target="_blank" href="https://www.pinterest.com/siberiantimes/"></a></li>
+<li class="yt"><a target="_blank" href="http://www.youtube.com/channel/UCvAtlvq-hywjMXm9uFpfsuA"></a></li>
+<li class="fb"><a target="_blank" href="http://facebook.com/TheSiberianTimes"></a></li>
+<li class="tw"><a target="_blank" href="http://twitter.com/siberian_times"></a></li>
+<li class="rss"><a href="/rss/"></a></li>
+		</ul>
+
+	</div>
+	<div class="logoBox">
+		<a href="/"  class="logo" title="Home"></a>
+		<div class="citat">
+		<div class="citatText">
+			'Larger than Belgium and a mile deep, lake Baikal holds a fifth of the earth's fresh water'
+		</div>
+<div class="clearing"></div>
+<div class="citatAuthor">W.Bruce Lincoln</div>		</div>
+<div class="logoBanner">
+<div style=" "><a href="/showbanner/?list_id=509555681&amp;banner_id=31" target="_blank"><img border="0" style=" " src="/upload/banners/banner_1438957198.jpg" /></a></div></div>
+	</div>
+	<div class="tMenuBox">
+
+		<!-- Верхнее меню -->
+		<ul class="tMenuUL_0"><li><a id="a_1" href="/home/" title="Home">Home</a></li><li><a id="a_7" href="/news/" title="News">News</a></li><li><a id="a_88" href="/features/" title="Features">Features</a></li><li><a id="a_91" href="/business/" title="Business">Business</a></li><li><a id="a_94" href="/city-focus/" title="City Focus">City Focus</a></li><li><a id="a_97" href="/sport/" title="Sport">Sport</a></li><li><a id="a_103" href="/culture/" title="Culture">Culture</a></li><li><a id="a_100" href="/science/" title="Science">Science</a></li><li><a id="a_133" href="/healthandlifestyle/" title="Health &amp; Lifestyle">Health & Lifestyle</a></li><li class="tMenuCurLI"><a id="a_106" href="/ecology/" title="Ecology">Ecology</a></li><li><a id="a_177" href="/weird-and-wonderful/" title="Weird &amp; Wonderful">Weird & Wonderful</a></li><li><a id="a_109" href="/weather/" title="Weather">Weather</a></li><li><a id="a_208" href="/users/" title="My ST">My ST</a></li></ul>
+		<!-- Подменю от верхнего меню -->
+		<ul class="tMenuUL_1"><li><a href="/ecology/casestudy/" title="Case study">Case study</a></li><li><a href="/ecology/opinion/" title="Opinion">Opinion</a></li><li><a href="/ecology/profile/" title="Profile">Profile</a></li></ul>	
+		<!-- Левое меню -->
+
+			</div>
+
+<style>
+</style>
+
+	
+
+<div class="leftList">
+	<div class="topItem">
+
+
+<script>
+	setTimeout(function(){
+
+//jQuery.validator.addMethod('phone', function(phone_number, element) { phone_number = phone_number.replace(/\s+/g, ''); return this.optional(element) || phone_number.match(/^(\d|[()+-,()+-]){3,}$/);}, '<div class="form_needs_err">Неправильный формат телефонного номера</div>');
+
+$().ready(function() {
+
+	$('#comment_form_0').validate(
+	{
+		rules:
+		{
+			comment_text: {required: true, maxlength: 1000},
+			comment_autor: {required: true, maxlength: 80},
+			comment_town: {required: true, maxlength: 80}
+		},
+		messages:
+		{
+			comment_text: {
+				required: '<div class="form_needs_err">Obligatory - enter your text</div>',
+				maxlength: '<div class="form_needs_err">You’ve got 1,000 characters left</div>'
+				},
+			comment_autor: {
+				required: '<div class="form_needs_err">Name field should be filled</div>',
+				maxlength: '<div class="form_needs_err">The name should be less than 80 characters</div>'
+				},
+			comment_town: {
+				required: '<div class="form_needs_err">Town field should be filled</div>',
+				maxlength: '<div class="form_needs_err">The town should be less than 80 characters</div>'
+				}
+		}
+	});
+
+});
+
+jQuery.ready();
+
+}, 100);
+
+
+</script>
+
+		<h1 class="cTitle"><a href="/ecology/others/news/major-siberian-cities-choking-from-strong-wildfires/" title="Major Siberian cities choking from strong wildfires">Major Siberian cities choking from strong wildfires</a></h1>
+<div class="topListAuthor cTitle"><span>By </span>The Siberian Times reporter</div>
+<div class="topListDate">22 July 2019</div>
+<div class="topListText"><p>Krasnoyarsk and Novosibirsk suffering smoke pollution and infernos rage in forests after hot, dry weather.</p></div>
+<div class="topListItems"><a href="/ecology/others/news/major-siberian-cities-choking-from-strong-wildfires/" title="Major Siberian cities choking from strong wildfires"><img src="/upload/information_system_40/7/6/5/item_7658/information_items_7658.jpg" /></a><div class="topListText"><div class="topListAlt">
+<p>Forest fires in Krasnoyarsk region caused the smell of burning and haze.&nbsp;Picture: Asya Vostrikova</p>
+</div>
+<p>Pictures show the scale of the smoke in major population centres from the raging wildfires with the cause seen mainly as out-of-control forest fires in Krasnoyarsk region, the second largest in Russia.</p>
+<p>In Krasnoyarsk city, residents have been told by health officials to go outside only if really necessary.&nbsp;</p>
+<p>Here watchdog Rospotrebnadzor confirmed the hygienic standard&nbsp; in the air of the PM 2.5 particles is exceeded by between 1.2&nbsp; and 2.3 times.</p>
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kras-1.jpg" width="720" height="811" alt="Smoke in Krasnoyarsk" title="Smoke in Krasnoyarsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kras-2.jpg" width="720" height="720" alt="Smoke in Krasnoyarsk" title="Smoke in Krasnoyarsk" /></p>
+<div class="topListAlt">
+<p>Locals in Krasnoyarsk came up with the idea to draw the desirable landscape on the smoky pics. Pictures: @anytka_and_sem, @primierro</p>
+</div>
+<p>Sensors installed by activists on Saturday showed a &lsquo;dangerous excess of the maximum permissible concentrations&rsquo;.</p>
+<p>Dust, soot and other small particles are shown as present in the air.&nbsp;</p>
+<p>On Saturday morning, the MPC values ranged from 42 to 74, with the safe value of 25 units.&nbsp;</p>
+<p>Later the sensors showed readings from 221 to 344.&nbsp;</p>
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kras-3.jpg" width="720" height="603" alt="Smoke in Krasnoyarsk" title="Smoke in Krasnoyarsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kras-4.jpg" width="720" height="623" alt="Smoke in Krasnoyarsk" title="Smoke in Krasnoyarsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kras-5.jpg" width="720" height="521" alt="Smoke in Krasnoyarsk" title="Smoke in Krasnoyarsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kras-6.jpg" width="720" height="539" alt="Smoke in Krasnoyarsk" title="Smoke in Krasnoyarsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kras-8.jpg" width="720" height="605" alt="Smoke in Krasnoyarsk" title="Smoke in Krasnoyarsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kras-7.jpg" width="720" height="720" alt="Smoke in Krasnoyarsk" title="Smoke in Krasnoyarsk" /></p>
+<div class="topListAlt">
+<p>Sensors installed by activists on Saturday showed a &lsquo;dangerous excess of the maximum permissible concentrations&rsquo;.</p>
+</div>
+<p>The limited visibility and smell of burning is observed in all districts of Krasnoyarsk, and in villages and towns in the vast region, for example, Lesosibirsk and Achinsk.</p>
+<p>The regional government in Krasnoyarsk blamed lightning for starting most fires.</p>
+<p>They reported: &lsquo;An emergency regime is introduced in the region, (and) people have limited access to forests.&rsquo;</p>
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_map.jpg" width="720" height="397" alt="Map of the wildfires" title="Map of the wildfires" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_fires_kras.jpg" width="720" height="405" alt="Fires in Evenkia" title="Fires in Evenkia" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_fires_irk.jpg" width="720" height="327" alt="Consequences of fires in Irkutsk region" title="Consequences of fires in Irkutsk region" /></p>
+<div class="topListAlt">
+<p>Some 492,750 hectares of forests are ablaze in Krasnoyarsk region and some&nbsp;217,418 hectares are burning in Irkutsk region.</p>
+</div>
+<p>The pollution from wildfires in Krasnoyarsk has spread with air flows over a huge geographical area to other regions.</p>
+<p>A strong smell of burning and thick haze covered Tomsk city on Saturday.</p>
+<p>Experts explain this was caused by high humidity in the city plus air masses blowing from regions where the wildfires are raging.</p>
+<p>A representative of the Russian Ministry of Emergencies in the Tomsk region explained: 'Forest fires in Krasnoyarsk region caused the smell of burning and haze over Tomsk.&nbsp;</p>
+<p>&lsquo;There are currently no forest fires in (our) region.&nbsp;</p>
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_tomsk-1.jpg" width="720" height="720" alt="Smoke in Tomsk" title="Smoke in Tomsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_tomsk-2.jpg" width="720" height="425" alt="Smoke in Tomsk" title="Smoke in Tomsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_tomsk-4.jpg" width="720" height="900" alt="Smoke in Tomsk" title="Smoke in Tomsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_tomsk-5.jpg" width="720" height="803" alt="Smoke in Tomsk" title="Smoke in Tomsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_tomsk-3.jpg" width="720" height="559" alt="Smoke in Tomsk" title="Smoke in Tomsk" /></p>
+<div class="topListAlt">
+<p>A strong smell of burning and thick haze covered Tomsk city on Saturday.</p>
+</div>
+<p>&lsquo;According to the observations of the Tomsk Centre for Hydrometeorology and Environmental Monitoring, the excess of maximum permissible concentrations of pollutants has not been observed in the atmospheric air.'&nbsp;</p>
+<p>Residents in Kemerovo complained in social networks about the smell of burning and the smoke that stands over the city.</p>
+<p>A local weather expert said: 'We are in the centre of a cyclone.</p>
+<p>&rsquo;It pumps in the air and directs it from the north to us.&nbsp;</p>
+<p>&lsquo;Tomorrow the north wind is also expected&hellip; but rains may clear the area, which will purify the atmosphere.&rsquo;</p>
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kem-1.jpg" width="720" height="656" alt="Smoke in Kemerovo" title="Smoke in Kemerovo" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kem-3.jpg" width="720" height="386" alt="Smoke in Kemerovo" title="Smoke in Kemerovo" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kem-2.jpg" width="720" height="720" alt="Smoke in Kemerovo" title="Smoke in Kemerovo" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_kem-4.jpg" width="720" height="641" alt="Smoke in Kemerovo" title="Smoke in Kemerovo" /></p>
+<div class="topListAlt">
+<p>Residents in Kemerovo complained in social networks about the smell of burning and the smoke that stands over the city.</p>
+</div>
+<p>Siberia&rsquo;s largest city Novosibirsk was also hit by a smell of burning and there was light haze.&nbsp;</p>
+<p>In the morning of July 21 smog appeared and the smell significantly increased.&nbsp;</p>
+<p>The CityAir service estimates air pollution at 8 points out of 10, the situation began to deteriorate at about 2 am.</p>
+<p>This was despite the Ministry of Emergency Situations in Novosibirsk region stating their were no fires on its territory</p>
+<p>&lsquo;Krasnoyarsk firesafe giving us the smoke,' said a spokesman. &rsquo;The wind is northeasterly.&rsquo;</p>
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_nsk-1.jpg" width="720" height="480" alt="Smoke in Novosibirsk" title="Smoke in Novosibirsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_nsk-2.jpg" width="720" height="480" alt="Smoke in Novosibirsk" title="Smoke in Novosibirsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_nsk-3.jpg" width="720" height="480" alt="Smoke in Novosibirsk" title="Smoke in Novosibirsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_nsk-4.jpg" width="720" height="440" alt="Smoke in Novosibirsk" title="Smoke in Novosibirsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_nsk-5.jpg" width="720" height="562" alt="Smoke in Novosibirsk" title="Smoke in Novosibirsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_nsk-6.jpg" width="720" height="719" alt="Smoke in Novosibirsk" title="Smoke in Novosibirsk" /></p>
+<hr />
+<p><img src="/PICTURES/ECOLOGY/Major-cities-in-smoke/inside_nsk-7.jpg" width="720" height="599" alt="Smoke in Novosibirsk" title="Smoke in Novosibirsk" /></p>
+<div class="topListAlt">
+<p>Siberia&rsquo;s largest city Novosibirsk was also hit by a smell of burning and there was light haze.&nbsp;</p>
+</div>
+<p>According to the Federal Service Avialesokhrana on 21 July, some 492,750 hectares of forests are ablaze in Krasnoyarsk region and only 28,366 are being extinguished.</p>
+<p>Smoke from wildfires is observed in several districts of the Irkutsk region, further to the east.</p>
+<p>Smoke covered Bratsky, Chunsky, Ust-Ilimsky, Nizhneilimsky and Ust-Kut districts.</p>
+<p>As of the morning of 21 July, 86 forest fires are registered in Irkutsk region.&nbsp;</p>
+<p>The total area of burning forests is 217,418 hectares.</p>
+<p>Fire extinguishing is carried out by forest protection troops.</p></div></div>
+<div class="tags"><h3>Tags: </h3><ul class="tagList"><li><a href="/search/?text=smog&amp;tag=1" title="smog">smog</a></li><li><a href="/search/?text=Novosibirsk&amp;tag=1" title="Novosibirsk">Novosibirsk</a></li><li><a href="/search/?text=Krasnoyarsk&amp;tag=1" title="Krasnoyarsk">Krasnoyarsk</a></li><li><a href="/search/?text=Siberian%20wildfires&amp;tag=1" title="Siberian%20wildfires">Siberian wildfires</a></li><li><a href="/search/?text=wildfires%202019&amp;tag=1" title="wildfires%202019">wildfires 2019</a></li></ul><div id="addthis" class="addthisdef addthis_toolbox addthis_default_style "></div></div>
+<div class="centerBannerInfo"><div style=" "><script type="text/javascript"><!--
+google_ad_client = "ca-pub-6171522675030505";
+/* Sibirka Text */
+google_ad_slot = "3310239385";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div></div>
+<div class="comments" id="comments"><h2>Comments (1)</h2><div class="commentsLine"></div><ul class="commentsTab"><li class="commentsAddCur bgTitle brTitle">All comments</li><li class="cTitle"><a href="?comm_order=best#comments" title="Best rated comments">Best rated comments</a></li></ul><div class="commentsAdd cOther"><a href="#addComment" title="Add comment">Add comment</a></div><div class="commentsBox brTopTitle"><div class="commentsItem"><div class="commentsItemText">http://chng.it/WTVPtQkY29 PLEASE SUPPORT THE PETITION!</div><div class="commentsItemFIO cTitle">Bella, Russia, Novosibirsk</div><div class="commentsItemDate">26/07/2019 12:21</div><div class="commentsBullit" data-conf="{&quot;id&quot;:&quot;64824&quot;}"><div class="count up" id="commentsBullitCountUp_64824">1</div><div class="press up"></div><div class="press down"></div><div class="count down" id="commentsBullitCountDown_64824">0</div></div><div class="commentsBullitRes" id="commentsBullitRes_64824"></div></div></div></div>
+<div class="commentsPages"><span class="commentsPageListItem commentsCurPageListItem bgTitle brTitle">1</span></div>
+<div id="addComment" class="addComment"><h2>Add your comment</h2><div class="commentsLine"></div><div class="commentsDesc">We welcome a healthy debate, but do not accept offensive or abusive comments. Please also read <a class="cTitle" href="/privacy" title="Siberian Times">'Siberian Times'</a> Privacy Policy</div><div class="clearing"></div><div class="addCommentBox"><script>
+							function noemptyshow(id,id2)
+							{
+							if ($('#'+id).val()=='') { $('#'+id2).show();} else { $('#'+id2).hide();}
+							}
+						</script><form action="" name="comment_form_0" method="post" id="comment_form_0"><p><span id="comm_name0">Name</span><input type="text" size="70" name="comment_autor" value="" /></p><p><span id="comm_email0">Town/Country</span><input id="town" type="text" size="70" name="comment_town" value="" /></p><p><span class="autoWidth" id="comm_text0">Add your comments</span><textarea id="comment_text" name="comment_text" cols="68" rows="5" onfocus="$('#label_comm_text0').hide()" onblur="noemptyshow('comment_text','label_comm_text0')"></textarea><label id="label_comm_text0">1,000 characters left</label></p><div class="addCommentInfo">The views expressed in the comments above are those of our readers. 'Siberian Times' reserves the right to pre-moderate some comments.</div><div class="addCommentCaptcha"><p><span class="autoWidth">Control code</span><font>*</font></p><p class="label_comm_text0"><div style="float: left;"><img id="comment" class="image" src="/captcha.php?get_captcha=28322&amp;height=30&amp;width=100" title="Control code" name="captcha" /></div><div style="float: left; margin-left: 10px;position:relative;"><img style="border: 0px none; padding-top: 7px;" src="/hostcmsfiles/images/refresh.gif" /><a style="position:relative; top:-3px; margin:0px 0px 0px 5px; padding:0px 0px 0px 0px;" href="javascript:void(0);" onclick="ReNewCaptchaById('comment', '28322', 30); return false;">Display another code</a></div></p><p><input type="hidden" name="captcha_key" value="28322" /><input type="text" name="captcha_keystring" size="15" /></p><p>Type the code</p><p><font>*</font> obligatory</p></div><br /><input class="addCommentButton addCommentSubmit" id="comm_submit" name="comm_submit" value="Submit" type="submit" /><input class="addCommentButton addCommentReset" id="comm_reset" name="comm_reset" value="Clear" type="reset" /></form><script>
+							noemptyshow('comment_text','label_comm_text0');
+						</script></div></div>	</div>
+</div>
+<div class="rightList">
+
+		<h2><a href="?nf=News" title="News">News</a></h2>
+<div class="newsBox"><div class="newsTitle cTitle"><a href="/ecology/others/news/fire-and-flood-apocalypse-with-wildfires-raging-and-dire-threat-to-baikal-worlds-deepest-lake/" title="Fire and flood apocalypse with wildfires raging and dire threat to Baikal, world’s deepest lake">Fire and flood apocalypse with wildfires raging and dire threat to Baikal, world’s deepest lake</a></div><div class="newsDesc "><a href="/ecology/others/news/fire-and-flood-apocalypse-with-wildfires-raging-and-dire-threat-to-baikal-worlds-deepest-lake/" title="Fire and flood apocalypse with wildfires raging and dire threat to Baikal, world’s deepest lake"><img style="width:110px; height:80px; float:left;" src="/upload/information_system_40/7/6/6/item_7666/small_information_items_7666.jpg" /><p>Almost 3 million hectares on fire, including Arctic, with fumes having hit area larger than European Union.</p></a></div><div class="newsComments"><a class="comments" href="/ecology/others/news/fire-and-flood-apocalypse-with-wildfires-raging-and-dire-threat-to-baikal-worlds-deepest-lake/#comments" title="Comments to Fire and flood apocalypse with wildfires raging and dire threat to Baikal, world’s deepest lake">
+					Comments (0)
+				</a><span></span><div id="addStories_7666" class="mystories add_stories cOther">
+					Add to My Stories
+				</div></div><div id="addStoriesRes_7666"></div><div class="newsTitle cTitle"><a href="/ecology/others/news/more-than-two-million-hectares-on-fire-in-siberia-with-turndra-on-fire-destryoing-the-permafrost/" title="More than two million hectares on fire in Siberia, with turndra on fire destroying the permafrost">More than two million hectares on fire in Siberia, with turndra on fire destroying the permafrost</a></div><div class="newsDesc "><a href="/ecology/others/news/more-than-two-million-hectares-on-fire-in-siberia-with-turndra-on-fire-destryoing-the-permafrost/" title="More than two million hectares on fire in Siberia, with turndra on fire destroying the permafrost"><img style="width:110px; height:80px; float:left;" src="/upload/information_system_40/7/6/6/item_7665/small_information_items_7665.jpg" /><p>Most fires will not be extinguished, with major cities polluted by fumes.</p></a></div><div class="newsComments"><a class="comments" href="/ecology/others/news/more-than-two-million-hectares-on-fire-in-siberia-with-turndra-on-fire-destryoing-the-permafrost/#comments" title="Comments to More than two million hectares on fire in Siberia, with turndra on fire destroying the permafrost">
+					Comments (5)
+				</a><span></span><div id="addStories_7665" class="mystories add_stories cOther">
+					Add to My Stories
+				</div></div><div id="addStoriesRes_7665"></div><div class="newsTitle cTitle"><a href="/ecology/others/news/major-siberian-cities-choking-from-strong-wildfires/" title="Major Siberian cities choking from strong wildfires">Major Siberian cities choking from strong wildfires</a></div><div class="newsDesc "><a href="/ecology/others/news/major-siberian-cities-choking-from-strong-wildfires/" title="Major Siberian cities choking from strong wildfires"><img style="width:110px; height:80px; float:left;" src="/upload/information_system_40/7/6/5/item_7658/small_information_items_7658.jpg" /><p>Krasnoyarsk and Novosibirsk suffering smoke pollution and infernos rage in forests after hot, dry weather.</p></a></div><div class="newsComments"><a class="comments" href="/ecology/others/news/major-siberian-cities-choking-from-strong-wildfires/#comments" title="Comments to Major Siberian cities choking from strong wildfires">
+					Comments (1)
+				</a><span></span><div id="addStories_7658" class="mystories add_stories cOther">
+					Add to My Stories
+				</div></div><div id="addStoriesRes_7658"></div><div id="qqq"></div></div>
+<div style=" "><script type="text/javascript"><!--
+google_ad_client = "ca-pub-6171522675030505";
+/* Sib_Side */
+google_ad_slot = "4926573382";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>		<div class="newsBox"><div class="newsTitle cTitle"><a href="/ecology/others/news/finally-operation-begins-to-release-whale-jail-inmates-announced-on-putins-tv-hotline/" title="Finally! Operation begins to release ‘whale jail’ inmates, announced on Putin’s TV hotline">Finally! Operation begins to release ‘whale jail’ inmates, announced on Putin’s TV hotline</a></div><div class="newsDesc "><a href="/ecology/others/news/finally-operation-begins-to-release-whale-jail-inmates-announced-on-putins-tv-hotline/" title="Finally! Operation begins to release ‘whale jail’ inmates, announced on Putin’s TV hotline"><img style="width:110px; height:80px; float:left;" src="/upload/information_system_40/7/6/2/item_7622/small_information_items_7622.jpg" /><p>Mammals were being readied for sale to aquariums in China, but now are to return to wild after public campaign.</p></a></div><div class="newsComments"><a class="comments" href="/ecology/others/news/finally-operation-begins-to-release-whale-jail-inmates-announced-on-putins-tv-hotline/#comments" title="Comments to Finally! Operation begins to release ‘whale jail’ inmates, announced on Putin’s TV hotline">
+					Comments (3)
+				</a><span></span><div id="addStories_7622" class="mystories add_stories cOther">
+					Add to My Stories
+				</div></div><div id="addStoriesRes_7622"></div><div class="newsTitle cTitle"><a href="/ecology/others/news/let-them-go-call-for-end-to-torture-of-killer-and-beluga-whales-in-sea-mammal-gulag-as-fsb-inspect-conditions/" title="Let them go! Call to end the torture of killer and beluga whales">Let them go! Call to end the torture of killer and beluga whales</a></div><div class="newsDesc "><a href="/ecology/others/news/let-them-go-call-for-end-to-torture-of-killer-and-beluga-whales-in-sea-mammal-gulag-as-fsb-inspect-conditions/" title="Let them go! Call to end the torture of killer and beluga whales"><img style="width:110px; height:80px; float:left;" src="/upload/information_system_40/7/5/3/item_7534/small_information_items_7534.jpg" /><p>Sea creatures in &lsquo;Whale Jail&rsquo; are &lsquo;trapped&rsquo; under ice amid growing concern over their fate.</p></a></div><div class="newsComments"><a class="comments" href="/ecology/others/news/let-them-go-call-for-end-to-torture-of-killer-and-beluga-whales-in-sea-mammal-gulag-as-fsb-inspect-conditions/#comments" title="Comments to Let them go! Call to end the torture of killer and beluga whales">
+					Comments (15)
+				</a><span></span><div id="addStories_7534" class="mystories add_stories cOther">
+					Add to My Stories
+				</div></div><div id="addStoriesRes_7534"></div><div class="newsTitle cTitle"><a href="/ecology/others/news/wounded-rare-tiger-seeks-human-help-at-remote-border-post-on-russian-chinese-frontier/" title="‘Wounded rare tiger seeks human help’ at remote border post on Russian-Chinese frontier">‘Wounded rare tiger seeks human help’ at remote border post on Russian-Chinese frontier</a></div><div class="newsDesc "><a href="/ecology/others/news/wounded-rare-tiger-seeks-human-help-at-remote-border-post-on-russian-chinese-frontier/" title="‘Wounded rare tiger seeks human help’ at remote border post on Russian-Chinese frontier"><img style="width:110px; height:80px; float:left;" src="/upload/information_system_40/7/5/2/item_7523/small_information_items_7523.jpg" /><p>Big cat Tikhon refused to be scared away by warning shots as veteran alpha male makes clear he wants to come in from the wild.</p></a></div><div class="newsComments"><a class="comments" href="/ecology/others/news/wounded-rare-tiger-seeks-human-help-at-remote-border-post-on-russian-chinese-frontier/#comments" title="Comments to ‘Wounded rare tiger seeks human help’ at remote border post on Russian-Chinese frontier">
+					Comments (9)
+				</a><span></span><div id="addStories_7523" class="mystories add_stories cOther">
+					Add to My Stories
+				</div></div><div id="addStoriesRes_7523"></div><div id="qqq"></div></div>
+<div id="qwert3"></div>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false,data_track_clickback:true,ui_language:'en'};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f3a12946369c3c9"></script>
+<div style="clear:both;"></div>
+<div style="clear:both;" class="clearing"></div>
+<div class="centerBanner">
+<div style=" "><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Биг Гугл для главной -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6171522675030505"
+     data-ad-slot="7932448582"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+<div class="centerBannerRight">
+<div style=" "><a href="/showbanner/?list_id=509555685&amp;banner_id=30" target="_blank"><img border="0" style=" " src="/upload/banners/banner_1436458177.jpg" /></a></div>
+
+</div>
+<div class="clearing"></div>
+	<div class="fourBox">
+		<div class="fourItems">
+		<h3><a href="/home/sent-to-siberia/" title="Sent to Siberia">Sent to Siberia</a></h3>
+<a href="/home/sent-to-siberia/s0025-rookie-fsb-agents-are-punished-for-indecent-graduation-jinx-in-moscow/" title="Rookie FSB agents are punished for 'indecent' graduation jinx in Moscow"><img src="/upload/information_system_25/4/4/8/item_4480/small_information_items_property_27599.jpg" /><div class="fourTitle">Rookie FSB agents are punished for 'indecent' graduation jinx in Moscow</div><div class="fourDesc">Gelandewagen parade videos leads to 'career change' as Russia demands highest standards from secret servicemen.</div></a>		</div>
+		<div class="fourItems">
+		<h3><a href="/home/born-in-siberia/" title="Born in Siberia">Born in Siberia</a></h3>
+<a href="/home/born-in-siberia/b0026-up-close-laboratory-pictures-of-ancient-mummy-as-scientists-recreate-his-life-and-times/" title="Up-close laboratory pictures of ancient mummy as scientists recreate his life and times"><img src="/upload/information_system_26/4/4/8/item_4483/small_information_items_property_27633.jpg" /><div class="fourTitle">Up-close laboratory pictures of ancient mummy as scientists recreate his life and times</div><div class="fourDesc">Probes taken by South Korean experts will reveal lifestyle of this Arctic boy from 800 years ago.</div></a>		</div>
+		<div class="fourItems">
+		<h3><a href="/home/voice-of-siberia/" title="Voice of Siberia">Voice of Siberia</a></h3>
+<a href="/home/voice-of-siberia/s0023-siberians-mark-end-of-the-snow-season-with-swimsuit-skiing-day/" title="Siberians mark end of the snow season with swimsuit skiing day"><img src="/upload/information_system_46/4/3/4/item_4349/small_information_items_property_26576.jpg" /><div class="fourTitle">Siberians mark end of the snow season with swimsuit skiing day</div><div class="fourDesc">Locals undress to impress at resorts across four time zones.</div></a>		</div>
+		<div class="fourItems">
+		<h3><a href="/home/we-say/" title="We say">We say</a></h3>
+<a href="/home/we-say/lake-baikal-holds-key-to-new-advances-in-antibiotics/" title="Lake Baikal 'holds key to new advances in antibiotics'"><img src="/upload/information_system_28/4/3/5/item_4350/small_information_items_property_26578.jpg" /><div class="fourTitle">Lake Baikal 'holds key to new advances in antibiotics'</div><div class="fourDesc">Scientists make crucial new discoveries of bacteria, up to 30 million years old.</div></a>		</div>
+
+	</div>
+	<div class="subFiveBox">
+		<div class="cityfocusBox">
+		<h3><a href="/city-focus/about-city/Novosibirsk-the-Chicago-of-Siberia-that-once-housed-some-of-planets-most-valuable-treasures/" title="City Focus - Novosibirsk">City Focus - Novosibirsk</a></h3>
+<div class="cityfocusDesc"><a href="/city-focus/about-city/Novosibirsk-the-Chicago-of-Siberia-that-once-housed-some-of-planets-most-valuable-treasures/" title="Have a closer look at the city">Have a closer look at the city</a></div>
+<div class="clearing"></div>
+<div class="cityfocusItems3 cityfocusItems3First"><a href="/city-focus/what-to-see/akademgorodok-or-novosibirsk-scientific-city/" title="Akademgorodok, or Novosibirsk Scientific City"><img src="/upload/information_system_36/3/0/9/item_309/small_information_items_309.jpg" /><div class="cityfocusTitle3 imgOpacityBox"><span>What to see</span></div></a></div><div class="cityfocusItems3"><a href="/city-focus/where-to-eat/beermanpelmeni/" title="Beerman&amp;Pelmeni"><img src="/upload/information_system_36/2/9/6/item_296/small_information_items_296.jpg" /><div class="cityfocusTitle3 imgOpacityBox"><span>Where to eat</span></div></a></div><div class="cityfocusItems3"><a href="/city-focus/where-to-stay/river-park-hotel/" title="River Park Hotel"><img src="/upload/information_system_36/2/9/8/item_298/small_information_items_298.jpg" /><div class="cityfocusTitle3 imgOpacityBox"><span>Where to stay</span></div></a></div>			<div class="cityfocusCity">
+<a href="/city-focus/about-city/Novosibirsk-the-Chicago-of-Siberia-that-once-housed-some-of-planets-most-valuable-treasures/?curCity=86">Novosibirsk</a>
+<a href="/city-focus/about-city/Novosibirsk-the-Chicago-of-Siberia-that-once-housed-some-of-planets-most-valuable-treasures/?curCity=90">Omsk</a>
+<a href="/city-focus/about-city/Novosibirsk-the-Chicago-of-Siberia-that-once-housed-some-of-planets-most-valuable-treasures/?curCity=78">Krasnoyarsk</a>
+<a href="/city-focus/about-city/Novosibirsk-the-Chicago-of-Siberia-that-once-housed-some-of-planets-most-valuable-treasures/?curCity=73">Barnaul</a>
+<a href="/city-focus/about-city/Novosibirsk-the-Chicago-of-Siberia-that-once-housed-some-of-planets-most-valuable-treasures/?curCity=76">Irkutsk</a>
+<a href="/city-focus/about-city/Novosibirsk-the-Chicago-of-Siberia-that-once-housed-some-of-planets-most-valuable-treasures/?curCity=96">Tyumen</a>
+<a href="/city-focus/about-city/Novosibirsk-the-Chicago-of-Siberia-that-once-housed-some-of-planets-most-valuable-treasures/?curCity=97">Khabarovsk</a>
+<a href="/city-focus/about-city/Novosibirsk-the-Chicago-of-Siberia-that-once-housed-some-of-planets-most-valuable-treasures/?curCity=85">Novokuznetsk</a>
+<a class="cityFocusSelectOther" href="javascript:void(0);">Choose&nbspYour&nbspCity...</a>
+			</div>
+		</div>
+<div class="cultBox">
+
+<a id="cultSport" title="Sport" href="/sport/"><div></div></a>
+<a id="cultScience" title="Science" href="/science/"><div></div></a>
+<a id="cultEcology" title="Ecology" href="/ecology/"><div></div></a>
+
+<a id="cultCulture" title="Culture" href="/culture/"><div></div></a>
+
+
+</div>
+
+<script>
+$('.cultBox a div').css({opacity:'0.5'})
+
+$('.cultBox a div').live('mouseover',function(){$(this).animate({opacity:'0'},300)})
+$('.cultBox a div').live('mouseout',function(){$(this).animate({opacity:'0.5'},300)})
+</script>
+
+
+		<div class="businessBox">
+		<h3><a href="/business/" title="Business">Business</a></h3>
+<div class="businessDesc"><a href="/business/" title="Latest business news and features from across Siberia&lt;br /&gt;&lt;br /&gt;">Latest business news and features from across Siberia<br /><br /></a></div>
+<div class="clearing"></div>
+<div class="businessItems"><a href="/business/others/news/thailand-to-start-talks-soon-on-trade-deal-with-russian-led-eurasian-economic-union/" title="Thailand to start talks soon on trade deal with Russian-led Eurasian Economic Union"><img src="/upload/information_system_17/7/4/4/item_7441/small_information_items_7441.jpg" /><div class="businessTitle imgOpacityBox"><span>Thailand to start talks soon on trade deal with Russian-led Eurasian Economic Union</span></div></a><a href="/business/casestudy/features/the-iron-lady-of-siberia-invites-you-to-visit-yakutsk-the-worlds-coldest-city/" title="The ‘Iron Lady’ of Siberia invites you to visit Yakutsk, the world’s coldest city"><img src="/upload/information_system_17/7/5/1/item_7513/small_information_items_7513.jpg" /><div class="businessTitle imgOpacityBox"><span>Iron Lady of Siberia</span></div></a></div><style>
+.currency_text			{ clear:both; margin:0px 0px 8px 0px; padding:0px;font-size:11px; color:#222; font-family:Arial; }
+.currency			{ clear:both; margin:0px 0px 8px 0px; padding:2px 0px 0px 0px;font-size:11px; color:#222; font-family:Arial; font-weight:bold; }
+.currency span			{ width:65px; float:left; margin:0px 30px 0px 0px; padding:0px;}
+.currency span font		{ color:#36b0a7; float:right; margin:0px 0px 0px 0px; padding:0px; font-weight:normal;}
+.currency a			{ color:#36b0a7; float:left; text-decoration:none; margin:0px 0px 0px 0px; padding:0px; font-weight:normal;}
+.currency a:hover		{ text-decoration:underline;}
+</style>
+
+			<div class="currency_text">
+The Bank of Russia official exchange rates of foreign currencies
+			</div>
+<div class="currency"><span>EUR<font>70.64</font></span><span>USD<font>63.52</font></span><span>GBP<font>78.36</font></span><a target="_blank" href="http://www.cbr.ru/eng/currency_base/daily.aspx?C_month=07&C_year=2019&date_req=30.07.2019">Other...</a></div>
+		</div>
+	</div>
+	<div class="threeBox">
+		<div class="subThreeBox">
+		<h3><a href="/home/how-get-to-here/" title="How to get here">How to get here</a></h3>
+<div class="subThreeItems"><a href="/home/how-get-to-here/trains/" title="Trains"><img src="/upload/information_system_48/1/6/8/item_168/small_information_items_168.jpg" /><div class="subThreeTitle imgOpacityBox"><span>Trains</span></div></a><a href="/home/how-get-to-here/buckle-up-to-siberia/" title="Flights"><img src="/upload/information_system_48/1/6/9/item_169/small_information_items_169.jpg" /><div class="subThreeTitle imgOpacityBox"><span>Flights</span></div></a></div>		</div>
+		<div class="subThreeBox">
+		<h3><a href="/home/best-properties/" title="Best property">Best property</a></h3>
+<div class="subThreeItems"><a href="/home/best-properties/hotel-revolution/" title="Hotel Revolution"><img src="/upload/information_system_49/2/8/5/item_285/small_information_items_285.jpg" /><div class="subThreeTitle imgOpacityBox"><span>Hotel Revolution</span></div></a><a href="/home/best-properties/welcome-to-a-new-siberia-a-far-cry-from-the-out-dated-western-image-of-it-as-the-land-of-hardships/" title="Millionaire's Row"><img src="/upload/information_system_49/1/7/0/item_170/small_information_items_170.jpg" /><div class="subThreeTitle imgOpacityBox"><span>Millionaire's Row</span></div></a></div>		</div>
+		<div class="subThreeBox">
+		<h3><a href="/home/great-holidays/" title="Great holidays">Great holidays</a></h3>
+<div class="subThreeItems"><a href="/home/great-holidays/kolyma-no-barbed-wire-in-sight/" title="The Road of Bones"><img src="/upload/information_system_50/1/7/3/item_173/small_information_items_173.jpg" /><div class="subThreeTitle imgOpacityBox"><span>The Road of Bones</span></div></a><a href="/home/great-holidays/the-kingdom-of-cold-14-reasons-to-choose-majestic-yakutia-for-your-next-holiday/" title="Kingdom of Cold"><img src="/upload/information_system_50/1/7/2/item_172/small_information_items_172.jpg" /><div class="subThreeTitle imgOpacityBox"><span>Kingdom of Cold</span></div></a></div>		</div>
+
+	</div>
+<script>
+//$(
+//  function()
+//  {
+$('#addStories_').html('Remove from my stories')
+
+    $('#addthis').html('<a class="addthis_button_reddit"></a><a class="addthis_button_digg"></a><a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4f3a12946369c3c9" class="addthis_button_compact">Bookmark and share</a><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_stumbleupon_badge"></a>')
+//    $('#addthis').html('<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a><a class="addthis_button_facebook_send"></a>')
+
+//  }
+//);
+</script>
+
+</section>
+	<div class="footer">
+		<ul class="footerMenu"><li><a href="/copyright/" title="©">©</a></li><li><a href="/about/" title="About Siberian Times">About Siberian Times</a></li><li><a href="/contacts/" title="Contacts">Contacts</a></li><li><a href="/advertise/" title="Advertise with us">Advertise with us</a></li><li><a href="/contributors/" title="Contributors">Contributors</a></li><li><a href="/send-us-a-story/" title="Send us a story (rus/eng)">Send us a story (rus/eng)</a></li><li><a href="/partners/" title="Partners">Partners</a></li><li><a href="/rss/" title="RSS">RSS</a></li></ul>
+
+		<div class="counter">
+
+			<!-- HostCMS Counter -->
+<script language="javascript">
+js_v="1.0";path="rand="+Math.random()+"&id=1&refer="+escape(document.referrer)+"&amp;current_page="+escape(window.location.href);
+document.cookie="hostmake=1; path=/"; path+="&cookie="+(document.cookie?"Y":"N");
+</script>
+<script language="javascript1.1">
+js_v="1.1";path+="&java="+(navigator.javaEnabled()?"Y":"N")
+</script>
+<script language="javascript1.2">js_v="1.2";
+path+="&screen="+screen.width+'x'+screen.height+"&px="+(((navigator.appName.substring(0,9)=="Microsoft"))?screen.colorDepth:screen.pixelDepth)
+</script>
+<script language="javascript1.3">js_v="1.3";
+</script>
+<script language="javascript">path+="&js_version="+js_v;
+document.write("<a href=\"http://www.hostcms.ru/\"><img src=\"http://siberiantimes.com/counter/counter.php?"+path+"&counter=0\" border=\"0\" alt=\"HostCMS Counter\" width=\"1\" height=\"1\" /></a>")
+</script><noscript><a href="http://www.hostcms.ru/"><img src="http://siberiantimes.com/counter/counter.php?id=1&counter=0" border="0" alt="HostCMS Counter" width="1" height="1" /></a></noscript>
+<!-- HostCMS Counter -->
+			
+		</div>
+
+	</div>
+</div>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter48433175 = new Ya.Metrika({
+                    id:48433175,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/48433175" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+
+</html>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33230856-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script>
+$('.titleBigVideoItems .yt_preview').bind("click", function(){
+var m=$('.titleBigVideoItems .yt_preview a img').attr('src').split('/');
+$('.titleBigVideoItems .yt_show').html('<iframe width="460" height="345" src="http://www.youtube.com/embed/'+m[4]+'" frameborder="0" allowfullscreen="allowfullscreen"></iframe>');
+$('.titleBigVideoItems .yt_preview').hide();
+$('.titleBigVideoItems .yt_show').show();
+return false;
+})
+$('.titleSmallVideoItems').bind("click", function(){
+
+var m=$('.titleBigVideoItems .yt_show iframe').attr('src').split('/');
+var yt_small_id=$(this).attr('id')
+var yt_big_id=m[4]
+var yt_big_text=$('.titleBigVideoItems .yt_show iframe').attr('title');
+var yt_small_text=$('#'+yt_small_id+' a div span').html()
+$('.titleBigVideoItems .yt_show').html('<iframe title="'+yt_small_text+'" width="460" height="345" src="http://www.youtube.com/embed/'+yt_small_id+'" frameborder="0" allowfullscreen="allowfullscreen"></iframe>')
+$('#'+yt_small_id).attr({id:yt_big_id});
+
+$('#'+yt_big_id).html('<a target="_blank" href="http://youtu.be/'+yt_big_id+'" title="'+yt_big_text+'"><img src="http://i.ytimg.com/vi/'+yt_big_id+'/mqdefault.jpg"/><div class="titleSmallVideoTitle imgOpacityBox"><span>'+yt_big_text+'</span></div></a>')
+
+return false;
+})
+</script>

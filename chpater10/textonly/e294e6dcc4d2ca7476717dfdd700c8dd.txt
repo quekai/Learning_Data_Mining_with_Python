@@ -1,0 +1,31 @@
+
+	SEATTLE -- A hacker gained access to personal information from more than 100 million Capital One credit applications, the bank said Monday as federal authorities arrested a suspect in the case.
+
+	Paige A. Thompson -- who also goes by the handle "erratic" -- was charged with a single count of computer fraud and abuse in U.S. District Court in Seattle. Thompson made an initial appearance in court and was ordered to remain in custody pending a detention hearing Thursday.
+
+	The hacker got information including credit scores and balances plus the Social Security numbers of about 140,000 customers, the bank said. It will offer free credit monitoring services to those affected.
+
+	The FBI raided Thompson's residence Monday and seized digital devices. An initial search turned up files that referenced Capital One and "other entities that may have been targets of attempted or actual network intrusions."
+
+	A public defender appointed to represent Thompson did not immediately return an email seeking comment.
+
+	Capitol One, based in McLean, Virginia, said Monday it found out about the vulnerability in its system July 19 and immediately sought help from law enforcement to catch the perpetrator.
+
+	According to the FBI complaint, someone emailed the bank two days before that notifying it that leaked data had appeared on the code-hosting site GitHub, which is owned by Microsoft.
+
+	And a month before that, the FBI said, a Twitter user who went by "erratic" sent Capitol One direct messages warning about distributing the bank's data, including names, birthdates and Social Security numbers.
+
+	"Ive basically strapped myself with a bomb vest, (expletive) dropping capitol ones dox and admitting it," one said. "I wanna distribute those buckets i think first."
+
+	Capital One said it believes it is unlikely that the information was used for fraud, but it will continue to investigate.
+
+	The bank said the bulk of the hacked data consisted of information supplied by consumers and small businesses who applied for credit cards between 2005 and early 2019. In addition to data such as names, addresses, phone numbers, email addresses, dates of birth and self-reported income, the hacker was also able to access credit scores, credit limits and balances, as well as fragments of transaction information from a total of 23 days in 2016, 2017 and 2018.
+
+	"While I am grateful that the perpetrator has been caught, I am deeply sorry for what has happened," said Capital One CEO Richard D. Fairbank. "I sincerely apologize for the understandable worry this incident must be causing those affected and I am committed to making it right."
+
+	Capital One Financial Corp., the nation's seventh-largest commercial bank with $373.6 billion in assets as of June 30, is the latest U.S. company to suffer a major data breach in recent years.
+
+	In 2017, a data breach at Equifax, one of the major credit reporting companies, exposed the Social Security numbers and other sensitive information of roughly half of the U.S. population.
+
+	Last week, Equifax agreed to pay at least $700 million to settle lawsuits over the breach in a settlement with federal authorities and states. The agreement includes up to $425 million in monetary relief to consumers.
+In this Tuesday, July 16, 2019, photo a Capital One credit card is shown in a man's wallet in San Francisco. (AP Photo/Jeff Chiu)

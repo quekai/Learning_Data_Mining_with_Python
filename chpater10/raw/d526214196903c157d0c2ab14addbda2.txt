@@ -1,0 +1,288 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link data-react-helmet="true" rel="manifest" href="/manifest.json"/><link data-react-helmet="true" rel="icon" sizes="16x16" href="/branding/favicon/16.png"/><link data-react-helmet="true" rel="icon" sizes="24x24" href="/branding/favicon/24.png"/><link data-react-helmet="true" rel="icon" sizes="32x32" href="/branding/favicon/32.png"/><link data-react-helmet="true" rel="icon" sizes="64x64" href="/branding/favicon/64.png"/><link data-react-helmet="true" rel="icon" sizes="128x128" href="/branding/favicon/128.png"/><link data-react-helmet="true" rel="icon" sizes="256x256" href="/branding/favicon/256.png"/><link data-react-helmet="true" rel="apple-touch-icon" href="/branding/apple-touch/ap-news-apple-touch-152.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="152x152" href="/branding/apple-touch/ap-news-apple-touch-152.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="180x180" href="/branding/apple-touch/ap-news-apple-touch-180.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="167x167" href="/branding/apple-touch/ap-news-apple-touch-167.png"/><link data-react-helmet="true" rel="mask-icon" href="/branding/touch-bar-icon/ap-news-touch-bar.svg" color="#dedede"/><meta data-react-helmet="true" name="apple-mobile-web-app-capable" content="yes"/><meta data-react-helmet="true" name="apple-mobile-web-app-status-bar-style" content="black"/><meta data-react-helmet="true" name="theme-color" content="#dedede"/><meta data-react-helmet="true" name="msapplication-config" content="browserconfig.xml"/><meta data-react-helmet="true" name="description" content="BANGKOK (AP) — Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and... "/><meta data-react-helmet="true" name="keywords" content="breaking news,U.S. news,news,news online,world news,weather,business,sports,politics,law,
+technology,entertainment,education,travel,health"/><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"/><meta data-react-helmet="true" name="twitter:site" content="@ap"/><meta data-react-helmet="true" property="twitter:title" content="Top diplomats gather in Bangkok for key Asia-Pacific talks"/><meta data-react-helmet="true" property="twitter:description" content="BANGKOK (AP) — Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and... "/><meta data-react-helmet="true" property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/ac88cde9757947199194e3d18ff9ccb4/3000.jpeg"/><meta data-react-helmet="true" property="twitter:url" content="https://apnews.com/a93f3846eb274fc8b96b343d70a19255"/><meta data-react-helmet="true" property="og:title" content="Top diplomats gather in Bangkok for key Asia-Pacific talks"/><meta data-react-helmet="true" property="og:description" content="BANGKOK (AP) — Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and... "/><meta data-react-helmet="true" property="og:type" content="article"/><meta data-react-helmet="true" property="og:url" content="https://apnews.com/a93f3846eb274fc8b96b343d70a19255"/><meta data-react-helmet="true" property="og:image" content="https://storage.googleapis.com/afs-prod/media/ac88cde9757947199194e3d18ff9ccb4/3000.jpeg"/><meta data-react-helmet="true" property="og:image:width" content="4896"/><meta data-react-helmet="true" property="og:image:height" content="3000"/><meta data-react-helmet="true" property="og:site_name" content="AP NEWS"/><meta data-react-helmet="true" property="fb:app_id" content="870613919693099"/><meta data-react-helmet="true" property="fb:pages" content="249655421622"/><meta data-react-helmet="true" property="article:published_time" content="2019-07-30T07:08:01Z"/><meta data-react-helmet="true" property="article:modified_time" content="2019-07-30T07:08:01Z"/><meta data-react-helmet="true" property="article:section" content="Wang Yi"/><meta data-react-helmet="true" property="article:tag" content="Wang Yi"/><meta data-react-helmet="true" property="article:tag" content="Global trade"/><meta data-react-helmet="true" property="article:tag" content="AP Top News"/><meta data-react-helmet="true" property="article:tag" content="South China Sea"/><meta data-react-helmet="true" property="article:tag" content="International News"/><meta data-react-helmet="true" property="article:tag" content="General News"/><meta data-react-helmet="true" property="article:tag" content="Asia"/><meta data-react-helmet="true" property="article:tag" content="Bangkok"/><meta data-react-helmet="true" property="article:tag" content="Asia Pacific"/><meta data-react-helmet="true" property="article:tag" content="China"/><meta data-react-helmet="true" property="article:tag" content="Sergey Lavrov"/><meta data-react-helmet="true" property="article:tag" content="Thailand"/><meta data-react-helmet="true" property="article:tag" content="Mike Pompeo"/><meta data-react-helmet="true" property="article:tag" content="East Asia"/><meta data-react-helmet="true" property="article:tag" content="Southeast Asia"/><script data-react-helmet="true" type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","author":["Grant Peck"],"dateModified":"2019-07-30T07:08:01Z","datePublished":"2019-07-30T07:08:01Z","description":"BANGKOK (AP) — Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and... ","headline":"Top diplomats gather in Bangkok for key Asia-Pacific talks","image":["https://storage.googleapis.com/afs-prod/media/ac88cde9757947199194e3d18ff9ccb4/3000.jpeg","https://storage.googleapis.com/afs-prod/media/ac88cde9757947199194e3d18ff9ccb4/2000.jpeg"],"mainEntityOfPage":{"@id":"https://apnews.com/a93f3846eb274fc8b96b343d70a19255","@type":"WebPage"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","height":60,"url":"http://apcontextual.appspot.com/Support/AMPLogo.png","width":600},"name":"Associated Press"}}</script><title data-react-helmet="true">Top diplomats gather in Bangkok for key Asia-Pacific talks</title><meta name="google-site-verification" content="XvG-YKlyyPmG2x0J9-rdS-zI8LhL4d75ZQoccETD2qA"><link rel="stylesheet" type="text/css" href="/dist/index.css?hash=16c2da316e1"><style id="server-side-styles" type="text/css">.c016 {
+  width: 3.75rem;
+  height: 0.5rem;
+  background: #ff322e;
+  transform-origin: left top;
+}
+.c014 {
+  height: 0;
+  display: flex;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+  box-sizing: content-box;
+  justify-content: center;
+}
+.c015 {
+  position: absolute;
+}
+.c018 {
+  width: 100%;
+  display: block;
+}
+.c019 {
+  opacity: 0;
+}
+.c0110 {
+  animation: LazyImage 0.3s;
+}
+.c017 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.c0111 {
+  margin: 0.75rem 0;
+}
+.c0128 {
+  margin: 1.125rem 0 -1.5rem 0;
+  display: inline-flex;
+  padding: 0;
+  flex-flow: wrap;
+  list-style: none;
+}
+.c0129 {
+  margin-bottom: 1.5rem;
+}
+.c0129:not(:last-child) {
+  margin-right: 1.5rem;
+}
+.c0130 {
+  width: 1.5625rem;
+  height: 1.5625rem;
+  display: block;
+}
+.c0124 {
+  margin: 1.5rem 0 -0.5rem 0;
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0124 {
+    display: flex;
+    flex-flow: wrap;
+  }
+}
+.c0125 {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+.c0125:not(:last-child) {
+  margin-right: 0.5rem;
+}
+.c0126 {
+  width: 8.125rem;
+  height: 2.75rem;
+}
+.c0127 {
+  width: 9.375rem;
+  height: 2.75rem;
+}
+@media only screen and (min-width: 64rem) {
+  .c0131 {
+    display: flex;
+    padding: 0 0 6.25rem;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0131 {
+    padding: 0 0 2.375rem;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0131 {
+    padding: 0 0 2.375rem;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .c0132 {
+    display: flex;
+  }
+}
+.c0133 {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+.c0134 {
+  padding-right: 0.75rem;
+}
+.c0135 {
+  font-size: 0.75rem;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0135 {
+    padding: 1px 0.75rem 0 0;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .c0135 {
+    padding: 1px 0.75rem 0 0;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .c0136 {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0137 {
+    display: block;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0137 {
+    display: block;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0138 {
+    margin-bottom: 0.5rem;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0138 {
+    margin-bottom: 0.5rem;
+  }
+}
+.c0123 {
+  width: 100%;
+  height: 1px;
+  background: rgba(236, 236, 236, 0.19999999999999996);
+}
+@media only screen and (min-width: 64rem) {
+  .c0123 {
+    margin: 2.25rem 0 1.75rem 0;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0123 {
+    margin: 1.5rem 0 1.25rem 0;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0123 {
+    margin: 1.125rem 0 0.75rem 0;
+  }
+}
+.c0112 {
+  color: #fff;
+  padding: 2.1875rem 0 0 0;
+  font-size: 0.75rem;
+  background: #2c2c2c;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 300;
+}
+.c0112 a, .c0112 a:link, .c0112 a:visited, .c0112 a:hover, .c0112 a:active {
+  text-decoration: none;
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0113 {
+    display: grid;
+    grid-template-rows: auto 1.875rem auto auto auto;
+    grid-template-areas: "nav nav nav . . . apps apps apps . ." ". . . . . . . . . . ." "moreFromAp moreFromAp moreFromAp . . . followAp followAp followAp . ." "divider divider divider divider divider divider divider divider divider divider divider" "legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff";
+    grid-template-columns: repeat(5, 4.8125rem 1fr) 4.8125rem;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .c0113 {
+    display: grid;
+    grid-template-areas: "nav nav nav . . . apps apps apps . . . moreFromAp moreFromAp moreFromAp . . . followAp followAp followAp . ." "divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider" "legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff";
+    grid-template-columns: repeat(11, 4.8125rem 1fr) 4.8125rem;
+  }
+}
+.c0114 {
+  grid-area: nav;
+}
+.c0115 {
+  grid-area: apps;
+}
+.c0116 {
+  grid-area: moreFromAp;
+}
+.c0117 {
+  grid-area: followAp;
+}
+.c0118 {
+  grid-area: divider;
+}
+.c0119 {
+  grid-area: legalStuff;
+}
+.c0120 {
+  font-size: 1rem;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0120 {
+    font-size: 0.875rem;
+  }
+}
+.c0121 {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 2;
+}
+.c0122 {
+  padding-top: 0.3125rem;
+}
+.c011 {
+  top: 1rem;
+  right: var(--fluid-wrapper-padding);
+  width: auto;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  outline: none;
+  padding: 0 1rem;
+  position: absolute;
+  font-size: 1rem;
+  background: #104ba5;
+  text-align: left;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 300;
+  line-height: 2rem;
+}
+.c011, .c011:link, .c011:visited, .c011:hover, .c011:active {
+  color: white;
+  text-decoration: none;
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c011 {
+    top: 0;
+  }
+}
+.c012 {
+  display: none;
+  --colour: white;
+  margin-left: 6px;
+}
+.c012 .sk-fading-circle {
+  width: 1rem;
+  height: 1rem;
+}
+.c012.searching {
+  display: inline-block;
+}
+.c013 {
+  width: 0.78125rem;
+  height: 0.78125rem;
+  display: inline;
+  margin-left: 0.625rem;
+}
+.c013.searching {
+  display: none;
+}</style></head><body><div id="root"><div class="App"><noscript style="display:none;visibility:hidden"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNXLD4" width="0" height="0"></iframe></noscript><noscript style="display:none;visibility:hidden"><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3005041&amp;cv=2.0&amp;cj=1" alt="Comscore beacon"/></noscript><main class="Main"><div class="Header" style="height:97px;top:0"><div class="fluid-wrapper"><a class="header-logo" href="/"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-logo"></use></svg></a><div class="optional-header-title hub" style="opacity:0"></div><div class="header-title" style="height:48px;padding-top:17px"><div class="title">AP NEWS</div></div><nav class="header-navigation-wrapper"><ol class="header-navigation"><li class="header-navigation-item"><a class="nav-action" href="/">Top Stories</a></li><li class="header-navigation-item topics"><label class="nav-action">Topics<svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-down-arrow"></use></svg></label><nav class="TopicsDropdown" style="right:auto"><div class="dropdown-wrapper" style="--height:0"><ol class="dropdown"></ol></div></nav></li><li class="header-navigation-item"><a class="nav-action" href="/apf-videos">Video</a></li><li class="header-navigation-item radio"><span class="nav-action">Listen</span><div class="Radio" style="height:0;width:0"><div class="radio-content"><audio class="radio-player"></audio><div class="radio-text"><div class="radio-title">AP RADIO</div><div class="radio-subtitle">Update hourly</div></div><div class="radio-control radio-play"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-play"></use></svg></div></div></div></li><li class="header-navigation-item search"><div class="nav-action"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-search"></use></svg></div></li></ol></nav></div><div class="search-wrapper"><div class="SearchPopover close" style="--height:0"><div class="inner"><input class="input" placeholder="Search" value=""/><button class="c011"><span>Search</span><div class="Loader c012"><div class="sk-fading-circle"><div class="sk-circle1 sk-circle"></div><div class="sk-circle2 sk-circle"></div><div class="sk-circle3 sk-circle"></div><div class="sk-circle4 sk-circle"></div><div class="sk-circle5 sk-circle"></div><div class="sk-circle6 sk-circle"></div><div class="sk-circle7 sk-circle"></div><div class="sk-circle8 sk-circle"></div><div class="sk-circle9 sk-circle"></div><div class="sk-circle10 sk-circle"></div><div class="sk-circle11 sk-circle"></div><div class="sk-circle12 sk-circle"></div></div></div><svg class="SvgSprite c013"><use xlink:href="/dist/spritemap.svg#sprite-arrow"></use></svg></button><section class="search-results"></section></div></div></div></div><div class="header-placeholder"></div><div class="Body"><div class="Content WireStory fluid-wrapper with-lead"><div class="Leaderboard c014"><div data-key="ad-placeholder" id="div-gpt-ad-1461247613791-X" class="DFPSlot c015"></div></div><div class="SocialShare tablet-view"><a href="https://facebook.com/dialog/share?app_id=870613919693099&amp;quote=
+			Top diplomats gather in Bangkok for key Asia-Pacific talks&amp;display=popup&amp;href=https://apnews.com/a93f3846eb274fc8b96b343d70a19255" target="_blank" rel="noopener" class="share-facebook"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-facebook"></use></svg></a><a href="https://twitter.com/intent/tweet?text=Top diplomats gather in Bangkok for key Asia-Pacific talks&amp;url=https://apnews.com/a93f3846eb274fc8b96b343d70a19255" target="_blank" rel="noopener" class="share-twitter"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-twitter"></use></svg></a><a href="mailto:?subject=Top diplomats gather in Bangkok for key Asia-Pacific talks&amp;body=https://apnews.com/a93f3846eb274fc8b96b343d70a19255" class="share-email"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-email"></use></svg></a><span class="share-link success-nothing"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-link"></use></svg><span class="share-link-text">Click to copy</span><span class="share-link-inner">https://apnews.com/a93f3846eb274fc8b96b343d70a19255</span></span></div><div class="ContentView-LeftRail"><div class="sticky-part"><div class="SocialShare"><a href="https://facebook.com/dialog/share?app_id=870613919693099&amp;quote=
+			Top diplomats gather in Bangkok for key Asia-Pacific talks&amp;display=popup&amp;href=https://apnews.com/a93f3846eb274fc8b96b343d70a19255" target="_blank" rel="noopener" class="share-facebook"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-facebook"></use></svg></a><a href="https://twitter.com/intent/tweet?text=Top diplomats gather in Bangkok for key Asia-Pacific talks&amp;url=https://apnews.com/a93f3846eb274fc8b96b343d70a19255" target="_blank" rel="noopener" class="share-twitter"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-twitter"></use></svg></a><a href="mailto:?subject=Top diplomats gather in Bangkok for key Asia-Pacific talks&amp;body=https://apnews.com/a93f3846eb274fc8b96b343d70a19255" class="share-email"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-email"></use></svg></a><span class="share-link success-nothing"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-link"></use></svg><span class="share-link-text">Click to copy</span><span class="share-link-inner">https://apnews.com/a93f3846eb274fc8b96b343d70a19255</span></span></div><div class="RelatedTopics"><div class="heading">Related topics</div><ul class="tag-list"><li class="tag"><a data-key="related-tag" href="/WangYi">Wang Yi</a></li><li class="tag"><a data-key="related-tag" href="/Globaltrade">Global trade</a></li><li class="tag"><a data-key="related-tag" href="/apf-topnews">AP Top News</a></li><li class="tag"><a data-key="related-tag" href="/SouthChinaSea">South China Sea</a></li><li class="tag"><a data-key="related-tag" href="/apf-intlnews">International News</a></li><li class="tag"><a data-key="related-tag" href="/apf-GeneralNews">General News</a></li><li class="tag"><a data-key="related-tag" href="/Asia">Asia</a></li><li class="tag"><a data-key="related-tag" href="/Bangkok">Bangkok</a></li><li class="tag"><a data-key="related-tag" href="/apf-asiapac">Asia Pacific</a></li><li class="tag"><a data-key="related-tag" href="/China">China</a></li><li class="tag"><a data-key="related-tag" href="/SergeyLavrov">Sergey Lavrov</a></li><li class="tag"><a data-key="related-tag" href="/Thailand">Thailand</a></li><li class="tag"><a data-key="related-tag" href="/MikePompeo">Mike Pompeo</a></li><li class="tag"><a data-key="related-tag" href="/EastAsia">East Asia</a></li><li class="tag"><a data-key="related-tag" href="/SoutheastAsia">Southeast Asia</a></li></ul></div></div></div><div class="CardHeadline"><div class="headline" data-key="card-headline"><h1>Top diplomats gather in Bangkok for key Asia-Pacific talks</h1></div><div class="signature"><span class="byline">By GRANT PECK</span><span class="Timestamp" data-key="timestamp" data-source="2019-07-30T07:08:01Z">July 30, 2019</span></div><div class="c016" style="transform:scale(1)"></div></div><div class="divider"></div><a class="LeadFeature LeadFeature_gallery" href="/a93f3846eb274fc8b96b343d70a19255/gallery/ac88cde9757947199194e3d18ff9ccb4"><div class="c017 LazyImage"><div></div></div><svg class="SvgSprite gallery-arrow"><use xlink:href="/dist/spritemap.svg#sprite-gallery-arrow"></use></svg><div class="count-caption ssr-desktop"><div class="ImageGalleryCount"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-gallery-count"></use></svg><span>1 of 6</span></div><div class="embed-caption" data-key="embed-caption">Russian Foreign Minister Sergey Lavrov, left, and Thailand Foreign Minister Don Pramudwinai share a light moment after a press conference at Foreign Ministry in Bangkok, Thailand, Tuesday, July 30, 2019. Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China&#x27;s territorial claims in the South China Sea. (AP Photo/Sakchai Lalit)</div></div><div class="count-caption ssr-tablet"><div class="ImageGalleryCount"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-gallery-count"></use></svg><span>1 of 6</span></div><div class="embed-caption" data-key="embed-caption">Russian Foreign Minister Sergey Lavrov, left, and Thailand Foreign Minister Don Pramudwinai share a light moment after a press conference at Foreign Ministry in Bangkok, Thailand, Tuesday, July 30, 2019. Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China&#x27;s territorial claims in the South China Sea. (AP Photo/Sakchai Lalit)</div></div></a><div class="Article" data-key="article"><p>BANGKOK (AP) — Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China’s territorial claims in the South China Sea.</p><p>The meetings in Bangkok are hosted by the 10-member Association of Southeast Asian Nations, chaired this year by Thailand. Thai officials say there will be 27 meetings in all through Saturday, and 31 countries and alliances will participate.</p><p>The core ASEAN Foreign Ministers Meeting brings together the group’s top diplomats, but they are likely to be overshadowed by the big power players attending the adjunct meetings, such as the ASEAN Regional Forum and the East Asia Foreign Ministers’ Meeting.</p><div data-key="ad-placeholder" id="div-gpt-ad-1470255291270-0" class="DFPSlot"></div><p>The heavy-hitters in Bangkok this week include U.S. Secretary of State Mike Pompeo, Chinese Foreign Minister Wang Yi and Russian Foreign Minister Sergey Lavrov.</p><p>Other ASEAN dialogue partners include Australia, India, the European Union, Japan and South Korea.</p><p>Most attention will be on these side meetings, in which ASEAN will play a supporting role, if any.</p><p>A representative of North Korea will be present in Bangkok, a Thai foreign ministry spokesman said last week, though it is not clear if Pyongyang is sending its foreign minister. Washington has downplayed Pyongyang’s recent launch of medium-range missiles and expressed interest in reviving talks on North Korean denuclearization, so sideline talks are a possibility.</p><p>Reports say that the United States is also willing to hold a sidelines meeting with Japan and South Korea to discuss the bitter trade dispute between the two East Asian nations that threatens to disrupt Seoul’s electronics industry by hindering its purchase of semiconductor components.</p><p>The dispute also draws on long-standing bitterness over Japan’s actions toward Korea during World War II and threatens to poison relations at a time when Washington would prefer to see a united front in dealing with North Korea.</p><p>ASEAN’s own most pressing concern arguably involves Beijing’s expansive territorial claims in the South China Sea, which pits it against the claims of Vietnam, the Philippines, Malaysia and Brunei.</p><p>The dispute is long-running, but flared up again earlier this month when Vietnam accused China of violating its sovereignty by interfering with offshore oil and gas activities in disputed waters.</p><p>Vietnam can count on having some allies at this week’s meetings but may have to operate outside the conventional ASEAN framework by forming a de facto maritime bloc with Indonesia, which has aggressively dealt with Chinese poachers in its waters, and the Philippines, still smarting over a June incident in which a Chinese fishing vessel hit a Philippine fishing boat and fled the scene as 22 Filipinos escaped their sinking vessel.</p><div data-key="ad-placeholder" id="div-gpt-ad-1470255291270-1" class="DFPSlot"></div><p>It’s unlikely ASEAN will agree on any major statement against China since it operates by consensus, which in practice means a single member can exercise veto over the group’s decisions and declarations. Beijing can count on the support of allies such as Cambodia and Laos, and reluctance by others to defy Asia’s superpower.</p><p>Beijing also is disinclined to flout legal norms that might restrain its actions, say critics, citing as an example the Permanent Court of Arbitration’s ruling on the South China Sea case brought by the Philippines.</p><p>The struggle for influence between the U.S. and China looms larger than ever over this year’s meetings, with their trade disputes fueling the rivalry.</p><p>Beijing’s attempts to project its influence even further afield through its Belt and Road Initiative, an ambitious global development program of major infrastructure projects, has sharpened the sense of unease among some parties.</p><p>The U.S. has countered with its own vision strategy for a Free and Open Indo-Pacific, which Beijing regards as directed against it.</p><p>ASEAN leaders at their summit meeting in June adopted a five-page “ASEAN Outlook on the Indo-Pacific” statement that sought to find a middle ground. But some analysts suggest it is less an assertion that the regional grouping is a player in its own right than a weak effort to keep on the good side of both Washington and Beijing.</p><p>“Its significance is in the monumental opportunity squandered,” said Benjamin Zawacki, author of “Thailand: Shifting Ground between the U.S. and a Rising China.”</p><p>“The increasing tension between Washington and Beijing does afford ASEAN more, rather than less, influence and room to maneuver, but it is influence and room that ASEAN would rather not have and will choose not to use,” he said. “ASEAN is most comfortable when it has the least influence and room to maneuver, for such provides a ready justification for its indecisiveness, inertia, and utter obsession with neutrality.”</p></div><aside class="RightRail"><div data-key="ad-placeholder" id="div-gpt-ad-1461247613791-2" class="DFPSlot"></div><div id="taboola-right-rail-thumbnails" class="top-stories"></div><div class="persistent-ad"><div data-key="ad-placeholder" id="div-gpt-ad-1461247613791-1" class="DFPSlot"></div></div></aside><div class="bellow-article"><div><div id="taboola-below-article-thumbnails"></div></div><div data-key="ad-placeholder" id="div-gpt-ad-1470255291270-X" class="DFPSlot"></div></div></div></div><div class="c0112"><div class="fluid-wrapper"><div class="c0113"><nav class="c0114"><div class="c0120">AP NEWS</div><ol class="c0121"><li><a href="/">Top Stories</a></li><li><a href="/apf-videos">Video</a></li><li><a href="mailto:support@apnews.com" rel="noopener">Contact Us</a></li><li><a class="optanon-show-settings">Cookie Settings</a></li></ol></nav><div class="ssr-mobile c0123"></div><nav class="c0115"><div class="c0120">Download AP NEWS</div><div class="c0122">Connect with the definitive source for global and local news</div><div class="c0124"><a href="https://itunes.apple.com/us/app/ap-news/id364677107" target="_blank" rel="noopener" class="c0125 c0126"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-app-store"></use></svg></a><a href="https://play.google.com/store/apps/details?id=mnn.Android" target="_blank" rel="noopener" class="c0125 c0127"><img src="/en_badge_web_generic.png" class="SvgSprite"/></a></div></nav><div class="ssr-mobile c0123"></div><nav class="c0116"><div class="c0120">More from AP</div><ol class="c0121"><li><a target="_blank" rel="noopener" href="https://www.ap.org">ap.org</a></li><li><a target="_blank" rel="noopener" href="https://insights.ap.org/">AP Insights</a></li><li><a target="_blank" rel="noopener" href="https://blog.ap.org/">AP Definitive Source</a></li><li><a target="_blank" rel="noopener" href="https://apimagesblog.com/">AP Images Spotlight</a></li><li><a target="_blank" rel="noopener" href="https://www.ap.org/explore/">AP Explore</a></li><li><a target="_blank" rel="noopener" href="https://www.ap.org/books/">AP Books</a></li></ol></nav><div class="ssr-mobile c0123"></div><nav class="c0117"><div class="c0120">Follow AP</div><ol class="c0128"><li class="c0129"><a target="_blank" rel="noopener" href="https://twitter.com/AP" class="c0130"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-twitter"></use></svg></a></li><li class="c0129"><a target="_blank" rel="noopener" href="https://www.facebook.com/APNews" class="c0130"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-facebook"></use></svg></a></li><li class="c0129"><a target="_blank" rel="noopener" href="https://www.youtube.com/user/AssociatedPress" class="c0130"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-youtube"></use></svg></a></li><li class="c0129"><a target="_blank" rel="noopener" href="https://www.linkedin.com/company/associated-press" class="c0130"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-linkedin"></use></svg></a></li></ol></nav><div class="c0118 c0123"></div><div class="c0119 c0131"><nav class="c0132"><div class="c0135 c0138">The Associated Press</div><ol class="c0133"><li class="c0134 c0138"><a target="_blank" rel="noopener" href="https://www.ap.org/about">About</a></li><li class="c0134 c0138"><a target="_blank" rel="noopener" href="https://www.ap.org/contact-us">Contact</a></li><li class="c0134 c0138"><a target="_blank" rel="noopener" href="http://aphelp.ap.org">Customer Support</a></li><li class="c0134 c0138"><a target="_blank" rel="noopener" href="https://www.ap.org/careers/">Careers</a></li><li class="c0134 c0138"><a href="/termsofservice">Terms &amp; Conditions</a></li><li class="c0134 c0138"><a href="/privacystatement">Privacy</a></li></ol></nav><div class="c0136"><span class="c0137 c0138">All contents © copyright <!-- -->2019<!-- --> The Associated Press.</span><span class="c0137 c0138"> All rights reserved.</span></div></div></div></div></div></main></div></div><script>window['titanium-config'] = {"base":"https://apnews.com","afsApi":"https://afs-prod.appspot.com/api/v2","gcsRoot":"https://storage.googleapis.com/afs-prod","googleAnalyticsId":"UA-19104461-33","googleTagManagerId":"GTM-WNXLD4","dfpEnvironment":"PRODUCTION","branch":"key_live_ndufC8VAc2V3dnaX3lenvdhkvAc3rs4S","appVersion":"157"};
+window['titanium-state'] = {"eyebrow":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"markdown":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":600000},"hub":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"card":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"content":{"loading":{"urn:publicid:ap.org:a93f3846eb274fc8b96b343d70a19255":false},"error":{"urn:publicid:ap.org:a93f3846eb274fc8b96b343d70a19255":null},"data":{"urn:publicid:ap.org:a93f3846eb274fc8b96b343d70a19255":{"embedHeight":null,"stackedStory":false,"contentSponsor":null,"tagObjs":[{"id":"WangYi","name":"Wang Yi","order":0},{"id":"Globaltrade","name":"Global trade","order":0},{"id":"apf-topnews","name":"AP Top News","order":5},{"id":"SouthChinaSea","name":"South China Sea","order":0},{"id":"apf-intlnews","name":"International News","order":1},{"id":"apf-GeneralNews","name":"General News","order":10},{"id":"Asia","name":"Asia","order":0},{"id":"Bangkok","name":"Bangkok","order":0},{"id":"apf-asiapac","name":"Asia Pacific","order":1},{"id":"China","name":"China","order":0},{"id":"SergeyLavrov","name":"Sergey Lavrov","order":0},{"id":"Thailand","name":"Thailand","order":0},{"id":"MikePompeo","name":"Mike Pompeo","order":0},{"id":"EastAsia","name":"East Asia","order":0},{"id":"SoutheastAsia","name":"Southeast Asia","order":0}],"slugline":"BC-AS--ASEAN,3rd Ld-Writethru","pullQuoteObjs":[],"title":"APFN-AS--ASEAN","localMemberName":null,"dateline":null,"contentType":"text","embedRatio":null,"layoutType":"Small Photo","alertLinkDateTime":null,"embedCaption":null,"old_lead_video_key":null,"etag":"a93f3846eb274fc8b96b343d70a19255_2a82aza0c0","gcsUrl":"https://storage.googleapis.com/afs-prod/contents/urn:publicid:ap.org:a93f3846eb274fc8b96b343d70a19255","embedLinkURL":null,"language":null,"leadVideoId":null,"headline":"Top diplomats gather in Bangkok for key Asia-Pacific talks","firstWords":"\u003cp>BANGKOK (AP) — Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and...\u003c/p>","published":"2019-07-30 07:08:01","block_fundamentals":true,"embedHTML":null,"pubstatus":"usable","sequenceNumber":null,"embedType":"Other","notificationId":null,"storyHTML":"\u003cp>BANGKOK (AP) — Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China's territorial claims in the South China Sea.\u003c/p>\u003cp>The meetings in Bangkok are hosted by the 10-member Association of Southeast Asian Nations, chaired this year by Thailand. Thai officials say there will be 27 meetings in all through Saturday, and 31 countries and alliances will participate.\u003c/p>\u003cp>The core ASEAN Foreign Ministers Meeting brings together the group's top diplomats, but they are likely to be overshadowed by the big power players attending the adjunct meetings, such as the ASEAN Regional Forum and the East Asia Foreign Ministers' Meeting.\u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>The heavy-hitters in Bangkok this week include U.S. Secretary of State Mike Pompeo, Chinese Foreign Minister Wang Yi and Russian Foreign Minister Sergey Lavrov.\u003c/p>\u003cp>Other ASEAN dialogue partners include Australia, India, the European Union, Japan and South Korea.\u003c/p>\u003cp>Most attention will be on these side meetings, in which ASEAN will play a supporting role, if any.\u003c/p>\u003cp>A representative of North Korea will be present in Bangkok, a Thai foreign ministry spokesman said last week, though it is not clear if Pyongyang is sending its foreign minister. Washington has downplayed Pyongyang's recent launch of medium-range missiles and expressed interest in reviving talks on North Korean denuclearization, so sideline talks are a possibility.\u003c/p>\u003cp>Reports say that the United States is also willing to hold a sidelines meeting with Japan and South Korea to discuss the bitter trade dispute between the two East Asian nations that threatens to disrupt Seoul's electronics industry by hindering its purchase of semiconductor components.\u003c/p>\u003cp>The dispute also draws on long-standing bitterness over Japan's actions toward Korea during World War II and threatens to poison relations at a time when Washington would prefer to see a united front in dealing with North Korea.\u003c/p>\u003cp>ASEAN's own most pressing concern arguably involves Beijing's expansive territorial claims in the South China Sea, which pits it against the claims of Vietnam, the Philippines, Malaysia and Brunei.\u003c/p>\u003cp>The dispute is long-running, but flared up again earlier this month when Vietnam accused China of violating its sovereignty by interfering with offshore oil and gas activities in disputed waters.\u003c/p>\u003cp>Vietnam can count on having some allies at this week's meetings but may have to operate outside the conventional ASEAN framework by forming a de facto maritime bloc with Indonesia, which has aggressively dealt with Chinese poachers in its waters, and the Philippines, still smarting over a June incident in which a Chinese fishing vessel hit a Philippine fishing boat and fled the scene as 22 Filipinos escaped their sinking vessel.\u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>It's unlikely ASEAN will agree on any major statement against China since it operates by consensus, which in practice means a single member can exercise veto over the group's decisions and declarations. Beijing can count on the support of allies such as Cambodia and Laos, and reluctance by others to defy Asia's superpower.\u003c/p>\u003cp>Beijing also is disinclined to flout legal norms that might restrain its actions, say critics, citing as an example the Permanent Court of Arbitration's ruling on the South China Sea case brought by the Philippines.\u003c/p>\u003cp>The struggle for influence between the U.S. and China looms larger than ever over this year's meetings, with their trade disputes fueling the rivalry.\u003c/p>\u003cp>Beijing's attempts to project its influence even further afield through its Belt and Road Initiative, an ambitious global development program of major infrastructure projects, has sharpened the sense of unease among some parties.\u003c/p>\u003cp>The U.S. has countered with its own vision strategy for a Free and Open Indo-Pacific, which Beijing regards as directed against it.\u003c/p>\u003cp>ASEAN leaders at their summit meeting in June adopted a five-page \"ASEAN Outlook on the Indo-Pacific\" statement that sought to find a middle ground. But some analysts suggest it is less an assertion that the regional grouping is a player in its own right than a weak effort to keep on the good side of both Washington and Beijing.\u003c/p>\u003cp>\"Its significance is in the monumental opportunity squandered,\" said Benjamin Zawacki, author of \"Thailand: Shifting Ground between the U.S. and a Rising China.\"\u003c/p>\u003cp>\"The increasing tension between Washington and Beijing does afford ASEAN more, rather than less, influence and room to maneuver, but it is influence and room that ASEAN would rather not have and will choose not to use,\" he said. \"ASEAN is most comfortable when it has the least influence and room to maneuver, for such provides a ready justification for its indecisiveness, inertia, and utter obsession with neutrality.\"\u003c/p>","truncatedFirstWords":false,"mediaCount":6,"shortId":"a93f3846eb274fc8b96b343d70a19255","localLinkUrl":"https://apnews.com/a93f3846eb274fc8b96b343d70a19255","interactiveLinkUrl":null,"organisationTagObjs":{"vietnamgovernment":{"order":0,"name":"vietnam government"},"philippinesgovernment":{"order":0,"name":"philippines government"},"chinagovernment":{"order":0,"name":"china government"},"associationofsoutheastasiannations":{"order":0,"name":"association of southeast asian nations"},"thailandgovernment":{"order":0,"name":"thailand government"}},"mediumIds":["ac88cde9757947199194e3d18ff9ccb4","1f29f29e4b3945f2a172201c029bbd17","42fb61254ecd442aa622ce12b6f29c9c","25b3290ec81f4392886a8efb1146f124","90eda1a676b7489cab7bcf9df0185a4f","c030a0c661ac4da2a1fe31096df35f00"],"contexts":null,"richEmbeds":null,"xxUpdated":"2019-07-30 07:28:49","updated":"2019-07-30 07:08:01","flattenedFirstWords":"BANGKOK (AP) — Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and...","id":"urn:publicid:ap.org:a93f3846eb274fc8b96b343d70a19255","media":[{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"ac88cde9757947199194e3d18ff9ccb4","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"ac88cde9757947199194e3d18ff9ccb4_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Russian Foreign Minister Sergey Lavrov, left, and Thailand Foreign Minister Don Pramudwinai share a light moment after a press conference at Foreign Ministry in Bangkok, Thailand, Tuesday, July 30, 2019. Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China's territorial claims in the South China Sea. (AP Photo/Sakchai Lalit)","type":"Photo","caption":"\u003cp>Russian Foreign Minister Sergey Lavrov, left, and Thailand Foreign Minister Don Pramudwinai share a light moment after a press conference at Foreign Ministry in Bangkok, Thailand, Tuesday, July 30, 2019. Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China's territorial claims in the South China Sea. (AP Photo/Sakchai Lalit)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.6320821529745042,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/ac88cde9757947199194e3d18ff9ccb4/"},{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"1f29f29e4b3945f2a172201c029bbd17","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"1f29f29e4b3945f2a172201c029bbd17_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Police officers assigned to control traffic take a break at a street-shop outside the venue scheduled to hold of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)","type":"Photo","caption":"\u003cp>Police officers assigned to control traffic take a break at a street-shop outside the venue scheduled to hold of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5380758382952053,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/1f29f29e4b3945f2a172201c029bbd17/"},{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"42fb61254ecd442aa622ce12b6f29c9c","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"42fb61254ecd442aa622ce12b6f29c9c_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"An usher carries decorative vases ahead of the of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China's territorial claims in the South China Sea. (AP Photo/Gemunu Amarasinghe)","type":"Photo","caption":"\u003cp>An usher carries decorative vases ahead of the of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China's territorial claims in the South China Sea. (AP Photo/Gemunu Amarasinghe)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.4710121192269898,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/42fb61254ecd442aa622ce12b6f29c9c/"},{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"25b3290ec81f4392886a8efb1146f124","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"25b3290ec81f4392886a8efb1146f124_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Officials issue media access passes ahead the of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)","type":"Photo","caption":"\u003cp>Officials issue media access passes ahead the of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5006002400960383,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/25b3290ec81f4392886a8efb1146f124/"},{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"90eda1a676b7489cab7bcf9df0185a4f","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"90eda1a676b7489cab7bcf9df0185a4f_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Police officers assigned to control traffic take a break outside the venue scheduled to hold of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)","type":"Photo","caption":"\u003cp>Police officers assigned to control traffic take a break outside the venue scheduled to hold of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.4662201514269073,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/90eda1a676b7489cab7bcf9df0185a4f/"},{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"c030a0c661ac4da2a1fe31096df35f00","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"c030a0c661ac4da2a1fe31096df35f00_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Russian Foreign Minister Sergey Lavrov, left shakes hand with Thailand Foreign Minister Don Pramudwinai at Foreign Ministry in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Sakchai Lalit)","type":"Photo","caption":"\u003cp>Russian Foreign Minister Sergey Lavrov, left shakes hand with Thailand Foreign Minister Don Pramudwinai at Foreign Ministry in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Sakchai Lalit)\u003c/p>","imageRenderedSizes":[2654,2000,1000,800,600,400],"aspectRatio":1.447899618112384,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/c030a0c661ac4da2a1fe31096df35f00/"}],"hons":false,"revision":null,"videoContext":null,"omitFromFeed":null,"tagIds":["WangYi","Globaltrade","apf-topnews","SouthChinaSea","apf-intlnews","apf-GeneralNews","Asia","Bangkok","apf-asiapac","China","SergeyLavrov","Thailand","MikePompeo","EastAsia","SoutheastAsia"],"hasTextOverlay":false,"bylines":"By GRANT PECK","leadPhotoId":"ac88cde9757947199194e3d18ff9ccb4"}},"loadedAt":{"urn:publicid:ap.org:a93f3846eb274fc8b96b343d70a19255":1564472953642},"expiration":120000},"medium":{"loading":{},"error":{},"data":{"ac88cde9757947199194e3d18ff9ccb4":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"ac88cde9757947199194e3d18ff9ccb4","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"ac88cde9757947199194e3d18ff9ccb4_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Russian Foreign Minister Sergey Lavrov, left, and Thailand Foreign Minister Don Pramudwinai share a light moment after a press conference at Foreign Ministry in Bangkok, Thailand, Tuesday, July 30, 2019. Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China's territorial claims in the South China Sea. (AP Photo/Sakchai Lalit)","type":"Photo","caption":"\u003cp>Russian Foreign Minister Sergey Lavrov, left, and Thailand Foreign Minister Don Pramudwinai share a light moment after a press conference at Foreign Ministry in Bangkok, Thailand, Tuesday, July 30, 2019. Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China's territorial claims in the South China Sea. (AP Photo/Sakchai Lalit)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.6320821529745042,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/ac88cde9757947199194e3d18ff9ccb4/"},"1f29f29e4b3945f2a172201c029bbd17":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"1f29f29e4b3945f2a172201c029bbd17","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"1f29f29e4b3945f2a172201c029bbd17_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Police officers assigned to control traffic take a break at a street-shop outside the venue scheduled to hold of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)","type":"Photo","caption":"\u003cp>Police officers assigned to control traffic take a break at a street-shop outside the venue scheduled to hold of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5380758382952053,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/1f29f29e4b3945f2a172201c029bbd17/"},"42fb61254ecd442aa622ce12b6f29c9c":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"42fb61254ecd442aa622ce12b6f29c9c","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"42fb61254ecd442aa622ce12b6f29c9c_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"An usher carries decorative vases ahead of the of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China's territorial claims in the South China Sea. (AP Photo/Gemunu Amarasinghe)","type":"Photo","caption":"\u003cp>An usher carries decorative vases ahead of the of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. Top diplomats from the Asia-Pacific region started gathering Tuesday in the Thai capital to discuss issues of concern to the area, including security on the Korean peninsula and China's territorial claims in the South China Sea. (AP Photo/Gemunu Amarasinghe)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.4710121192269898,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/42fb61254ecd442aa622ce12b6f29c9c/"},"25b3290ec81f4392886a8efb1146f124":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"25b3290ec81f4392886a8efb1146f124","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"25b3290ec81f4392886a8efb1146f124_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Officials issue media access passes ahead the of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)","type":"Photo","caption":"\u003cp>Officials issue media access passes ahead the of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5006002400960383,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/25b3290ec81f4392886a8efb1146f124/"},"90eda1a676b7489cab7bcf9df0185a4f":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"90eda1a676b7489cab7bcf9df0185a4f","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"90eda1a676b7489cab7bcf9df0185a4f_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Police officers assigned to control traffic take a break outside the venue scheduled to hold of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)","type":"Photo","caption":"\u003cp>Police officers assigned to control traffic take a break outside the venue scheduled to hold of Association of Southeast Asian Nations, (ASEAN) annual leaders' summit in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Gemunu Amarasinghe)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.4662201514269073,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/90eda1a676b7489cab7bcf9df0185a4f/"},"c030a0c661ac4da2a1fe31096df35f00":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 07:30:33","id":"c030a0c661ac4da2a1fe31096df35f00","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"c030a0c661ac4da2a1fe31096df35f00_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Russian Foreign Minister Sergey Lavrov, left shakes hand with Thailand Foreign Minister Don Pramudwinai at Foreign Ministry in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Sakchai Lalit)","type":"Photo","caption":"\u003cp>Russian Foreign Minister Sergey Lavrov, left shakes hand with Thailand Foreign Minister Don Pramudwinai at Foreign Ministry in Bangkok, Thailand, Tuesday, July 30, 2019. (AP Photo/Sakchai Lalit)\u003c/p>","imageRenderedSizes":[2654,2000,1000,800,600,400],"aspectRatio":1.447899618112384,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/c030a0c661ac4da2a1fe31096df35f00/"}},"loadedAt":{"ac88cde9757947199194e3d18ff9ccb4":1564472953642,"1f29f29e4b3945f2a172201c029bbd17":1564472953642,"42fb61254ecd442aa622ce12b6f29c9c":1564472953642,"25b3290ec81f4392886a8efb1146f124":1564472953642,"90eda1a676b7489cab7bcf9df0185a4f":1564472953642,"c030a0c661ac4da2a1fe31096df35f00":1564472953642},"expiration":120000},"defaultTags":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":600000},"radio":{"ignoreClickOnElements":[],"opened":false},"search":{"ignoreClickOnElements":[],"opened":false},"topics":{"ignoreClickOnElements":[],"opened":false},"headerTitle":{},"shareImage":{"loading":{"share-image":false},"error":{"share-image":null},"data":{"share-image":null},"loadedAt":{"share-image":1564472953642},"hasImage":false,"expiration":120000}}</script><script src="/dist/index.js?hash=16c2da316e1" async></script></body></html>

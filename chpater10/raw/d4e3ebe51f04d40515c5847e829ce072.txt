@@ -1,0 +1,790 @@
+<!doctype html>
+<html class="no-js" lang="ko" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="fb:pages" content="665991293413903" />
+<!-- 메타태그정보 //-->
+<meta name="title" content="Samsung Electronics to Hold Foundry Forum in Japan in September"/>
+<meta name="description" content="Samsung Electronics will hold a foundry forum in Japan in September despite the worsening trade conflicts between Korea and Japan. Industry experts say that Samsung wants to deliver the message that there is no disruption to its foundry business despite Japan’s restrictions on exports of semiconduct"/>
+<meta name="Classification" content="News &gt; ICT"/>
+<meta name="Copyright" content="비즈니스코리아 - BusinessKorea"/>
+<meta property="og:site_name" content="비즈니스코리아 - BusinessKorea"/>
+<meta property="og:image" content="http://www.businesskorea.co.kr/news/thumbnail/201907/34358_46296_263_v150.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.businesskorea.co.kr/news/articleView.html?idxno=34358" />
+<meta property="og:title" content="Samsung Electronics to Hold Foundry Forum in Japan in September" />
+<meta property="og:description" content="Samsung Electronics will hold a foundry forum in Japan in September despite the worsening trade conflicts between Korea and Japan. Industry experts say that Samsung wants to deliver the message that there is no disruption to its foundry business despite Japan’s restrictions on exports of semiconduct" />
+<meta property="og:article:author" content="Kim Eun-jin"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Samsung Electronics to Hold Foundry Forum in Japan in September"/>
+<meta name="twitter:description" content="Samsung Electronics will hold a foundry forum in Japan in September despite the worsening trade conflicts between Korea and Japan. Industry experts say that Samsung wants to deliver the message that there is no disruption to its foundry business despite Japan’s restrictions on exports of semiconduct"/>
+<meta name="twitter:image" content="http://www.businesskorea.co.kr/news/thumbnail/201907/34358_46296_263_v150.jpg"/>
+<meta name="twitter:site" content="http://www.businesskorea.co.kr/news/articleView.html?idxno=34358"/>
+<meta name="twitter:creator" content="Kim Eun-jin"/>
+<meta property="dable:item_id" content="34358">
+<meta property="dable:author" content="Kim Eun-jin">
+<meta property="article:section" content="News">
+<meta property="article:section1" content="ICT">
+<meta property="article:published_time" content="2019-07-29T09:26:54+09:00">
+<!--// 메타태그정보 -->
+<title>Samsung Electronics to Hold Foundry Forum in Japan in September - 비즈니스코리아 - BusinessKorea</title>
+<link rel="canonical" id="canonical" href="http://www.businesskorea.co.kr/news/articleView.html?idxno=34358" />
+<link rel="amphtml" href="http://www.businesskorea.co.kr/news/articleViewAmp.html?idxno=34358">  <!-- 구글AMP태그 -->
+<link rel="apple-touch-icon-precomposed" href="/image/logo/snslogo_20180403022517.png" />
+<link rel="stylesheet" href="/css/jquery-ui.min.css?ver=11">
+<link rel="stylesheet" href="/css/foundation.min.css?ver=11">
+<link rel="stylesheet" href="/css/custom.foundation.min.css?ver=11">
+<link rel="stylesheet" href="/css/app.css?ver=11">
+<link rel="stylesheet" href="/css/slick.min.css?ver=11">
+<link rel="stylesheet" href="/css/font-awesome.min.css?ver=11">
+<link rel="stylesheet" href="/css/pe.icon7.stroke.min.css?ver=11">
+<link rel="stylesheet" href="/css/ndsoft-fonts.css?ver=11">
+<link rel="stylesheet" href="/css/style.min.css?ver=11">
+<link rel="stylesheet" href="/css/design.style.css?ver=11">
+<link rel="stylesheet" href="/menuskin/md_01/menubar.css?ver=11">
+<link rel="shortcut icon" href="/image/logo/favicon_20180403120014.ico">
+<script src="/script/jquery.min.js?ver=11"></script>
+<script src="/script/jquery-ui.min.js?ver=11"></script>
+<script src="/script/slick.min.js?ver=11"></script>
+<script src="/script/jquery.rwdImageMaps.min.js?ver=11"></script>
+<script src="/script/what-input.js?ver=11"></script>
+<script src="/script/foundation.min.js?ver=11"></script>
+<script src="/script/app.js?ver=11"></script>
+<script src="/script/bannerpop.js?ver=11"></script>
+<script src="/menuskin/md_01/menubar.js?ver=11"></script>
+<script src="/script/user.style.js?ver=11"></script>
+<script src="/script/resizePhoto.js?ver=11"></script>
+<script src="/script/clipboard.min.js?ver=11"></script>
+<script src="/script/common.js?ver=11"></script>
+
+<script type="text/javascript">
+
+	// 이미지맵
+	$(document).ready(function(e) {
+		$('img[usemap]').rwdImageMaps();
+
+		// 기능성배너 이벤트
+		bannerpop.banner(".banner_event_box");
+
+		// 기사뷰 이미지관련
+					resizePhoto();
+			});
+
+	// domain
+	var SITE_DOMAIN = 'http://www.businesskorea.co.kr'
+	,___currentTime	= 1564473274;
+
+</script>
+<style type="text/css">
+/* 사이트 기본 색 */
+.user-point,a.user-point,
+.poll-columns .poll-state.going,
+.auto-hr04-2 .auto-nav .slick-slide.slick-current .auto-fontA,.auto-hr05 .auto-nav .slick-slide.slick-current .auto-fontA
+{color:#cc3333 !important}
+.user-bg,.user-bg:hover,.user-bg:active,.user-bg:focus,li[id*="slick-"].slick-active button[data-role],.checkbox-group > input[type="radio"]:checked + label, .checkbox-group > input[type="checkbox"]:checked + label,
+.radio-group > input[type="radio"]:checked + label, .radio-group > input[type="checkbox"]:checked + label,
+.article-list .article-list-content.type-tm .list-block .links:hover,.tabs .tabs-title.is-active a,
+.poll-view .poll-view-state.going,.poll-view .poll-radio input[type="radio"]:checked + label::before,.poll-view .poll-radio input[type="checkbox"]:checked + label::before,
+.auto-dl04 .auto-column::after,.auto-mr01::before,.auto-hp02 a:hover .photo-titbg,.auto-hr04 .auto-nav .slick-slide.slick-current,.auto-hr04-1 .auto-nav .slick-slide.slick-current,
+.nd-switch.user-bg input[type="checkbox"]:checked + label,.nd-switch.user-bg input[type="radio"]:checked + label,
+.nd-switch.user-bg input[type="checkbox"]:checked + label::before,.nd-switch.user-bg input[type="radio"]:checked + label::before,
+.switch-group.user-bg > .nd-switch input[type="checkbox"]:checked + label,.switch-group.user-bg > .nd-switch input[type="radio"]:checked + label,
+.switch-group.user-bg > .nd-switch input[type="checkbox"]:checked + label::before,.switch-group.user-bg > .nd-switch input[type="radio"]:checked + label::before,
+.switch-group.for-ios > .nd-switch.user-bg input[type="checkbox"]:checked + label,.switch-group.for-ios > .nd-switch.user-bg input[type="radio"]:checked + label,
+.switch-group.for-ios > .nd-switch.user-bg input[type="checkbox"]:checked + label::before,.switch-group.for-ios > .nd-switch.user-bg input[type="radio"]:checked + label::before,
+.auto-pr08 .auto-columns a:hover,.auto-pr08 .auto-columns a:hover [class*="size-"]
+{background-color:#cc3333 !important}
+.user-border,.button.user-bg,
+.poll-view .poll-radio input[type="radio"] + label:hover strong::before,.poll-view .poll-radio input[type="checkbox"] + label:hover strong::before,
+.poll-view .poll-radio input[type="radio"]:checked + label  strong::before,.poll-view .poll-radio input[type="checkbox"]:checked + label  strong::before,
+.auto-pa01 .auto-nav .slick-current .auto-images::before,.auto-hr05-1 .auto-content a:hover .auto-images.line::before,.auto-hr07 .auto-nav .slick-slide.slick-current .auto-images.line::before
+{border-color:#cc3333 !important}
+.user-border-top {border-top-color:#cc3333 !important}
+.user-border-bottom {border-bottom-color:#cc3333 !important}
+.user-border-left {border-left-color:#cc3333 !important}
+.user-border-right {border-right-color:#cc3333 !important}
+.mobile-tabs .tabs .is-active a {color:#cc3333 !important;background:#fff !important}
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117743299-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117743299-1');
+</script>
+
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "175e6e8c0eb5f";
+wcs_do();
+</script>
+<!-- 네이버 웹마스터도구 소유확인 메타태그 -->
+<meta name="naver-site-verification" content="6c15682f43d3854afb99aa3da25a556b89d1626d"/>
+
+<!-- 구글 애드센스 코드 -->
+<!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2580425104918553",
+    enable_page_level_ads: true
+  });
+</script> -->
+
+</head>
+<body>
+
+
+<!-- wrap //-->
+<div id="user-wrap" class="">
+	<div class="row expanded">
+
+		<script type="text/javascript">
+<!--
+//메뉴 스타일 불러옴 : 메뉴 /script/menubar.js 와 같이 사용되어야 함
+//submenuStyle	: 서브메뉴 펼침 스타일 (horizon : 가로로, vertical : 세로 슬라이딩)
+var exceptIdx = new Array(); //제외할 메뉴 인덱스번호 (0부터 시작:type integer)
+var submenuStyle="horizon";
+//-->
+</script>
+
+<style type="text/css">
+#user-header {background-color:#cc3333 !important}
+#nav-header .user-sns > a:hover {color:#cc3333 !important}
+</style>
+
+
+<!-- 메뉴 시작 //-->
+<header id="user-header">
+	<!-- 최상단영역 //-->
+	<div id="user-gnb">
+		<div class="float-center max-width-1080">
+
+			<!-- 최종편집 이 아닌 오늘날짜를 뿌린다? -->
+			<div class="user-intro show-for-medium">
+				Tuesday, July 30, 2019			</div>
+
+			<!-- 로그인 -->
+			<ul class="user-logbox">
+									<li><a href="/member/login.html" target="_top">Sign in</a></li>
+								<li><a href="http://www.businesskorea.co.kr">English</a></li>
+				<li><a href="http://www.businesskorea.co.kr/index.html?editcode=MOBILE_8">Korean</a></li>
+			</ul>
+		</div>
+	</div>
+	<!--// 최상단영역 -->
+
+	<!-- 로고영역 //-->
+	<div id="nav-header">
+		<div class="float-center max-width-1080">
+			<div class="dis-table">
+				<div class="dis-table-cell user-logo">
+					<a href="http://www.businesskorea.co.kr" target="_top">
+						<img src="/image/logo/mobilelogo_20180403115718.png" alt="비즈니스코리아 - BusinessKorea" />
+						<span class="text show-for-medium">Korea's Premium Business News Portal</span>
+					</a>
+
+					<!-- mobile button group //-->
+					<div class="m-btn-group hide-for-large">
+						<button type="button" id="m-sns" class="btns"><i class="fa fa-share-alt fa-fw"></i><span class="show-for-sr">sns</span></button>
+						<button type="button" id="m-sch" class="btns"><i class="fa fa-search fa-fw"></i><span class="show-for-sr">search</span></button>
+						<button type="button" id="m-nav" class="btns"><i class="fa fa-bars fa-fw"></i><span class="show-for-sr">menu</span></button>
+					</div>
+					<!--// mobile button group -->
+				</div>
+				<div class="dis-table-cell user-banner">
+					<!-- sns //-->
+					<div class="user-sns">
+						<a href="https://www.facebook.com/BusinessKoreaMagazine" target="_blank"><i class="fa fa-facebook fa-fw"></i><span class="show-for-sr">facebook</span></a>
+						<a href="https://twitter.com/Business_Korea" target="_blank"><i class="fa fa-twitter fa-fw"></i><span class="show-for-sr">twitter</span></a>
+						<a href="https://plus.google.com/u/2/b/106379311912087583133/106379311912087583133/posts" target="_blank"><i class="fa fa-google-plus fa-fw"></i><span class="show-for-sr">google +</span></a>
+						<a href="http://www.linkedin.com/company/3269859" target="_blank"><i class="fa fa-linkedin fa-fw"></i><span class="show-for-sr">linkedin</span></a>
+						<a href="/rss/allEngArticle.xml" target="_blank"><i class="fa fa-rss fa-fw"></i><span class="show-for-sr">RSS</span></a>
+					</div>
+					<!--// sns -->
+				</div>
+
+				<div class="dis-table-cell user-banner">
+					<!-- 검색 //-->
+					<fieldset class="user-search">
+						<form name="head-search" method="get" action="/news/articleList.html">
+							<input type="hidden" name="sc_area" value="A">
+							<input type="hidden" name="view_type" value="sm">
+							<label class="show-for-sr" for="search">Search</label>
+							<input type="text" name="sc_word" id="search" onkeydown="if(event.keyCode==13){if(this.form.sc_word.value != ''){this.form.submit();}else{alert('Enter search term');return false;}}" placeholder="Search 비즈니스코리아 - BusinessKorea" title="search field">
+							<button type="button" title="search button" onclick="if(this.form.sc_word.value != ''){this.form.submit();}else{alert('Enter search term');this.form.sc_word.focus();return false;}"><i class="fa fa-search fa-fw"></i><span class="show-for-sr">Search</span></button>
+						</form>
+					</fieldset>
+					<!--// 검색 -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--// 로고영역 -->
+
+	<!-- 메뉴바 //-->
+	<nav id="user-nav">
+		<div id="wrapper" class="float-center max-width-1080">
+			<!-- 섹션 //-->
+			<ul class="vertical large-horizontal menu" data-responsive-menu="accordion large-dropdown" data-multi-open="false">
+									<li><a href="/news/articleList.html?sc_section_code=S1N2&view_type=sm" target="_top">News</a>
+						<ul class="vertical menu">															<li><a href="/news/articleList.html?sc_sub_section_code=S2N2&view_type=sm" target="_top">National</a></li>
+															<li><a href="/news/articleList.html?sc_sub_section_code=S2N3&view_type=sm" target="_top">Industry</a></li>
+															<li><a href="/news/articleList.html?sc_sub_section_code=S2N4&view_type=sm" target="_top">Money</a></li>
+															<li><a href="/news/articleList.html?sc_sub_section_code=S2N5&view_type=sm" target="_top">ICT</a></li>
+															<li><a href="/news/articleList.html?sc_sub_section_code=S2N6&view_type=sm" target="_top">Lifestyle</a></li>
+															<li><a href="/news/articleList.html?sc_sub_section_code=S2N7&view_type=sm" target="_top">Management</a></li>
+															<li><a href="/news/articleList.html?sc_sub_section_code=S2N9&view_type=sm" target="_top">Interviews</a></li>
+															<li><a href="/news/articleList.html?sc_sub_section_code=S2N10&view_type=sm" target="_top">Science/Tech</a></li>
+													</ul>					</li>
+									<li><a href="/news/articleList.html?sc_section_code=S1N14&view_type=sm" target="_top">SME/Startups</a>
+																								</li>
+									<li><a href="/news/articleList.html?sc_section_code=S1N3&view_type=sm" target="_top">Events</a>
+																								</li>
+									<li><a href="/news/articleList.html?sc_section_code=S1N4&view_type=sm" target="_top">Insight</a>
+																								</li>
+									<li><a href="/news/articleList.html?sc_section_code=S1N5&view_type=sm" target="_top">Op/Ed</a>
+																								</li>
+									<li><a href="/news/articleList.html?sc_section_code=S1N1&view_type=sm" target="_top">Visuals</a>
+						<ul class="vertical menu">															<li><a href="/news/articleList.html?sc_sub_section_code=S2N1&view_type=sm" target="_top">Infographics</a></li>
+													</ul>					</li>
+									<li><a href="/news/articleList.html?sc_section_code=S1N12&view_type=sm" target="_top">Special Report</a>
+																								</li>
+											</ul>
+			<!--// 섹션 -->
+		</div>
+	</nav>
+	<!--// 메뉴바 -->
+</header>
+<!--// 메뉴 끝 -->
+
+		<!-- container //-->
+		<section id="user-container" class="float-center max-width-1080">
+		
+		<!-- layer popup position  -->
+		<div id="layer-popups" class="float-center width-1080"></div>
+
+		
+<div class="float-center max-width-1080">
+	
+	<!-- 편집패널 //-->
+	<div class="clearfix">
+
+	</div>
+	<!--// 편집패널 -->
+
+	<script type="text/javascript">
+	// 기사면 상단 네비게이션 호출
+	articleHeader.setScroll();
+</script>
+
+<!-- 기사면 상단 네비게이션 //-->
+<div id="article-header-title" class="dis-none show-for-large">
+
+	<!-- NEXT/PREV 기사 버튼 //-->
+	<button type="button" onclick="javascript:articleHeader.move(
+				'prev',
+				'embargo_date',
+				'1564360014_34358',
+				'S1N2',
+				'S2N5',
+				'');" class="aht-btn prev" title="NEXT기사"><i class="fa fa-angle-left fa-fw"></i><span class="sr-only">NEXT</span></button>
+	<button type="button" onclick="javascript:articleHeader.move(
+				'next',
+				'embargo_date',
+				'1564360014_34358',
+				'S1N2',
+				'S2N5',
+				'');" class="aht-btn next" title="PREV기사"><i class="fa fa-angle-right fa-fw"></i><span class="sr-only">PREV</span></button>
+	<!--// NEXT/PREV 기사 버튼 -->
+
+	<!-- 상단 컨텐츠 //-->
+	<div class="aht-wrapper width-1080">
+		<div class="aht-columns aht-logo"><a href="http://www.businesskorea.co.kr" alt="로고"><img src="/image/logo/printlogo_20180403022517.png" alt="비즈니스코리아 - BusinessKorea" /></a></div>
+		<div class="aht-columns aht-title"><div class="aht-title-view">Samsung Electronics to Hold Foundry Forum in Japan in September</div></div>
+		<div class="aht-columns aht-options">
+			<ul class="info-options no-bullet">
+				<li><button type="button" class="options-btn has-tip" title="Share" data-open="article-sns" data-disable-hover="false" data-tooltip><i class="icon-share"></i><span class="show-for-sr">Share</span></button></li>
+				<li><button type="button" onclick="articlePrint('34358')" class="options-btn has-tip" title="Print" data-disable-hover="false" data-tooltip><i class="icon-printer"></i><span class="show-for-sr">Print</span></button></li>
+				<li><button type="button" onclick="articleMail('34358')" class="options-btn has-tip" title="Email" data-disable-hover="false" data-tooltip><i class="icon-email-b"></i><span class="show-for-sr">Email</span></button></li>
+				<li class="fonts-option">
+					<button type="button" class="fonts-btn options-btn"><i class="fa fa-font"></i><span class="show-for-sr">Fonts</span></button>
+					<ul class="fonts-option-panel no-bullet">
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size15_1" value="font-size15" title="15px"> 
+							<label for="font-size15_1">ABCDEF</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size16_1" value="font-size16" title="16px"> 
+							<label for="font-size16_1">ABCDEF</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size17_1" value="font-size17" title="17px"> 
+							<label for="font-size17_1">ABCDEF</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size18_1" value="font-size18" title="18px"> 
+							<label for="font-size18_1">ABCDEF</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size19_1" value="font-size19" title="19px"> 
+							<label for="font-size19_1">ABCDEF</label>
+						</li>
+						<li>
+							<input type="radio" name="fontsize1" class="fontsize-radio" id="font-size20_1" value="font-size20" title="20px"> 
+							<label for="font-size20_1">ABCDEF</label>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!--// 상단 컨텐츠 -->
+</div>
+<!--// 기사면 상단 네비게이션 -->
+
+<!-- 기사본문 상단 //-->
+<header class="article-view-header">
+	<!-- root //-->	
+	<nav class="article-head-nav auto-marbtm-10">
+		<a href="/">HOME</a>
+		<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_section_code=S1N2">News</a>
+						<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_sub_section_code=S2N5">ICT</a>
+					</nav>
+	<!--// root -->
+	
+	<!-- 본문제목 //-->
+	<header class="article-header-wrap">
+				<div class="article-keyker user-point">Despite Economic Tug of War between Korea and Japan</div>
+				<div class="article-head-title">Samsung Electronics to Hold Foundry Forum in Japan in September</div>
+	</header>
+	<!--// 본문제목 -->
+
+	<!-- head info //-->
+	<section class="article-head-info">
+
+		
+		<!-- info //-->
+		<div class="info-text">
+			<ul class="no-bullet auto-marbtm-0 line-height-6">
+				<li>By Kim Eun-jin</li>
+				<li><i class="fa fa-clock-o fa-fw"></i> July 29, 2019, 09:26</li>
+												<!-- <li>
+					<i class="fa fa-commenting-o fa-fw"></i> Commets 
+						0					</li> -->
+			</ul>
+		</div>
+		<!--// info -->
+
+		<ul class="info-options no-bullet">
+			<li><button type="button" class="options-btn has-tip" title="Share" data-open="article-sns" data-disable-hover="false" data-tooltip><i class="icon-share"></i><span class="show-for-sr">Share</span></button></li>
+			<li><button type="button" onclick="articlePrint('34358')" class="options-btn has-tip" title="Print" data-disable-hover="false" data-tooltip><i class="icon-printer"></i><span class="show-for-sr">Print</span></button></li>
+			<li><button type="button" onclick="articleMail('34358')" class="options-btn has-tip" title="Email" data-disable-hover="false" data-tooltip><i class="icon-email-b"></i><span class="show-for-sr">Email</span></button></li>
+			<li class="fonts-option">
+				<button type="button" class="fonts-btn options-btn"><i class="fa fa-font"></i><span class="show-for-sr">Fonts</span></button>
+				<ul class="fonts-option-panel no-bullet">
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size15_2" value="font-size15" title="15px"> 
+						<label for="font-size15_2">ABCDEF</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size16_2" value="font-size16" title="16px"> 
+						<label for="font-size16_2">ABCDEF</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size17_2" value="font-size17" title="17px"> 
+						<label for="font-size17_2">ABCDEF</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size18_2" value="font-size18" title="18px"> 
+						<label for="font-size18_2">ABCDEF</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size19_2" value="font-size19" title="19px"> 
+						<label for="font-size19_2">ABCDEF</label>
+					</li>
+					<li>
+						<input type="radio" name="fontsize2" class="fontsize-radio" id="font-size20_2" value="font-size20" title="20px"> 
+						<label for="font-size20_2">ABCDEF</label>
+					</li>
+				</ul>
+			</li>
+			<!-- li><button type="button" class="options-btn has-tip" title="번역" data-open="article-lang" data-disable-hover="false" data-tooltip><i class="fa fa-language"></i></button></li -->
+		</ul>
+
+		<div class="reveal gray" id="article-sns" data-reveal>
+			<header class="reveal-header">
+				<div class="reveal-title">Share articles</div>
+			</header>
+			<section class="reveal-container">
+				<div class="article-sns-group">
+								<button type="button" class="sns-btns" 				data-sharesns="facebook" 
+				data-title="Samsung%20Electronics%20to%20Hold%20Foundry%20Forum%20in%20Japan%20in%20September" 
+				data-url="http%3A%2F%2Fwww.businesskorea.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D34358" 
+				data-desc="Samsung%20Electronics%20will%20hold%20a%20foundry%20forum%20in%20Japan%20in%20September%20despite%20the%20worsening%20trade%20conflicts%20between%20Korea%20and%20Japan.%20Industry%20experts%20say%20that%20Samsung%20wants%20to%20deliver%20the%20message%20that%20there%20is%20no%20disruption%20to%20its%20foundry%20business%20despite%20Japan%E2%80%99s%20restrictions%20on%20exports%20of%20semiconduct" 
+				data-image="http://www.businesskorea.co.kr/news/photo/201907/34358_46296_263.png">
+				<div class="sns-btn-icons facebook"><i class="icon-facebook"></i></div>FACEBOOK			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="twitter" 
+				data-title="Samsung%20Electronics%20to%20Hold%20Foundry%20Forum%20in%20Japan%20in%20September" 
+				data-url="http%3A%2F%2Fwww.businesskorea.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D34358" 
+				data-desc="Samsung%20Electronics%20will%20hold%20a%20foundry%20forum%20in%20Japan%20in%20September%20despite%20the%20worsening%20trade%20conflicts%20between%20Korea%20and%20Japan.%20Industry%20experts%20say%20that%20Samsung%20wants%20to%20deliver%20the%20message%20that%20there%20is%20no%20disruption%20to%20its%20foundry%20business%20despite%20Japan%E2%80%99s%20restrictions%20on%20exports%20of%20semiconduct" 
+				data-image="http://www.businesskorea.co.kr/news/photo/201907/34358_46296_263.png">
+				<div class="sns-btn-icons twitter"><i class="icon-twitter"></i></div>TWITTER			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="story" 
+				data-title="Samsung%20Electronics%20to%20Hold%20Foundry%20Forum%20in%20Japan%20in%20September" 
+				data-url="http%3A%2F%2Fwww.businesskorea.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D34358" 
+				data-desc="Samsung%20Electronics%20will%20hold%20a%20foundry%20forum%20in%20Japan%20in%20September%20despite%20the%20worsening%20trade%20conflicts%20between%20Korea%20and%20Japan.%20Industry%20experts%20say%20that%20Samsung%20wants%20to%20deliver%20the%20message%20that%20there%20is%20no%20disruption%20to%20its%20foundry%20business%20despite%20Japan%E2%80%99s%20restrictions%20on%20exports%20of%20semiconduct" 
+				data-image="http://www.businesskorea.co.kr/news/photo/201907/34358_46296_263.png">
+				<div class="sns-btn-icons story"><i class="icon-story"></i></div>KAKAOSTORY			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="google" 
+				data-title="Samsung%20Electronics%20to%20Hold%20Foundry%20Forum%20in%20Japan%20in%20September" 
+				data-url="http%3A%2F%2Fwww.businesskorea.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D34358" 
+				data-desc="Samsung%20Electronics%20will%20hold%20a%20foundry%20forum%20in%20Japan%20in%20September%20despite%20the%20worsening%20trade%20conflicts%20between%20Korea%20and%20Japan.%20Industry%20experts%20say%20that%20Samsung%20wants%20to%20deliver%20the%20message%20that%20there%20is%20no%20disruption%20to%20its%20foundry%20business%20despite%20Japan%E2%80%99s%20restrictions%20on%20exports%20of%20semiconduct" 
+				data-image="http://www.businesskorea.co.kr/news/photo/201907/34358_46296_263.png">
+				<div class="sns-btn-icons google"><i class="icon-google"></i></div>GOOGLE+			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="band" 
+				data-title="Samsung%20Electronics%20to%20Hold%20Foundry%20Forum%20in%20Japan%20in%20September" 
+				data-url="http%3A%2F%2Fwww.businesskorea.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D34358" 
+				data-desc="Samsung%20Electronics%20will%20hold%20a%20foundry%20forum%20in%20Japan%20in%20September%20despite%20the%20worsening%20trade%20conflicts%20between%20Korea%20and%20Japan.%20Industry%20experts%20say%20that%20Samsung%20wants%20to%20deliver%20the%20message%20that%20there%20is%20no%20disruption%20to%20its%20foundry%20business%20despite%20Japan%E2%80%99s%20restrictions%20on%20exports%20of%20semiconduct" 
+				data-image="http://www.businesskorea.co.kr/news/photo/201907/34358_46296_263.png">
+				<div class="sns-btn-icons band"><i class="icon-band"></i></div>NAVERBAND			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="blog" 
+				data-title="Samsung%20Electronics%20to%20Hold%20Foundry%20Forum%20in%20Japan%20in%20September" 
+				data-url="http%3A%2F%2Fwww.businesskorea.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D34358" 
+				data-desc="Samsung%20Electronics%20will%20hold%20a%20foundry%20forum%20in%20Japan%20in%20September%20despite%20the%20worsening%20trade%20conflicts%20between%20Korea%20and%20Japan.%20Industry%20experts%20say%20that%20Samsung%20wants%20to%20deliver%20the%20message%20that%20there%20is%20no%20disruption%20to%20its%20foundry%20business%20despite%20Japan%E2%80%99s%20restrictions%20on%20exports%20of%20semiconduct" 
+				data-image="http://www.businesskorea.co.kr/news/photo/201907/34358_46296_263.png">
+				<div class="sns-btn-icons blog"><i class="icon-blog"></i></div>NAVERBLOG			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="pholar" 
+				data-title="Samsung%20Electronics%20to%20Hold%20Foundry%20Forum%20in%20Japan%20in%20September" 
+				data-url="http%3A%2F%2Fwww.businesskorea.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D34358" 
+				data-desc="Samsung%20Electronics%20will%20hold%20a%20foundry%20forum%20in%20Japan%20in%20September%20despite%20the%20worsening%20trade%20conflicts%20between%20Korea%20and%20Japan.%20Industry%20experts%20say%20that%20Samsung%20wants%20to%20deliver%20the%20message%20that%20there%20is%20no%20disruption%20to%20its%20foundry%20business%20despite%20Japan%E2%80%99s%20restrictions%20on%20exports%20of%20semiconduct" 
+				data-image="http://www.businesskorea.co.kr/news/photo/201907/34358_46296_263.png">
+				<div class="sns-btn-icons pholar"><i class="icon-pholar"></i></div>NAVERPHOLAR			</button>
+			<button type="button" class="sns-btns" 				data-sharesns="pinterest" 
+				data-title="Samsung%20Electronics%20to%20Hold%20Foundry%20Forum%20in%20Japan%20in%20September" 
+				data-url="http%3A%2F%2Fwww.businesskorea.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D34358" 
+				data-desc="Samsung%20Electronics%20will%20hold%20a%20foundry%20forum%20in%20Japan%20in%20September%20despite%20the%20worsening%20trade%20conflicts%20between%20Korea%20and%20Japan.%20Industry%20experts%20say%20that%20Samsung%20wants%20to%20deliver%20the%20message%20that%20there%20is%20no%20disruption%20to%20its%20foundry%20business%20despite%20Japan%E2%80%99s%20restrictions%20on%20exports%20of%20semiconduct" 
+				data-image="http://www.businesskorea.co.kr/news/photo/201907/34358_46296_263.png">
+				<div class="sns-btn-icons pinterest"><i class="icon-pinterest"></i></div>PINTEREST			</button>
+			<button type="button" class="sns-btns" id='sns-url-copy-button'				data-sharesns="http" 
+				data-title="Samsung%20Electronics%20to%20Hold%20Foundry%20Forum%20in%20Japan%20in%20September" 
+				data-url="http%3A%2F%2Fwww.businesskorea.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D34358" 
+				data-desc="Samsung%20Electronics%20will%20hold%20a%20foundry%20forum%20in%20Japan%20in%20September%20despite%20the%20worsening%20trade%20conflicts%20between%20Korea%20and%20Japan.%20Industry%20experts%20say%20that%20Samsung%20wants%20to%20deliver%20the%20message%20that%20there%20is%20no%20disruption%20to%20its%20foundry%20business%20despite%20Japan%E2%80%99s%20restrictions%20on%20exports%20of%20semiconduct" 
+				data-image="http://www.businesskorea.co.kr/news/photo/201907/34358_46296_263.png">
+				<div class="sns-btn-icons user-bg"><i class="icon-http"></i></div>URL COPY			</button>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script src="/script/share.sns.js"></script>
+<script>
+	var site_ismobile		= '';			// 현재 모바일접속 여부
+	var kakaojavascriptkey	= '';	// 카카오앱 자바스크립트키
+
+	$(document).ready(function(e) {
+
+		if(kakaojavascriptkey) kakaoinit(kakaojavascriptkey);
+
+		$('#article-sns').on('click', '.sns-btns', function(e) {
+			
+			var sns		= $(this).data('sharesns');
+			var title	= $(this).data('title');
+			var desc	= $(this).data('desc');
+			var url		= $(this).data('url');
+			var img		= $(this).data('image');
+
+			if(sns == "talk") {
+				if(!site_ismobile) {
+					alert("PC 웹에서 지원하지 않습니다.");
+					return false;
+				}
+				sendKakaoTalk(url, title, desc, img);
+			}else if(sns == "story") {
+				shareStory(url, title, desc, img);
+			}else if(sns == "http") {
+				new Clipboard('#sns-url-copy-button', {
+					text: function(trigger) {
+						return decodeURIComponent($(trigger).data('url'));
+					}
+				});
+				alert("Copyed");
+			}else if(sns == "band") {
+				shareBand(url, title);
+			}else{
+				shareOtherSNS(sns, title, url, img);
+			}
+		});
+	});
+</script>				</div>
+			</section>
+			
+			<!-- close //-->
+			<button class="close-button" data-close aria-label="Close modal" type="button">
+				<span aria-hidden="true">&times;</span>
+			</button>
+			<!--// close -->
+		</div>
+
+	</section>
+
+	
+</header>
+<!--// 기사본문 상단 -->
+
+
+	<hr>
+
+	<!-- article view wrapper //-->
+	<div class="user-content">
+
+		<!-- 기사본문 내용 //-->
+		<section class="user-snb">	
+			<div class="user-snb-wrapper">
+				<!-- contents //-->
+				<article class="article-veiw-body view-page">
+					<!-- 편집패널 //-->
+					<div class="clearfix">
+
+					</div>
+					<!--// 편집패널 -->
+
+					<div id="article-view-content-div" class="" itemprop="articleBody">
+
+		
+		
+	<div style="text-align:center">
+<figure class="photo-layout image photo_46296 max-width-544 float-center" data-idxno="46296" data-type="photo" style="display:inline-block"><img alt="" src="/news/photo/201907/34358_46296_263.png" /><lt-highlighter contenteditable="false"><lt-div class="lt-highlighter__wrapper" spellcheck="false" style="width: 651.844px !important; height: 26.6667px !important; margin-top: 261px !important;"><canvas class="lt-highlighter__canvas" height="27" style="margin-top: 0px !important; margin-left: 0px !important;" width="651"></canvas></lt-div></lt-highlighter>
+<figcaption data-gramm="false" spellcheck="false">Samsung Electronics will hold a foundry forum in Japan in September as scheduled.</figcaption>
+</figure>
+</div>
+
+<p>Samsung Electronics will hold a foundry forum in Japan in September despite the worsening trade conflicts between Korea and Japan. Industry experts say that Samsung wants to deliver the message that there is no disruption to its foundry business despite Japan&rsquo;s restrictions on exports of semiconductor materials to Korea.</p>
+
+<p>The company announced on July 28 that the Samsung Foundry Forum (SFF) 2019 Japan will be held as scheduled on Sept. 4 at Intercity Hall in Shinagawa, Tokyo. It has been receiving applications from those who want to take part in the event through its website from July 26.</p>
+
+<p><br />
+Samsung Electronics will showcase its proprietary nanofabrication technology and offer a gate-all-around (GAA) process kit. The GAA technology will be used for fabrication of 3 nm or lower semiconductors. Samsung is said to be one year ahead of TSMC, the world&#39;s No. 1 foundry, and two to three years ahead of Intel, in GAA technology.</p>
+
+<p>Samsung Electronics held a foundry forum in the United States in May, in Shanghai, China in June, and in Seoul in July. The event in Tokyo will be followed by another in Munich, Germany in October.</p>
+
+<p>Following the Japanese government&rsquo;s decision on July 4 to restrict exports of core semiconductor materials, industry watchers questions whether Samsung Electronics would be able to hold the event as scheduled. However, Samsung has decided to hold it as scheduled.</p>
+
+<p>In particular, as Samsung&rsquo;s foundry business is most vulnerable to Japan&#39;s export regulations, Samsung&rsquo;s decision not to call off the forum in Japan shows its strong will to nurture the non-memory business. Photoresists, which are one of the items subject to Japan&rsquo;s export control, are used as a core material for extreme ultraviolet (EUV) exposure equipment that draws circuit patterns in the foundry process.</p>
+<lt-toolbar contenteditable="false"><lt-div class="lt-toolbar__wrapper lt-toolbar-small" style="left: 727px; position: absolute !important; top: 305px !important; bottom: auto !important; z-index: auto;"><lt-div class="lt-toolbar__premium-icon"></lt-div><lt-div class="lt-toolbar__status-icon lt-toolbar__status-icon-has-no-errors" title="LanguageTool - Spelling and Grammar Check"></lt-div></lt-div></lt-toolbar>
+
+		
+
+</div>
+					<!-- 편집패널 //-->
+					<div class="clearfix">
+
+					</div>
+					<!--// 편집패널 -->
+				</article>
+				<!--// contents -->
+
+				<hr>
+
+
+				<!-- 편집패널 //-->
+				<div class="clearfix">
+
+				</div>
+				<!--// 편집패널 -->
+
+				
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://businesskorea.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+
+
+
+
+				<!-- 편집패널 //-->
+				<div class="clearfix">
+
+				</div>
+				<!--// 편집패널 -->
+
+			</div>
+		</section>
+		<!--// 기사본문 내용 -->
+
+		<!-- 기사본문 우측 //-->
+		<aside class="user-aside">
+<article class="box-skin design-7">
+<header class="header"><strong>POPULAR</strong></header>
+<section class="content"><div class="auto-article auto-db01">
+<ul><li class="clearfix"><div class="number count1 user-bg">1</div><a href="/news/articleView.html?idxno=34252" target="_top" class="size-14 line-height-4-x auto-fontA onload">Hyundai Engineering Lands US$534 Mil. Power Plant Project in Guam</a></li>
+<li class="clearfix auto-martop-8"><div class="number count2 user-bg">2</div><a href="/news/articleView.html?idxno=34083" target="_top" class="size-14 line-height-4-x auto-fontA onload">S. Korea To Build World's Biggest Floating Solar Power Plant on Saemangeum Lake</a></li>
+<li class="clearfix auto-martop-8"><div class="number count3 user-bg">3</div><a href="/news/articleView.html?idxno=34026" target="_top" class="size-14 line-height-4-x auto-fontA onload">Hyundai Motor Pushing to Produce Kona Electric in Czech Factory</a></li>
+<li class="clearfix auto-martop-8"><div class="number count4 default-bg">4</div><a href="/news/articleView.html?idxno=34129" target="_top" class="size-14 line-height-4-x auto-fontA onload">KAIST, Google Join Hands to Train Experts in Artificial Intelligence</a></li>
+<li class="clearfix auto-martop-8"><div class="number count5 default-bg">5</div><a href="/news/articleView.html?idxno=33973" target="_top" class="size-14 line-height-4-x auto-fontA onload">BofA Merrill Lynch Branch in Seoul Fined for High-frequency Trading</a></li>
+<li class="clearfix auto-martop-8"><div class="number count6 default-bg">6</div><a href="/news/articleView.html?idxno=34175" target="_top" class="size-14 line-height-4-x auto-fontA onload">Japan’s Economic Retaliation Likely to Cover Semiconductor Manufacturing Equipment</a></li>
+<li class="clearfix auto-martop-8"><div class="number count7 default-bg">7</div><a href="/news/articleView.html?idxno=34306" target="_top" class="size-14 line-height-4-x auto-fontA onload">LG Electronics Registers New Names for Foldable Smartphones</a></li>
+<li class="clearfix auto-martop-8"><div class="number count8 default-bg">8</div><a href="/news/articleView.html?idxno=34303" target="_top" class="size-14 line-height-4-x auto-fontA onload">SK Telecom Puts Blockchain Business Front and Center</a></li>
+<li class="clearfix auto-martop-8"><div class="number count9 default-bg">9</div><a href="/news/articleView.html?idxno=34282" target="_top" class="size-14 line-height-4-x auto-fontA onload">The Coffee Bean & Tea Leaf Sold to Philippines' Jollibee and Vietnam's Viet Thai</a></li>
+<li class="clearfix auto-martop-8"><div class="number count10 default-bg">10</div><a href="/news/articleView.html?idxno=34250" target="_top" class="size-14 line-height-4-x auto-fontA onload">LG Electronics Launches LG Pay in U.S. Market</a></li>
+</ul>
+</div></section>
+</article><div class="box-margins height-35"></div><article class="box-skin design-7">
+<header class="header"><strong>LATEST</strong></header>
+<section class="content"><div class="auto-article auto-dl04">
+<ul><li class="auto-column">
+		<div class="size-14 auto-padbtm-8"><a href="/news/articleView.html?idxno=34433" target="_top" class="line-height-3-2x auto-fontA onload">Credit card sales of Japanese Retailers Falling due to Koreans’ Boycott of Japanese Goods</a></div><a href="/news/articleView.html?idxno=34433" target="_top" class="auto-images cover line max-width-165 height-100" style="background-image:url(/news/thumbnail/201907/34433_46382_2731_v150.jpg)">
+				<span class="show-for-sr">Credit card sales of Japanese Retailers Falling due to Koreans’ Boycott of Japanese Goods</span>
+			</a></li>
+<li class="auto-column auto-padtop-25">
+		<div class="size-14 auto-padbtm-8"><a href="/news/articleView.html?idxno=34432" target="_top" class="line-height-3-2x auto-fontA onload">Global Competitors Galloping while Korean Firms Are Hobbled by Obstacles</a></div><a href="/news/articleView.html?idxno=34432" target="_top" class="auto-images cover line max-width-165 height-100" style="background-image:url(/news/thumbnail/201907/34432_46381_98_v150.jpg)">
+				<span class="show-for-sr">Global Competitors Galloping while Korean Firms Are Hobbled by Obstacles</span>
+			</a></li>
+<li class="auto-column auto-padtop-25">
+		<div class="size-14 auto-padbtm-8"><a href="/news/articleView.html?idxno=34424" target="_top" class="line-height-3-2x auto-fontA onload">S. Korean Investors’ Offshore Securities Transactions Reach 100 Tril. Won in H1</a></div><a href="/news/articleView.html?idxno=34424" target="_top" class="auto-images cover line max-width-165 height-100" style="background-image:url(/news/thumbnail/201907/34424_46368_26_v150.jpg)">
+				<span class="show-for-sr">S. Korean Investors’ Offshore Securities Transactions Reach 100 Tril. Won in H1</span>
+			</a></li>
+<li class="auto-column auto-padtop-25">
+		<div class="size-14 auto-padbtm-8"><a href="/news/articleView.html?idxno=34423" target="_top" class="line-height-3-2x auto-fontA onload">S. Korean Investors Acquiring Properties in Eastern and Northern Europe</a></div><a href="/news/articleView.html?idxno=34423" target="_top" class="auto-images cover line max-width-165 height-100" style="background-image:url(/news/thumbnail/201907/34423_46367_5914_v150.jpg)">
+				<span class="show-for-sr">S. Korean Investors Acquiring Properties in Eastern and Northern Europe</span>
+			</a></li>
+<li class="auto-column auto-padtop-25">
+		<div class="size-14 auto-padbtm-8"><a href="/news/articleView.html?idxno=34410" target="_top" class="line-height-3-2x auto-fontA onload">Hyundai Motor Transforming Chongqing Factory into Electric Vehicle Plant</a></div><a href="/news/articleView.html?idxno=34410" target="_top" class="auto-images cover line max-width-165 height-100" style="background-image:url(/news/thumbnail/201907/34410_46353_4531_v150.jpg)">
+				<span class="show-for-sr">Hyundai Motor Transforming Chongqing Factory into Electric Vehicle Plant</span>
+			</a></li>
+<li class="auto-column auto-padtop-25">
+		<div class="size-14 auto-padbtm-8"><a href="/news/articleView.html?idxno=34409" target="_top" class="line-height-3-2x auto-fontA onload">Samsung Electronics Seeking to Stay Ahead of the Game with 8K TVs</a></div><a href="/news/articleView.html?idxno=34409" target="_top" class="auto-images cover line max-width-165 height-100" style="background-image:url(/news/thumbnail/201907/34409_46351_1420_v150.jpg)">
+				<span class="show-for-sr">Samsung Electronics Seeking to Stay Ahead of the Game with 8K TVs</span>
+			</a></li>
+<li class="auto-column auto-padtop-25">
+		<div class="size-14 auto-padbtm-8"><a href="/news/articleView.html?idxno=34394" target="_top" class="line-height-3-2x auto-fontA onload">LG Household & Health Care Reports Record High Q2 Results</a></div><a href="/news/articleView.html?idxno=34394" target="_top" class="auto-images cover line max-width-165 height-100" style="background-image:url(/news/thumbnail/201907/34394_46338_3047_v150.jpg)">
+				<span class="show-for-sr">LG Household & Health Care Reports Record High Q2 Results</span>
+			</a></li>
+<li class="auto-column auto-padtop-25">
+		<div class="size-14 auto-padbtm-8"><a href="/news/articleView.html?idxno=34384" target="_top" class="line-height-3-2x auto-fontA onload">Korea IT Service Firms Looking for Opportunities in Southeast Asia</a></div><a href="/news/articleView.html?idxno=34384" target="_top" class="auto-images cover line max-width-165 height-100" style="background-image:url(/news/thumbnail/201907/34384_46324_5048_v150.jpg)">
+				<span class="show-for-sr">Korea IT Service Firms Looking for Opportunities in Southeast Asia</span>
+			</a></li>
+<li class="auto-column auto-padtop-25">
+		<div class="size-14 auto-padbtm-8"><a href="/news/articleView.html?idxno=34369" target="_top" class="line-height-3-2x auto-fontA onload">Foreigners Enrolled in National Health Insurance Estimated at 1.2 Mil.</a></div><a href="/news/articleView.html?idxno=34369" target="_top" class="auto-images cover line max-width-165 height-100" style="background-image:url(/news/thumbnail/201907/34369_46306_217_v150.jpg)">
+				<span class="show-for-sr">Foreigners Enrolled in National Health Insurance Estimated at 1.2 Mil.</span>
+			</a></li>
+</ul>
+</div></section>
+</article><div class="box-margins height-35"></div>
+		</aside>
+		<!--// 기사본문 우측 -->
+	</div>
+	<!--// article view wrapper -->
+
+	<!-- 편집패널 //-->
+	<div class="auto-martop-20 clearfix">
+
+	</div>
+	<!--// 편집패널 -->
+</div>
+		</section>
+		<!--// container -->
+
+		 
+
+<!-- footer //-->
+<footer id="user-footer" class="response">
+	<div class="float-center max-width-1080">
+		<!-- nav //-->
+		<nav class="footer-nav">
+			<a href="/com/com-1.html">About US</a>
+			<a href="/com/jb.html" class="show-for-medium">Contact Us</a>
+			<a href="/pdf/list.html" class="show-for-medium">Print Editions</a>
+			<a href="/com/kd.html" class="show-for-medium">Subscribe</a>
+			<a href="/com/privacy.html">Privacy Policy</a>
+			<a href="/com/youthpolicy.html">Youth Policy</a>
+			<a href="/rss/" class="show-for-medium">RSS</a>
+		</nav>
+		<!--// nav -->
+
+		<!-- content //-->
+		<div class="footer-content">
+			<div class="footer-cell">
+				<div class="user-logo"><img src="/image/logo/downlogo_20180403115712.png" alt="비즈니스코리아 - BusinessKorea" /></div>
+				<ul class="address">
+					<li>C<a href="http://www.businesskorea.co.kr/admin/adminLoginForm.html" class="deco-none">o</a>pyright © 2013-2019 비즈니스코리아 - BusinessKorea Co., Ltd.</li>
+					<li>3rd Fl. Samdo Building, 12-1, Yeoido-dong, Yeongdeungpo-gu, Seoul, Korea 150-01</li>
+					<li>Tel : +82-2-578-3220</li>
+					<li>Fax : +82-2-578-3224</li>
+					<li>Email : <a href="mailto:contact@businesskorea.co.kr" class="deco-none">contact@businesskorea.co.kr</a></li>
+				</ul>
+			</div>
+			<div class="footer-cell small">
+				<!-- sns //-->
+				<div class="user-sns">
+					<div class="titles">Social Links</div>
+					<ul class="lists">
+						<li><a href="https://www.facebook.com/BusinessKoreaMagazine" target="_blank"><i class="fa fa-facebook fa-fw"></i> <span class="text">Facebook</span></a></li>
+						<li><a href="https://twitter.com/Business_Korea" target="_blank"><i class="fa fa-twitter fa-fw"></i> <span class="text">Twitter</span></a></li>
+						<li><a href="https://plus.google.com/u/2/b/106379311912087583133/106379311912087583133/posts" target="_blank"><i class="fa fa-google-plus fa-fw"></i> <span class="text">Google+</span></a></li>
+						<li><a href="http://www.linkedin.com/company/3269859" target="_blank"><i class="fa fa-linkedin fa-fw"></i> <span class="text">Linkedin</span></a></li>
+						<li><a href="/rss/" target="_top"><i class="fa fa-rss fa-fw"></i> <span class="text">RSS</span></a></li>
+					</ul>
+				</div>
+				<!--// sns -->
+			</div>
+
+			<a href="http://www.ndsoft.co.kr/" target="_blank" class="ndsoft"><img src="/image/ndsoft.gif" alt="powerd by NDsoft"></a>		
+		</div>
+		<!--// content -->
+	</div>
+</footer>
+<!--// footer -->
+
+ 
+	</div>
+</div>
+<!--// wrap -->
+
+<!-- back to the top //-->
+<button type="button" id="back-to-top" class="back-to-top for-mobile" title="위로"><i class="s7-angle-up"></i><span class="show-for-sr">위로</span></button>
+<!--// back to the top -->
+
+<script type="text/javascript">
+<!--
+// back to the top		
+$(document).scroll(function(){
+	var sDocumentHeight = $(document).height() - $(window).height();
+	if($(document).scrollTop() > 0){	
+		$('#back-to-top').fadeIn();
+	}else{
+		$('#back-to-top').fadeOut();
+	}
+});
+
+$('#back-to-top').click(function(){
+	$('html, body').animate( {scrollTop:0}, 100);
+});
+//-->
+</script>
+
+<script>
+// Popup Json
+var ___popup = [];
+bannerpop.popup();
+</script>
+</body>
+</html>

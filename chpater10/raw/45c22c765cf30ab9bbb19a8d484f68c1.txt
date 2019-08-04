@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="googlebot" content="noarchive">
+
+		<base src="https://www.themoscowtimes.com/" />
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="theme-color" content="#5882b5">
+		<link rel="shortcut icon" href="https://static.themoscowtimes.com/img/icons/favicon.ico">
+
+		<link rel="publisher" href="https://plus.google.com/114467228383524488842"/>
+
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon-precomposed" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-57x57.png">
+
+		<meta property="og:site_name" content="The Moscow Times"/>
+
+		<meta property="fb:admins" content="1190953093,691361317"/>
+		<meta property="fb:app_id" content="1446863628952411"/>
+
+		<meta name="twitter:site" content="@MoscowTimes">
+		<meta name="twitter:creator" content="@MoscowTimes">
+		<meta property="twitter:account_id" content="19527964">
+		<meta name="twitter:card" content="summary_large_image"> <!-- or summary -->
+
+		
+<title>Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor - The Moscow Times</title>
+
+	<link rel="canonical" href="https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601">
+
+	<meta name="keywords" content="Navalny,Kremlin,Opposition">
+	<meta name="news_keywords" content="Navalny,Kremlin,Opposition">
+	<meta name="description" content="His spokeswoman said he had never previously experienced allergic symptoms.">
+	<meta name="thumbnail" content="https://static.themoscowtimes.com/image/320/c3/TASS_34563752.jpg">
+	<meta name="author" content="Reuters">
+
+	<meta property="og:url" content="https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601">
+	<meta property="og:title" content="Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor - The Moscow Times">
+	<meta property="og:description" content="His spokeswoman said he had never previously experienced allergic symptoms.">
+	<meta property="og:image" content="https://static.themoscowtimes.com/image/1360/c3/TASS_34563752.jpg">
+	<meta property="og:image:width" content="1360">
+	<meta property="og:image:height" content="1304">
+	<meta property="article:author" content="Reuters">
+	<meta property="article:content_tier" content="free">
+	<meta property="article:modified_time" content="2019-07-30T09:56:06+02:00">
+	<meta property="article:published_time" content="2019-07-28T23:01:00+02:00">
+	<meta property="article:publisher" content="https://www.facebook.com/MoscowTimes">
+	<meta property="article:section" content="news">
+	<meta property="article:tag" content="Navalny,Kremlin,Opposition">
+	<meta property="twitter:title" content="Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor">
+	<meta property="twitter:description" content="His spokeswoman said he had never previously experienced allergic symptoms.">
+	<meta property="twitter:image:src" content="https://static.themoscowtimes.com/image/1360/c3/TASS_34563752.jpg">
+
+
+<script type="application/ld+json" data-json-ld-for-pagemetadata>
+	{"@context":"http:\/\/schema.org\/","@type":"NewsArticle","dateCreated":"2019-07-28T13:04:58+02:00","datePublished":"2019-07-28T23:01:00+02:00","dateModified":"2019-07-30T09:56:06+02:00","name":"Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor","headline":"Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor","description":"His spokeswoman said he had never previously experienced allergic symptoms.","keywords":"Navalny,Kremlin,Opposition","articleSection":"news","isAccessibleForFree":true,"mainEntityOfPage":"https:\/\/www.themoscowtimes.com\/2019\/07\/28\/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601","url":"https:\/\/www.themoscowtimes.com\/2019\/07\/28\/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601","thumbnailUrl":"https:\/\/static.themoscowtimes.com\/image\/320\/c3\/TASS_34563752.jpg","image":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/image\/1360\/c3\/TASS_34563752.jpg","width":1360,"height":1304},"publisher":{"@type":"Organization","name":"The Moscow Times","logo":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/img\/logo.png","width":50,"height":50}},"inLanguage":{"@type":"Language","name":"English","alternateName":"English"},"creator":"Reuters","author":{"@type":"Person","name":"Reuters","description":null,"image":"https:\/\/static.themoscowtimes.com\/avatar_default.jpg","url":"https:\/\/www.themoscowtimes.com\/author\/reuters"}}</script>
+		<!-- load stylesheets -->
+		<link type="text/css" href="https://static.themoscowtimes.com/css/main.css?v=12" rel="stylesheet" media="screen" />
+		<!-- Other CSS assets -->
+		
+		<link rel="dns-prefetch" href="//www.google-analytics.com"/>
+
+		<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "NewsMediaOrganization",
+			"address": {
+				"@type": "PostalAddress",
+				"addressCountry": "RU",
+				"addressLocality": "Moscow",
+				"postalCode": "125167",
+				"streetAddress": "Leningradsky Prospekt 39"
+			},
+			"name": "The Moscow Times",
+			"email": "general@themoscowtimes.com",
+			"telephone": "+7 495 139 25 56",
+			"url": "https://themoscowtimes.com",
+			"logo": "https://static.themoscowtimes.com/img/logo_1280.png"
+		}
+		</script>
+
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TR8JKK');</script>
+<!-- End Google Tag Manager -->	</head>
+
+
+	<body class="article-item" y-use="Main">
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TR8JKK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Start GPT Async Tag -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+
+<!-- Yourbow adx -->
+<script  type="text/javascript" src="https://static.themoscowtimes.com/js/vendor/yourbow.js"></script>
+
+<script>
+var gptadslots = [];
+var googletag = googletag || {cmd:[]};
+
+googletag.cmd.push(function() {
+
+
+// Banner at the top of the page
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/billboard_top', [[728, 90], [970, 90], [980, 120], [970, 250]], 'ad-top')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([728, 0], [[728, 90]])
+.addSize([1024, 0], [[728, 90], [970, 90], [980, 120], [970, 250]])
+.build())
+.addService(googletag.pubads()));
+
+
+// first sidebar banner on the homepage (dont show 300x600)
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/sidebar_home', [[300,250],[336,280]], 'ad-aside-home')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([320, 0], [[300, 250], [336, 280]])
+.addSize([1024, 0], [[300, 250], [336, 280]])
+.build())
+.addService(googletag.pubads()));
+
+// Mobile banner above Highligts 
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/mobile_above_highlights_home', [[300,250],[336,280],[320, 100],[728, 90]], 'ad-above-highlights-home')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([320, 0], [[300, 250], [336, 280], [320, 100]])
+.addSize([728, 0], [[728, 90]])
+.addSize([1024, 0], [])
+.build())
+.addService(googletag.pubads()));
+
+// banner in the sidebars
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/sidebar_top', [[300,250],[336,280],[300,600]], 'ad-aside')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([320, 0], [[300, 250], [336, 280]])
+.addSize([1024, 0], [[300, 250], [336, 280],[300, 600]])
+.build())
+.addService(googletag.pubads()));
+
+// sitewide banner at the bottom
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/billboard_bottom', [[300, 250], [336, 280], [320, 100], [728, 90], [970, 90], [980, 120], [970, 250]], 'ad-bottom')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([320, 0], [[300, 250], [336, 280], [320, 100]])
+.addSize([728, 0], [[728, 90]])
+.addSize([1024, 0], [[728, 90], [970, 90], [980, 120], [970, 250]])
+.build())
+.addService(googletag.pubads()));
+
+// sitewide banner at the bottom used on homepage after meanwhile
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/billboard_bottom_2', [[300, 250], [336, 280], [320, 100], [728, 90], [970, 90], [980, 120], [970, 250]], 'ad-bottom-2')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([320, 0], [[300, 250], [336, 280], [320, 100]])
+.addSize([728, 0], [[728, 90]])
+.addSize([1024, 0], [[728, 90], [970, 90], [980, 120], [970, 250]])
+.build())
+.addService(googletag.pubads()));
+
+
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().setCentering(true);
+googletag.enableServices();
+});
+</script>
+
+		
+
+		<div class="container--full" y-name="banner">
+	<div class="preheader_advert py-2">
+						<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div id=\&quot;ad-top\&quot;&gt;&lt;\/div&gt;\n&lt;script&gt;\ngoogletag.cmd.push(function() { googletag.display(&#039;ad-top&#039;)});\n &lt;\/script&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+		</div>
+</div>
+	<div class="container">
+		<div class="site-header py-3 hidden-xs">
+	<a href="https://www.themoscowtimes.com/" class="site-header__logo" title="Home" >
+		<img src="https://static.themoscowtimes.com/img/logo_1280.png" />
+	</a>
+	
+		<div class="contribute-teaser hidden-xs">
+		<div class="contribute-teaser__cta mb-1">Support The Moscow Times!</div>
+		<a class="contribute-teaser__button" href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=internal-header" class="contribute-teaser__cta">Contribute today</a>
+	</div>
+
+
+</div>	</div>
+	<div class="container">
+		
+<div class="navigation" y-use="Navigation">
+
+	
+<div class="nav-expanded" style="display: none;" y-name="expanded">
+	<div class="nav-overlay"></div>
+	<div class="nav-container" y-name="container">
+		<div class="container">
+			<div class="nav-container__inner">
+				<div class="nav-expanded__header">
+					<div class="nav-expanded__close" y-name="close">&times;</div>
+				</div>
+				<nav class="">
+					<ul class="depth-0" >
+
+<li class="has-child" >
+<a href="#" >Sections</a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="/" >Home</a>
+</li>
+
+<li class="" >
+<a href="/news" >News</a>
+</li>
+
+<li class="" >
+<a href="/opinion" >Opinion</a>
+</li>
+
+<li class="" >
+<a href="/business" >Business</a>
+</li>
+
+<li class="" >
+<a href="/meanwhile" >Meanwhile</a>
+</li>
+
+<li class="" >
+<a href="/arts-and-life" >Arts and Life</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="has-child" >
+<a href="#" ></a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="" >
+<a href="/videos" >Videos</a>
+</li>
+
+<li class="" >
+<a href="/galleries" >Galleries</a>
+</li>
+
+<li class="" >
+<a href="/#newsletter"  target="_blank">Newsletter</a>
+</li>
+
+<li class="" >
+<a href="/in-print" >Print Editions</a>
+</li>
+
+<li class="" >
+<a href="https://offline.themoscowtimes.com/#/"  target="_blank">TMT Offline</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="has-child" >
+<a href="#" >Multimedia projects</a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="https://mothersanddaughters.themoscowtimes.com/" >Mothers &amp; Daughters</a>
+</li>
+
+<li class="" >
+<a href="https://generationp.themoscowtimes.com/" >Generation P</a>
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+	<nav class="nav-top">
+		<div class="menu-trigger" y-name="open"><i class="fa fa-reorder"></i></div>
+		<div class="nav-top__logo--xs hidden-sm-up">
+			<a href="https://www.themoscowtimes.com/" class="site-header__logo " title="Home" >
+				<img src="https://static.themoscowtimes.com/img/logo_1280.png" />
+			</a>
+		</div>
+		
+		<ul class="nav-top__list" >
+
+<li class="" >
+<a href="/news" >News</a>
+</li>
+
+<li class="" >
+<a href="/opinion" >Opinion</a>
+</li>
+
+<li class="" >
+<a href="/business" >Business</a>
+</li>
+
+<li class="" >
+<a href="/meanwhile" >Meanwhile</a>
+</li>
+
+<li class="" >
+<a href="/arts-and-life" >Arts and Life</a>
+</li>
+
+<li class="" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="" >
+<a href="/videos" >Videos</a>
+</li>
+
+</ul>
+		<div class="nav-top__search pull-right" y-use="Search" data-url="https://www.themoscowtimes.com/search/{{query}}">
+			<input type="text" y-name="query" placeholder="What are you searching for?" style="display:none" />
+			<span y-name="search" class="nav-top__search-trigger"><i class="fa fa-search"></i></span>
+		</div>
+	</nav>	
+</div>
+	</div>
+	<div class="container">
+		 	<div class="contribute-teaser-mobile hidden-sm-up">
+		<div class="contribute-teaser-mobile__cta">
+			<span>Support The Moscow Times!</span>
+		</div>
+		<div class="contribute-teaser-mobile__container">
+			<a class="contribute-teaser-mobile__container__button" href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=internal-header-mobile" class="contribute-teaser__cta">Contribute today</a>
+		</div>
+		
+	</div>
+
+
+
+ 	</div>
+	
+	<!--[[[article:66601]]]-->
+
+	<div class="gtm-section gtm-type" data-section="news" data-type="default">
+		<!-- Google Tag Manager places Streamads based on these classes -->
+	</div>
+
+			<div class="container">
+			
+
+			<div class="row-flex gutter-3">
+				<div class="col" >
+
+					<article class="article article--news">
+
+			
+						<header class="article__header ">
+														<h1>Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor</h1>
+							<h2></h2>
+						</header>
+						
+
+						<div class="article__byline ">
+							<div class="row-flex">
+								<div class="col">
+									<div class="article__byline__details">
+
+																																																						
+										<div class="byline__details__column">
+											<div class="article__author">
+																																					By																											<a href="https://www.themoscowtimes.com/author/reuters" class="article__author__name" title="Reuters">Reuters</a>
+																																																	</div>
+											<time class="article__datetime timeago" datetime="2019-07-28T23:01:00+02:00" y-use="Timeago">
+												July 28, 2019											</time>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-auto" >
+									<div class="article__byline__social">
+									<div class="social">
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601" class="social__icon social__icon--facebook" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+	<a href="https://twitter.com/intent/tweet/?url=https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601&text=Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor" class="social__icon social__icon--twitter" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+	<a href="https://telegram.me/share/url?url=https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601" class="social__icon social__icon--telegram" target="_blank" title="Share on Telegram"><i class="fa fa-paper-plane"></i></a>
+	<a href="https://wa.me/?text=https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601" class="social__icon social__icon--whatsapp"><i class="fa fa-whatsapp" target="_blank" title="Share on WhatsApp"></i></a>
+</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						
+
+
+													<figure class="article__featured-image featured-image" >
+								<img src="https://static.themoscowtimes.com/image/article_1360/c3/TASS_34563752.jpg" />
+																	<figcaption class="">
+										<span class="article__featured-image__caption featured-image__caption">
+																					</span>
+										<span class="article__featured-image__credits featured-image__credits">
+											Pavel Golovkin / TASS											</span>
+									</figcaption>
+															</figure>
+						
+
+						<div class="article__content-container">
+							<div class="article__content">
+
+																											<div class="article__block article__block--html article__block--column ">
+											<p><span class="highlight" data-qa-component="highlight-text">Russia</span>n opposition leader Alexei Navalny was hospitalized on Sunday after suffering an acute allergic reaction which one doctor said may have been the result of him being poisoned with an unknown chemical substance.</p>
+<p>Navalny, 43, was rushed to hospital on Sunday morning from jail where he is serving a 30-day sentence for violating tough protest laws, a day after police in Moscow detained over 1,000 people for an illegal demonstration which Navalny called for.</p>
+<p>His spokeswoman Kira Yarmysh said Navalny had signs of an acute allergy with "severe swelling of the face and skin redness."</p>
+<p>Doctors at the hospital treating him have yet to publicly disclose their diagnosis and the precise cause of his symptoms remains unknown.</p>
+<p>But one doctor who has treated him in the past and was able to briefly speak to him and look at him through the crack of a door on Sunday said she could not rule out that he had been poisoned.</p>
+<p>"We cannot rule out that toxic damage to the skin and mucous membranes by an unknown chemical substance was inflicted with the help of a 'third party'," Anastasia Vasilyeva, the doctor, wrote on Facebook.</p>																					</div>
+																			<div class="article__block article__block--article article__block--column ">
+													<aside class="article__related-article">
+		<h6 class="label related-article__label label--default">news</h6>
+		<a class="related-article__inner" href="https://www.themoscowtimes.com/2019/07/30/russian-police-detain-over-1000-protesters-moscow-opposition-rally" title="Police Detain Over 1000 in Crackdown on Moscow Elections Protest">
+			<h3 class="related-article__title">
+				Police Detain Over 1000 in Crackdown on Moscow Elections Protest			</h3>
+			<span class="related-article__cta">Read more</span>
+		</a>
+	</aside>
+
+
+
+																							   												   																					</div>
+																			<div class="article__block article__block--html article__block--column ">
+											 <p>Vasilyeva, who said Navalny had a rash on his upper body, skin lesions, and discharge from his eye, called for samples of Navalny's bed sheets, skin and hair to be tested for chemicals.</p>
+<p>She said she found the fact that she had not been allowed to examine him properly suspicious.</p>
+<p>The Moscow hospital where Navalny's spokeswoman said he was being treated could not be reached for comment.</p>
+<p>Separately, Navalny's lawyer, Olga Mikhailova, wrote on Facebook on Sunday evening that doctors did not know what was wrong with her client, but that she deemed his symptoms strange given that he had never suffered from allergies in the past.</p>
+<p>Navalny suffered a serious chemical burn to his right eye in 2017 as a result of an assault. Doctors were able to restore his sight and save the eye.</p>
+<p>He was jailed on Wednesday this week for 30 days for calling for Saturday's unauthorized march to protest against the exclusion of several opposition candidates from a local election later this year.</p>
+<p>While Navalny was behind bars, police rounded up more than 1,000 people in the<span class="highlight" data-qa-component="highlight-text"><span>&nbsp;</span>Russia</span>n capital at the rally on Saturday in one of the biggest crackdowns in recent years against the opposition, drawing international criticism.</p>
+<p>A spokeswoman for the U.S. Embassy in Moscow, Andrea Kalan, wrote on Twitter on Sunday that the large number of detentions in Moscow and the "use of disproportionate police force undermine rights of citizens to participate in the democratic process."</p>
+<p><strong>Opposition activist detained</strong></p>
+<p>In a separate incident on Sunday,<span class="highlight" data-qa-component="highlight-text"><span>&nbsp;</span>Russia</span>n activist Dmitry Gudkov, who was among the opposition candidates barred from running in local elections later this year, said he had been detained and taken to a Moscow police station.</p>
+<p>The reason for Gudkov's detention was not immediately clear, his spokesman Alexei Obukhov said.</p>
+<p><span class="highlight" data-qa-component="highlight-text">Russia</span>'s Interior Ministry did not respond to a request for comment on Navalny and Gudkov's detention.</p>
+<p>Police on Sunday night detained about 10 people, including journalists, who had gathered in front of the hospital where Navalny was being treated.</p>
+<p>Navalny, a lawyer and anti-corruption activist, has served several stints in jail in recent years for organizing anti-government demonstrations.</p>
+<p>The European Court of Human Rights last year ruled<span class="highlight" data-qa-component="highlight-text"><span>&nbsp;</span>Russia</span>'s arrests and detention of Navalny in 2012 and 2014 were politically motivated and breached his human rights, a ruling Moscow called questionable.</p> 																					</div>
+																								</div>
+
+							
+
+																								
+															
+
+							<div class="article__bottom"></div>
+															<div class="article__tags">
+										Read more about:
+																												<a
+	href="https://www.themoscowtimes.com/tag/navalny"
+	class="tag article__tags__tag"
+	title="Navalny"
+>
+	Navalny</a>
+																			,  <a
+	href="https://www.themoscowtimes.com/tag/kremlin"
+	class="tag article__tags__tag"
+	title="Kremlin"
+>
+	Kremlin</a>
+ 																			,  <a
+	href="https://www.themoscowtimes.com/tag/opposition"
+	class="tag article__tags__tag"
+	title="Opposition"
+>
+	Opposition</a>
+ 																	</div>
+							
+							<div class="hidden-md-up">
+															</div>
+
+							 <div class="social">
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601" class="social__icon social__icon--facebook" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+	<a href="https://twitter.com/intent/tweet/?url=https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601&text=Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor" class="social__icon social__icon--twitter" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+	<a href="https://telegram.me/share/url?url=https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601" class="social__icon social__icon--telegram" target="_blank" title="Share on Telegram"><i class="fa fa-paper-plane"></i></a>
+	<a href="https://wa.me/?text=https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601" class="social__icon social__icon--whatsapp"><i class="fa fa-whatsapp" target="_blank" title="Share on WhatsApp"></i></a>
+</div>
+ 						</div>
+					</article>
+				</div>
+
+
+				<div class="col-auto hidden-sm-down">
+					<aside class="sidebar" style="">
+
+						
+
+						<!-- vaste breedte 336 -->
+						<section class="sidebar__section">
+							<section class="sidebar__section" y-name="banner">
+	<div class="banner" style="">
+		<div class="banner-inner">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div id=&#039;ad-aside&#039;&gt;&lt;\/div&gt;\n&lt;script&gt;\n    googletag.cmd.push(function() { googletag.display(&#039;ad-aside&#039;)});\n&lt;\/script&gt;\n\n\n&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false},{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;script&gt;(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src=&#039;https:\/\/embed.playbuzz.com\/sdk.js&#039;;fjs.parentNode.insertBefore(js,fjs);}(document,&#039;script&#039;,&#039;playbuzz-sdk&#039;));&lt;\/script&gt;\n&lt;div class=\&quot;playbuzz\&quot; data-id=\&quot;b1f94d8d-14a9-463e-adbd-55dbc5a24c8f\&quot; data-show-share=\&quot;false\&quot; data-show-info=\&quot;false\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+			</div>
+	</div>
+</section>						</section>
+						<div class="sidebar__sticky">
+
+							<div class="tabs" y-use="Tabs" data-active="tabs__tab--active">
+								<section class="sidebar__section">
+									<div class="sidebar__section__header">
+										<div class="tabs__tab" y-name="tab" data-content="mostread">
+											<h3 class="tab__header header--style-3">Most read</h3>
+										</div>
+
+										<div class="tabs__tab" y-name="tab" data-content="justin">
+											<h3 class="tab__header header--style-3" >Just in</h3>
+										</div>
+									</div>
+
+									<div class="tabs__content" y-name="content justin">
+										<ul class="listed-articles">
+			<li class="listed-articles__item">
+			
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2019/07/30/ukraine-to-launch-russian-language-tv-channel-in-battle-for-donbass-a66620" title="Ukraine to Launch Russian-Language TV Channel to Win Influence in Donbass">
+					<time class="article-excerpt-tiny__time  "  datetime="2019-07-30T09:03:42+02:00" y-use="Timeago" >
+				July 30, 2019			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Ukraine to Launch Russian-Language TV Channel to Win Influence in Donbass		</h5>
+	</a>
+</div>		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2019/07/30/21m-russians-live-in-poverty-official-data-says-a66618" title="21M Russians Live in Poverty, Official Data Says">
+					<time class="article-excerpt-tiny__time  "  datetime="2019-07-30T09:03:42+02:00" y-use="Timeago" >
+				July 30, 2019			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			21M Russians Live in Poverty, Official Data Says		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2019/07/30/kremlin-critic-navalny-returned-to-jail-from-hospital-despite-poisoning-fears-a66605" title="Kremlin Critic Navalny Says He May Have Been Poisoned">
+					<time class="article-excerpt-tiny__time  "  datetime="2019-07-30T08:40:00+02:00" y-use="Timeago" >
+				July 30, 2019			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Kremlin Critic Navalny Says He May Have Been Poisoned		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2019/07/29/vladimir-kara-murza-dies-at-59-a66615" title="Vladimir Kara-Murza Dies at 59">
+					<time class="article-excerpt-tiny__time  "  datetime="2019-07-29T16:11:18+02:00" y-use="Timeago" >
+				July 29, 2019			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Vladimir Kara-Murza Dies at 59		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2019/07/29/siberian-wildfires-swell-to-crimea-sized-area-authorities-say-extinguishing-them-is-pointless-a66608" title="Siberian Wildfires Swell to Crimea-Sized Area, Authorities Say Extinguishing Them Is ‘Pointless’">
+					<time class="article-excerpt-tiny__time  "  datetime="2019-07-29T15:45:48+02:00" y-use="Timeago" >
+				July 29, 2019			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Siberian Wildfires Swell to Crimea-Sized Area, Authorities Say Extinguishing Them Is ‘Pointless’		</h5>
+	</a>
+</div> 		</li>
+	</ul>									</div>
+
+									<div class="tabs__content" y-name="content mostread" style="display: none">
+										<ul class="ranked-articles">
+						<li class="ranked-articles__item">
+			
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601" title="Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor">
+		<div class="article-excerpt-ranked__rank">
+			1		</div>
+		<div class="article-excerpt-ranked__item">
+							
+
+
+
+
+<h6 class="label article-excerpt-ranked__label">
+	health scare</h6>									<h5 class="article-excerpt-ranked__headline">
+				Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor			</h5>
+		</div>
+	</a>
+</div>		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2019/07/29/siberian-wildfires-swell-to-crimea-sized-area-authorities-say-extinguishing-them-is-pointless-a66608" title="Siberian Wildfires Swell to Crimea-Sized Area, Authorities Say Extinguishing Them Is ‘Pointless’">
+		<div class="article-excerpt-ranked__rank">
+			2		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+
+
+
+<h6 class="label article-excerpt-ranked__label">
+	In flames</h6> 									<h5 class="article-excerpt-ranked__headline">
+				Siberian Wildfires Swell to Crimea-Sized Area, Authorities Say Extinguishing Them Is ‘Pointless’			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2019/07/29/the-political-regime-against-the-people-the-reactions-to-moscows-election-protest-and-crackdown-a66607" title="‘The Political Regime Against the People’: The Reactions to Moscow’s Election Protest and Crackdown">
+		<div class="article-excerpt-ranked__rank">
+			3		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+
+
+
+<h6 class="label article-excerpt-ranked__label">
+	Divisive rally</h6> 									<h5 class="article-excerpt-ranked__headline">
+				‘The Political Regime Against the People’: The Reactions to Moscow’s Election Protest and Crackdown			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2019/07/28/north-korea-releases-detained-russian-fishing-boat-a66600" title="North Korea Releases Detained Russian Fishing Boat">
+		<div class="article-excerpt-ranked__rank">
+			4		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+
+
+
+<h6 class="label article-excerpt-ranked__label">
+	Released fishers</h6> 									<h5 class="article-excerpt-ranked__headline">
+				North Korea Releases Detained Russian Fishing Boat			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2019/07/30/kremlin-critic-navalny-returned-to-jail-from-hospital-despite-poisoning-fears-a66605" title="Kremlin Critic Navalny Says He May Have Been Poisoned">
+		<div class="article-excerpt-ranked__rank">
+			5		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+
+
+
+<h6 class="label article-excerpt-ranked__label">
+	sudden illness</h6> 									<h5 class="article-excerpt-ranked__headline">
+				Kremlin Critic Navalny Says He May Have Been Poisoned			</h5>
+		</div>
+	</a>
+</div> 		</li>
+	</ul>									</div>
+								</section>
+							</div>
+						</div>
+					</aside>
+				</div>
+			</div>
+		</div>
+
+	
+
+	<div class="container container--full py-3 mb-4" style="background-color: #efefef;" y-name="banner">
+	<div class="align-center" style="line-height: 0">
+		<div style="max-width: 984px; margin: 0 auto;">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div style=\&quot;max-width:600px; margin: 0 auto\&quot;&gt;\n&lt;script&gt;\n\n  (function (d,s,n,id) {\n\n    var js, fjs = d.getElementsByTagName(s)[0];\n\n    if (d.getElementById(id)) return;\n\n    js = d.createElement(s);\n\n    js.id = id;\n\n    js.className = n;\n\n    js.src = \&quot;https:\/\/mcd-sdk.playbuzz.com\/embed\/sdk.js?embedId=4d6351a8-eae2-46e1-aff2-7e18184e7953\&quot;;\n\n    fjs.parentNode.insertBefore(js, fjs);\n\n  }(document,&#039;script&#039;,&#039;playbuzz-mcd-sdk&#039;,&#039;mcd-sdk-jssdk_themoscowtimes.com&#039;));\n\n&lt;\/script&gt;\n\n&lt;pb-mcd embed-id=\&quot;4d6351a8-eae2-46e1-aff2-7e18184e7953\&quot;&gt;&lt;\/pb-mcd&gt;\n&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;sm&quot;,&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+			</div>
+	</div>
+</div>	 <div class="container container--full py-3 mb-4" style="background-color: #efefef;" y-name="banner">
+	<div class="align-center" style="line-height: 0">
+		<div style="max-width: 984px; margin: 0 auto;">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div style=\&quot;max-width:600px; margin: 0 auto\&quot;&gt;\n&lt;script&gt;\n\n  (function (d,s,n,id) {\n\n    var js, fjs = d.getElementsByTagName(s)[0];\n\n    if (d.getElementById(id)) return;\n\n    js = d.createElement(s);\n\n    js.id = id;\n\n    js.className = n;\n\n    js.src = \&quot;https:\/\/mcd-sdk.playbuzz.com\/embed\/sdk.js?embedId=4d6351a8-eae2-46e1-aff2-7e18184e7953\&quot;;\n\n    fjs.parentNode.insertBefore(js, fjs);\n\n  }(document,&#039;script&#039;,&#039;playbuzz-mcd-sdk&#039;,&#039;mcd-sdk-jssdk_themoscowtimes.com&#039;));\n\n&lt;\/script&gt;\n\n&lt;pb-mcd embed-id=\&quot;4d6351a8-eae2-46e1-aff2-7e18184e7953\&quot;&gt;&lt;\/pb-mcd&gt;\n&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;xs&quot;]"></div>
+			</div>
+	</div>
+</div> 
+
+	<div class="container">
+		<section class="cluster">
+
+			<div class="cluster__header">
+				<h2 class="cluster__label header--style-3">
+											Read more									</h2>
+			</div>
+
+			<div class="row-flex">
+									<div class="col-3 col-6-sm">
+						
+
+<div class="article-excerpt-default article-excerpt-default--news ">
+
+	<a href="https://www.themoscowtimes.com/2019/07/30/kremlin-critic-navalny-returned-to-jail-from-hospital-despite-poisoning-fears-a66605" class="article-excerpt-default__link" title="Kremlin Critic Navalny Says He May Have Been Poisoned">
+		<div class=" article-excerpt-default__image-wrapper">
+			<figure>
+				
+
+	<img src="https://static.themoscowtimes.com/image/article_640/13/TASS29644402.jpg" />
+
+															</figure>
+		</div>
+
+		<div class="article-excerpt-default__content">
+							
+
+
+
+
+<h6 class="label article-excerpt-default__label">
+	sudden illness</h6>						
+			<h3 class="article-excerpt-default__headline">Kremlin Critic Navalny Says He May Have Been Poisoned</h3>
+
+			
+							<div class="article-excerpt-default__teaser">One of the doctors who treated him said that the idea that the anti-corruption campaigner had been poisoned had "not been proven."</div>
+					</div>
+	</a>
+</div>					</div>
+									<div class="col-3 col-6-sm">
+						 
+
+<div class="article-excerpt-default article-excerpt-default--meanwhile ">
+
+	<a href="https://www.themoscowtimes.com/2018/03/01/russian-youth-arrested-inflated-duck-sparks-social-media-campaign-a60675" class="article-excerpt-default__link" title="Russian Youth Arrested for Inflated Duck Sparks Social Media Campaign">
+		<div class=" article-excerpt-default__image-wrapper">
+			<figure>
+				 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/73/033f57b5fa544908a2f1955bfb8046ed.jpg" />
+ 
+															</figure>
+		</div>
+
+		<div class="article-excerpt-default__content">
+							 
+
+
+
+
+<h6 class="label article-excerpt-default__label label--meanwhile article-excerpt-default__label--meanwhile">
+	Corruption</h6> 						
+			<h3 class="article-excerpt-default__headline">Russian Youth Arrested for Inflated Duck Sparks Social Media Campaign</h3>
+
+			
+							<div class="article-excerpt-default__teaser">Goncharenko was given 25 days behind bars after displaying a giant inflated duck during an anti-election rally.</div>
+					</div>
+	</a>
+</div> 					</div>
+									<div class="col-3 col-6-sm">
+						 
+
+<div class="article-excerpt-default article-excerpt-default--opinion ">
+
+	<a href="https://www.themoscowtimes.com/2018/01/17/putins-real-opposition-is-a-collective-shrug-a60197" class="article-excerpt-default__link" title="Putin&#039;s Real Opposition Is a Collective Shrug (Op-ed)">
+		<div class=" article-excerpt-default__image-wrapper">
+			<figure>
+				 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/39/36e35f029dbe4627802040a9efa381c9.jpg" />
+ 
+															</figure>
+		</div>
+
+		<div class="article-excerpt-default__content">
+							 
+
+
+
+
+<h6 class="label article-excerpt-default__label label--opinion article-excerpt-default__label--opinion">
+	opinion</h6> 																			<span class="article-excerpt-default__author-image-wrapper"><img class="article-excerpt-default__author-image" src="https://static.themoscowtimes.com/image/320/74/d61d3829e144461182a407a551ae57a1.jpg" /></span>
+								<span class="article-excerpt-default__author">
+					Leonid Bershidsky				</span>
+			
+			<h3 class="article-excerpt-default__headline">Putin's Real Opposition Is a Collective Shrug (Op-ed)</h3>
+
+			
+							<div class="article-excerpt-default__teaser">Putin has no official opposition, but voter turnout will be the real key to his popularity</div>
+					</div>
+	</a>
+</div> 					</div>
+									<div class="col-3 col-6-sm">
+						 
+
+<div class="article-excerpt-default article-excerpt-default--news ">
+
+	<a href="https://www.themoscowtimes.com/2017/09/22/council-of-europe-demands-alexei-navalny-be-allowed-to-run-for-president-a59016" class="article-excerpt-default__link" title="Council of Europe Says Navalny Should Be Allowed to Run for President">
+		<div class=" article-excerpt-default__image-wrapper">
+			<figure>
+				 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/70/a801f4f5713848659d245f5b1c07fb37.jpg" />
+ 
+															</figure>
+		</div>
+
+		<div class="article-excerpt-default__content">
+							 
+
+
+
+
+<h6 class="label article-excerpt-default__label">
+	Europe</h6> 						
+			<h3 class="article-excerpt-default__headline">Council of Europe Says Navalny Should Be Allowed to Run for President</h3>
+
+			
+							<div class="article-excerpt-default__teaser">The Council of Europe has accused Moscow of violating Navalny's right to fair trial, demanding the authorities allow him to run in the 2018 Presidential...</div>
+					</div>
+	</a>
+</div> 					</div>
+							</div>
+		</section>
+	</div>
+
+	
+<div class="contribute-bar" y-use="contribute.Bar">
+	<div class="container">
+		<div class="row-flex">
+			<div class="col">
+				<div class="contribute-bar__content-container">
+					<div class="contribute-bar__content">
+						<header class="contribute-bar__header">
+							<h3 class="header--style-3">The need for honest and objective information on Russia is more relevant now than ever before!</h3>
+						</header>
+						<p>
+							To keep our newsroom in Moscow running, we need your support.  
+							<span class="hidden-xs">
+								With your help, we can continue with our mission to keep you informed with breaking news, business analysis, thought-provoking opinions, the best of culture and insights into everyday life.
+							</span>
+						</p>
+						<div class="">
+							<a href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=internal-footer-bar" class="button button--contribute">Contribute today</a>
+							<a class="button button--later" y-name="contributeLater">Maybe later</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-auto hidden-sm-down">
+				<aside class="sidebar">
+
+				</aside>
+			</div>
+		</div>
+	</div>
+</div>
+	<footer class="footer fancyfooter" y-name="footer">
+
+	<div class="container">
+		<div class="footer__inner">
+			<div class="footer__logo mb-3">
+				<a href="https://www.themoscowtimes.com/" class="" title="Home" >
+					<img src="https://static.themoscowtimes.com/img/logo_1280.png" />
+				</a>
+			</div>
+			<div class="footer__main">
+				<div class="footer__form" y-use="Newsletter" data-url="https://www.themoscowtimes.com/newsletter" id="newsletter">
+					<h3 class="header--style-3 footer__form__header">Sign up for our weekly newsletter</h3>
+					<input type="text" placeholder="Your email" y-name="email" />
+					<button class="button button--color-3" y-name="submit">Submit</button>
+					<div class="" y-name="error" style="display:none"></div>
+					<div class="" y-name="done" style="display:none">Thanks for signing up!</div>
+				</div>
+				<div class="footer__menu">
+					<ul class="row-flex depth-0" >
+
+<li class="col has-child" >
+<a href="#" >The Moscow Times</a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="/page/moscow-times" >About us</a>
+</li>
+
+<li class="col" >
+<a href="/page/jobs-at-tmt" >Jobs</a>
+</li>
+
+<li class="col" >
+<a href="/page/advertising" >Advertise with us</a>
+</li>
+
+<li class="col" >
+<a href="https://offline.themoscowtimes.com/#/"  target="_blank">TMT Offline</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" >  </a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="col" >
+<a href="/videos" >Videos</a>
+</li>
+
+<li class="col" >
+<a href="/galleries" >Galleries</a>
+</li>
+
+<li class="col" >
+<a href="/in-print" >Print Editions</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" >Follow us</a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="https://www.facebook.com/MoscowTimes/" target="_blank"><i class="fa fa-lg fa-facebook"></i></a>&nbsp;
+<a href="https://twitter.com/moscowtimes" target="_blank"><i class="fa fa-lg fa-twitter"></i></a>&nbsp;
+<a href="https://www.instagram.com/themoscowtimes/" target="_blank"><i class="fa fa-lg fa-instagram"></i></a>&nbsp;
+<a href="https://vk.com/themoscowtimes" target="_blank"><i class="fa fa-lg fa-vk"></i></a>&nbsp;
+<a href="/page/rss"><i class="fa fa-lg fa-rss"></i></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCRNPdAfK5Mp8ORtjUt3Q8UA" target="_blank"><i class="fa fa-lg fa-youtube"></i></a>
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+				</div>
+			</div>
+			 <div class="footer__bottom">
+				© copyrights:  Stichting 2 Oktober, All rights reserved.
+			</div>
+
+		</div>
+
+	</div>
+</footer>
+
+		<!-- jQuery -->
+		<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+		<script src="https://static.themoscowtimes.com/vendor/jquery/Timeago.js"></script>
+		<script src="https://static.themoscowtimes.com/vendor/jquery/Lightbox.js"></script>
+		<script src="https://static.themoscowtimes.com/vendor/jquery/fitvids.js"></script>
+
+		<!-- Other JS assets -->
+		
+		<div y-name="viewport" class="hidden-lg-down" data-viewport="xl"></div>
+		<div y-name="viewport" class="hidden-md-down hidden-xl" data-viewport="lg"></div>
+		<div y-name="viewport" class="hidden-lg-up hidden-sm-down" data-viewport="md"></div>
+		<div y-name="viewport" class="hidden-md-up hidden-xs" data-viewport="sm"></div>
+		<div y-name="viewport" class="hidden-sm-up" data-viewport="xs"></div>
+
+		<script
+			type="text/javascript"
+			src="https://static.themoscowtimes.com/vendor/yellow/Yellow.js"
+							data-main="https://static.themoscowtimes.com/js/main.js?v=12"
+				data-src="https://static.themoscowtimes.com/js/"
+						data-console="0"
+		></script>
+
+			</body>
+</html>

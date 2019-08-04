@@ -1,0 +1,2364 @@
+<!DOCTYPE html>
+<html lang="en-US" >
+    <head>
+		<meta charset="UTF-8">
+        <meta name="viewport" content="width=1024">
+		<title>Olmert said to cancel Switzerland trip over threat of arrest for &#039;war crimes&#039; | The Times of Israel</title>
+
+		    	<link rel="amphtml" href="https://www.timesofisrael.com/olmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes/amp/">
+    	
+    	<script type='text/javascript'>mapp = window.mapp || {}; mapp.data = [];</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Defense, justice officials persuade ex-premier who oversaw Gaza and Lebanon conflicts to scrap visit, TV news reports"/>
+<link rel="canonical" href="https://www.timesofisrael.com/olmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes/" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//static.timesofisrael.com' />
+<link rel='stylesheet' id='wp_featherlight_css-css'  href='//static.timesofisrael.com/css/wp-featherlight.min.css?ver=1507484194' type='text/css' media='all' />
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3&#038;libraries=places&#038;key=AIzaSyCjQt5QaYL-0MTh6o1B4o0kxgboTvCXMgw'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js?ver=3.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mappl10n = {"bicycling":"Bicycling","bike":"Bike","dir_not_found":"One of the addresses could not be found.","dir_zero_results":"Google cannot return directions between those addresses.  There is no route between them or the routing information is not available.","dir_default":"Unknown error, unable to return directions.  Status code = ","directions":"Directions","kml_error":"Error reading KML file","loading":"Loading...","no_address":"No matching address","no_geolocate":"Unable to get your location","traffic":"Traffic","transit":"Transit","zoom":"Zoom","options":{"admin":false,"ajaxurl":"https:\/\/www.timesofisrael.com\/wp-admin\/admin-ajax.php","apiKey":"AIzaSyCjQt5QaYL-0MTh6o1B4o0kxgboTvCXMgw","debug":null,"iconsUrl":"https:\/\/static.timesofisrael.com\/www\/uploads\/mappress\/icons\/","language":"","postid":2118116,"siteUrl":"https:\/\/www.timesofisrael.com","standardIconsUrl":"https:\/\/www.timesofisrael.com\/wp-content\/plugins\/mappress-google-maps-for-wordpress\/pro\/standard_icons\/","country":"","defaultIcon":null,"directionsServer":"https:\/\/maps.google.com","directionsUnits":"","iconScale":null,"poiZoom":"15","styles":[],"tooltips":true},"icons":[],"iconsUrl":"https:\/\/static.timesofisrael.com\/www\/uploads\/mappress\/icons\/","standardIconsUrl":"https:\/\/www.timesofisrael.com\/wp-content\/plugins\/mappress-google-maps-for-wordpress\/pro\/standard_icons\/","styles":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.timesofisrael.com/wp-content/plugins/mappress-google-maps-for-wordpress/js/mappress.min.js?ver=2.44.3'></script>
+<script type='text/javascript' src='https://www.timesofisrael.com/wp-content/plugins/m-chart-highcharts-library/components/external/highcharts/highcharts.js?ver=1.0.3'></script>
+<link rel="icon" href="https://static.timesofisrael.com/www/uploads/2018/11/toi_icon_512-200x200.png" sizes="32x32" />
+<link rel="icon" href="https://static.timesofisrael.com/www/uploads/2018/11/toi_icon_512-200x200.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://static.timesofisrael.com/www/uploads/2018/11/toi_icon_512-200x200.png" />
+<meta name="msapplication-TileImage" content="https://static.timesofisrael.com/www/uploads/2018/11/toi_icon_512-400x400.png" />
+<style type="text/css">html { margin-top: 0 !important; }</style>
+		<link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Roboto+Slab:100,300,400,700">
+		<link rel="stylesheet" type="text/css" media="all" href="//static.timesofisrael.com/css/style.css?ver=1563706515">
+		<link rel="stylesheet" type="text/css" media="all" href="//static.timesofisrael.com/css/colors.css?ver=1546956130">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/opensanshebrew.css">
+				<link rel="stylesheet" type="text/css" media="all" href="//static.timesofisrael.com/css/sidebar.css?ver=1525874746">
+				<!-- Desktop notifications -->
+		<link rel="manifest" href="/manifest.json">
+		<script type="text/javascript" src="//cdn.pushwoosh.com/webpush/v3/pushwoosh-web-notifications.js" async></script>
+		<script type="text/javascript">
+		var Pushwoosh = Pushwoosh || [];
+		Pushwoosh.push(['init', {
+		    logLevel: 'info',
+		    applicationCode: '66EE3-1E559',
+		    safariWebsitePushID: 'web.com.timesofisrael.www',
+		    defaultNotificationTitle: 'TOI Notification',
+		    defaultNotificationImage: 'https://static.timesofisrael.com/www/images/toi_icon_256.png',
+		    autoSubscribe: true,
+		}]);
+		</script>
+
+		<!-- App/Favicon icons -->
+				<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.timesofisrael.com/www/images/toi_icon_120.png">
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.timesofisrael.com/www/images/toi_icon_152.png">
+		<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://static.timesofisrael.com/www/images/toi_icon_180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="https://static.timesofisrael.com/www/images/toi_icon_192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://static.timesofisrael.com/www/images/favicon_32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://static.timesofisrael.com/www/images/favicon_16.png">
+		<link rel="manifest" href="https://static.timesofisrael.com/www/images/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="https://static.timesofisrael.com/www/images/toi_icon_144.png">
+		<meta name="theme-color" content="#ffffff">
+
+		<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+
+		<!-- Google Tag Manager -->
+		<script>
+		(function(w,d,s,l,i){
+			w[l]=w[l]||[];w[l].push({
+				'gtm.start':new Date().getTime(),event:'gtm.js'
+			});
+			var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+			j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5N6HTL');
+		</script>
+
+		
+		<meta property="fb:app_id"			content="123142304440875">			 
+		<meta property="og:url"				content="https://www.timesofisrael.com/olmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes/">
+		<meta property="og:type"			content="article">
+		<meta property="og:title"			content="Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;">
+		<meta property="og:description"		content="Defense, justice officials persuade ex-premier who oversaw Gaza and Lebanon conflicts to scrap visit, TV news reports">
+		<meta property="og:image"			content="https://static.timesofisrael.com/www/uploads/2018/04/F180331HP35-1024x640.jpg">
+		<meta property="og:image:width"		content="1024">
+		<meta property="og:image:height"	content="640">
+		<meta name="twitter:card" 			content="summary_large_image">
+		<meta name="twitter:site" 			content="timesofisrael">
+		<meta name="twitter:title" 			content="Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;">
+		<meta name="twitter:description" 	content="Defense, justice officials persuade ex-premier who oversaw Gaza and Lebanon conflicts to scrap visit, TV news reports">
+		<meta name="twitter:image" 			content="https://static.timesofisrael.com/www/uploads/2018/04/F180331HP35-1024x640.jpg">
+		<meta itemprop="description" 		content="Defense, justice officials persuade ex-premier who oversaw Gaza and Lebanon conflicts to scrap visit, TV news reports">
+		<meta itemprop="inLanguage" 		content="en-US">
+		<meta itemprop="thumbnailUrl" 		content="https://static.timesofisrael.com/www/uploads/2018/04/F180331HP35-1024x640.jpg">
+		<meta name="description" 			content="Defense, justice officials persuade ex-premier who oversaw Gaza and Lebanon conflicts to scrap visit, TV news reports">
+		<link rel="original-source" 		href="https://www.timesofisrael.com/olmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes/">
+
+		<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		googletag.cmd.push(function () { googletag.pubads().setTargeting("advelvet", (Math.floor(Math.random() * 20) + 1) + ""); });
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+		'//securepubads.g.doubleclick.net/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+		</script>
+
+		<script type='text/javascript'>
+		var ad_website = 'TOI_EN';
+		var ad_page = 'IsraelRegion';
+		var ad_page_type = 'Artl';
+		googletag.cmd.push(function() {
+
+			window.adSlot_ATF_LB_1 = googletag.defineSlot('/264857099/' + ad_website + '/' + ad_page + '/' + ad_page_type + '/ATF_LB_1', [[970, 90], [728, 90], [970, 250], [970, 300]], 'div-gpt-ad-ATF_LB_1').addService(googletag.pubads());
+			window.adSlot_BTF_SKY_1 = googletag.defineSlot('/264857099/' + ad_website + '/' + ad_page + '/' + ad_page_type + '/BTF_SKY_1', [[300, 600], [300, 250]], 'div-gpt-ad-BTF_SKY_1').addService(googletag.pubads());
+
+			
+			
+						window.adSlot_BTF_MPU_1 = googletag.defineSlot('/264857099/' + ad_website + '/' + ad_page + '/' + ad_page_type + '/BTF_MPU_1', [300, 250], 'div-gpt-ad-BTF_MPU_1').addService(googletag.pubads());
+			window.adSlot_BTF_MPU_2 = googletag.defineSlot('/264857099/' + ad_website + '/' + ad_page + '/' + ad_page_type + '/BTF_MPU_2', [300, 250], 'div-gpt-ad-BTF_MPU_2').addService(googletag.pubads());
+			window.adSlot_BTF_MPU_3 = googletag.defineSlot('/264857099/' + ad_website + '/' + ad_page + '/' + ad_page_type + '/BTF_MPU_3', [[600, 467], 'fluid'], 'div-gpt-ad-BTF_MPU_3').addService(googletag.pubads());
+			window.adSlot_Partners_LB = googletag.defineSlot('/264857099/' + ad_website + '/Languages/Desktop/Partners_LB', [980, 134], 'div-gpt-ad-Partners_LB').addService(googletag.pubads());
+			
+			
+			googletag.pubads().collapseEmptyDivs();
+			googletag.pubads().setTargeting('TOI_articleID', '2118116');
+			googletag.pubads().setTargeting('TOI_firstArticle', 'true');
+						googletag.pubads().setTargeting('TOI_video', 'false');
+						googletag.pubads().enableLazyLoad({
+			  fetchMarginPercent: 400,  // Fetch slots within 5 viewports.
+			  renderMarginPercent: 300,  // Render slots within 2 viewports.
+			  mobileScaling: 2.0  // Double the above values on mobile.
+			});
+ 			googletag.enableServices();
+		});
+		</script>
+
+		<!--  google analytics -->
+				<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-28398079-1', 'auto');
+		ga('send', 'pageview');
+
+		</script>
+		<!--  /google analytics -->
+
+							
+		<!-- JW Player -->
+		<script src="//content.jwplatform.com/libraries/U4CTA3JQ.js"></script>
+		<!-- COOKIE Accept -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#525252"
+    },
+    "button": {
+      "background": "#ffffff",
+      "text": "#000"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "We use cookies and other technologies to recognize your repeat visits and preferences, as well as to measure campaigns and analyze traffic. To learn more about cookies, including how to disable them, view our <a href='https://www.timesofisrael.com/privacy/' target='_blank'>Privacy Policy</a>. By clicking \"I Accept\" or by using our site, you consent to the use of cookies",
+    "dismiss": "I Accept",
+    "link": "Privacy Policy",
+    "href": "https://www.timesofisrael.com/privacy/"
+  }
+})});
+</script>	</head>
+	<body class="post-template-default single single-post postid-2118116 single-format-standard sticky-header small-header">
+
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5N6HTL"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<!-- Anti adblock -->
+		<script>try{(function(){function C(){try{var b=L()}catch(c){}if(b)try{D(b.h,null)}catch(c){delete window.localStorage[b.key],delete window.sessionStorage[b.key]}else M(function(b,a){a.as=!0;try{D(b,a)}catch(d){}},N)}function N(){var a=window.location.protocol==b("XSYCCBFN")?b("XSYCCBFNGhc="):b("XSYCCFhYGg==");(new Image).src=a+u+O}function M(b,c){function a(){var e=d.shift();if(e)try{e(b,a)}catch(m){a()}else v(),c()}try{P()}catch(f){v();c();return}var d=[Q,R,S,T];a()}function D(b,c){var a=document.createElement("script");
+c=[{e:b,p:c,n:g}];var d="a"+String.fromCharCode(parseInt(25*Math.random()+97,10))+Math.random().toString(36).substring(7);a.id=d;a[d]=c;a.textContent="(function() { var args = document.getElementById('"+d+"')['"+d+"'] || this.currentScript['"+d+"'];"+b+"}());";(document.head||document.body||document.documentElement).appendChild(a)}function L(){var a=[];window.localStorage&&a.push(window.localStorage);window.sessionStorage&&a.push(window.sessionStorage);var c=E(b("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="),
+F(b("RSATGQ8VWV0=")));c=new Uint8Array(c);for(var e="",d=0;d<c.length;d++)e+=String.fromCharCode(c[d]);c=btoa(e);e=(new Date).getTime();for(d=0;d<a.length;d++){var f=a[d],m;for(m in f)if(!m.lastIndexOf(c,0)){try{for(var k=b("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="),g=atob(f[m]),l=new Uint8Array(g.length),h=0;h<g.length;h++)l[h]=g.charCodeAt(h);var n=r(E(k,l.buffer))}catch(V){continue}h=parseInt(n.substring(0,13),10);if(!isNaN(h))if(864E5<e-h||1>e-h)f.removeItem(m);else if((h=n.substring(13))&&
+!(16>h.length))return{h:h,key:m}}}return null}function R(a,c){var e=b("BmZBQA=="),d=b("AhBMS1RNAHxNeVVQdhF7WSt7AElsT3x3MkFjNiFMXgQPFjVCIDUPeUJxX1INEnVbKHd7RGdMfn1OQG5NJEZXDAJoQk5YNAYCMX5WWXJqA1BQBHRKY0NyD0ZIbUJYMys="),e=w+":"+e,f={};f[b("QCAaCw==")]=b("QScEFlg=")+e+b("CiYEGQwERVcFP1EeVCA=");f[b("ViATHAcZQVEWJw==")]=b("TDMCEQ8W");f[b("QCETCgwWWF0=")]=b("TDMCEQ8W");G(d,f,function(a){a=a.match(new RegExp(b("azEXFgYeUVkDLlY2U3thPQ5qYVhpTD0pBA4MMzJfTWhReVZQPhMeZFkXCEFrfh0FQR1vLDJdYW0oFnJXFg8dFEc3Ghkb")));
+if(null==a)return null;a=a[1];return b("VjMYHAsTVEwScV1KBnAUJTpheUNlR3p7R1I=")+a+b("FWRFSFNBFUwOO0wYUjwgGEozIBQyBGg=")+a+b("FSAGFxADFQ5Ee11cFz4kFR0uMxt7FSc+AFJp")},a,c)}function S(a,c){var e=b("A2JGSQ=="),d=b("c2dMOSBNDQFNDlhQA2F7WFt7dklsRXt3REBjNVpMWnUPZzRCJ0YPfkJxWFwNZwRbLAR7RRBMenlOSh9NIDNXAHBoRTtYMnYCQHNWWgFqdFJQAHNKZTByeTVIbk5YT1U="),e=w+":"+e,f={};f[b("QCAaCw==")]=[b("RiYDFlg=")+e];G(d,f,function(a){a=a.match(new RegExp(b("azEXFgYeUVkDLlY2U3thPQ5qYVhpTD0pBA4MMzJfTWhReVZQPhMeZFkXCEFrfh0FQR1vLDJdaBEQWXBXFg8dFEYgEBQa")));
+if(null==a)return null;a=a[1];return b("VjMYHAsTVEwScVxKBnAUJTphc0FiQXx1R0RtQEI=")+a+b("FSYPCEIfWksD")},a,c)}function G(a,c,e,d,f){function m(a){k||(k=!0,a.apply(null,Array.prototype.slice.call(arguments,1)))}var k=!1;d=m.bind(null,d);f=m.bind(null,f);var p={};p[b("XDETKwcFQ10FOA==")]=[c];var l=new g.c(p);l[b("ViATGRYScVkDKi8CVj4vBAY=")](b("Gj8TDANYRVEZLA==")).binaryType=b("VCAEGRsVQF4RLh4=");l[b("WjwfGwcUVFYTIggLQzU=")]=function(a){if(null!=a[b("VjMYHAsTVEwS")]&&(a=e(a[b("VjMYHAsTVEwS")][b("VjMYHAsTVEwS")]),
+null!=a)){var c={};c[b("VjMYHAsTVEwS")]=a;c[b("RjYGNS4eW10+JQgPTw==")]=0;l[b("VDYSMQESdlkZLwUOViQk")](new g.b(c),function(){},function(){})}};l.addEventListener(b("XDETGw0ZW10UPwUFWSM1AB4kIhg3GC8o"),function(){l[b("XDETOw0ZW10UPwUFWQM1AB4k")]===b("UzMfFAcT")&&f()});var h=b("Q29Gcg1KQEsSOQILWjVhUUpxYTkYVgEdQFJoRVVYXRoFfEdyEUpGXQQ4BQVZPiAMD0siTR84aAQkRnlGUEFDBBtiWEloAwgIV3tmCwo2KA8NJDMAJB8mOU4BMRZPRFgCFQ==")+a+b("PzNLEQESGFcHPwUFWSN7FRgoIhs6E0IgSRMpBw4fDlVBOxkWQkYHC0NrKD57A24yKRURUGNGeH1+E2QEAQIdWVQiTE1SRwUYAC4OGEMzbAULNSATPhcmIxEeeUVXQGdVCDsVHU8CU0oWLFY=")+
+function(){for(var a="",c=b("BWJGSFJHBQg="),d=0;16>d;++d)var e=(4294967296*Math.random()>>>0).toString(16),a=a+(c.substring(0,c.length-e.length)+e);return a}()+b("PzNLEQESGEgAL1ZaB2BxUVpxcUBmRnh9REJpR1JGXQQFYkZIUkcFCEd7XGA=");l[b("ViATGRYSel4RLh4=")](function(a){l[b("RjcCNA0UVFQzLh8JRTkxFQMuLw==")](a,function(){var a={};a[b("QSsGHQ==")]=b("VDwFDwcF");a[b("RjYG")]=h;l[b("RjcCKgcaWkwSDwkZVCIoER4oLh4=")](new g.f(a),function(){},function(){})},function(){})},function(){});a=l[b("ViATGRYScVkDKi8CVj4vBAY=")](b("GiUFCGI=")+
+window.navigator.userAgent);a.binaryType=b("VCAEGRsVQF4RLh4=");H(a,x(),function(a){d(a,{rtc:l})},function(){f()})}function T(a,c){function e(a){m||(m=!0,a.apply(null,Array.prototype.slice.call(arguments,1)))}var d=x(),d=(window.location.protocol==b("XSYCCBFN")?b("XSYCCBFNGhc="):b("XSYCCFhYGg=="))+u+d,f=b("chci"),m=!1;a=e.bind(null,a);c=e.bind(null,c);var k=new g.g;k.onreadystatechange=function(){4==k.readyState&&(0==k.status?c():a(r(k.response),{}))};k.onerror=function(){c()};k.open(f,d,!0);k.responseType=
+b("VCAEGRsVQF4RLh4=");k.send(null)}function Q(a,c){var e=b("QiEFQk1Y"),d=new g.a(e+w+b("GiUFCA=="));d.binaryType=b("VCAEGRsVQF4RLh4=");H(d,x(),function(b){a(b,{ws:d})},function(){c()})}function H(a,c,e,d){function f(a){g||(g=!0,a.apply(null,Array.prototype.slice.call(arguments,1)))}var g=!1;e=f.bind(null,e);d=f.bind(null,d);var k=!1,p=setTimeout(function(){d(Error())},3E3),l=F(JSON.stringify({url:c||"",method:b("chci"),headers:{"X-Tb":["ll"]},body:null}));a.onopen=function(){clearTimeout(p);a.send(l)};
+var h=new ArrayBuffer(0),n;a.onmessage=function(a){if(4===a.data.byteLength){var b=new Uint8Array(a.data);if(222===b[0]&&173===b[1]&&190===b[2]&&239===b[3])return}!1===k?(k=!0,a=r(a.data),n=JSON.parse(a),n={status:n.status||0,headers:n.headers||{}}):(a=a.data,b=new Uint8Array(h.byteLength+a.byteLength),b.set(new Uint8Array(h),0),b.set(new Uint8Array(a),h.byteLength),h=b.buffer)};a.onerror=function(){clearTimeout(p);d(Error())};a.onclose=function(){k?(n.body=h,e(r(n.body))):(clearTimeout(p),d(Error()))}}
+function y(a){return window[a.name]?window[a.name]:a[b("Vj0YDAcZQXwYKBkHUj41")]&&a[b("Vj0YDAcZQXwYKBkHUj41")][b("UTcQGRcbQW4eLhs=")]?a[b("Vj0YDAcZQXwYKBkHUj41")][b("UTcQGRcbQW4eLhs=")]:a[b("Vj0YDAcZQW8eJQgFQA==")]}function I(){var a=document.createElement(b("XDQEGQ8S"));a.style.height=b("BCIO");a.style.width=b("BCIO");a.style.display=b("Wz0YHQ==");a[b("RiAVHA0U")]=b("VA==");a.name||(a.name=String.fromCharCode(parseInt(25*Math.random()+97,10))+Math.random().toString(36).substring(7));(document.body||
+document.head||document.documentElement).appendChild(a);var c=y(a);c.document.documentElement||c.document.write(b("VA=="));try{c.stop()}catch(e){}return a}function P(){J=b("QDwdFg0AWw==");t=b("VjoEFw8S");q=b("UzsEHQQYTQ==");z=b("WiITCgM=");A=b("RjMQGRAe");var a=I(),a=y(a);var c=a.navigator.userAgent;c=(new RegExp(b("VjoEFw8SSVsfOQMHXiUs"),"i")).test(c)?t:(new RegExp(b("UzsEHQQYTUQeKAkdUjEyBAY9Jwg/GTs="),"i")).test(c)?q:(new RegExp(b("a3peR0MUXUoYJgkWVj4lEwUoJVl4X2I+FRQ4BQs="),"i")).test(c)?A:(new RegExp(b("WiIEBA0HXFcE"),
+"i")).test(c)?z:window[b("VjoEFw8S")]?t:"undefined"!==typeof InstallTrigger?q:J;-1===[t,q,z,A].indexOf(c)&&(a=window);g.c=a[b("ZwY1KAcSR3sYJQIPVCQoDgQ=")]||a[b("QjcUEwsDZ2w0GwkPRRMuDwQkIgQ/GSY=")]||a[b("WD0MKjY0ZV0SOS8FWT4kAh4oLh4=")]||a[b("WCEkLCEnUF0FCAMEWTUiFQMuLw==")];g.f=a[b("ZwY1KwcERlEYJSgPRDMzCBo1KB84")]||a[b("QjcUEwsDZ2w0GAkZRDkuDy4kMhMkHzg5HR03")]||a[b("WD0MKjY0Zl0EOAUFWRQkEgkzKAAiHycj")]||a[b("WCEkLCEkUEsEIgMEczUyAhgoMQQ/GSY=")];g.b=a[b("ZwY1MQESdlkZLwUOViQk")]||a[b("QjcUEwsDZ2w0Ag8PdDEvBQMlIAQz")]||
+a[b("WD0MKjY0fFsSCA0EUzklAB4k")]||a[b("WCEkLCE+Vl00KgIOXjQgFQ8=")];c===q?(c=I(),g.a=y(c)[b("QjsYHA0AG28SKT8FVDskFQ==")],c.parentElement.removeChild(c)):g.a=a[b("QjsYHA0AG28SKT8FVDskFQ==")];g.g=a[b("QjsYHA0AG2A6ByQeQyATBBs0JAMi")]}function E(a,b){for(var c=new Uint8Array(b),d=new ArrayBuffer(b.byteLength),d=new Uint8Array(d),f=0;f<b.byteLength;f++)d[f]=c[f]^a.charCodeAt(f%a.length);return d.buffer}function r(a){if(window.TextDecoder)return(new window.TextDecoder("utf-8")).decode(new Uint8Array(a));
+var b="";a=new Uint8Array(a);for(var e=a.byteLength,d=0;d<e;d++)b+=String.fromCharCode(a[d]);return decodeURIComponent(escape(b))}function F(a){if(window.TextEncoder)return(new window.TextEncoder("utf-8")).encode(a).buffer;a=unescape(encodeURIComponent(a));for(var b=new Uint8Array(a.length),e=0;e<a.length;e++)b[e]=a.charCodeAt(e);return b.buffer}function x(){return b("GjcORxVK")+5286866303582208}function b(a){a=window.atob(a);for(var b="",e=0;e<a.length;e++)b+=String.fromCharCode(a.charCodeAt(e)^"5Rvxbw58wKlj7PAajAApVvHMtrYwbvm4".charCodeAt(e%
+32));return b}function v(){if(!K){var a=("https:"==window.location.protocol?"https://":"http://")+u+U,b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src=a;(document.body||document.head||document.documentElement).appendChild(b);K=!0}}var B;Math.pow(1,2)&&(B="zipovoma.com");var u=B,w="tr."+B,U=decodeURIComponent("%2Fle%3Fw%3D")+5286866303582208,O="/l?w="+5286866303582208+"&c=ef&cb="+Math.random().toString().slice(3,9),g={},J,t,q,z,A,K=!1;if(/ucbrowser/i.test(navigator.userAgent)||
+window.ucweb)try{v()}catch(a){}try{C()}catch(a){}})()}catch(C){};
+</script>
+		<header class="header">
+			<div class="menu-control"></div>
+			<div class="container">
+				<div class="header-top">
+					<ul class="pages-menu languages">
+						<li class="editions-menu">
+							<div class="lang has-children">
+								<span>Edition: </span><a href="/" class="dropdown-btn">English</a>
+								<ul class="sub-menu sub-menu-dropdown">
+									<li><a href="http://ar.timesofisrael.com/" rel="external">Ø§ÙØ¹Ø±Ø¨ÙØ©</a></li>
+									<li><a href="https://fr.timesofisrael.com/" rel="external">FranÃ§ais</a></li>
+									<li><a href="http://fa.timesofisrael.com/" rel="external">ÙØ§Ø±Ø³Û</a></li>
+									<li style="font-size:13px;line-height:12px;font-family:'Open Sans Hebrew', serif;"><a href="https://www.zman.co.il/" rel="external">×¢××¨××ª</a></li>
+								</ul>
+							</div>
+						</li>
+						<li><a href="http://ar.timesofisrael.com/" rel="external">Ø§ÙØ¹Ø±Ø¨ÙØ©</a></li>
+						<li><a href="https://fr.timesofisrael.com/" rel="external">FranÃ§ais</a></li>
+						<li><a href="http://fa.timesofisrael.com/" rel="external">ÙØ§Ø±Ø³Û</a></li>
+						<li style="font-size:13px;line-height:12px;font-family:'Open Sans Hebrew', serif;"><a href="https://www.zman.co.il/" rel="external">×¢××¨××ª</a></li>
+					</ul>
+											<ul class="social-header social">
+							<li class="facebook"><a class="popup" data-width="670" data-height="546" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F"><span>Facebook</span></a></li>
+							<li class="twitter"><a href="https://twitter.com/intent/tweet?text=Olmert+said+to+cancel+Switzerland+trip+over+threat+of+arrest+for+%E2%80%98war+crimes%E2%80%99&url=https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F&via=timesofisrael"><span>Twitter</span></a></li>
+							<li class="linkedin"><a class="popup" data-width="385" data-height="460" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F&title=Olmert+said+to+cancel+Switzerland+trip+over+threat+of+arrest+for+%E2%80%98war+crimes%E2%80%99&source=timesofisrael"><span>linkedin</span></a></li>
+							<li class="email open_mailto" data-article="2118116" data-lang="eng" data-site="Times Of Israel" data-title="Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;"><a target="_blank" href="mailto:?subject=The Times of Israel: Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;&body=I found this on The Times of Israel and thought it might interest you: https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F" onclick="return false;"><span>email</span></a></li>
+              				<li class="print"><a href="javascript:window.print();"><span>Print</span></a></li>
+              													</ul>
+									</div>
+									<div class="header-title">Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;</div>
+								<div class="header-middle">
+					<a class="logo" href="/"><img alt="The Times of Israel" src="https://static.timesofisrael.com/www/images/toi_logo_white.svg"></a>
+				</div>
+			</div>
+			<div class="search-btn"><a href="/search/"><span>search</span></a></div>
+						<div class="header-bottom">
+				<div class="container">
+					<ul class="main-menu">
+						<li class=""><a href="https://www.timesofisrael.com">Home</a></li>
+<li class=""><a href="https://www.timesofisrael.com/israel-and-the-region/">Israel &amp; the Region</a></li>
+<li class=""><a href="https://www.timesofisrael.com/jewish-times/">Jewish Times</a></li>
+<li class=""><a href="https://www.timesofisrael.com/israel-inside/">Israel Inside</a></li>
+<li class=""><a href="https://blogs.timesofisrael.com/">The Blogs</a></li>
+<li class=""><a href="https://www.timesofisrael.com/start-up-israel/">Startup Israel</a></li>
+<li class="has-children"><a href="#" class="dropdown-btn">Newsletters</a>
+	<ul class="sub-menu sub-menu-dropdown newsletters-menu">
+		<li><a href="https://www.timesofisrael.com/the-daily-edition/"><span>The Daily Edition</span><br>What Matters Most Today</a></li>
+		<li><a href="https://www.timesofisrael.com/start-up-daily/"><span>Startup Daily</span><br>Updates from Silicon Wadi</a></li>
+		<li><a href="https://www.timesofisrael.com/the-weekend-edition/"><span>The Weekend Edition</span><br>The Best Reads of the Week</a></li>
+		<li><a href="https://www.timesofisrael.com/wp-content/themes/rgb/newsletter.php?page_id=11"><span>Weekly Highlights</span><br>Choice Voices From The Blogs</a></li>
+	</ul>
+</li>
+<li class="has-children"><a href="#" class="dropdown-btn">Partners</a>
+	<ul class="sub-menu sub-menu-dropdown">
+										<li><a data-id="4" href="https://www.timesofisrael.com"><span>The Times of Israel</span></a></li>
+								<li><a data-id="4" href="http://atlantajewishtimes.timesofisrael.com">Atlanta<br/><span>Atlanta Jewish Times</span></a></li>
+								<li><a data-id="3" href="http://jewishweek.timesofisrael.com">New York<br/><span>The Jewish Week</span></a></li>
+								<li><a data-id="1" href="http://jewishstandard.timesofisrael.com">North New Jersey<br/><span>The Jewish Standard</span></a></li>
+								<li><a data-id="1" href="http://njjewishnews.timesofisrael.com">Central New Jersey<br/><span>New Jersey Jewish News</span></a></li>
+								<li><a data-id="5" href="https://jewishchronicle.timesofisrael.com">Pittsburgh<br/><span>Jewish Chronicle</span></a></li>
+								<li><a data-id="2" href="http://jewishnews.timesofisrael.com">United Kingdom<br/><span>The Jewish News</span></a></li>
+								<li><a data-id="0" href="http://www.timesofisrael.com/local/">For Publishers<br/><span>Become a Times of Israel Partner</span></a></li>
+	</ul>
+</li>
+						<li class="search-btn">
+							<a href="/search/"><span>search</span></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="header-search">
+				<div class="container">
+					<form class="search-form" method="get" action="/search/">
+						<div class="wrap-input">
+		               		<input type="text" autocomplete="off" name="q" placeholder="Type here to search" value="" class="search-input" />
+		               		<div class="clear-text"></div>
+		               	</div>
+		               	<input type="submit" value="search" name="submit" />
+			        </form>
+			    </div>
+		    </div>
+		</header>
+		<div class="main">
+
+						<div class="wrap-article">
+											<div id='div-gpt-ad-Partners_LB' class='banner' style='background-color:#f3f3f0;padding:30px 0 0;margin-bottom:-15px;'>
+						<script>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-Partners_LB'); });
+						</script>
+						</div>
+										<article id="article_2118116" class="article read-more-close sticky-sidebar-parent news israel-and-the-region"
+	data-next_article_id="2118078"	data-article_do_sala_is="1"
+	data-article_id="2118116"
+	data-article_url_http="https://www.timesofisrael.com/olmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes/"
+	data-article_url="https://www.timesofisrael.com/olmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes/"
+	data-article_title_full="Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217; | The Times of Israel"
+	data-article_title="Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;"
+	data-article_description="Defense, justice officials persuade ex-premier who oversaw Gaza and Lebanon conflicts to scrap visit, TV news reports"
+	data-image_url="https://static.timesofisrael.com/www/uploads/2018/04/F180331HP35.jpg"
+	data-image_width="2048"
+	data-image_height="1278">
+
+	
+		<div id="div-gpt-ad-ATF_LB_1" class="banner b970x90 ATF_LB_1">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display("div-gpt-ad-ATF_LB_1"); });
+			</script>
+		</div>
+			<div class="sidebar-control">home page</div>
+	
+	
+	<div class="article-content-container sticky-sidebar-relative">
+					<div class="article-wrap">
+					<header>
+									<div class="above-headline empty"><span class="label empty"></span><span class="overline empty"></span></div>
+				
+	            <h1 class="headline">Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;</h1>
+				<h2 class="underline">Defense, justice officials persuade ex-premier who oversaw Gaza and Lebanon conflicts to scrap visit, TV news reports</h2>
+
+				
+				<div class="under-headline">
+					
+					<div class="wrap-byline">
+													<span class="byline">
+								By <a title="Stuart Winer" href="https://www.timesofisrael.com/writers/stuart-winer/">Stuart Winer</a>										<span class="add-after"></span>
+																</span>
+						
+						<span class="date">24 July 2019, 11:36 pm</span>
+						<span class="comments">
+							<a href="#comments">2</a>
+						</span>
+						<span class="edit empty">
+							<a data-id="2118116" href="/wp-admin/post.php?post=2118116&action=edit">Edit</a>
+						</span>
+					</div>
+
+											<ul class="social">
+							<li class="facebook">
+						<a class="popup" data-width="670" data-height="546" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F">
+							<span>Facebook</span>
+						</a>
+					</li><li class="twitter">
+						<a href="https://twitter.com/intent/tweet?text=Olmert+said+to+cancel+Switzerland+trip+over+threat+of+arrest+for+%E2%80%98war+crimes%E2%80%99&url=https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F&via=timesofisrael">
+							<span>Twitter</span>
+						</a>
+					</li><li class="linkedin">
+						<a class="popup" data-width="385" data-height="460" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F&title=Olmert+said+to+cancel+Switzerland+trip+over+threat+of+arrest+for+%E2%80%98war+crimes%E2%80%99&source=timesofisrael">
+							<span>linkedin</span>
+						</a>
+					</li><li class="email open_mailto" data-article="2118116" data-lang="eng" data-site="The Times of Israel" data-title="Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;">
+						<a target="_blank" href="mailto:?subject=The Times of Israel: Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;&body=I found this on The Times of Israel and thought it might interest you: https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F" onclick="return false;">
+							<span>email</span>
+						</a>
+					</li><li class="print"><a href="javascript:window.print();"><span>Print</span></a></li><li class="shares">
+						<span class="number">412</span> <span>shares</span>
+					</li>						</ul>
+					
+											<div class="writer-details">
+							<p>Stuart Winer is a breaking news editor at The Times of Israel.</p>							<ul class="social-small social-writer">
+																																								<li class="rss"><a href="https://www.timesofisrael.com/writers/stuart-winer/feed/" target="_blank"></a></li>							</ul>
+													</div>
+									</div>
+			</header>
+
+			<div class="media"><a rel="lightbox" href="https://static.timesofisrael.com/www/uploads/2018/04/F180331HP35.jpg"><img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/04/F180331HP35-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Former prime minister Ehud Olmert attends a celebration at Kibbutz Ramat Yochanan in northern Israel on March 31, 2018 (Hadas Parush/Flash90)" title="Former prime minister Ehud Olmert attends a celebration at Kibbutz Ramat Yochanan in northern Israel on March 31, 2018 (Hadas Parush/Flash90)" /></a><div class="caption">Former prime minister Ehud Olmert attends a celebration at Kibbutz Ramat Yochanan in northern Israel on March 31, 2018 (Hadas Parush/Flash90)
+</div></div>
+			
+			
+			<div class="article-content">
+				<div class="the-content">
+					<p>Former prime minister Ehud Olmert recently canceled a trip to Switzerland over fears authorities there were planning to detain him on suspicion of war crimes, according to a television report on Wednesday.
+<p>Olmert, who was prime minister during the 2006 Second Lebanon War and the 2008-2009 Operation Cast Lead in the Gaza Strip, was scheduled to arrive in Zurich on Monday.
+		<div id="div-gpt-ad-BTF_MPU_1" class="banner b300x250 BTF_MPU_1">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display("div-gpt-ad-BTF_MPU_1"); });
+			</script>
+		</div>
+<p>However, defense and justice officials warned Olmert to change his plans after Swiss authorities informed Israeli officials over the weekend that the former Israeli leader would be detained for questioning upon his landing.
+							<p class="newsletter-promo">
+								<a href="/signup/?utm_source=toi-articles&utm_medium=middle-link&utm_campaign=signup-buttons">
+									Get The Times of Israel's Daily Edition by email and never miss our top stories
+								</a>
+								<a href="/signup/?utm_source=toi-articles&utm_medium=middle-link&utm_campaign=signup-buttons">
+									Free Sign Up
+								</a>
+							</p>
+<p>Despite the alert, Olmert initially insisted on going anyway, the Channel 12 report said. It was only after justice and defense officials stressed that his detention would be a great embarrassment to Israel that he agreed to cancel the visit, the report said.</p>
+
+	<div id="attachment_2118133"  class="wp-caption  alignnone"><a href="https://static.timesofisrael.com/www/uploads/2019/07/F090115NS20.jpg"><img class="size-large wp-image-2118133" src="https://static.timesofisrael.com/www/uploads/2019/07/F090115NS20-640x400.jpg" alt="" width="600" height="375" /></a>
+		<div class="wp-caption-text">A large smokey fire burns out of control inside the Gaza Strip near during IDF Operation Cast Lead 15 January 2009. (Nati Shohat/Flash90)</div>
+	</div>
+<p>Olmert reportedly argued he could defend ordering the military operations in Gaza and Lebanon because in both cases Israel was fighting against terror groups.</p>
+<p>Naftali Bennett, No. 2 in the New Right party, who was a member of the high-level security cabinet during Israel&#8217;s last major military conflict in Gaza Strip in 2014, scorned Switzerland after the television report aired.</p>
+<p>&#8220;Israel, unlike Switzerland, does not have the luxury of claiming neutrality, and sitting out conflicts,&#8221; Bennett tweeted. &#8220;Our enemies seek our total destruction. The Government of Israel must make clear to the Swiss Government it will not tolerate attempts to prosecute any Israeli for defending our people.&#8221;</p>
+<p>The Second Lebanon War was a 34-day conflict in 2006 between the IDF and the Iran-backed Lebanese terror group Hezbollah. It was sparked by a Hezbollah cross-border raid in which eight IDF soldiers were killed and two were taken captive and later died of their injuries. During the fighting, 165 Israelis and two foreign citizens were killed. On the Lebanese side, over 1,100 were killed including several hundred Hezbollah fighters.</p>
+<p>Operation Cast Lead was a three-week conflict between armed Palestinian terror groups and the Israel Defense Forces in 2008-2009 which Israel said was aimed at stopping Palestinian rocket fire into the country. Thirteen Israelis and over 1,100 Palestinians were reportedly killed. It ended with a unilateral ceasefire on January 18, 2009.</p>
+<p>Olmert, 73, was prime minister from 2006 to 2009. In July 2017, he was released from prison after serving a 16-month sentence on corruption charges.</p>
+<p>There have been several attempts over the years by anti-Israel activists to have senior Israeli officials arrested for war crimes during trips aboard.</p>
+
+	<div id="attachment_2020745"  class="wp-caption  alignnone"><a href="https://static.timesofisrael.com/www/uploads/2019/02/F190218TNFF10-e1550500943213.jpg"><img class="size-large wp-image-2020745" src="https://static.timesofisrael.com/www/uploads/2019/02/F190218TNFF10-e1550500943213-640x400.jpg" alt="" width="600" height="375" /></a>
+		<div class="wp-caption-text">Hatnua party chief Tzipi Livni holds a press conference in Tel Aviv on February 18, 2019, announcing her departure from politics. (Tomer Neuberg/Flash90)</div>
+	</div>
+<p>In 2016, Tzipi Livni, who was a cabinet minister during the Second Lebanon War and Operation Cast Lead, dodged arrest in the UK after anti-Israel activists sought a warrant, citing alleged war crimes. Livni used a legal loophole to have a private visit to London registered as an official visit by an Israeli lawmaker, enabling her to receive diplomatic immunity. That incident encouraged British authorities to alter laws regarding the issue of arrest warrants over alleged war crimes committed outside the country.</p>
+<p>In 2009, Livni canceled a trip to London over fears she would be arrested under a similar warrant.</p>
+<p>In 2011, activists applied for a war crimes arrest warrant against visiting Labor Party leader MK Amir Peretz, who was defense minister during the Second Lebanon War. Peretz went ahead with the trip but was able to avoid detention by moving up his return flight and leaving before the arrest could be carried out.</p>
+
+	<div id="attachment_2105296"  class="wp-caption  alignnone"><a href="https://static.timesofisrael.com/www/uploads/2019/07/F190110GY04.jpg"><img class="size-large wp-image-2105296" src="https://static.timesofisrael.com/www/uploads/2019/07/F190110GY04-640x400.jpg" alt="" width="600" height="375" /></a>
+		<div class="wp-caption-text">Amir Peretz delivers a speech at a Labor party conference in Tel Aviv on January 10, 2019. (Gili Yaari/Flash90)</div>
+	</div>
+<p>In 2006 the Ynet website reported that three Moroccan lawyers filed war crimes lawsuits against Peretz, who has Moroccan citizenship, as it his country of birth.</p>
+				</div>
+
+				
+									<div class="article-topics">
+						<div>read more:</div>
+						<ul>
+																<li>
+										<a href="https://www.timesofisrael.com/israel-and-the-region/">Israel &amp; the Region</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/war-crimes/">war crimes</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/ehud-olmert/">Ehud Olmert</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/tzipi-livni/">Tzipi Livni</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/amir-peretz/">Amir Peretz</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/london/">London</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/switzerland/">Switzerland</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/israel-switzerland-relations/">Israel-Switzerland relations</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/second-lebanon-war/">Second Lebanon War</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/cast-lead/">Operation Cast Lead</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/anti-israel-activists/">anti-Israel activists</a>
+									</li>
+															</ul>
+					</div>
+				
+				<ul class="social bottom">
+					<li class="facebook">
+						<a class="popup" data-width="670" data-height="546" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F">
+							<span>Facebook</span>
+						</a>
+					</li><li class="twitter">
+						<a href="https://twitter.com/intent/tweet?text=Olmert+said+to+cancel+Switzerland+trip+over+threat+of+arrest+for+%E2%80%98war+crimes%E2%80%99&url=https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F&via=timesofisrael">
+							<span>Twitter</span>
+						</a>
+					</li><li class="linkedin">
+						<a class="popup" data-width="385" data-height="460" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F&title=Olmert+said+to+cancel+Switzerland+trip+over+threat+of+arrest+for+%E2%80%98war+crimes%E2%80%99&source=timesofisrael">
+							<span>linkedin</span>
+						</a>
+					</li><li class="email open_mailto" data-article="2118116" data-lang="eng" data-site="The Times of Israel" data-title="Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;">
+						<a target="_blank" href="mailto:?subject=The Times of Israel: Olmert said to cancel Switzerland trip over threat of arrest for &#8216;war crimes&#8217;&body=I found this on The Times of Israel and thought it might interest you: https%3A%2F%2Fwww.timesofisrael.com%2Folmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes%2F" onclick="return false;">
+							<span>email</span>
+						</a>
+					</li><li class="print"><a href="javascript:window.print();"><span>Print</span></a></li><li class="shares">
+						<span class="number">412</span> <span>shares</span>
+					</li>				</ul>
+
+									<div class="article-read-more less">less</div>
+				
+				
+		<div id="div-gpt-ad-BTF_MPU_3" class="banner b600x467 BTF_MPU_3">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display("div-gpt-ad-BTF_MPU_3"); });
+			</script>
+		</div>
+				<div class="OUTBRAIN" data-src="http:///www.timesofisrael.com/olmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes/" data-widget-id="AR_1" data-ob-template="Times Of Israel" ></div>
+									<div class="OUTBRAIN" data-src="http://www.timesofisrael.com/olmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes/" data-widget-id="AR_2" data-ob-template="Times Of Israel" ></div>
+				
+				
+					<div id="comments" class="comments">
+						<h5>comments <!-- span>report inappropriate comments</span --></h5>
+						<div class="fb-comments" data-href="https://www.timesofisrael.com/olmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes/" data-numposts="5"></div>
+					</div>
+				
+			</div>
+
+					</div>
+
+					<aside class="sidebar sticky-sidebar">
+				<div class="sticky-sidebar-wrap">
+					
+		<div id="div-gpt-ad-BTF_SKY_1" class="banner b300x600 BTF_SKY_1">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display("div-gpt-ad-BTF_SKY_1"); });
+			</script>
+		</div>					<div id="outbrain-sidebar">
+						<div class="OUTBRAIN" data-src="http://www.timesofisrael.com/olmert-said-to-cancel-switzerland-trip-over-threat-of-arrest-for-war-crimes/" data-widget-id="SB_1" data-ob-template="Times Of Israel" ></div>
+					</div>
+					
+		<div id="div-gpt-ad-BTF_MPU_2" class="banner b300x250 BTF_MPU_2">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display("div-gpt-ad-BTF_MPU_2"); });
+			</script>
+		</div>				</div>
+			</aside>
+			</div>
+
+			<div class="article-read-more more">more</div>
+	</article>
+				</div>
+				
+<aside class="sidebar sidebar-main">
+	<div class="sidebar-content">
+
+		<div class="sidebar-header">
+			<div class="title">July 28, 2019</div>
+			<div class="subtitle">Current Top Stories</div>
+		</div>
+
+				<div id="hp_section_1" class="hp_section">
+		
+						
+							<section data-block_id="4" class="cols4 block">
+					
+			<div class="item template3 news type-post post-id-2119704 negative">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/bernie-sanders-says-he-would-absolutely-mull-cutting-aid-to-leverage-israel/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2019/07/063_1164472146-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Democratic presidential candidate and U.S. Senator Bernie Sanders (I-VT) speaks at a campaign rally on July 26, 2019 in Santa Monica, California. (Mario Tama/Getty Images/AFP)" title="Democratic presidential candidate and U.S. Senator Bernie Sanders (I-VT) speaks at a campaign rally on July 26, 2019 in Santa Monica, California. (Mario Tama/Getty Images/AFP)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/bernie-sanders-says-he-would-absolutely-mull-cutting-aid-to-leverage-israel/">Bernie Sanders says he would &#8216;absolutely&#8217; mull cutting aid to pressure Israel</a>
+					</div><div class="byline">By <a title="Eric Cortellessa" href="https://www.timesofisrael.com/writers/eric-cortellessa/">Eric Cortellessa</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/bernie-sanders-says-he-would-absolutely-mull-cutting-aid-to-leverage-israel/">Vermont senator and leading 2020 Democrat says he is not anti-Israel, but insists US&#8217;s Mideast policy cannot just be &#8216;pro-Israel pro-Israel pro-Israel&#8217;</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package3 news negative">
+				<div class="item  type-post post-id-2119665">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/trump-labels-baltimore-infested-mess-sparking-fresh-outrage/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/000_1J50J0-200x200.jpg" class="attachment-square size-square wp-post-image" alt="US President Donald Trump pauses while announcing an agreement with Guatemala regarding people seeking asylum in the Oval Office of the White House July 26, 2019, in Washington, DC. (Brendan Smialowski / AFP)" title="US President Donald Trump pauses while announcing an agreement with Guatemala regarding people seeking asylum in the Oval Office of the White House July 26, 2019, in Washington, DC. (Brendan Smialowski / AFP)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/trump-labels-baltimore-infested-mess-sparking-fresh-outrage/">Trump labels Baltimore &#8216;infested mess,&#8217; sparking fresh outrage</a>
+						</div>
+						<div class="byline">By <a title="AFP" href="https://www.timesofisrael.com/writers/afp/">AFP</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119413">
+					<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Kampeas-medium.jpeg" class="attachment-medium writers-thumbnail" alt="Ron Kampeas" title="Ron Kampeas" /></div>
+					<div class="item-content">
+						<div class="headline">
+							<span class="label">Analysis</span><a href="https://www.timesofisrael.com/4-takeaways-from-the-houses-big-vote-against-bds/">US House&#8217;s big anti-BDS vote won&#8217;t be last word on Israel boycott legislation</a>
+						</div>
+						<div class="byline">By <a title="Ron Kampeas" href="https://www.timesofisrael.com/writers/ron-kampeas/">Ron Kampeas</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119428">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/john-lewis-backs-the-right-to-boycott-israel-even-though-he-opposes-bds/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2015/02/Congress-Netanyahu-Sp_Horo-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Rep. John Lewis, D-Ga. speaks on Capitol Hill in Washington. (photo credit: AP Photo/J. Scott Applewhite, File)" title="Rep. John Lewis, D-Ga. speaks on Capitol Hill in Washington. (photo credit: AP Photo/J. Scott Applewhite, File)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/john-lewis-backs-the-right-to-boycott-israel-even-though-he-opposes-bds/">Rep. John Lewis backs the right to boycott Israel â even though he opposes BDS</a>
+						</div>
+						<div class="byline">By <a title="Ron Kampeas" href="https://www.timesofisrael.com/writers/ron-kampeas/">Ron Kampeas</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template3 features type-post post-id-2112999 bgcolor bgcolor1">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/rising-from-ashes-of-arab-spring-women-lead-a-first-muslim-feminist-revolution/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2019/07/AP_18155585699142-1024x640-640x400.jpg" class="attachment-large size-large wp-post-image" alt="A Saudi woman displays her new driver&#039;s license in 2018. (Saudi Information Ministry/ via AP)" title="A Saudi woman displays her new driver&#039;s license in 2018. (Saudi Information Ministry/ via AP)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"><span class="label">Deep dive</span></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/rising-from-ashes-of-arab-spring-women-lead-a-first-muslim-feminist-revolution/">Rising from ashes of Arab Spring, women lead a first Muslim feminist revolution</a>
+					</div><div class="byline">By <a title="Ksenia Svetlova" href="https://www.timesofisrael.com/writers/ksenia-svetlova/">Ksenia Svetlova</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/rising-from-ashes-of-arab-spring-women-lead-a-first-muslim-feminist-revolution/">The often violent upheaval sweeping the Middle East in the last decade has also spurred women to cling to gains earned as they fight, and rebuild, alongside men</a>
+					</div>
+				</div>
+			</div>
+			<div class="item template2 news type-post post-id-2119723">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/iran-deals-european-signers-to-meet-in-vienna-in-bid-to-save-accord/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2017/04/000_NU3VX-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Illustrative: Iranian diplomats and officials from the P5+1 powers meet in Vienna to discuss the 2015 nuclear accord on April 25, 2017. (AFP/Joe Klamar)" title="Illustrative: Iranian diplomats and officials from the P5+1 powers meet in Vienna to discuss the 2015 nuclear accord on April 25, 2017. (AFP/Joe Klamar)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/iran-deals-european-signers-to-meet-in-vienna-in-bid-to-save-accord/">Iran deal&#8217;s European signers to meet in Vienna in bid to save accord</a>
+					</div><div class="byline">By <a title="AFP" href="https://www.timesofisrael.com/writers/afp/">AFP</a> and <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/iran-deals-european-signers-to-meet-in-vienna-in-bid-to-save-accord/">Tehran pessimistic about deal&#8217;s prospects, while Europeans plan to raise Iran&#8217;s &#8216;proven violations of their commitments&#8217; amid rising Gulf tensions</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package3 news">
+				<div class="item  type-post post-id-2119621">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/trumps-maximum-pressure-campaign-against-iran-comes-to-critical-crossroads/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/AP_19190028905802-e1562638244215-200x200.jpg" class="attachment-square size-square wp-post-image" alt="US President Donald Trump speaks in Washington, Monday, July 8, 2019. (AP Photo/Carolyn Kaster)" title="US President Donald Trump speaks in Washington, Monday, July 8, 2019. (AP Photo/Carolyn Kaster)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/trumps-maximum-pressure-campaign-against-iran-comes-to-critical-crossroads/">Trump&#8217;s &#8216;maximum pressure&#8217; campaign against Iran comes to critical crossroads</a>
+						</div>
+						<div class="byline">By <a title="Matthew Lee" href="https://www.timesofisrael.com/writers/matthew-lee/">Matthew Lee</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119511">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/iran-says-its-missile-tests-are-entirely-defensive-not-against-any-country/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/AP_10092209353-e1564233012611-200x200.jpg" class="attachment-square size-square wp-post-image" alt="File: A Shahab-3 missile is displayed by Iran&#039;s Revolutionary Guard during a military parade Sept. 22, 2010. (AP Photo/Vahid Salemi)" title="File: A Shahab-3 missile is displayed by Iran&#039;s Revolutionary Guard during a military parade Sept. 22, 2010. (AP Photo/Vahid Salemi)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/iran-says-its-missile-tests-are-entirely-defensive-not-against-any-country/">Iran says its missile tests are &#8216;entirely defensive, not against any country&#8217;</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a> and <a title="Agencies" href="https://www.timesofisrael.com/writers/agencies/">Agencies</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119602">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/owner-of-british-tanker-held-by-iran-says-its-crew-is-in-good-health/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/AP19200667198284-1-e1563581491682-200x200.jpg" class="attachment-square size-square wp-post-image" alt="This undated photo issued July 19, 2019 shows the British oil tanker Stena Impero, captured by Iran. (Stena Bulk via AP)" title="This undated photo issued July 19, 2019 shows the British oil tanker Stena Impero, captured by Iran. (Stena Bulk via AP)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/owner-of-british-tanker-held-by-iran-says-its-crew-is-in-good-health/">Owner of British tanker held by Iran says its crew is in good health</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a> and <a title="AP" href="https://www.timesofisrael.com/writers/ap/">AP</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template2 analysis type-post post-id-2119728 negative">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/trumps-peace-plan-rings-alarm-bells-in-jordan/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2015/10/000_Nic6497535-e1445006258418-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Jordanian protesters wave the national and Palestinian flags during a demonstration near the Israeli Embassy in the capital Amman in solidarity with the Palestinians on October 16, 2015. (Khalil Mazraawi/AFP)" title="Jordanian protesters wave the national and Palestinian flags during a demonstration near the Israeli Embassy in the capital Amman in solidarity with the Palestinians on October 16, 2015. (Khalil Mazraawi/AFP)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline">
+							
+							<div class="avatar-name">
+								<span class="label">Analysis</span>
+								<div class="byline"><a title="Mussa Hattar" href="https://www.timesofisrael.com/writers/mussa-hattar/">Mussa Hattar</a></div>
+							</div></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/trumps-peace-plan-rings-alarm-bells-in-jordan/">Trump&#8217;s peace plan rings alarm bells in Jordan</a>
+					</div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/trumps-peace-plan-rings-alarm-bells-in-jordan/">Analysts in Israel&#8217;s Palestinian-majority neighbor warn failure to create independent state in West Bank could &#8216;wipe out&#8217; Jordanian identity</a>
+					</div>
+				</div>
+			</div>
+			<div class="item template2 news type-post post-id-2119731">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/two-unarmed-palestinians-cross-border-from-gaza-are-arrested/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2019/06/F190628HJ08-e1561792493373-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Israeli military vehicles are seen during clashes along the border fence between Israel and the Gaza Strip, near Gaza City, on June 28, 2019. (Hassan Jedi/Flash90)" title="Israeli military vehicles are seen during clashes along the border fence between Israel and the Gaza Strip, near Gaza City, on June 28, 2019. (Hassan Jedi/Flash90)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/two-unarmed-palestinians-cross-border-from-gaza-are-arrested/">Two unarmed Palestinians cross border from Gaza, are arrested</a>
+					</div><div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/two-unarmed-palestinians-cross-border-from-gaza-are-arrested/">Suspects enter Israeli territory from southern area of coastal enclave</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package3 news">
+				<div class="item  type-post post-id-2119545">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/un-number-of-palestinian-children-killed-by-israel-in-2018-highest-in-4-years/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/000_13F4LQ-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Palestinian children wave a Palestinian flag as they burn a crossed-out poster depicting US President Donald Trump, during a large protest near the southern Gaza city of Khan Younis on March 30, 2018. (Said Khatib/AFP)" title="Palestinian children wave a Palestinian flag as they burn a crossed-out poster depicting US President Donald Trump, during a large protest near the southern Gaza city of Khan Younis on March 30, 2018. (Said Khatib/AFP)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/un-number-of-palestinian-children-killed-by-israel-in-2018-highest-in-4-years/">UN: Number of Palestinian children killed by Israel in 2018 highest in 4 years</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119648">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/two-children-lightly-hurt-in-west-bank-stoning-attack/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/File-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Glass shards in a car that was damaged in a West Bank stoning attack on July 27, 2019. courtesy: Hatzalah)" title="Glass shards in a car that was damaged in a West Bank stoning attack on July 27, 2019. courtesy: Hatzalah)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/two-children-lightly-hurt-in-west-bank-stoning-attack/">Two children lightly hurt in West Bank stoning attack</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2117659">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/press-freedom-group-chides-israel-for-wounding-palestinian-journalists/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/04/000_13T8GY-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Palestinian journalists take part in a protest after the killing of fellow journalist Yaser Murtaja, near the Israel-Gaza border, in Rafah in the southern Gaza Strip, on April 8, 2018. (AFP PHOTO / SAID KHATIB)" title="Palestinian journalists take part in a protest after the killing of fellow journalist Yaser Murtaja, near the Israel-Gaza border, in Rafah in the southern Gaza Strip, on April 8, 2018. (AFP PHOTO / SAID KHATIB)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/press-freedom-group-chides-israel-for-wounding-palestinian-journalists/">Press freedom group chides Israel for wounding Palestinian journalists</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template2 news type-post post-id-2119637">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/iran-complains-mideast-neighbors-making-diplomacy-impossible/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2019/07/000_1J5339-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Oman&#039;s Minister of State for Foreign Affairs Yousuf bin Alawi bin Abdullah, right, attends a meeting with Iran&#039;s Foreign Minister Mohammad Javad Zarif in Tehran on July 27, 2019. (ATTA KENARE / AFP)" title="Oman&#039;s Minister of State for Foreign Affairs Yousuf bin Alawi bin Abdullah, right, attends a meeting with Iran&#039;s Foreign Minister Mohammad Javad Zarif in Tehran on July 27, 2019. (ATTA KENARE / AFP)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/iran-complains-mideast-neighbors-making-diplomacy-impossible/">Iran complains Mideast neighbors making diplomacy impossible</a>
+					</div><div class="byline">By <a title="AFP" href="https://www.timesofisrael.com/writers/afp/">AFP</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/iran-complains-mideast-neighbors-making-diplomacy-impossible/">Top Tehran security official holds talks with Omani minister in charge of foreign affairs amid escalating tanker crisis</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package1 news">
+				<div class="item  type-post post-id-2119507">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/omani-diplomat-in-iran-amid-persian-gulf-tanker-crisis/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/AP19203631953735-200x200.jpg" class="attachment-square size-square wp-post-image" alt="In this July 21, 2019 photo, a speedboat of the Iran&#039;s Revolutionary Guard moves around a British-flagged oil tanker Stena Impero which was seized in the Strait of Hormuz on Friday by the Guard, in the Iranian port of Bandar Abbas. (Morteza Akhoondi/Mehr News Agency via AP)" title="In this July 21, 2019 photo, a speedboat of the Iran&#039;s Revolutionary Guard moves around a British-flagged oil tanker Stena Impero which was seized in the Strait of Hormuz on Friday by the Guard, in the Iranian port of Bandar Abbas. (Morteza Akhoondi/Mehr News Agency via AP)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/omani-diplomat-in-iran-amid-persian-gulf-tanker-crisis/">Omani diplomat in Iran amid Persian Gulf tanker crisis</a>
+						</div>
+						<div class="byline">By <a title="AP" href="https://www.timesofisrael.com/writers/ap/">AP</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template4 news type-post post-id-2119589">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/cypriot-police-said-set-to-charge-at-least-3-israeli-teens-in-gang-rape-case/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2019/07/AP_19199445813783-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Two of the 12 Israelis suspected of gang raping a British tourist cover their faces with their shirts as they arrive at the Famagusta courthouse in the town of Paralamni, Cyprus, on July 18, 2019. (AP Photo/Petros Karadjias)" title="Two of the 12 Israelis suspected of gang raping a British tourist cover their faces with their shirts as they arrive at the Famagusta courthouse in the town of Paralamni, Cyprus, on July 18, 2019. (AP Photo/Petros Karadjias)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/cypriot-police-said-set-to-charge-at-least-3-israeli-teens-in-gang-rape-case/">Cypriot police said set to charge at least 3 Israeli teens in rape case</a>
+					</div><div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/cypriot-police-said-set-to-charge-at-least-3-israeli-teens-in-gang-rape-case/">Probe leader visits hotel crime scene to get list of guests on day of incident, after 3 new DNA samples found on alleged victim don&#8217;t match any of currently detained suspects</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package2 news">
+				<div class="item  type-post post-id-2119255">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/after-dna-tests-cyprus-police-think-3-further-gang-rape-suspects-fled-to-israel/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/AP_19207478995714-e1564156467498-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Israeli suspects cover their faces with their shirts as they arrive at the Famagusta courthouse in Paralamni, Cyprus, July 26, 2019 (AP Photo/Petros Karadjias)" title="Israeli suspects cover their faces with their shirts as they arrive at the Famagusta courthouse in Paralamni, Cyprus, July 26, 2019 (AP Photo/Petros Karadjias)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/after-dna-tests-cyprus-police-think-3-further-gang-rape-suspects-fled-to-israel/">After DNA tests, Cyprus police think 3 further gang rape suspects fled to Israel</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119625">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/writer-who-said-israelis-are-lax-about-sex-crimes-accused-of-sexual-assault/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/Screen-Shot-2019-07-27-at-10.44.42-PM-e1564256964285-200x200.png" class="attachment-square size-square wp-post-image" alt="Globes reporter Dror Feuer speaks at a panel in 2013. (Screen capture/YouTube)" title="Globes reporter Dror Feuer speaks at a panel in 2013. (Screen capture/YouTube)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/writer-who-said-israelis-are-lax-about-sex-crimes-accused-of-sexual-assault/">Writer who said Israelis are lax about sex crimes accused of sexual assault</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template2 news type-post post-id-2119546 negative">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/russian-police-arrest-over-600-at-moscow-election-protest/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2019/07/AP_19208469308522-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Protesters clash with police during an unsanctioned rally in the center of Moscow, Russia on July 27, 2019. (AP/Pavel Golovkin)" title="Protesters clash with police during an unsanctioned rally in the center of Moscow, Russia on July 27, 2019. (AP/Pavel Golovkin)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/russian-police-arrest-over-600-at-moscow-election-protest/">Russian police arrest over 1,000 at Moscow election protest</a>
+					</div><div class="byline">By <a title="Jim Heintz" href="https://www.timesofisrael.com/writers/jim-heintz/">Jim Heintz</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/russian-police-arrest-over-600-at-moscow-election-protest/">Several opposition members detained prior to demonstration, some city council candidates barred from running due to alleged insufficient signatures on their nominating petitions</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package2 news negative">
+				<div class="item  type-post post-id-2119329">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/russia-targeted-election-systems-in-all-50-us-states-senate-report-finds/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2016/11/000_HW2G4-200x200.jpg" class="attachment-square size-square wp-post-image" alt="People cast their votes for US president November 8, 2016, at Centerville High School, in Centreville, Virginia. Polling stations opened Tuesday as the first ballots were cast in the long-awaited election pitting Hillary Clinton against Donald Trump. (AFP PHOTO/PAUL J. RICHARDS)" title="People cast their votes for US president November 8, 2016, at Centerville High School, in Centreville, Virginia. Polling stations opened Tuesday as the first ballots were cast in the long-awaited election pitting Hillary Clinton against Donald Trump. (AFP PHOTO/PAUL J. RICHARDS)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/russia-targeted-election-systems-in-all-50-us-states-senate-report-finds/">Russia targeted election systems in all 50 US states, Senate report finds</a>
+						</div>
+						<div class="byline">By <a title="LISA MASCARO" href="https://www.timesofisrael.com/writers/lisa-mascaro/">LISA MASCARO</a> and <a title="MARY CLARE JALONICK" href="https://www.timesofisrael.com/writers/mary-clare-jalonick/">MARY CLARE JALONICK</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119705">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/sophisticated-phishing-attack-targets-reporters-investigating-kremlin/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/AP_18299481497412-200x200.jpg" class="attachment-square size-square wp-post-image" alt="This Thursday, Sept. 27, 2018 file photo shows the website for British investigative group Bellingcat with one of the two suspects in the March poisoning of Sergei Skripal and his daughter in England. (AP/Alexander Zemlianichenko)" title="This Thursday, Sept. 27, 2018 file photo shows the website for British investigative group Bellingcat with one of the two suspects in the March poisoning of Sergei Skripal and his daughter in England. (AP/Alexander Zemlianichenko)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/sophisticated-phishing-attack-targets-reporters-investigating-kremlin/">Sophisticated phishing attack targets reporters investigating Kremlin</a>
+						</div>
+						<div class="byline">By <a title="Ben Simon" href="https://www.timesofisrael.com/writers/ben-simon/">Ben Simon</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template3 features type-post post-id-2099909">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/avant-garde-musician-gives-eerie-1920s-silent-film-the-golem-a-live-soundtrack/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2019/06/G_Lucas_Golem_1_Arjen_Veldt-e1561454694939-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Gary plays &#039;The Golem&#039; in BimHuis, Amsterdam, in September 2000. (Arjen Veldt)" title="Gary plays &#039;The Golem&#039; in BimHuis, Amsterdam, in September 2000. (Arjen Veldt)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"><span class="label">Prague-rock</span></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/avant-garde-musician-gives-eerie-1920s-silent-film-the-golem-a-live-soundtrack/">Avant-garde musician gives eerie 1920s silent film &#8216;The Golem&#8217; a live soundtrack</a>
+					</div><div class="byline">By <a title="Jordan Hoffman" href="https://www.timesofisrael.com/writers/jordan-hoffman/">Jordan Hoffman</a></div>
+					<div class="underline">
+						<span class="media-ico video-ico"></span><a href="https://www.timesofisrael.com/avant-garde-musician-gives-eerie-1920s-silent-film-the-golem-a-live-soundtrack/">Guitarist Gary Lucas has toured the world with Jeff Buckley, Lou Reed, Allen Ginsburg, and Bob Weir. But for the past 30 years he&#8217;s also dreamed up scores for supernatural stories</a>
+					</div>
+				</div>
+			</div>
+			<div class="item template2 news type-post post-id-2119629">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/new-rights-bennett-to-meet-urwps-peretz-in-ongoing-bid-to-forge-alliance/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2019/06/F190602YS22-e1559496690810-640x400.jpg" class="attachment-large size-large wp-post-image" alt="New Right party leader Naftali Bennett arrives to the weekly cabinet meeting at the Prime Minister&#039;s Office in Jerusalem on June 2, 2019, hours before he was fired as education minister. (Yonatan Sindel/Flash90)" title="New Right party leader Naftali Bennett arrives to the weekly cabinet meeting at the Prime Minister&#039;s Office in Jerusalem on June 2, 2019, hours before he was fired as education minister. (Yonatan Sindel/Flash90)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/new-rights-bennett-to-meet-urwps-peretz-in-ongoing-bid-to-forge-alliance/">New Right&#8217;s Bennett to meet URWP&#8217;s Peretz in ongoing bid to forge alliance</a>
+					</div><div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/new-rights-bennett-to-meet-urwps-peretz-in-ongoing-bid-to-forge-alliance/">Right-wing parties continue to disagree over who will lead a united slate; Channel 12 reports Peretz has threatened to quit if he loses lead spot &#8212; he calls the claim &#8216;drivel&#8217;</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package3 news">
+				<div class="item  type-post post-id-2119472">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/arab-parties-said-to-reach-deal-to-revive-joint-list/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/02/WhatsApp-Image-2019-02-21-at-22.04.25-e1550782609459-200x200.jpeg" class="attachment-square size-square wp-post-image" alt="MKs Ayman Odeh and Ahmad Tibi react after submitting a joint list of candidates from their Hadash and Ta&#039;al parties to the Central Elections Committee at the Knesset on February 21, 2019. (Hadash)" title="MKs Ayman Odeh and Ahmad Tibi react after submitting a joint list of candidates from their Hadash and Ta&#039;al parties to the Central Elections Committee at the Knesset on February 21, 2019. (Hadash)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/arab-parties-said-to-reach-deal-to-revive-joint-list/">Three Arab parties agree on joint Knesset run; Balad expected to decide Sunday</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119482">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/barak-accuses-netanyahu-of-leaning-on-extremist-party-to-avoid-prosecution/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/F190725TNFF61-e1564225372926-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Former prime minister Ehud Barak speaks during a press conference in Tel Aviv announcing the formation of Democratic Camp electoral alliance on July 25, 2019. (Tomer Neuberg/Flash90)" title="Former prime minister Ehud Barak speaks during a press conference in Tel Aviv announcing the formation of Democratic Camp electoral alliance on July 25, 2019. (Tomer Neuberg/Flash90)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/barak-accuses-netanyahu-of-leaning-on-extremist-party-to-avoid-prosecution/">Barak accuses Netanyahu of &#8216;leaning on&#8217; extremist party to avoid prosecution</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119314">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/despite-stated-opposition-labor-head-said-mulling-merger-with-democratic-camp/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/F190724YS14-e1564166938475-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Labor chief Amir Peretz at the opening of the party&#039;s new election headquarters in Tel Aviv. on July 24, 2019. (Yonatan Sindel/Flash90)" title="Labor chief Amir Peretz at the opening of the party&#039;s new election headquarters in Tel Aviv. on July 24, 2019. (Yonatan Sindel/Flash90)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/despite-stated-opposition-labor-head-said-mulling-merger-with-democratic-camp/">Despite stated opposition, Labor head said mulling merger with Democratic Camp</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template2 news type-post post-id-2119570 negative">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/israel-seizing-online-orders-sent-to-gaza-fearing-military-use-report/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2019/07/AP_10022218377-e1564249757520-640x400.jpg" class="attachment-large size-large wp-post-image" alt="File: Israeli postal authority workers sort out mail at a post office in Tel Aviv, Feb. 22, 2010 (AP Photos/Dan Balilty)" title="File: Israeli postal authority workers sort out mail at a post office in Tel Aviv, Feb. 22, 2010 (AP Photos/Dan Balilty)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/israel-seizing-online-orders-sent-to-gaza-fearing-military-use-report/">Israel said to confiscate 1,600 online orders sent to Gaza, fearing military use</a>
+					</div><div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/israel-seizing-online-orders-sent-to-gaza-fearing-military-use-report/">Packages intercepted in past year due to concern over items&#8217; potential use for attacks; intended recipients are informed and can appeal</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package2 news negative">
+				<div class="item  type-post post-id-2118871">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/abbas-says-palestinians-will-stop-implementing-agreements-with-israel/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/16_25_21_25_7_20191-e1564083116524-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Palestinian Authority President Mahmoud Abbas speaks to Palestinian leaders at the Muqata, the PA headquarters, in the West Bank city of Ramallah, on July 25, 2019. (Wafa news agency)" title="Palestinian Authority President Mahmoud Abbas speaks to Palestinian leaders at the Muqata, the PA headquarters, in the West Bank city of Ramallah, on July 25, 2019. (Wafa news agency)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/abbas-says-palestinians-will-stop-implementing-agreements-with-israel/">Abbas says Palestinians will stop implementing agreements with Israel</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119400">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/palestinian-killed-by-idf-gunfire-during-rioting-on-gaza-border/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/Untitled-5-5-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Palestinians rioters clash with Israeli forces on the border near Gaza City, July 26, 2019. (Hassan Jedi/Flash90)" title="Palestinians rioters clash with Israeli forces on the border near Gaza City, July 26, 2019. (Hassan Jedi/Flash90)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/palestinian-killed-by-idf-gunfire-during-rioting-on-gaza-border/">IDF reportedly kills Palestinian rioter on Gaza border</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template3 features type-post post-id-2119125 bgcolor bgcolor2">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/new-uk-anti-semitism-adviser-jews-are-the-canary-in-the-coal-mine-for-humanity/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2019/07/Mann-and-Merkel-640x400.jpeg" class="attachment-large size-large wp-post-image" alt="Labour MP John Mann with German Premier Angela Merkel at the International Coalition for Combating Antisemitism. (Courtesy)" title="Labour MP John Mann with German Premier Angela Merkel at the International Coalition for Combating Antisemitism. (Courtesy)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"><span class="label">Interview</span></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/new-uk-anti-semitism-adviser-jews-are-the-canary-in-the-coal-mine-for-humanity/">New UK anti-Semitism adviser: Jews are the canary in the coal mine for humanity</a>
+					</div><div class="byline">By <a title="Jenni Frazer" href="https://www.timesofisrael.com/writers/jenni-frazer/">Jenni Frazer</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/new-uk-anti-semitism-adviser-jews-are-the-canary-in-the-coal-mine-for-humanity/">Labour MP John Mann hopes new PM will keep him in role he was given in one of May&#8217;s last acts as premier; no love lost between lawmaker and some Corbyn allies in his own party</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package3 features bgcolor bgcolor2">
+				<div class="item  type-post post-id-2114860">
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/report-nearly-half-of-young-european-jews-victims-of-anti-semitism-in-past-year/">Report: Nearly half of young European Jews victims of anti-Semitism in past year</a>
+					</div>
+					<div class="byline">By <a title="Robert Philpot" href="https://www.timesofisrael.com/writers/robert-philpot/">Robert Philpot</a></div>
+				</div>
+				<div class="item  type-post post-id-2098219">
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/top-uk-rabbis-book-explains-to-non-jews-how-anti-semitism-impacts-them-too/">Top UK rabbi&#8217;s book explains to non-Jews how anti-Semitism impacts them, too</a>
+					</div>
+					<div class="byline">By <a title="Robert Philpot" href="https://www.timesofisrael.com/writers/robert-philpot/">Robert Philpot</a></div>
+				</div>
+				<div class="item  type-post post-id-2116165">
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/poll-corbyn-loses-ground-as-labour-members-see-anti-semitism-as-genuine-issue/">Poll: Corbyn loses ground as Labour members see anti-Semitism as &#8216;genuine&#8217; issue</a>
+					</div>
+					<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+				</div>
+		</div>
+<div class="item template7 special news">
+	<div class="headline">More Headlines</div>
+</div>
+		<div class="package package2 special">
+				<div class="item  type-post post-id-2119561">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/fire-breaks-out-at-haifa-science-museum-requiring-evacuation-of-area-residents/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/1141743_C-e1564246801973-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Authorities work to put out a blaze at Haifa&#039;s Madatech National Museum of Science, Technology and Space on July 27, 2019. (Fire and Rescue Services)" title="Authorities work to put out a blaze at Haifa&#039;s Madatech National Museum of Science, Technology and Space on July 27, 2019. (Fire and Rescue Services)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/fire-breaks-out-at-haifa-science-museum-requiring-evacuation-of-area-residents/">Fire breaks out at Haifa science museum, requiring evacuation of area residents</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119535">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/libyas-coast-guard-recovers-dozens-of-bodies-of-migrants/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/000_1J49T4-e1564238625541-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Members of the Libyan Red Crescent cover the washed up body of a migrant on the beach in Khoms, 120km east of the Libyan capital Tripoli, on July 26, 2019 (AFP)" title="Members of the Libyan Red Crescent cover the washed up body of a migrant on the beach in Khoms, 120km east of the Libyan capital Tripoli, on July 26, 2019 (AFP)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/libyas-coast-guard-recovers-dozens-of-bodies-of-migrants/">Libya&#8217;s coast guard recovers dozens of bodies of migrants</a>
+						</div>
+						<div class="byline">By <a title="Samy Magdy" href="https://www.timesofisrael.com/writers/samy-magdy/">Samy Magdy</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119612">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/amid-vaping-epidemic-juul-exec-says-never-intended-e-cigarette-for-teens/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/AP19206742933582-e1564255509454-200x200.jpg" class="attachment-square size-square wp-post-image" alt="JUUL Labs co-founder and Chief Product Officer James Monsees testifies before a House Oversight and Government Reform subcommittee on Capitol Hill in Washington, Thursday, July 25, 2019, during a hearing on the youth nicotine epidemic. (AP Photo/Susan Walsh)" title="JUUL Labs co-founder and Chief Product Officer James Monsees testifies before a House Oversight and Government Reform subcommittee on Capitol Hill in Washington, Thursday, July 25, 2019, during a hearing on the youth nicotine epidemic. (AP Photo/Susan Walsh)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/amid-vaping-epidemic-juul-exec-says-never-intended-e-cigarette-for-teens/">Amid vaping &#8216;epidemic,&#8217; Juul exec says never intended e-cigarette for teens</a>
+						</div>
+						<div class="byline">By <a title="MATTHEW PERRONE" href="https://www.timesofisrael.com/writers/matthew-perrone/">MATTHEW PERRONE</a> and <a title="Richard Lardner" href="https://www.timesofisrael.com/writers/richard-lardner/">Richard Lardner</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119498">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/newly-uncovered-testimony-casts-doubt-on-nazi-reichstag-fire-claims/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/AP_330227099-e1564229369288-200x200.jpg" class="attachment-square size-square wp-post-image" alt="The Reichstag building is shown as it goes up in flames, February 27, 1933, in Berlin. (AP Photo)" title="The Reichstag building is shown as it goes up in flames, February 27, 1933, in Berlin. (AP Photo)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/newly-uncovered-testimony-casts-doubt-on-nazi-reichstag-fire-claims/">Newly uncovered testimony casts doubt on Nazi Reichstag fire claims</a>
+						</div>
+						<div class="byline">By <a title="AFP" href="https://www.timesofisrael.com/writers/afp/">AFP</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119517">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/canadian-police-confirm-sightings-of-teen-murder-suspects/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/Screen-Shot-2019-07-27-at-4.40.28-PM-e1564235601154-200x200.png" class="attachment-square size-square wp-post-image" alt="Security camera images recorded in Saskatchewan of Kam McLeod, 19, and Bryer Schmegelsky, 18, are displayed as Royal Canadian Mounted Police Sgt. Janelle Shoihet listens during a news conference in Surrey, British Columbia, on July 23, 2019. (Screen capture/YouTube)" title="Security camera images recorded in Saskatchewan of Kam McLeod, 19, and Bryer Schmegelsky, 18, are displayed as Royal Canadian Mounted Police Sgt. Janelle Shoihet listens during a news conference in Surrey, British Columbia, on July 23, 2019. (Screen capture/YouTube)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/canadian-police-confirm-sightings-of-teen-murder-suspects/">Canadian police confirm sightings of teen murder suspects</a>
+						</div>
+						<div class="byline">By <a title="Rob Gillies" href="https://www.timesofisrael.com/writers/rob-gillies/">Rob Gillies</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119537">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/iran-ships-stranded-in-brazil-to-depart-this-weekend-officials-say/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/000_1IY2NH-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Iranian ship Bavand, loaded with 48,000 tons of corn, is seen anchored in the port of Paranagua, Brazil, on July 19, 2019.(Heuler Andrey/AFP)" title="Iranian ship Bavand, loaded with 48,000 tons of corn, is seen anchored in the port of Paranagua, Brazil, on July 19, 2019.(Heuler Andrey/AFP)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/iran-ships-stranded-in-brazil-to-depart-this-weekend-officials-say/">Iran ships stranded in Brazil to depart this weekend, officials say</a>
+						</div>
+						<div class="byline">By <a title="AFP" href="https://www.timesofisrael.com/writers/afp/">AFP</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119696">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/vilnius-removes-plaque-honoring-alleged-nazi-collaborator/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/04/lithuania-e1554721508438-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Stanislovas Tomas smashes the plaque honoring Jonas Noreika in Vilnius, Lithuania, April 7, 2019 (Screen grab via Facebook)" title="Stanislovas Tomas smashes the plaque honoring Jonas Noreika in Vilnius, Lithuania, April 7, 2019 (Screen grab via Facebook)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/vilnius-removes-plaque-honoring-alleged-nazi-collaborator/">Vilnius removes plaque honoring alleged Nazi collaborator</a>
+						</div>
+						<div class="byline">By <a title="JTA" href="https://www.timesofisrael.com/writers/jta/">JTA</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119335">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/envoy-to-us-visits-alaska-for-talks-on-cooperation-against-iran-report/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/06/Untitled-1-4-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Ron Dermer, Israel&#039;s ambassador to the United States, speaks at an event in Detroit, on June 4, 2018. (AP Photo/Paul Sancya/File)" title="Ron Dermer, Israel&#039;s ambassador to the United States, speaks at an event in Detroit, on June 4, 2018. (AP Photo/Paul Sancya/File)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/envoy-to-us-visits-alaska-for-talks-on-cooperation-against-iran-report/">Israel&#8217;s US envoy flies to Alaska to &#8216;upgrade&#8217; cooperation against Iran &#8211; report</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119440">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/man-in-bnei-brak-arrested-on-suspicion-of-killing-his-mother/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/Screen-Shot-2019-07-27-at-08.29.59-e1564205538898-200x200.jpeg" class="attachment-square size-square wp-post-image" alt="Police are seen outside an apartment building in Bnei Brak where a woman was stabbed to death on July 27, 2019. (Screen capture: Ynet)" title="Police are seen outside an apartment building in Bnei Brak where a woman was stabbed to death on July 27, 2019. (Screen capture: Ynet)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/man-in-bnei-brak-arrested-on-suspicion-of-killing-his-mother/">Man in Bnei Brak arrested on suspicion of killing his mother</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119357">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/israeli-woman-in-us-chases-down-restrains-male-jogger-who-flashed-her/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/Untitled-2-7-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Aia Polansky speaks with local news in an interview published July 24, 2019. (YouTube screenshot)" title="Aia Polansky speaks with local news in an interview published July 24, 2019. (YouTube screenshot)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<span class="media-ico video-ico no-slash"></span><a href="https://www.timesofisrael.com/israeli-woman-in-us-chases-down-restrains-male-jogger-who-flashed-her/">Israeli woman in US chases down, restrains male jogger who flashed her</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119462">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/bahrain-executes-2-in-terrorism-case-decried-by-activists/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/04/Road_and_towers_in_Manama-e1555243917374-200x200.jpg" class="attachment-square size-square wp-post-image" alt="A view of the Manama skyline, Bahrain. (CC-BY Jayson De Leon/Wikimedia Commons)" title="A view of the Manama skyline, Bahrain. (CC-BY Jayson De Leon/Wikimedia Commons)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/bahrain-executes-2-in-terrorism-case-decried-by-activists/">Bahrain executes 2 in terrorism case decried by activists</a>
+						</div>
+						<div class="byline">By <a title="Agencies" href="https://www.timesofisrael.com/writers/agencies/">Agencies</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-2119433">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/in-victory-for-trump-supreme-court-oks-use-of-pentagon-funds-for-border-wall/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/AP_19180597769251-e1564201486370-200x200.jpg" class="attachment-square size-square wp-post-image" alt="In this photo from April 5, 2019 US President Donald Trump speaks as he visits a new section of the border wall with Mexico in Calexico, California. (AP Photo/Jacquelyn Martin, File)" title="In this photo from April 5, 2019 US President Donald Trump speaks as he visits a new section of the border wall with Mexico in Calexico, California. (AP Photo/Jacquelyn Martin, File)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/in-victory-for-trump-supreme-court-oks-use-of-pentagon-funds-for-border-wall/">In victory for Trump, Supreme Court OKs use of Pentagon funds for border wall</a>
+						</div>
+						<div class="byline">By <a title="Jessica Gresko" href="https://www.timesofisrael.com/writers/jessica-gresko/">Jessica Gresko</a></div>
+					</div>
+				</div>
+		</div>
+<div class="item template8 special blogs">
+	<div class="headline"><a href="/ops-and-blogs/">Top Ops</a></div>
+</div>
+		<div class="package package3 special">
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/the-tefillin-bag/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/Chananya-Weissman-1530953596-200x200.jpg" alt="Chananya Weissman" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="Chananya Weissman" href="https://blogs.timesofisrael.com/author/chananya-weissman/">Chananya Weissman</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/the-tefillin-bag/" rel="external">The tefillin bag</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/the-tefillin-bag/" rel="external">When a simple plastic case takes on untold significance, as the embodiment of an aging young manâs hopes and dreams and fears</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/embracing-the-religious-obligations-of-the-ada-rather-than-the-faith-exemption/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/Julie-Schonfeld2-1530952197-200x200.png" alt="Julie Schonfeld" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="Julie Schonfeld" href="https://blogs.timesofisrael.com/author/julie-schonfeld/">Julie Schonfeld</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/embracing-the-religious-obligations-of-the-ada-rather-than-the-faith-exemption/" rel="external">Even Moses had a disability</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/embracing-the-religious-obligations-of-the-ada-rather-than-the-faith-exemption/" rel="external">Judaism fundamentally obligates Jews in the Americans with Disabilities Act &#8212; despite the loophole of a faith exemption</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/priorities-matot-5779/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/Rabbi-Sacks-1530952096-200x200.jpg" alt="Jonathan Sacks" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="Jonathan Sacks" href="https://blogs.timesofisrael.com/author/jonathan-sacks/">Jonathan Sacks</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/priorities-matot-5779/" rel="external">Priorities</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/priorities-matot-5779/" rel="external">Itâs a given that Jews place primary importance on children and education; itâs less understood that those values guarantee the Jewish future (Matot)</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/when-the-government-fails-the-elderly/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/jakelefkovitz1562647982-200x200.jpg" alt="Jake Lefkovitz" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="Jake Lefkovitz" href="https://blogs.timesofisrael.com/author/jake-lefkovitz/">Jake Lefkovitz</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/when-the-government-fails-the-elderly/" rel="external">When the government fails survivors</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/when-the-government-fails-the-elderly/" rel="external">The gap between what these seniors have, what they receive from the state, and they actually need to be able to maintain a dignified existence</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/the-rotten-state-of-orthodoxy/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/1498957_10153271048250918_6126733898455052161_o-400x400-1530951815-200x200.jpg" alt="Shoshanna Keats Jaskoll" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="Shoshanna Keats Jaskoll" href="https://blogs.timesofisrael.com/author/shoshanna-jaskoll/">Shoshanna Keats Jaskoll</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/the-rotten-state-of-orthodoxy/" rel="external">The rotten state of Orthodoxy</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/the-rotten-state-of-orthodoxy/" rel="external">When sex offenders are treated as innocent and women are rendered invisible, the Orthodox community needs deep and wide repair</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/the-lasting-legacy-of-brams-violin/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/sha-1530951842-200x200.jpg" alt="David Groen" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="David Groen" href="https://blogs.timesofisrael.com/author/david-groen/">David Groen</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/the-lasting-legacy-of-brams-violin/" rel="external">The lasting legacy of Bram&#8217;s violin</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/the-lasting-legacy-of-brams-violin/" rel="external">Itâs a tribute to how connections &#8212; friendship and music and even Facebook &#8212; triumphed over not only the Nazis, but also the destructive effects of time</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://www.timesofisrael.com/one-small-step-for-stav-shaffir-one-large-step-for-israeli-politics/"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/biranitgoren-medium.jpg" class="attachment-medium writers-thumbnail" alt="Biranit Goren" title="Biranit Goren" /></a></div>
+				
+		<div class="byline"><a title="Biranit Goren" href="https://www.timesofisrael.com/writers/biranit-goren/">Biranit Goren</a></div>
+		<div class="headline">
+			<a href="https://www.timesofisrael.com/one-small-step-for-stav-shaffir-one-large-step-for-israeli-politics/">One small step for Stav Shaffir, one large step for Israeli politics</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://www.timesofisrael.com/one-small-step-for-stav-shaffir-one-large-step-for-israeli-politics/">Boldly abandoning Labor to form an alliance between Meretz and the Israel Democratic Party, the young lawmaker may be a &#8216;traitor&#8217; now but welcomed back by colleagues later</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/israel-is-no-violent-theocracy/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/Avi-Shafran-1530952101-200x200.jpeg" alt="Avi Shafran" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="Avi Shafran" href="https://blogs.timesofisrael.com/author/avi-shafran/">Avi Shafran</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/israel-is-no-violent-theocracy/" rel="external">Israel is no violent theocracy</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/israel-is-no-violent-theocracy/" rel="external">Ultra-Orthodox harassment of the secular is rude, to be sure, but itâs not sanctioned by the government &#8212; a key point that should be in the Pew report</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/mechinah-as-worthy-an-israeli-export-as-drip-irrigation/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/wendy1564040356-200x200.jpg" alt="Wendy Singer" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="Wendy Singer" href="https://blogs.timesofisrael.com/author/wendy-singer/">Wendy Singer</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/mechinah-as-worthy-an-israeli-export-as-drip-irrigation/" rel="external">&#8216;Mechina&#8217; &#8212; as worthy an Israeli export as drip irrigation</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/mechinah-as-worthy-an-israeli-export-as-drip-irrigation/" rel="external">These pre-army academies are training a new generation of enterprising, resilient, purpose-driven youth, who figure out how to serve society</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/belfasts-power-vacuum-leads-to-titanic-bds-troubles/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/david-may1563923916-200x200.jpg" alt="David May" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="David May" href="https://blogs.timesofisrael.com/author/david-may/">David May</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/belfasts-power-vacuum-leads-to-titanic-bds-troubles/" rel="external">Belfastâs power vacuum leads to Titanic BDS troubles</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/belfasts-power-vacuum-leads-to-titanic-bds-troubles/" rel="external">The Belfast city council, which should be focused on local municipal issues, may embarrass Northern Ireland with its foray into Mideast conflicts</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/what-would-ima-do/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/Sagi-Melamed2-1530951808-200x200.jpg" alt="Sagi Melamed" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="Sagi Melamed" href="https://blogs.timesofisrael.com/author/sagi-melamed/">Sagi Melamed</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/what-would-ima-do/" rel="external">What would Mom do?</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/what-would-ima-do/" rel="external">More than a list of Doâs and Donâts, parenting is the moral values instilled in children through the actions of those who raise them</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><a href="https://blogs.timesofisrael.com/yes-we-can-balance-religious-freedom-and-respect-for-tradition/" rel="external"><img src="https://static.timesofisrael.com/blogs/uploads/users/alon-tal-TOI2-1530951934-200x200.jpg" alt="Alon Tal" width="200" height="200"></a></div>
+				
+		<div class="byline"><a title="Alon Tal" href="https://blogs.timesofisrael.com/author/alon-tal/">Alon Tal</a></div>
+		<div class="headline">
+			<a href="https://blogs.timesofisrael.com/yes-we-can-balance-religious-freedom-and-respect-for-tradition/" rel="external">Balancing religious freedom and respect for tradition IS doable</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://blogs.timesofisrael.com/yes-we-can-balance-religious-freedom-and-respect-for-tradition/" rel="external">Just because Blue and White is a centrist party does not mean it is timid, wishy-washy, or paralyzed by its moderate inclinations</a>
+			</div>
+	</div>
+		</div>				</section>
+			
+							<section data-block_id="block2" class="cols2 block">
+					<div id="latest" class="latest-split">
+	<div class="latest-articles widget">
+		<div class="widget-header">
+			<a href="/latest/">Latest Articles</a>
+		</div>
+		<div class="widget-body no-hover">
+			<ul>
+					<li class="item">
+						
+							<div class="media">
+								<a href="https://www.timesofisrael.com/two-unarmed-palestinians-cross-border-from-gaza-are-arrested/">
+									<img width="160" height="100" src="https://static.timesofisrael.com/www/uploads/2019/06/F190628HJ08-e1561792493373-160x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Israeli military vehicles are seen during clashes along the border fence between Israel and the Gaza Strip, near Gaza City, on June 28, 2019. (Hassan Jedi/Flash90)" title="Israeli military vehicles are seen during clashes along the border fence between Israel and the Gaza Strip, near Gaza City, on June 28, 2019. (Hassan Jedi/Flash90)" />
+								</a>
+							</div>
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/two-unarmed-palestinians-cross-border-from-gaza-are-arrested/">20 minutes ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/two-unarmed-palestinians-cross-border-from-gaza-are-arrested/">
+									Two unarmed Palestinians cross border from Gaza, are arrested
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/trumps-peace-plan-rings-alarm-bells-in-jordan/">30 minutes ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/trumps-peace-plan-rings-alarm-bells-in-jordan/">
+									<span class="label">Analysis</span>Trump&#8217;s peace plan rings alarm bells in Jordan
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/iran-deals-european-signers-to-meet-in-vienna-in-bid-to-save-accord/">1 hour ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/iran-deals-european-signers-to-meet-in-vienna-in-bid-to-save-accord/">
+									Iran deal&#8217;s European signers to meet in Vienna in bid to save accord
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/bernie-sanders-says-he-would-absolutely-mull-cutting-aid-to-leverage-israel/">3 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/bernie-sanders-says-he-would-absolutely-mull-cutting-aid-to-leverage-israel/">
+									Bernie Sanders says he would &#8216;absolutely&#8217; mull cutting aid to pressure Israel
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/sophisticated-phishing-attack-targets-reporters-investigating-kremlin/">3 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/sophisticated-phishing-attack-targets-reporters-investigating-kremlin/">
+									Sophisticated phishing attack targets reporters investigating Kremlin
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/vilnius-removes-plaque-honoring-alleged-nazi-collaborator/">4 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/vilnius-removes-plaque-honoring-alleged-nazi-collaborator/">
+									Vilnius removes plaque honoring alleged Nazi collaborator
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/writer-who-said-israelis-are-lax-about-sex-crimes-accused-of-sexual-assault/">5 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/writer-who-said-israelis-are-lax-about-sex-crimes-accused-of-sexual-assault/">
+									Writer who said Israelis are lax about sex crimes accused of sexual assault
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/rising-from-ashes-of-arab-spring-women-lead-a-first-muslim-feminist-revolution/">6 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/rising-from-ashes-of-arab-spring-women-lead-a-first-muslim-feminist-revolution/">
+									<span class="label">Deep dive</span>Rising from ashes of Arab Spring, women lead a first Muslim feminist revolution
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/trump-labels-baltimore-infested-mess-sparking-fresh-outrage/">6 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/trump-labels-baltimore-infested-mess-sparking-fresh-outrage/">
+									Trump labels Baltimore &#8216;infested mess,&#8217; sparking fresh outrage
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/two-children-lightly-hurt-in-west-bank-stoning-attack/">7 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/two-children-lightly-hurt-in-west-bank-stoning-attack/">
+									Two children lightly hurt in West Bank stoning attack
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/iran-complains-mideast-neighbors-making-diplomacy-impossible/">8 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/iran-complains-mideast-neighbors-making-diplomacy-impossible/">
+									Iran complains Mideast neighbors making diplomacy impossible
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/new-rights-bennett-to-meet-urwps-peretz-in-ongoing-bid-to-forge-alliance/">9 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/new-rights-bennett-to-meet-urwps-peretz-in-ongoing-bid-to-forge-alliance/">
+									New Right&#8217;s Bennett to meet URWP&#8217;s Peretz in ongoing bid to forge alliance
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/avant-garde-musician-gives-eerie-1920s-silent-film-the-golem-a-live-soundtrack/">10 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/avant-garde-musician-gives-eerie-1920s-silent-film-the-golem-a-live-soundtrack/">
+									<span class="label">Prague-rock</span>Avant-garde musician gives eerie 1920s silent film &#8216;The Golem&#8217; a live soundtrack
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/amid-vaping-epidemic-juul-exec-says-never-intended-e-cigarette-for-teens/">10 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/amid-vaping-epidemic-juul-exec-says-never-intended-e-cigarette-for-teens/">
+									Amid vaping &#8216;epidemic,&#8217; Juul exec says never intended e-cigarette for teens
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/trumps-maximum-pressure-campaign-against-iran-comes-to-critical-crossroads/">10 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/trumps-maximum-pressure-campaign-against-iran-comes-to-critical-crossroads/">
+									Trump&#8217;s &#8216;maximum pressure&#8217; campaign against Iran comes to critical crossroads
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/cypriot-police-said-set-to-charge-at-least-3-israeli-teens-in-gang-rape-case/">11 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/cypriot-police-said-set-to-charge-at-least-3-israeli-teens-in-gang-rape-case/">
+									Cypriot police said set to charge at least 3 Israeli teens in gang rape case
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/owner-of-british-tanker-held-by-iran-says-its-crew-is-in-good-health/">11 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/owner-of-british-tanker-held-by-iran-says-its-crew-is-in-good-health/">
+									Owner of British tanker held by Iran says its crew is in good health
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/fire-breaks-out-at-haifa-science-museum-requiring-evacuation-of-area-residents/">12 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/fire-breaks-out-at-haifa-science-museum-requiring-evacuation-of-area-residents/">
+									Fire breaks out at Haifa science museum, requiring evacuation of area residents
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/israel-seizing-online-orders-sent-to-gaza-fearing-military-use-report/">12 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/israel-seizing-online-orders-sent-to-gaza-fearing-military-use-report/">
+									Israel said to confiscate 1,600 online orders sent to Gaza, fearing military use
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/russian-police-arrest-over-600-at-moscow-election-protest/">13 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/russian-police-arrest-over-600-at-moscow-election-protest/">
+									Russian police arrest over 1,000 at Moscow election protest
+								</a>
+							</div>
+						</div>
+					</li></ul>		</div>
+		<div class="widget-footer">
+			<a href="/latest/">See All</a>
+		</div>
+	</div>
+	<div class="latest-blogs widget">
+		<div class="widget-header">
+			<a href="https://blogs.timesofisrael.com/">Latest Blogs</a>
+		</div>
+		<div class="widget-body no-hover">
+			<ul>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="https://blogs.timesofisrael.com/author/robert-withrow/">
+								<img src="//static.timesofisrael.com/blogs/uploads/users/robert-withrow1562230999-200x200.jpg" alt="Robert Withrow">
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="https://blogs.timesofisrael.com/author/robert-withrow/">Robert Withrow</a>
+							</div>
+							<div class="headline">
+								<a href="https://blogs.timesofisrael.com/the-chaplains-desk-psalm-119/">The Chaplains desk - Psalm 119</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="https://blogs.timesofisrael.com/author/andy-blumenthal/">
+								<img src="//static.timesofisrael.com/blogs/uploads/users/Andy-Blumenthal-1530953740-200x200.jpg" alt="Andy Blumenthal">
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="https://blogs.timesofisrael.com/author/andy-blumenthal/">Andy Blumenthal</a>
+							</div>
+							<div class="headline">
+								<a href="https://blogs.timesofisrael.com/whats-it-worth-to-you/">What's It Worth To You?</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="https://blogs.timesofisrael.com/author/tuvia-book/">
+								<img src="//static.timesofisrael.com/blogs/uploads/users/Tuvia-Book1-1530951857-200x200.jpg" alt="Tuvia Book">
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="https://blogs.timesofisrael.com/author/tuvia-book/">Tuvia Book</a>
+							</div>
+							<div class="headline">
+								<a href="https://blogs.timesofisrael.com/janusz-korczak-loving-every-child/">Janusz Korczak, Loving Every Child</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="https://blogs.timesofisrael.com/author/moshe-mordechai-van-zuiden/">
+								<img src="//static.timesofisrael.com/blogs/uploads/users/moshe-mordechai-van-zuiden11552384025-200x200.jpg" alt="Moshe-Mordechai van Zuiden">
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="https://blogs.timesofisrael.com/author/moshe-mordechai-van-zuiden/">Moshe-Mordechai van Zuiden</a>
+							</div>
+							<div class="headline">
+								<a href="https://blogs.timesofisrael.com/arab-mks-condemn-honor-killing-attempt-at-gay-brother/">Arab MKs condemn "honor killing" ...</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="https://blogs.timesofisrael.com/author/reuven-chaim-klein/">
+								<img src="//static.timesofisrael.com/blogs/uploads/users/reuven-chaim-klein1549085122-200x200.jpg" alt="Reuven Chaim Klein">
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="https://blogs.timesofisrael.com/author/reuven-chaim-klein/">Reuven Chaim Klein</a>
+							</div>
+							<div class="headline">
+								<a href="https://blogs.timesofisrael.com/mattos-of-oaths-and-promises/">Mattos: Of Oaths and Promises</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="https://blogs.timesofisrael.com/author/arik-ascherman/">
+								<img src="//static.timesofisrael.com/blogs/uploads/users/ascherman51562621264-200x200.jpg" alt="Arik Ascherman">
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="https://blogs.timesofisrael.com/author/arik-ascherman/">Arik Ascherman</a>
+							</div>
+							<div class="headline">
+								<a href="https://blogs.timesofisrael.com/how-would-you-justify-leaving-a-baby-to-fend-in-burning-sun-and-heat/">How Would You Justify Leaving A B...</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="https://blogs.timesofisrael.com/author/tzemach-yehudah-richter/">
+								<img src="//static.timesofisrael.com/blogs/uploads/users/tzemach-yehudah-richter1554276552-200x200.jpg" alt="Tzemach Yehudah Richter">
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="https://blogs.timesofisrael.com/author/tzemach-yehudah-richter/">Tzemach Yehudah Richter</a>
+							</div>
+							<div class="headline">
+								<a href="https://blogs.timesofisrael.com/dear-bibi-do-not-allow-omar-into-israel-until-she-clarifies-many-questions/">Dear Bibi - Do Not Allow Omar Int...</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="https://blogs.timesofisrael.com/author/lindsey-moav/">
+								<img src="//static.timesofisrael.com/blogs/uploads/users/lindsey-amit-perry1560657300-200x200.jpg" alt="Lindsey Amit Perry">
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="https://blogs.timesofisrael.com/author/lindsey-moav/">Lindsey Amit Perry</a>
+							</div>
+							<div class="headline">
+								<a href="https://blogs.timesofisrael.com/christians-jewish-people-and-working-together/">Christians Jewish People and Work...</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="https://blogs.timesofisrael.com/author/dan-perry/">
+								<img src="//static.timesofisrael.com/blogs/uploads/users/danperry1543267678-200x200.jpg" alt="Dan Perry">
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="https://blogs.timesofisrael.com/author/dan-perry/">Dan Perry</a>
+							</div>
+							<div class="headline">
+								<a href="https://blogs.timesofisrael.com/in-our-mulish-era-labor-should-merge-with-left/">Labor should merge with left, giv...</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="https://blogs.timesofisrael.com/author/esor-ben-sorek/">
+								<img src="//static.timesofisrael.com/blogs/uploads/users/Abba-in-Uniform-June-2009-1530952931-200x200.jpg" alt="Esor Ben-Sorek">
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="https://blogs.timesofisrael.com/author/esor-ben-sorek/">Esor Ben-Sorek</a>
+							</div>
+							<div class="headline">
+								<a href="https://blogs.timesofisrael.com/fact-or-fiction-long-live-corruption/">Fact or Fiction: Long Live Corrup...</a>
+							</div>
+						</div>
+					</li></ul>		</div>
+		<div class="widget-footer">
+			<a href="https://blogs.timesofisrael.com/">See All</a>
+		</div>
+	</div>
+</div>
+<div id="full_coverage_2_116729" class="widget full-coverage">
+	<div class="widget-header">
+		<a href="https://www.timesofisrael.com/topic/israel-media-review/">
+			<span>Full Coverage</span>
+			Israel media review		</a>
+	</div>
+	<div class="widget-body">
+		<ul>
+			<li class="item">
+				
+				<div class="media">
+					<a href="https://www.timesofisrael.com/same-bloc-different-day-8-things-to-know-for-july-26/">
+						<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/20190724_175133-1-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Labor leader Amir Peretz (L), Gesher leader Orly Levy-Abekasis (2L), and other Labor lawmakers at the party&#039;s campaign launch in Tel Aviv on July 24, 2019 (Omer Sharvit)" title="Labor leader Amir Peretz (L), Gesher leader Orly Levy-Abekasis (2L), and other Labor lawmakers at the party&#039;s campaign launch in Tel Aviv on July 24, 2019 (Omer Sharvit)" />
+					</a>
+				</div>
+				<div class="item-content">
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/same-bloc-different-day-8-things-to-know-for-july-26/">
+							Same bloc, different day: 8 things to know for July 26 
+						</a>
+					</div>
+					<div class="byline">By <a title="Joshua Davidovich" href="https://www.timesofisrael.com/writers/joshua-davidovich/">Joshua Davidovich</a></div>
+					
+				</div>
+			</li>
+			<li class="item">
+				
+				<div class="media">
+					<a href="https://www.timesofisrael.com/everything-you-own-in-a-box-to-the-left-6-things-to-know-for-july-25/">
+						<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/WhatsApp-Image-2019-07-25-at-07.00.09-200x200.jpeg" class="attachment-square size-square wp-post-image" alt="Israel Democratic Party chair Ehud Barak (L), Labor MK Stav Shaffir (C), Meretz chair Nitzan Horowitz, July 25, 2019. (Courtesy)" title="Israel Democratic Party chair Ehud Barak (L), Labor MK Stav Shaffir (C), Meretz chair Nitzan Horowitz, July 25, 2019. (Courtesy)" />
+					</a>
+				</div>
+				<div class="item-content">
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/everything-you-own-in-a-box-to-the-left-6-things-to-know-for-july-25/">
+							Everything you own in a box to the left: 6 things to know for July 25 
+						</a>
+					</div>
+					<div class="byline">By <a title="Jacob Magid" href="https://www.timesofisrael.com/writers/jacob-magid/">Jacob Magid</a></div>
+					
+				</div>
+			</li>
+			<li class="item">
+				
+				<div class="media">
+					<a href="https://www.timesofisrael.com/replacement-theory-6-things-to-know-for-july-24/">
+						<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/F190723YS01-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Justice Minister Amir Ohana (L) with Justice Ministry director general Emi Palmor during a welcome ceremony for Ohana at the ministr in Jerusalem on June 23, 2019. (Yonatan Sindel/Flash90)" title="Justice Minister Amir Ohana (L) with Justice Ministry director general Emi Palmor during a welcome ceremony for Ohana at the ministr in Jerusalem on June 23, 2019. (Yonatan Sindel/Flash90)" />
+					</a>
+				</div>
+				<div class="item-content">
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/replacement-theory-6-things-to-know-for-july-24/">
+							Replacement theory: 6 things to know for July 24 
+						</a>
+					</div>
+					<div class="byline">By <a title="Joshua Davidovich" href="https://www.timesofisrael.com/writers/joshua-davidovich/">Joshua Davidovich</a></div>
+					
+				</div>
+			</li></ul>	</div>
+	<div class="widget-footer">
+		<a href="https://www.timesofisrael.com/topic/israel-media-review/">See All</a>
+	</div>
+</div><div class="widget nlsignup daily-edition-signup">
+	<div class="widget-body newsletter" data-website="timesofisrael" data-from="widget">
+		<div class="text">
+			<div class="medium">The Times of Israel</div>
+			<div class="big">Daily Edition</div>
+			<div class="medium">Free to Your Inbox</div>
+		</div>
+		<form>
+			<input type="email" name="email" class="email-address" value="" placeholder="Email address" autocorrect="off" autocapitalize="off" autocomplete="off">
+            <input name="subscribe" value="Subscribe" class="submit" type="submit">
+		</form>
+		<div class="newsletter-error">
+			<span>The email is either missing or invalid.</span>
+		</div>
+		<div class="terms">
+			By signing up, you agree to our 
+	        <span class="tooltip">
+	        	terms
+	            <span>
+	                <b></b>
+	                You hereby accept The Times of Israel <a href="/terms/" target="_top">Terms of Use</a> and <a href="/privacy/" target="_top">Privacy Policy</a>, and you agree to receive the latest news &amp; offers from The Times of Israel and its partners or ad sponsors.
+	            </span>
+	        </span>
+		</div>
+	</div>
+</div>
+<div id="full_coverage_2_120562" class="widget full-coverage">
+	<div class="widget-header">
+		<a href="https://www.timesofisrael.com/topic/2019-israeli-elections/">
+			<span>Full Coverage</span>
+			2019 Israeli elections		</a>
+	</div>
+	<div class="widget-body">
+		<ul>
+			<li class="item">
+				
+				<div class="media">
+					<a href="https://www.timesofisrael.com/new-rights-bennett-to-meet-urwps-peretz-in-ongoing-bid-to-forge-alliance/">
+						<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/06/F190602YS22-e1559496690810-200x200.jpg" class="attachment-square size-square wp-post-image" alt="New Right party leader Naftali Bennett arrives to the weekly cabinet meeting at the Prime Minister&#039;s Office in Jerusalem on June 2, 2019, hours before he was fired as education minister. (Yonatan Sindel/Flash90)" title="New Right party leader Naftali Bennett arrives to the weekly cabinet meeting at the Prime Minister&#039;s Office in Jerusalem on June 2, 2019, hours before he was fired as education minister. (Yonatan Sindel/Flash90)" />
+					</a>
+				</div>
+				<div class="item-content">
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/new-rights-bennett-to-meet-urwps-peretz-in-ongoing-bid-to-forge-alliance/">
+							New Right&#8217;s Bennett to meet URWP&#8217;s Peretz in ongoing bid to forge alliance 
+						</a>
+					</div>
+					<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					
+				</div>
+			</li>
+			<li class="item">
+				
+				<div class="media">
+					<a href="https://www.timesofisrael.com/barak-accuses-netanyahu-of-leaning-on-extremist-party-to-avoid-prosecution/">
+						<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/07/F190725TNFF61-e1564225372926-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Former prime minister Ehud Barak speaks during a press conference in Tel Aviv announcing the formation of Democratic Camp electoral alliance on July 25, 2019. (Tomer Neuberg/Flash90)" title="Former prime minister Ehud Barak speaks during a press conference in Tel Aviv announcing the formation of Democratic Camp electoral alliance on July 25, 2019. (Tomer Neuberg/Flash90)" />
+					</a>
+				</div>
+				<div class="item-content">
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/barak-accuses-netanyahu-of-leaning-on-extremist-party-to-avoid-prosecution/">
+							Barak accuses Netanyahu of &#8216;leaning on&#8217; extremist party to avoid prosecution 
+						</a>
+					</div>
+					<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					
+				</div>
+			</li>
+			<li class="item">
+				
+				<div class="media">
+					<a href="https://www.timesofisrael.com/arab-parties-said-to-reach-deal-to-revive-joint-list/">
+						<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2019/02/WhatsApp-Image-2019-02-21-at-22.04.25-e1550782609459-200x200.jpeg" class="attachment-square size-square wp-post-image" alt="MKs Ayman Odeh and Ahmad Tibi react after submitting a joint list of candidates from their Hadash and Ta&#039;al parties to the Central Elections Committee at the Knesset on February 21, 2019. (Hadash)" title="MKs Ayman Odeh and Ahmad Tibi react after submitting a joint list of candidates from their Hadash and Ta&#039;al parties to the Central Elections Committee at the Knesset on February 21, 2019. (Hadash)" />
+					</a>
+				</div>
+				<div class="item-content">
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/arab-parties-said-to-reach-deal-to-revive-joint-list/">
+							Three Arab parties agree on joint Knesset run; Balad expected to decide Sunday 
+						</a>
+					</div>
+					<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					
+				</div>
+			</li></ul>	</div>
+	<div class="widget-footer">
+		<a href="https://www.timesofisrael.com/topic/2019-israeli-elections/">See All</a>
+	</div>
+</div>	<div id="tales-of-the-times" class="slider">
+		<div class="section-header">
+			<div class="title"><a href="https://www.timesofisrael.com/collection/tales-of-the-times/">Tales of the Times</a></div>
+							<div class="subtitle"><a href="https://www.timesofisrael.com/collection/tales-of-the-times/">The quirky, improbable, infuriating and uplifting</a></div>
+					</div>
+
+		<div class="arrows prev disabled"><a href="#" title="Previous"></a></div>
+		<div id="tales-of-the-times-viewport" class="slider-viewport">
+			<ul style="width:5000">
+									<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/new-uk-house-of-commons-leaders-office-rules-no-metric-very-or-got/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/03/AP_19023520250169-1-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="British Conservative MP Jacob Rees-Mogg, a leading Brexit campaigner, on January 23, 2019. (AP Photo/Alastair Grant)" title="British Conservative MP Jacob Rees-Mogg, a leading Brexit campaigner, on January 23, 2019. (AP Photo/Alastair Grant)" /></a>
+						</div>
+						<span class="label">Going the extra mile</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/new-uk-house-of-commons-leaders-office-rules-no-metric-very-or-got/">UK official&#8217;s office rules: No metric measurements, &#8216;very&#8217; or &#8216;got&#8217;</a>
+						</div>
+													<div class="byline">
+								By <a title="AP" href="https://www.timesofisrael.com/writers/ap/">AP</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/netanyahu-barak-engage-in-photoshop-battle-on-twitter/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2015/08/F121121MA65-e1440358300155-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Prime Minister Benjamin Netanyahu and then-defense minister Ehud Barak attend a press conference at the PM&#039;s office in Jerusalem, November 21, 2012. (Miriam Alster/FLASH90)" title="Prime Minister Benjamin Netanyahu and then-defense minister Ehud Barak attend a press conference at the PM&#039;s office in Jerusalem, November 21, 2012. (Miriam Alster/FLASH90)" /></a>
+						</div>
+						<span class="label">A matter of image</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/netanyahu-barak-engage-in-photoshop-battle-on-twitter/">Netanyahu, Barak engage in Photoshop battle on Twitter</a>
+						</div>
+													<div class="byline">
+								By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/brazilian-israeli-kids-music-video-celebrates-roots-in-2-countries/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/Brazil-video-07252019-resize-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="A video of Brazilian-Israeli children and youths singing an Israeli hit song with a message of unity and love for Israel is reaching far beyond the Brazilian community in Israel, July 2019. (Rafael Guanabara/via JTA)" title="A video of Brazilian-Israeli children and youths singing an Israeli hit song with a message of unity and love for Israel is reaching far beyond the Brazilian community in Israel, July 2019. (Rafael Guanabara/via JTA)" /></a>
+						</div>
+						<span class="label">Tudo bom</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/brazilian-israeli-kids-music-video-celebrates-roots-in-2-countries/"><span class="media-ico video-ico no-slash"></span>Brazilian-Israeli kids&#8217; music video celebrates roots in 2 countries</a>
+						</div>
+													<div class="byline">
+								By <a title="Marcus M. Gilban" href="https://www.timesofisrael.com/writers/marcus-moraes/">Marcus M. Gilban</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/amid-record-heat-belgian-drug-dealers-call-cops-on-themselves/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/Zicht_op_het_Delwaidedok-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Illustrative: View on the Delwaide dock in the Port of Antwerp. (Wikipedia/Arminius/CC BY-SA)" title="Illustrative: View on the Delwaide dock in the Port of Antwerp. (Wikipedia/Arminius/CC BY-SA)" /></a>
+						</div>
+						<span class="label">Powder keg</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/amid-record-heat-belgian-drug-dealers-call-cops-on-themselves/">Amid record heat, Belgian drug dealers call cops on themselves</a>
+						</div>
+													<div class="byline">
+								By <a title="AFP" href="https://www.timesofisrael.com/writers/afp/">AFP</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/sandy-koufax-statue-to-be-added-to-dodger-stadium/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/koufax-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Sandy Koufax shown after striking out 14 batters in a game in 1955. (Bettmann/Getty Images)" title="Sandy Koufax shown after striking out 14 batters in a game in 1955. (Bettmann/Getty Images)" /></a>
+						</div>
+						<span class="label">Artful Dodger</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/sandy-koufax-statue-to-be-added-to-dodger-stadium/">Sandy Koufax statue to be added to Dodger Stadium</a>
+						</div>
+													<div class="byline">
+								By <a title="JTA" href="https://www.timesofisrael.com/writers/jta/">JTA</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/rgb-recalls-a-senator-predicting-her-death-in-2009-he-died-2-years-ago/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/04/020118_Ginsberg-Adas_008-e1517538560430-1-e1554135088616-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Associate Justice of the Supreme Court of the United States Ruth Bader Ginsburg appears at Adas Israel Congregation in Washington, DC, on February 1, 2018. (Ron Sachs/ CNP, via JTA)" title="Associate Justice of the Supreme Court of the United States Ruth Bader Ginsburg appears at Adas Israel Congregation in Washington, DC, on February 1, 2018. (Ron Sachs/ CNP, via JTA)" /></a>
+						</div>
+						<span class="label">Still standing</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/rgb-recalls-a-senator-predicting-her-death-in-2009-he-died-2-years-ago/">RGB recalls a senator predicting her death in 2009. He died 2 years ago</a>
+						</div>
+													<div class="byline">
+								By <a title="Ron Kampeas" href="https://www.timesofisrael.com/writers/ron-kampeas/">Ron Kampeas</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/boriss-golden-locks-the-key-to-his-political-brand/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/000_1J22LD-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="In this file photo taken on June 30, 2016 Brexit campaigner and former London mayor Boris Johnson is pictured as he addresses a press conference in central London on June 30, 2016 (LEON NEAL / AFP)" title="In this file photo taken on June 30, 2016 Brexit campaigner and former London mayor Boris Johnson is pictured as he addresses a press conference in central London on June 30, 2016 (LEON NEAL / AFP)" /></a>
+						</div>
+						<span class="label">Mop rule</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/boriss-golden-locks-the-key-to-his-political-brand/">Boris&#8217;s golden locks the key to his political brand</a>
+						</div>
+													<div class="byline">
+								By <a title="James Pheby" href="https://www.timesofisrael.com/writers/james-pheby/">James Pheby</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/jordan-sinks-military-hardware-for-underwater-museum/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/000_1J223N-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="This picture taken on July 24, 2019 shows a decommissioned Jordanian Armed Forces&#039; AH-1 Cobra helicopter being submerged into the waters of the Red Sea off the coast of the southern Jordanian port city of Aqaba, as part of preparations for a new underwater military museum. (Khalil MAZRAAWI / AFP)" title="This picture taken on July 24, 2019 shows a decommissioned Jordanian Armed Forces&#039; AH-1 Cobra helicopter being submerged into the waters of the Red Sea off the coast of the southern Jordanian port city of Aqaba, as part of preparations for a new underwater military museum. (Khalil MAZRAAWI / AFP)" /></a>
+						</div>
+						<span class="label">Fish tank</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/jordan-sinks-military-hardware-for-underwater-museum/">Jordan sinks military hardware for underwater museum</a>
+						</div>
+													<div class="byline">
+								By <a title="AFP" href="https://www.timesofisrael.com/writers/afp/">AFP</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/a-horse-walks-into-ben-gurion-airport-terminal/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/Untitled-4-e1563953971739-400x250.png" class="attachment-medium size-medium wp-post-image" alt="A mule walks into the Ben Gurion Airport departures hall on July 24, 2019. (Screenshot: Twitter)" title="A mule walks into the Ben Gurion Airport departures hall on July 24, 2019. (Screenshot: Twitter)" /></a>
+						</div>
+						<span class="label">Pegasus</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/a-horse-walks-into-ben-gurion-airport-terminal/"><span class="media-ico video-ico no-slash"></span>A mule walks into Ben Gurion Airport terminal</a>
+						</div>
+													<div class="byline">
+								By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/yair-lapids-english-skills-mocked-by-netanyahu/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2015/03/F130703DV208-1-e1425902445385-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Former finance minister Yair Lapid (left) and Prime Minister Benjamin Netanyahu, when the last government was in power, in Jerusalem on July 3, 2013. (Flash90)" title="Former finance minister Yair Lapid (left) and Prime Minister Benjamin Netanyahu, when the last government was in power, in Jerusalem on July 3, 2013. (Flash90)" /></a>
+						</div>
+						<span class="label">The 'conundrum' conundrum</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/yair-lapids-english-skills-mocked-by-netanyahu/">Yair Lapid&#8217;s English skills mocked by Netanyahu</a>
+						</div>
+													<div class="byline">
+								By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/want-to-know-beach-conditions-in-tel-aviv-jaffa-theres-an-app-for-that/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/Untitled-21-3-400x250.png" class="attachment-medium size-medium wp-post-image" alt="From the Tel Aviv municipality&#039;s video promoting its new app, Tel Aviv Beaches, offering up-to-date information about the weather at the city&#039;s beaches. (Courtesy screen grab)" title="From the Tel Aviv municipality&#039;s video promoting its new app, Tel Aviv Beaches, offering up-to-date information about the weather at the city&#039;s beaches. (Courtesy screen grab)" /></a>
+						</div>
+						<span class="label">Making waves</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/want-to-know-beach-conditions-in-tel-aviv-jaffa-theres-an-app-for-that/">New app tracks beach conditions in Tel Aviv-Jaffa</a>
+						</div>
+													<div class="byline">
+								By <a title="Jessica Steinberg" href="https://www.timesofisrael.com/writers/jessica-steinberg/">Jessica Steinberg</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/multifaceted-jerusalem-wears-many-clothes-in-festival-of-contemporary-design/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/OVERALL.-Credit-Ricky-Rachman-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Crocheting a cover for a Mamluk dome at the Tower of David Museum in Jerusalem as part of &#039;Overall,&#039; a three-day fashion event in July 2019 (Courtesy Ricky Rachman)" title="Crocheting a cover for a Mamluk dome at the Tower of David Museum in Jerusalem as part of &#039;Overall,&#039; a three-day fashion event in July 2019 (Courtesy Ricky Rachman)" /></a>
+						</div>
+						<span class="label">Wandering fashion</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/multifaceted-jerusalem-wears-many-clothes-in-festival-of-contemporary-design/">Multifaceted Jerusalem wears many clothes in festival of contemporary design</a>
+						</div>
+													<div class="byline">
+								By <a title="Hannah Harnest" href="https://www.timesofisrael.com/writers/hannah-harnest/">Hannah Harnest</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/sinkhole-swallows-ramat-gan-junction-causing-traffic-mayhem/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/01/kiryat-yam-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="A sinkhole that formed in a street in the northern coastal town of Kiryat Yam, January 14, 2019, following rain. (Kiryat Yam municipality)" title="A sinkhole that formed in a street in the northern coastal town of Kiryat Yam, January 14, 2019, following rain. (Kiryat Yam municipality)" /></a>
+						</div>
+						<span class="label">Highway to hell</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/sinkhole-swallows-ramat-gan-junction-causing-traffic-mayhem/">3-meter wide sinkhole at Ramat Gan junction causes traffic mayhem</a>
+						</div>
+													<div class="byline">
+								By <a title="Stuart Winer" href="https://www.timesofisrael.com/writers/stuart-winer/">Stuart Winer</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/police-thwart-theft-of-half-a-ton-of-chickpeas-in-southern-israel/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/Image-from-iOS-4-e1563772020310-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="A vehicle loaded with about half a ton of stolen chickpeas, near Kibbutz Nahal Oz on July 21, 2019. (Israel Police)" title="A vehicle loaded with about half a ton of stolen chickpeas, near Kibbutz Nahal Oz on July 21, 2019. (Israel Police)" /></a>
+						</div>
+						<span class="label">Hummus heist</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/police-thwart-theft-of-half-a-ton-of-chickpeas-in-southern-israel/">Police thwart theft of half a ton of chickpeas in southern Israel</a>
+						</div>
+													<div class="byline">
+								By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/netflix-buys-rights-to-screen-2019-eurovision-from-tel-aviv/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/05/Untitled-26-1-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Duncan Laurence of the Netherlands, center, celebrates after winning the 2019 Eurovision Song Contest grand final with the song &quot;Arcade&quot; in Tel Aviv, May 18, 2019. He is flanked (from left) by the four Israeli hosts: Assi Azar, Lucy Ayoub, Bar Refaeli and Erez Tal (AP Photo/Sebastian Scheiner)" title="Duncan Laurence of the Netherlands, center, celebrates after winning the 2019 Eurovision Song Contest grand final with the song &quot;Arcade&quot; in Tel Aviv, May 18, 2019. He is flanked (from left) by the four Israeli hosts: Assi Azar, Lucy Ayoub, Bar Refaeli and Erez Tal (AP Photo/Sebastian Scheiner)" /></a>
+						</div>
+						<span class="label">Dare to stream</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/netflix-buys-rights-to-screen-2019-eurovision-from-tel-aviv/">Netflix buys rights to screen 2019 Eurovision from Tel Aviv</a>
+						</div>
+													<div class="byline">
+								By <a title="Marcy Oster" href="https://www.timesofisrael.com/writers/marcy-oster/">Marcy Oster</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/natalie-portman-is-marvels-next-thor/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/AP19202083788286-e1563687825637-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Director Taika Waititi hands the Thor hammer to Natalie Portman during the &quot;Thor Love And Thunder&quot; portion of the Marvel Studios panel on day three of Comic-Con International on July 20, 2019, in San Diego. (Chris Pizzello/Invision/AP)" title="Director Taika Waititi hands the Thor hammer to Natalie Portman during the &quot;Thor Love And Thunder&quot; portion of the Marvel Studios panel on day three of Comic-Con International on July 20, 2019, in San Diego. (Chris Pizzello/Invision/AP)" /></a>
+						</div>
+						<span class="label">Hebrew hammer</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/natalie-portman-is-marvels-next-thor/">Natalie Portman is Marvel&#8217;s next &#8216;Thor&#8217;</a>
+						</div>
+													<div class="byline">
+								By <a title="Lindsey Bahr" href="https://www.timesofisrael.com/writers/lindsey-bahr/">Lindsey Bahr</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/rabbi-peeved-as-first-weed-cafe-in-us-to-open-near-synagogue/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/eger-e1563479360134-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Rabbi Denise L. Eger at the 2011 Human Rights Campaign gala in Los Angeles, where she was honored, March 12, 2011. (Brian To/FilmMagic/Getty Images via JTA)" title="Rabbi Denise L. Eger at the 2011 Human Rights Campaign gala in Los Angeles, where she was honored, March 12, 2011. (Brian To/FilmMagic/Getty Images via JTA)" /></a>
+						</div>
+						<span class="label">High holidays</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/rabbi-peeved-as-first-weed-cafe-in-us-to-open-near-synagogue/">Rabbi peeved as first weed cafe in US to open near synagogue</a>
+						</div>
+													<div class="byline">
+								By <a title="Gabe Friedman" href="https://www.timesofisrael.com/writers/gabe-friedman/">Gabe Friedman</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/ninja-park-brings-obstacle-course-challenge-to-four-israeli-cities/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/Untitled-21-2-400x250.png" class="attachment-medium size-medium wp-post-image" alt="One of the local contestants competing in &quot;Ninja Israel,&quot; the Keshet show based on the popular Japanese and American versions. (Courtesy Keshet)" title="One of the local contestants competing in &quot;Ninja Israel,&quot; the Keshet show based on the popular Japanese and American versions. (Courtesy Keshet)" /></a>
+						</div>
+						<span class="label">Enter the ninja</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/ninja-park-brings-obstacle-course-challenge-to-four-israeli-cities/">Ninja Park brings obstacle course challenge to four Israeli cities</a>
+						</div>
+													<div class="byline">
+								By <a title="Jessica Steinberg" href="https://www.timesofisrael.com/writers/jessica-steinberg/">Jessica Steinberg</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/radio-station-pays-fine-to-feminist-group-with-300000-coins/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/Buckets-of-cash-e1563447288339-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Screen capture from video of some 300,000 coins an ultra-Orthodox radio state used to pay a court-ordered fine to a feminist group, July 16, 2019. (Twitter)" title="Screen capture from video of some 300,000 coins an ultra-Orthodox radio state used to pay a court-ordered fine to a feminist group, July 16, 2019. (Twitter)" /></a>
+						</div>
+						<span class="label">Heavy penalty</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/radio-station-pays-fine-to-feminist-group-with-300000-coins/"><span class="media-ico video-ico no-slash"></span>Radio station pays fine to feminist group with 300,000 coins</a>
+						</div>
+													<div class="byline">
+								By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/police-find-dozens-of-exotic-reptiles-in-raid-on-tel-aviv-apartment/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2019/07/9c65e46b-e27b-4f72-99f1-1158e89899dd-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="One of dozens of reptiles found in a Tel Aviv apartment as part of an international operation against illegal trade in animals, June 2019. (Israel Nature and Parks Authority)" title="One of dozens of reptiles found in a Tel Aviv apartment as part of an international operation against illegal trade in animals, June 2019. (Israel Nature and Parks Authority)" /></a>
+						</div>
+						<span class="label">Scales of justice</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/police-find-dozens-of-exotic-reptiles-in-raid-on-tel-aviv-apartment/">Police find dozens of exotic reptiles in raid on Tel Aviv apartment</a>
+						</div>
+													<div class="byline">
+								By <a title="Stuart Winer" href="https://www.timesofisrael.com/writers/stuart-winer/">Stuart Winer</a>							</div>
+											</li>
+								</ul>
+		</div>
+		<div class="arrows next"><a href="#" title="Next"></a></div>		
+	</div>
+			<div class="banner b970x90">
+		<div class="OUTBRAIN" data-src="https://www.timesofisrael.com" data-widget-id="HPC" data-ob-template="Times Of Israel"></div>
+	</div>				</section>
+					
+		</div><!-- end main headlines -->
+
+	</div>
+	<div class="sidebar-footer">
+		<span>Scroll to view more</span>
+	</div>		
+</aside>
+
+					</div><!-- end main -->
+
+				<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LfviaUUAAAAANA2xWt7xH3puRYjUU5Xn4XjtCOe&#038;ver=3.0'></script>
+<script type='text/javascript' src='//static.timesofisrael.com/js/responsiveslides.min.js?ver=1.55'></script>
+<script type='text/javascript' src='//static.timesofisrael.com/js/jquery.fitvids.js?ver=1502265084'></script>
+<script type='text/javascript' src='//static.timesofisrael.com/js/global_functions.js?ver=1559038435'></script>
+<script type='text/javascript' src='//static.timesofisrael.com/js/wpFeatherlight.pkgd.js?ver=1507487605'></script>
+<script type='text/javascript' src='//static.timesofisrael.com/www/js/functions.js?ver=1534949404'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6LfviaUUAAAAANA2xWt7xH3puRYjUU5Xn4XjtCOe',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+					<script src='https://www.google.com/recaptcha/api.js'></script>
+		
+		<!-- facebook -->
+		<div id="fb-root"></div>
+		<script>
+		var comment_counter = 0;
+		window.fbAsyncInit = function() {
+		    FB.init({
+		    	appId      : '123142304440875',
+		      	xfbml      : true,
+		      	version    : 'v3.0'
+		    });
+	    	FB.AppEvents.logPageView();
+
+			
+				FB.Event.subscribe('comment.create', function (response) {
+					comment_counter++;
+					if(comment_counter == 2){
+						jQuery.ajax({
+							type: "POST",
+							url: "/wp-content/themes/rgb/functions/facebook.php",
+							data: { p: "2118116", c: response.commentID, a: "add" }
+						});
+						comment_counter = 0;
+					}
+				});
+				FB.Event.subscribe('comment.remove', function (response) {
+					jQuery.ajax({
+						type: "POST",
+						url: "/wp-content/themes/rgb/functions/facebook.php",
+						data: { p: "2118116", c: response.commentID, a: "rem" }
+					});
+				});
+
+			
+		};
+		(function(d, s, id){
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) {return;}
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<!-- Twitter -->
+		<script>
+		window.twttr = (function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0],
+		    t = window.twttr || {};
+		  if (d.getElementById(id)) return t;
+		  js = d.createElement(s);
+		  js.id = id;
+		  js.src = "https://platform.twitter.com/widgets.js";
+		  fjs.parentNode.insertBefore(js, fjs);
+
+		  t._e = [];
+		  t.ready = function(f) {
+		    t._e.push(f);
+		  };
+
+		  return t;
+		}(document, "script", "twitter-wjs"));
+		</script>
+
+				<!--BEGIN FIRSTIMPRESSION TAG -->
+		<script data-cfasync='false' type='text/javascript'>
+			window.apd_options = { 'websiteId': 5459, 'runFromFrame': false };
+			(function() {
+				var w = window.apd_options.runFromFrame ? window.top : window;
+				if(window.apd_options.runFromFrame && w!=window.parent) w=window.parent;
+				if (w.location.hash.indexOf('apdAdmin') != -1){if(typeof(Storage) !== 'undefined') {w.localStorage.apdAdmin = 1;}}
+				var adminMode = ((typeof(Storage) == 'undefined') || (w.localStorage.apdAdmin == 1));
+				w.apd_options=window.apd_options;
+				var apd = w.document.createElement('script'); apd.type = 'text/javascript'; apd.async = true;
+				apd.src = '//' + (adminMode ? 'cdn' : 'ecdn') + '.firstimpression.io/' + (adminMode ? 'fi.js?id=' + window.apd_options.websiteId : 'fi_client.js') ;
+				var s = w.document.getElementsByTagName('head')[0]; s.appendChild(apd);
+			})();
+		</script>
+		<!-- END FIRSTIMPRESSION TAG -->
+		
+		<!-- interstitial ad -->
+				<script src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'>
+  		googletag.pubads().definePassback('/264857099/TOI_EN/Special/Desktop_Interstitial', [1, 1]).setTargeting('TOI_articleID', [2118116]).display();
+		</script>
+				<!-- /end interstitial ad -->
+
+	</body>
+</html>
+
+<!-- Dynamic page generated in 0.982 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-07-28 09:16:30 -->
+
+<!-- super cache -->

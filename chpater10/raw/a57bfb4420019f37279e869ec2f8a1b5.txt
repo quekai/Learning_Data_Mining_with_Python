@@ -1,0 +1,1217 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+        <title>Index - In English - Orbán: Individual freedoms can never encroach upon the interests of the majority</title>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE11">
+        <!-- [if IE]>
+        <meta http-equiv="imagetoolbar" content="no" />
+        <meta name="MSSmartTagsPreventParsing" content="true" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <![endif]-->
+                <meta name="manis:breakpoint">
+        <meta name="manis:breakpoints">
+        <meta name="copyright" content="https://index.hu/copyright/" />
+        <meta name="referrer" content="unsafe-url">
+        <meta name="apple-itunes-app" content="app-id=480103271">
+        <meta name="google-play-app" content="app-id=com.aff.index.main">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://index.hu/english/2019/07/27/viktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition/" />
+        <meta property="og:title" content="Orbán: Individual freedoms can never encroach upon the interests of the majority" />
+        <meta property="og:updated_time" content="2019-07-27T11:27:03+02:00" />
+
+        <meta property="og:description" content="At Fidesz&#039;s Tusványos festival, Hungarian PM Viktor Orbán explained the ins and outs of his illiberal system." /><meta property="fb:app_id" content="330827937019153" /><meta property="fb:admins" content="593022362" /><meta property="fb:pages" content="560525343980775,348326671885918" />            <meta name="i:publication" content="2019. 07. 29." />
+            <meta name="i:publication_local" content="2019. július 29." />
+                    <meta name="keywords" content="viktor orbán, hungary, politics, illiberalism, tusványos, tusványos 2019, fidesz, in english" />
+        <meta name="news_keywords" content="In English" />
+        <meta name="description" content="Orbán: Individual freedoms can never encroach upon the interests of the majority - At Fidesz's Tusványos festival, Hungarian PM Viktor Orbán explained the ins and outs of his illiberal system." /><meta name="author" content="Kovács Zoltán" />        <meta property="article:published_time" content="2019-07-27T18:33:00+02:00"/>
+        <meta property="article:modified_time" content="2019-07-27T11:27:03+02:00" />
+
+    <meta property="og:image" content="https://kep.cdn.index.hu/1/0/2879/28797/287976/28797679_2208687_5b316d44718d692c08b77938d130a58e_wm.jpg" /><meta property="article:publisher" content="https://www.facebook.com/indexinenglish" /><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@indexhu"><meta name="twitter:title" content="Orbán: Individual freedoms can never encroach upon the interests of the majority"><meta name="twitter:description" content="At Fidesz&#039;s Tusványos festival, Hungarian PM Viktor Orbán explained the ins and outs of his illiberal system." ><meta name="i:image16_9" content="https://kep.cdn.index.hu/1/0/2879/28797/287976/28797687_2208687_4bcebf872a07bd659af4671190dee28b_wm.jpg" /><meta name="twitter:image:src" content="https://kep.cdn.index.hu/1/0/2879/28797/287976/28797679_2208687_5b316d44718d692c08b77938d130a58e_wm.jpg">        <link rel="search" title="Index" type="application/opensearchdescription+xml" href="/assets/static/opensearch.xml" />
+    <link rel="copyright" title="Szerzői jogok" href="/copyright/" />
+    <link rel="author" title="Impresszum" href="/impresszum/" />
+    <link rel="home" title="" href="/" id="homelink" />
+        <link rel="canonical" href="https://index.hu/english/2019/07/27/viktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition/" />
+    <link rel="amphtml" href="https://index.hu/english/2019/07/27/viktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition/amp"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/images/favicons/manifest.json">
+<link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
+    <link rel="mask-icon" href="/assets/images/favicons/safari-pinned-tab.svg" color="#ff9900">
+    <meta name="apple-mobile-web-app-title" content="Index">
+    <meta name="application-name" content="Index">
+    <meta name="theme-color" content="#ffffff">
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<link href="https://index.hu/assets/static/indexnew_css/public/global.css?v=1564410960" rel="stylesheet" type="text/css" /><link href="https://index.hu/assets/static/indexnew_css/public/index-global.css?v=1564410960" rel="stylesheet" type="text/css" />            <link rel="stylesheet" type="text/css" href="https://index.hu/assets/static/indexnew_css/public/index-global-cikk.css?v=1564410960"  />
+            <link rel="stylesheet" type="text/css" href="https://index.hu/assets/static/indexnew_css/public/cikk.css?v=1564410960"  />
+            <link rel="stylesheet" type="text/css" href="https://index.hu/assets/static/indexnew_css/public/fixed_header.css?v=1564410960"  />
+            <link rel="stylesheet" type="text/css" href="https://index.hu/assets/static/indexnew_css/public/global-global-cikk.css?v=1564410960"  />
+            <link rel="stylesheet" type="text/css" href="https://index.hu/assets/static/pepe/pepe.css?v=1563798457"  />
+            <link rel="alternate" type="application/rss+xml" title="In English cikkek" href="/english/rss/" />
+        <meta name="logcustomtarget" content="1"/>
+        <!-- i99 -->
+        <script src="https://index.hu/ident/getall/?c=aTk5" type="text/javascript"></script>
+        <script src="https://index.hu/assets/static/js/public/index_vendor.ugly.js?v=1564410961" type="text/javascript"  ></script>
+        <script src="https://index.hu/assets/static/js/public/index_base.ugly.js?v=1564410961" type="text/javascript"  ></script>
+        <script src="https://index.hu/assets/static/js/public/index_vote.ugly.js?v=1564410961" type="text/javascript"  ></script>
+        <script src="https://index.hu/assets/static/js/public/cemp_fejlec.ugly.js?v=1564410961" type="text/javascript"  ></script>
+        <script src="https://index.hu/assets/js/index.comment.min.js?v=1555326601" type="text/javascript"  ></script>
+        <script src="https://index.hu/assets/js/index.video.min.js?v=1555326601" type="text/javascript"  ></script>
+        <script src="https://index.hu/assets/js/scrolling_shadow.js" type="text/javascript"  ></script>
+        <script src="https://index.hu/assets/js/pip_video.min.js" type="text/javascript"  ></script>
+        <script type="text/javascript">
+            (function() {
+                function async_load(script_url){
+                    var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+                    var s = document.createElement('script'); s.src = protocol + script_url;
+                    var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+                }
+                bm_website_code = 'ED1DC10EB9BB4E26';
+                jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+                jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+            })();
+        </script>
+<!-- Hotjar Tracking Code for https://index.hu -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1219586,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>        <script type="text/javascript">
+            var korhatar_roadblock = 1952078;
+        </script>
+    <script type="text/javascript"><!--//--><![CDATA[//><!--
+        var _gaq = { push: function() {} };
+        ( function( i, s, o, g, r, a, m ) {
+            i[ 'GoogleAnalyticsObject' ] = r;
+            i[ r ] = i[ r ] || function() {
+                ( i[ r ].q = i[ r ].q || [] ).push( arguments )
+            }, i[ r ].l = 1 * new Date();
+            a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+            a.async = 1;
+            a.src=g;
+            m.parentNode.insertBefore( a, m )
+        } )( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+        var oldaltipus = 'english_cikk_sajat';
+        ( function( $ ) {
+            window.scrollTrackerEnabled = 1;
+            window.Analytics = {
+                add: function( command, params, target ) {
+                    if( typeof command === 'undefined' || typeof params === 'undefined' || !command || !params ) {
+                        return this;
+                    }
+                    params.location = ( params.location || document.location.href ).replace( '//m.', '//' );
+                    if( this.loaded ) {
+                        if( typeof target !== 'undefined' ) {
+                            command = target + '.' + command;
+                        }
+                        ga( command, params );
+                    }
+                    else {
+                        this.stack.push( [ command, $.extend( {}, params ), target ] );
+                    }
+                    return this;
+                },
+                process: function() {
+                    if( this.loaded ) {
+                        return;
+                    }
+                    var arg;
+                    while( this.stack.length ) {
+                        arg = this.stack.shift();
+                        if( typeof arg[ 2 ] !== 'undefined' && Common[ 'ga_' + arg[ 2 ] ] === true ) {
+                            arg[ 0 ] = arg[ 2 ] + '.' + arg[ 0 ];
+                        }
+                        ga( arg[ 0 ], arg[ 1 ] );
+                    }
+                    this.loaded = true;
+                },
+                stack: []
+            };
+            $( document ).on( 'ready', function() {
+                if( typeof window.Common === 'undefined' ) {
+                    window.Common = {
+                        ga_secondary: false
+                    };
+                }
+                if( typeof __passportHeader_config === 'undefined' ) {
+                    __passportHeader_config = {};
+                }
+                Common.ga_secondary = false;
+                var ga_base_config = {
+                    sampleRate: 100,
+                    trackingId: 'UA-181415-24'
+                };
+                var ga_set_config = {
+                    dimension1: 'english_cikk_sajat',
+                    dimension2: ( __passportHeader_config.loggedIn ? '' : 'Not' ) + 'LoggedIn',
+                        dimension3: Page.getLayout(),
+                        dimension8: "18-",
+                        dimension6: 'kovacs_zoltan',
+                    language: document.domain === 'totalcarmagazine.com' ? 'en-us' : 'hu-hu',
+                    location: document.location.href.replace( '//m.', '//' )
+                };
+                if( typeof __passportHeaderUserId !== 'undefined' ) {
+                    ga_base_config.userId = __passportHeaderUserId;
+                }
+                ga( 'create', ga_base_config );
+                ga( 'require', 'displayfeatures' );
+                ga( 'set', ga_set_config );
+                    Common.ga_secondary = true;
+                    var ga_secondary_config = $.extend( {}, ga_base_config );
+                    ga_secondary_config.name = 'secondary';
+                    ga_secondary_config.trackingId = 'UA-181415-11';
+                    ga_secondary_config.sampleRate = 10;
+                    ga( 'create', ga_secondary_config );
+                    ga( 'secondary.require', 'displayfeatures' );
+                    ga( 'secondary.set', ga_set_config );
+                ga('set', 'anonymizeIp', true);
+                // cross_site ajanlo kivetelkezelese
+                if(
+                    (
+                        $( '#passportHeader, #_iph_fixed-header' ).length ||
+                        $( '#inforadio_audioplayer1' ).length ||
+                        document.location.host.indexOf( 'm.' ) === 0 ||
+                        document.location.host.substring( document.location.host.length - 4 ) === '.com'
+                    ) &&
+                    ((Common.topfolder !== 'i2' && Common.topfolder !== 'index2') || !Common.parsed_url.hash || Common.parsed_url.hash.indexOf( '#bloghu' ) !== 0 )
+                ) {
+                    ga( 'send', 'pageview' );
+                    if( Common.ga_secondary ) {
+                        ga( 'secondary.send', 'pageview' );
+                    }
+                }
+                Analytics.process();
+            } );
+        } )( jQuery );
+    //--><!]]>
+    </script>
+        <script type="text/javascript">
+            Common.content_id = 4645087;
+            Common.folder_parent_ids = [ 10143, 261 ];
+            Common.is_new_design = 1;
+        </script>
+    <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '330827937019153',
+                xfbml      : true,
+                status     : false, // nem kerdezzuk le a login statust, ritkan van ra szukseg
+                version    : 'v2.0'
+            });
+            window.fb_initialized = true; // beallitjuk, mert ha valami gixer miatt nem futott le (pl. adblock, akkor ne is probalkozzunk)
+        };
+    </script>
+    <script>
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/hu_HU/sdk.js#version=v3.1&xfbml=1&autoLogAppEvents=1&appId=330827937019153";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+      <script type="text/javascript">
+            $(function () {
+                window.LinkPreview && window.LinkPreview.init();
+            });
+        </script>
+    <script type="text/javascript">
+        contentRotater.tmpPushArr.push({
+            id: 4645087,
+            ver: 18        });
+        Common.topfolderName = 'In English';
+    </script>
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+    var IndexStatConfig = {
+        pixels: [ { id: 4645087, type: 1 }, { id: 10143, type: 3 }, { id: 261, type: 3 }, { id: 1, type: 5 }, { id: 2, type: 4 }],
+        device: 'desktop'
+    };
+    //--><!]]>
+</script>
+<script src="//indexstat.index.hu/stat.js?dd=20190730" async  type="text/javascript"></script>
+    <script type="text/javascript" src="//ad.adverticum.net/g3.js"></script>
+
+
+
+<script type="text/javascript">
+    window.adverticum_zones = [{"id": 4833174},{"id": 4833193},{"id": 4833198},{"id": 4833178}];
+    window.goAdverticum3 && goAdverticum3.loadZones({
+        customTarget: window.customTarget,
+        zones: window.adverticum_zones
+    });
+</script>
+<script type='text/javascript'>
+    Common.maxFeedAjanloLoadCount = 5;
+    Common.feedAjanloLoadCount = 3;
+    Common.feedAjanloMoreButton = 1;
+</script>
+<link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+var OneSignal = window.OneSignal || [];
+OneSignal.push(function() {
+    OneSignal.sendTags({
+        is_web: true
+    });
+    OneSignal.init({
+        appId: "bd30d7a1-7b22-4adb-bacf-e4bf80d25bf7",
+        autoRegister: false,
+        notifyButton: {
+            enable: true
+        }
+    });
+});
+</script>
+</head>
+
+
+<body class="device_desktop indexhu cikk rovat_english iframe_disallowed blogface">
+
+        <div id="fb-root"></div>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '551982981568628']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=551982981568628&amp;ev=PixelInitialized" /></noscript>
+    <div class="layer xl_layer">
+    </div>
+
+    <div class="container" id="ad_null_position">
+    </div>
+<div class="m-cf-search modal" tabindex="-1" role="dialog" data-backdrop="false" data-js-modal-window="search" style="display: none" aria-hidden="true">
+    <div class="m-cf-search_wrapper">
+        <div class="m-cf-search_wrapper_container" data-js-cemp-search="container">
+            <form action="https://index.hu/24ora/" class="m-cf-search_wrapper_container_form" method="get">
+                <input name="word" type="hidden" value="1">
+                <input name="pepe" type="hidden" value="1">
+                <input name="tol" type="hidden" value="1999-01-01">
+                <input name="ig" type="hidden" value="2019-07-30">
+                <input class="m-cf-search_wrapper_container_form_input" data-js-cemp-search="input" name="s" placeholder="Keresés" type="search" tabindex="0">
+                <button class="m-cf-search_wrapper_container_form_button" type="submit">
+                    <span class="m-cf-search_wrapper_container_form_button_wrapper">
+                        <svg class="m-cf-search_wrapper_container_form_button_wrapper_icon" viewBox="0 0 21 21" style="height:21px;width:21px;"><path d="M20.8 18.867c.267.267.267.7 0 .967l-.966.967c-.267.267-.7.267-.966 0L13.5 15.434c-.073-.074-.122-.16-.155-.253-1.39 1.014-3.094 1.62-4.944 1.62-4.64 0-8.4-3.76-8.4-8.4C0 3.76 3.76 0 8.4 0c4.64 0 8.4 3.76 8.4 8.4 0 1.85-.606 3.556-1.62 4.945.092.032.18.08.253.155l5.368 5.367zM8.4 2.8c-3.093 0-5.6 2.507-5.6 5.6 0 3.093 2.507 5.6 5.6 5.6 3.093 0 5.6-2.507 5.6-5.6 0-3.093-2.507-5.6-5.6-5.6z"/></svg>
+                        <span class="m-cf-search_wrapper_container_form_button_wrapper_label h-visibility-off_small-down">Keresés</span>
+                    </span>
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="m-cf-indalista" data-js-dropdown="inda">
+    <div class="m-cf-indalista_container">
+        <ul class="m-cf-indalista_container_list">
+            <li class="m-cf-indalista_container_list_item">
+                <a class="m-cf-indalista_container_list_item_link" data-target="blog.hu" href="https://blog.hu/" target="_blank">Blog.hu</a>
+            </li>
+            <li class="m-cf-indalista_container_list_item">
+                <a class="m-cf-indalista_container_list_item_link" data-target="forum" href="http://forum.index.hu/Topic/showTopicList" target="_blank">Fórum</a>
+            </li>
+            <li class="m-cf-indalista_container_list_item">
+                <a class="m-cf-indalista_container_list_item_link" data-target="indafoto" href="http://indafoto.hu/" target="_blank">Indafotó</a>
+            </li>
+            <li class="m-cf-indalista_container_list_item">
+                <a class="m-cf-indalista_container_list_item_link" data-target="indavideo" href="http://indavideo.hu/" target="_blank">Indavideó</a>
+            </li>
+            <li class="m-cf-indalista_container_list_item">
+                <a class="m-cf-indalista_container_list_item_link" data-target="indamail" href="http://indamail.hu/" target="_blank">Indamail</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="m-cf-kiadvanylista">
+    <div class="m-cf-kiadvanylista_container">
+        <ul class="m-cf-kiadvanylista_container_list">
+            <li class="m-cf-kiadvanylista_container_list_item">
+                <a class="m-cf-kiadvanylista_container_list_item_link" data-target="i2" href="https://index.hu/i2/" target="_blank">i2</a>
+            </li>
+            <li class="m-cf-kiadvanylista_container_list_item">
+                <a class="m-cf-kiadvanylista_container_list_item_link" data-target="totalcar" href="https://totalcar.hu/" target="_blank">Totalcar</a>
+            </li>
+            <li class="m-cf-kiadvanylista_container_list_item">
+                <a class="m-cf-kiadvanylista_container_list_item_link" data-target="joautok" href="https://joautok.hu" target="_blank">JóAutók</a>
+            </li>
+            <li class="m-cf-kiadvanylista_container_list_item">
+                <a class="m-cf-kiadvanylista_container_list_item_link" data-target="divany" href="https://divany.hu/" target="_blank">Dívány</a>
+            </li>
+            <li class="m-cf-kiadvanylista_container_list_item">
+                <a class="m-cf-kiadvanylista_container_list_item_link" data-target="femina" href="https://femina.hu/" target="_blank">Femina</a>
+            </li>
+            <li class="m-cf-kiadvanylista_container_list_item">
+                <button class="m-cf-kiadvanylista_container_list_item_inda" data-toggle="dropdown" data-target="[data-js-dropdown=inda]" type="button">
+                    <span class="m-cf-kiadvanylista_container_list_item_inda_container">
+                        <span class="m-cf-kiadvanylista_container_list_item_inda_container_label">Inda</span>
+                        <svg class="m-cf-kiadvanylista_container_list_item_inda_container_icon" viewBox="0 0 11 7">
+                            <path d="M5.5 5.125L1.032.657C.846.47.534.467.344.657c-.185.184-.19.497 0 .687l4.812 4.812c.092.092.217.14.342.14.125 0 .25-.045.346-.14l4.812-4.812c.185-.185.19-.498 0-.688-.184-.184-.498-.19-.688 0L5.5 5.127z"/>
+                        </svg>
+                    </span>
+                </button>
+            </li>
+            <li class="m-cf-kiadvanylista_container_list_item">
+                <a class="m-cf-kiadvanylista_container_list_item_link" data-target="otthonterkep" href="https://otthonterkep.hu/" target="_blank">Otthontérkép</a>
+            </li>
+            <li class="m-cf-kiadvanylista_container_list_item">
+                <a class="m-cf-kiadvanylista_container_list_item_link" data-target="jobinfo" href="https://www.jobinfo.hu/" target="_blank">Jobinfo</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="m-cf-fejlec">
+    <div class="m-cf-fejlec_container">
+        <div class="m-cf-fejlec_container_wrapper">
+            <ul class="m-cf-fejlec_container_links">
+                <li class="m-cf-fejlec_container_links_item itemCover">
+                    <a class="m-cf-fejlec_container_links_item_link" href="https://dex.hu/x.php?id=fxdfejlec&amp;url=http%3A%2F%2Findex.hu%2F">
+                        <span class="m-cf-fejlec_container_links_item_link_container">
+                            <svg class="m-cf-fejlec_container_links_item_link_container_logo" viewBox="-54 12 8 20"><path class="m-cf-fejlec_container_links_item_link_container_logo_stem" d="M-54 18h8v14h-8V18z"/><path class="m-cf-fejlec_container_links_item_link_container_logo_dot" d="M-54 12h8v4h-8v-4z"/></svg>
+                            <span class="m-cf-fejlec_container_links_item_link_container_label h-visibility-off_medium-down">Címlap</span>
+                        </span>
+                    </a>
+                </li>
+<li class="m-cf-fejlec_container_links_item itemHeadings">
+    <a class="m-cf-fejlec_container_links_item_link" href="https://dex.hu/x.php?id=fxdfejlec&amp;url=https%3A%2F%2Findex.hu%2Frovatok">
+        <span class="m-cf-fejlec_container_links_item_link_container">
+            <svg class="m-cf-fejlec_container_links_item_link_container_icon iconHamburger" viewBox="0 0 22 17">
+                <path d="M0 1.5C0 .672.67 0 1.495 0h19.01C21.33 0 22 .666 22 1.5c0 .828-.67 1.5-1.495 1.5H1.495C.67 3 0 2.334 0 1.5zm0 7C0 7.672.67 7 1.495 7h19.01C21.33 7 22 7.666 22 8.5c0 .828-.67 1.5-1.495 1.5H1.495C.67 10 0 9.334 0 8.5zm0 7c0-.828.67-1.5 1.495-1.5h19.01c.826 0 1.495.666 1.495 1.5 0 .828-.67 1.5-1.495 1.5H1.495C.67 17 0 16.334 0 15.5z"/>
+            </svg>
+            <span class="m-cf-fejlec_container_links_item_link_container_label h-visibility-off_medium-down">Rovatok</span>
+        </span>
+    </a>
+</li>
+                <li class="m-cf-fejlec_container_links_item itemLatest">
+    <a class="m-cf-fejlec_container_links_item_link" href="https://dex.hu/x.php?id=fxdfejlec&amp;url=https%3A%2F%2Findex.hu%2F24ora">
+        <span class="m-cf-fejlec_container_links_item_link_container">
+            <svg class="m-cf-fejlec_container_links_item_link_container_icon iconClock" viewBox="0 0 22 22"><path d="M11 19.25c-4.557 0-8.25-3.693-8.25-8.25S6.443 2.75 11 2.75s8.25 3.693 8.25 8.25-3.693 8.25-8.25 8.25M11 0C4.925 0 0 4.925 0 11s4.925 11 11 11 11-4.925 11-11S17.075 0 11 0"/><path d="M12.833 10.89V6.874c0-.76-.616-1.375-1.375-1.375-.76 0-1.375.616-1.375 1.375v5.04h.11l-.11.113 2.27 2.27c.536.535 1.406.535 1.943 0 .538-.538.538-1.41 0-1.946l-1.463-1.463z"/></svg>
+            <span class="m-cf-fejlec_container_links_item_link_container_label h-visibility-off_medium-down">Legfrissebb</span>
+        </span>
+    </a>
+</li>
+                <li class="m-cf-fejlec_container_links_item itemShare" data-js-cemp-social="container">
+    <button class="m-cf-fejlec_container_links_item_link" data-toggle="dropdown" data-target="[data-js-cemp-social=dropdown]" type="button">
+        <span class="m-cf-fejlec_container_links_item_link_container">
+            <svg class="m-cf-fejlec_container_links_item_link_container_icon iconShare" viewBox="0 0 18 20">
+                <path d="M14.09 13.636c-.823 0-1.565.32-2.13.835l-5.737-3.585c.082-.282.14-.575.14-.885 0-.31-.058-.603-.14-.885L11.96 5.53c.565.513 1.307.834 2.13.834 1.758 0 3.183-1.425 3.183-3.182S15.848 0 14.09 0c-1.756 0-3.18 1.425-3.18 3.182 0 .274.045.536.11.79L5.235 7.59c-.555-.473-1.266-.77-2.053-.77C1.425 6.818 0 8.243 0 10s1.425 3.182 3.182 3.182c.787 0 1.498-.297 2.053-.77l5.785 3.615c-.065.255-.11.517-.11.79 0 1.758 1.424 3.183 3.18 3.183 1.758 0 3.183-1.425 3.183-3.182s-1.425-3.182-3.182-3.182"/>
+            </svg>
+            <span class="m-cf-fejlec_container_links_item_link_container_label h-visibility-off_mid-small-down">Cikk megosztása</span>
+        </span>
+    </button>
+    <ul class="m-cf-fejlec_container_links_item_share" data-js-cemp-social="dropdown">
+                <li class="m-cf-fejlec_container_links_item_share_item">
+                    <a class="m-cf-fejlec_container_links_item_share_item_link linkFacebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F" target="_blank">
+                        <svg class="m-cf-fejlec_container_links_item_share_item_link_icon iconFacebook" viewBox="0 0 11 20"><path d="M9.847 6.93H6.85V4.952c.22-1.867 3.33-1.512 3.33-1.512l.002-.127V.23h-.004C10.07.206 3.988-1.225 2.78 3.365v.003l-.008.03c-.19.574-.177 3.202-.175 3.532H0v3.513h2.758V20h4.016v-9.557h3.072l.346-3.514h-.345z"/></svg>
+                        <span class="m-cf-fejlec_container_links_item_share_item_link_label h-visibility-off_small-down">Facebook</span>
+                    </a>
+                </li>
+                <li class="m-cf-fejlec_container_links_item_share_item">
+                    <a class="m-cf-fejlec_container_links_item_share_item_link linkTwitter" href="http://twitter.com/share?lang=hu&amp;via=indexhu&amp;text=Orb%C3%A1n%3A+Individual+freedoms+can+never+encroach+upon+the+interests+of+the+majority&amp;url=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F" target="_blank">
+                        <svg class="m-cf-fejlec_container_links_item_share_item_link_icon iconTwitter" viewBox="0 0 23 19"><path d="M23 2.213c-.846.375-1.756.63-2.71.743.974-.584 1.722-1.51 2.075-2.61-.912.54-1.922.933-2.997 1.144C18.508.573 17.28 0 15.924 0c-2.606 0-4.72 2.113-4.72 4.72 0 .368.043.73.123 1.074-3.92-.197-7.4-2.075-9.726-4.93C1.196 1.56.963 2.37.963 3.236c0 1.637.833 3.08 2.1 3.928-.774-.025-1.502-.237-2.138-.59v.06c0 2.285 1.626 4.192 3.785 4.626-.397.108-.814.165-1.244.165-.304 0-.6-.03-.888-.084.6 1.875 2.343 3.24 4.408 3.277-1.615 1.266-3.65 2.02-5.86 2.02-.38 0-.757-.022-1.126-.066 2.088 1.34 4.57 2.122 7.233 2.122 8.68 0 13.426-7.19 13.426-13.426 0-.205-.005-.408-.015-.61.922-.666 1.722-1.497 2.355-2.443"/></svg>
+                        <span class="m-cf-fejlec_container_links_item_share_item_link_label h-visibility-off_small-down">Twitter</span>
+                    </a>
+                </li>
+                <li class="m-cf-fejlec_container_links_item_share_item">
+                    <a class="m-cf-fejlec_container_links_item_share_item_link linkTumblr" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F&amp;name=Orb%C3%A1n%3A+Individual+freedoms+can+never+encroach+upon+the+interests+of+the+majority&amp;description=%28via+%3Ca+href%3D%22http%3A%2F%2Findex.hu%2F%22%3EIndex%3C%2Fa%3E%29" target="_blank">
+                        <svg class="m-cf-fejlec_container_links_item_share_item_link_icon iconTumblr" viewBox="0 0 12 20"><path d="M10.51 15.942c-.37.177-1.08.33-1.61.345-1.597.043-1.907-1.122-1.92-1.968V8.105h4.008v-3.02H6.994V0H4.07c-.047 0-.13.043-.143.15-.17 1.556-.9 4.287-3.927 5.378v2.578h2.02v6.522c0 2.232 1.647 5.404 5.995 5.33 1.467-.026 3.096-.64 3.456-1.17l-.96-2.846z"/></svg>
+                        <span class="m-cf-fejlec_container_links_item_share_item_link_label h-visibility-off_small-down">Tumblr</span>
+                    </a>
+                </li>
+                <li class="m-cf-fejlec_container_links_item_share_item">
+                    <a class="m-cf-fejlec_container_links_item_share_item_link linkViber" href="viber://forward?text=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F" target="_blank">
+                        <svg class="m-cf-fejlec_container_links_item_share_item_link_icon iconViber" viewBox="0 0 23 24"><path d="M19.13 16.849c-1.331 1.445-3.841 2.148-7.675 2.148-.298 0-.584-.005-.865-.013l-3.75 3.95a.265.265 0 0 1-.457-.186v-4.351c-.907-.284-1.632-.67-2.193-1.167-1.36-1.207-1.994-3.282-1.994-6.53 0-3.41.518-5.374 1.732-6.566 1.316-1.291 3.638-1.867 7.527-1.867 3.854 0 6.26.621 7.574 1.956 1.181 1.2 1.686 3.138 1.686 6.477 0 3.103-.474 4.942-1.585 6.149m1.426-14.154C18.788.898 15.981.097 11.456.097c-4.495 0-7.28.766-9.03 2.483C.757 4.219.045 6.647.045 10.7c0 3.918.865 6.51 2.725 8.159.76.673 1.676 1.188 2.796 1.56-.013.642-.022 1.504-.027 2.63-.004.842 1.008 1.262 1.594.662l2.535-2.593a31.03 31.03 0 0 0 1.788.049c4.527 0 7.467-.903 9.252-2.843 1.903-2.067 2.16-5.014 2.16-7.624 0-3.966-.691-6.36-2.31-8.005"/><path d="M15.874 13.433c-.345-.28-.713-.53-1.076-.787-.723-.512-1.384-.551-1.923.272-.303.463-.728.483-1.171.28-1.222-.559-2.167-1.42-2.72-2.673-.244-.554-.241-1.05.331-1.443.303-.207.609-.452.584-.905-.032-.591-1.454-2.565-2.016-2.773a1.013 1.013 0 0 0-.7 0c-1.318.446-1.863 1.538-1.34 2.831 1.558 3.858 4.301 6.544 8.077 8.183.216.093.455.13.576.164.86.009 1.867-.826 2.158-1.655.28-.797-.312-1.114-.78-1.494M11.64 5.8c2.76.427 4.034 1.75 4.385 4.554.033.259-.063.648.304.656.383.007.29-.377.294-.636.032-2.64-2.252-5.087-4.903-5.178-.2.03-.614-.139-.64.313-.017.305.331.255.56.29"/><path d="M12.18 6.568c-.266-.032-.616-.158-.678.213-.065.39.326.35.577.407 1.705.384 2.298 1.01 2.58 2.715.04.248-.041.635.378.571.31-.048.198-.38.224-.573.014-1.637-1.378-3.127-3.081-3.333"/><path d="M12.336 7.907c-.177.004-.35.023-.416.214-.098.286.108.354.318.388.699.113 1.067.529 1.137 1.232.019.19.139.345.322.323.253-.03.276-.257.268-.473.013-.79-.873-1.703-1.629-1.684"/></svg>
+                        <span class="m-cf-fejlec_container_links_item_share_item_link_label h-visibility-off_small-down">Viber</span>
+                    </a>
+                </li>
+    </ul>
+</li>
+                            </ul>
+                    </div>
+        <div class="m-cf-fejlec_container_inda">
+            <ul class="m-cf-fejlec_container_inda_kiadvanyok">
+            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                    <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-target="i2" href="https://index.hu/i2/" target="_blank">i2</a>
+            </li>
+            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                    <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-target="totalcar" href="https://totalcar.hu/" target="_blank">Totalcar</a>
+            </li>
+            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                    <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-target="joautok" href="https://joautok.hu" target="_blank">JóAutók</a>
+            </li>
+            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                    <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-target="divany" href="https://divany.hu/" target="_blank">Dívány</a>
+            </li>
+            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                    <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-target="femina" href="https://femina.hu/" target="_blank">Femina</a>
+            </li>
+            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                    <button class="m-cf-fejlec_container_inda_kiadvanyok_item_inda" data-toggle="dropdown" data-target="[data-js-dropdown=inda]" type="button">
+                        <span class="m-cf-fejlec_container_inda_kiadvanyok_item_inda_container">
+                            <span class="m-cf-fejlec_container_inda_kiadvanyok_item_inda_container_label">Inda</span>
+                            <svg class="m-cf-fejlec_container_inda_kiadvanyok_item_inda_container_icon" viewBox="0 0 11 7">
+                                <path d="M5.5 5.125L1.032.657C.846.47.534.467.344.657c-.185.184-.19.497 0 .687l4.812 4.812c.092.092.217.14.342.14.125 0 .25-.045.346-.14l4.812-4.812c.185-.185.19-.498 0-.688-.184-.184-.498-.19-.688 0L5.5 5.127z"/>
+                            </svg>
+                        </span>
+                    </button>
+            </li>
+            <li class="m-cf-fejlec_container_inda_kiadvanyok_item h-visibility-off_mid-small-down">
+                    <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-target="otthonterkep" href="https://otthonterkep.hu/" target="_blank">Otthontérkép</a>
+            </li>
+            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                    <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-target="jobinfo" href="https://www.jobinfo.hu/" target="_blank">Jobinfo</a>
+            </li>
+</ul>
+
+            <ul class="m-cf-fejlec_container_inda_actions">
+                <li class="m-cf-fejlec_container_inda_actions_item itemSearch">
+                    <button class="m-cf-fejlec_container_inda_actions_item_button" data-toggle="modal" data-target="[data-js-modal-window=search]" data-js-cemp-search="button" type="button">
+                        <span class="m-cf-fejlec_container_inda_actions_item_button_wrapper">
+                            <svg class="m-cf-fejlec_container_inda_actions_item_button_wrapper_icon" viewBox="0 0 21 21">
+                                <path d="M20.8 18.867c.267.267.267.7 0 .967l-.966.967c-.267.267-.7.267-.966 0L13.5 15.434c-.073-.074-.122-.16-.155-.253-1.39 1.014-3.094 1.62-4.944 1.62-4.64 0-8.4-3.76-8.4-8.4C0 3.76 3.76 0 8.4 0c4.64 0 8.4 3.76 8.4 8.4 0 1.85-.606 3.556-1.62 4.945.092.032.18.08.253.155l5.368 5.367zM8.4 2.8c-3.093 0-5.6 2.507-5.6 5.6 0 3.093 2.507 5.6 5.6 5.6 3.093 0 5.6-2.507 5.6-5.6 0-3.093-2.507-5.6-5.6-5.6z"/>
+                            </svg>
+                        </span>
+                    </button>
+                </li>
+            </ul>
+            <div class="fixed-header">
+    <script type="text/javascript">
+    </script>
+<iframe id="passportHeader" src="https://indapass.hu/kontroll/?redirect_to=http%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F&amp;h=W%2F7J0omkTOpS7T5IciX7cQ%3D%3D" style="width: 100%; height: 36px;" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe></div>
+        </div>
+    </div>
+    </div>
+        <div id="smartapp-container"></div>
+<section class="blokk hajtas-felett container index-header cimlap-blokk-index">
+    <div class="index-header-wrapper">
+
+<div class="header-parts">
+    <div class="today">
+        <time title="31. hét" datetime="2019-07-30">2019. 07. 30. kedd</time>
+        <div id="name-day">Judit, Xénia</div>
+    </div>
+            <ul class="arfolyam">
+            <li class="today">
+                <a href="https://dex.hu/x.php?id=inxfejlec&url=http%3A%2F%2Fportfoliofinancial.hu%2F" title="Forrás: portfoliofinancial.hu" target="_blank">
+                    <ul class="border">
+                                                                                <li class="baaad">
+                                <span class="type">EUR</span>
+                                <span class="price">
+                                    327,90                                    <span class="forint">Ft</span>
+                                </span>
+                            </li>
+                                                                                <li class="baaad">
+                                <span class="type">GBP</span>
+                                <span class="price">
+                                    358,32                                    <span class="forint">Ft</span>
+                                </span>
+                            </li>
+                                            </ul>
+                </a>
+            </li>
+        </ul>
+        <div class="weather" data-temprature="24.2" title="most: 24,2 &deg;C">
+        <a href="https://index.hu/idojaras"></a>
+        <div class="temperature">
+            <div class="night">18 &deg;C</div>
+            <div class="day">32 &deg;C</div>
+        </div>
+        <div class="weather-icon">
+            <ul>
+                                    <li class="icon-sun"></li>
+                            </ul>
+        </div>
+    </div>
+
+    <a class="in-english" href="https://dex.hu/x?rov=https://index.hu/english">
+        <img class="flag" src="https://index.hu/assets/images/in_english/flag.svg" alt="Index - In English" />
+        <span class="name">
+            <span class="long">In English</span>
+            <span class="short">Eng</span>
+        </span>
+    </a>
+
+    <!--
+    <div class="headerinfo_szponzi">
+        <a href="https://ad.adverticum.net/C/1902688/3585112/358510600?" target="_blank">
+            <img src="https://kep.cdn.index.hu/1/0/1053/10535/105356/10535647_c1f3f7ec39e164c14b951afd322917b7_wm.png" alt="Szerencsejáték Zrt"/>
+        </a>
+        <iframe frameborder='0' width='0' height='0' marginwidth='0' marginheight='0' scrolling='no' src='https://ad.adverticum.net/t/?z=1902688&g=3585112&b=358510600&h=[LOCATION]&p=2'></iframe>
+    </div>
+    -->
+    
+    </div>
+        <a class="logo " href="/"></a>
+    <ul class="trending-topics">
+<li stamp-index="0">
+                
+                <a class="cimke cimke-rovat cimke-93640" href="https://dex.hu/x.php?id=inxcl_stamp&amp;url=http%3A%2F%2Fwww.szabadindex.eu%2F">szabad index</a>
+            </li><li stamp-index="1">
+                
+                <a class="cimke cimke-zoldindex cimke-107697" href="https://dex.hu/x.php?id=inxcl_stamp&amp;url=https%3A%2F%2Findex.hu%2Fzold%2F">Zöld Index</a>
+            </li><li stamp-index="2">
+                
+                <a class="cimke cimke-rovat cimke-108279" href="https://dex.hu/x.php?id=inxcl_stamp&amp;url=https%3A%2F%2Findex.hu%2Fmividekunk%2Fveszprem%2F%232009-05-17">A MI VIDÉKÜNK</a>
+            </li><li stamp-index="3">
+                
+                <a class="cimke cimke-rovat cimke-109023" href="https://dex.hu/x.php?id=inxcl_stamp&amp;url=https%3A%2F%2Findex.hu%2F24ora%2F%3Fcimke%3Dkvangdzsu%2B2019">vizes vb</a>
+            </li><li stamp-index="4">
+                
+                <a class="cimke cimke-rovat cimke-109077" href="https://dex.hu/x.php?id=inxcl_stamp&amp;url=https%3A%2F%2Findex.hu%2F24ora%2F%3Fcimke%3Dtusv%25C3%25A1nyos%2B2019">Tusványos 2019</a>
+            </li>    </ul>
+<nav>
+                        <a href="https://dex.hu/x?rov=https://index.hu/belfold/" class="navi_belfold">Belföld</a>
+                                <a href="https://dex.hu/x?rov=https://index.hu/kulfold/" class="navi_kulfold">Külföld</a>
+                                <a href="https://dex.hu/x?rov=https://index.hu/gazdasag/" class="navi_gazdasag">Gazdaság</a>
+                                <a href="https://dex.hu/x?rov=https://index.hu/techtud/" class="navi_techtud">Tech-Tudomány</a>
+                                <a href="https://dex.hu/x?rov=https://index.hu/kultur/" class="navi_kultur">Kult</a>
+                                <a href="https://dex.hu/x?rov=https://index.hu/sport/" class="navi_sport">Sport</a>
+                                <a href="https://dex.hu/x?rov=https://index.hu/velemeny/" class="navi_velemeny">Vélemény</a>
+                                <a href="https://dex.hu/x?rov=https://index.hu/video/" class="navi_video">Videó</a>
+                                <a href="https://dex.hu/x?rov=https://index.hu/nagykep/" class="navi_nagykep">Fotó</a>
+                                <a href="https://dex.hu/x?rov=https://index.hu/24ora/" class="navi_24ora">24 Óra</a>
+                        </nav>
+<ul class="social-tools">
+    <li>
+        <a class="icon icon-mail-fff email" href="mailto:ugyelet@NEMSPA_M.mail.index.hu"></a>
+    </li>
+    <li>
+                    <a class="icon icon-rss-fff" href="/english/rss/"></a>
+            </li>
+    <li>
+        <a class="icon icon-facebook-fff" href="http://www.facebook.com/Indexhu" id="social-dropdown-btn"></a>
+    </li>
+</ul>
+
+<div id="social-dropdown" class="dropdown-content social-dropdown inactive">
+                            <div class="inactive-fb-like" data-href="http://www.facebook.com/indexinenglish" data-width="325" data-colorscheme="light" data-show-faces="true" data-send="false"></div>
+                <a href="http://www.facebook.com/indexinenglish/" class="btn facebook blogfacebook" target="_blank">
+            In English a Facebookon
+        </a>
+    
+            <div class="inactive-fb-like" data-href="http://www.facebook.com/Indexhu" data-width="325" data-colorscheme="light" data-show-faces="true" data-send="false"></div>
+        <a href="http://www.facebook.com/Indexhu/" class="btn blogfacebook facebook" target="_blank">
+        Index a Facebookon
+    </a>
+
+            <header class="blokkcim">
+            <h3>
+                <span class="blokk-label">Rovataink a Facebookon</span>
+                <span class="separator"></span>
+            </h3>
+        </header>
+        <div class="facebook-rovatok">
+                            <a class="btn" href="https://www.facebook.com/IndexTech" target="_blank">Tech/Tudomány</a>
+                            <a class="btn" href="https://www.facebook.com/EUrologus" target="_blank">Eurológus</a>
+                            <a class="btn" href="https://www.facebook.com/IndexFoto" target="_blank">Indexfotó</a>
+                            <a class="btn" href="https://www.facebook.com/indexvideo" target="_blank">Indexvideó</a>
+                            <a class="btn" href="https://www.facebook.com/maistanultamvalamit" target="_blank">Ma is tanultam valamit</a>
+                            <a class="btn" href="https://www.facebook.com/cinematrix.hu" target="_blank">Cinematrix</a>
+                            <a class="btn" href="https://www.facebook.com/commentcomhu" target="_blank">Comment:com</a>
+                            <a class="btn" href="https://www.facebook.com/urbanistablog" target="_blank">Urbanista</a>
+                            <a class="btn" href="https://www.facebook.com/kerekagy" target="_blank">Kerékagy</a>
+                            <a class="btn" href="https://www.facebook.com/indexstenk" target="_blank">Stenk</a>
+                            <a class="btn" href="https://www.facebook.com/sportgezaindex" target="_blank">Sport</a>
+                            <a class="btn" href="https://www.facebook.com/powerplay.blog.hu" target="_blank">Powerplay</a>
+                            <a class="btn" href="https://www.facebook.com/120Yard" target="_blank">120 yard</a>
+                            <a class="btn" href="https://www.facebook.com/bukoter" target="_blank">Bukótér</a>
+                            <a class="btn" href="https://www.facebook.com/indexinenglish" target="_blank">In English</a>
+                    </div>
+        <header class="blokkcim">
+            <h3>
+                <span class="blokk-label"></span>
+                <span class="separator"></span>
+            </h3>
+        </header>
+    
+            <a class="btn youtube" href="https://www.youtube.com/c/indexhu/" target="_blank">
+            Youtube
+        </a>
+    
+            <a class="btn instagram-box" href="https://instagram.com/index.hu/" target="_blank">
+            Instagram
+            <div class="instagram-badge"></div>
+        </a>
+    
+            <a class="btn messenger-box" href="https://www.messenger.com/t/Indexhu" target="_blank">
+            Messenger
+            <div class="fb-messengermessageus" messenger_app_id="236520146770047" page_id="560525343980775" color="blue" size="standard"></div>
+        </a>
+    
+            <a class="btn viber-box" href="http://chats.viber.com/indexhu" target="_blank">
+            Viber
+        </a>
+    
+            <div class="btn twitter">
+            Twitter
+            <div class="follow">
+                <a href="https://twitter.com/indexhu" class="twitter-follow-button" data-show-count="true" data-lang="hu" data-show-screen-name="false"></a>
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
+
+
+    <div class="topszponzor topszponzor--container">
+            </div>
+
+
+<div class="container border">
+    </div>
+
+
+<div id="content" class="container content-container">
+    
+    <div class="container border cikk-header">
+    <ul class="cikk-cimkek">
+                            <li><a href="https://index.hu/english/" class="cimke cimke-rovat cimke-rovat-in_english">In English</a></li>
+                                                    <li><a href="https://index.hu/24ora/?cimke=viktor+orb%C3%A1n" class="cimke cimke-rovat-light">viktor orbán</a></li>
+                                                <li><a href="https://index.hu/24ora/?cimke=hungary" class="cimke cimke-rovat-light">hungary</a></li>
+                                                <li><a href="https://index.hu/24ora/?cimke=politics" class="cimke cimke-rovat-light">politics</a></li>
+                                                <li><a href="https://index.hu/24ora/?cimke=illiberalism" class="cimke cimke-rovat-light">illiberalism</a></li>
+                                                <li><a href="https://index.hu/24ora/?cimke=tusv%C3%A1nyos" class="cimke cimke-rovat-light">tusványos</a></li>
+                                                <li><a href="https://index.hu/24ora/?cimke=tusv%C3%A1nyos+2019" class="cimke cimke-rovat-light">tusványos 2019</a></li>
+                                                <li><a href="https://index.hu/24ora/?cimke=fidesz" class="cimke cimke-rovat-light">fidesz</a></li>
+                        </ul>
+
+
+            <div class="ad-container">
+            <div data-zone='4833174' class='goAdverticum' style='position: absolute; opacity: 0; pointer-events: none; z-index: -1;'>
+                                                            <script class='goa3-loader'>
+                                                                var loader = new Goa3Loader(document.querySelector('[data-zone="4833174"]'), {
+                                                                    id: '4833174',
+                                                                    area: 'superbanner',
+                                                                    lazy: false,
+                                                                    quality: false
+                                                                });
+                                                                loader.insert();
+                                                            </script>
+                                                        </div>
+        </div>
+    
+    <div class="content-title">
+                <h1 class="">
+            <span>Orbán: Individual freedoms can never encroach upon the interests of the majority</span>
+        </h1>
+            </div>
+</div>
+
+    <div class="container cikk-cover cikk-cover-v1">
+        <img src="https://kep.index.hu/1/0/2879/28797/287977/28797705_954c0fdae2437c05ce4e7a8fb5149216_wm.jpg" alt="DSC04354"/>
+
+                    </div>
+
+    <div class="container border cikk-torzs-container ">
+
+                    <div class="author-share-date-container">
+    <div class="author-share-date">
+        <div class="bal-hasab">
+<div class="szerzok_container">
+        <div class="szerzo ">
+
+                <a href="https://index.hu/szerzo/kovacs_zoltan">
+                        <img class="szerzo-kep" src="https://kep.index.hu/1/0/2778/27787/277874/27787483_2131651_746dbb4c7326660e5a2674a3f924712c_wm.jpg" alt="Kovács Zoltán">
+                </a>
+            <div class="kovetes">
+                        <a rel="author" href="https://index.hu/szerzo/kovacs_zoltan">Kovács Zoltán</a>
+                    <span class="btn-pass" data-feed-id="feed://manis/cikkszerzo/810"></span>
+            </div>
+        </div>
+</div>
+<div class="datum">
+    <span>2019.07.27. 18:33</span>
+    </div>
+        </div>
+        <div class="jobb-hasab">
+<div class="megoszt cikk-top-box ">
+                    <div class="fb-share fb-native-share">
+            <fb:like id="fb_like_bottom" action="recommend" layout="button_count" show_faces="false" href="https://index.hu/english/2019/07/27/viktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition/" />
+        </div>
+    
+    <div class="index-social-box">
+    <a href="#" class="megosztas-gomb"></a>
+    <ul class="megosztas-doboz">
+        <li class="mail">
+            <a href="mailto:?subject=Index%20-%20Orb%C3%A1n%3A%20Individual%20freedoms%20can%20never%20encroach%20upon%20the%20interests%20of%20the%20majority&amp;body=https://index.hu/english/2019/07/27/viktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition/"></a>
+        </li>
+            <li class="facebook">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F" target="_blank"></a>
+            </li>
+        <li class="twitter">
+            <a href="http://twitter.com/share?lang=hu&amp;via=indexhu&amp;text=Orb%C3%A1n%3A+Individual+freedoms+can+never+encroach+upon+the+interests+of+the+majority&amp;url=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F" target="_blank"></a>
+        </li>
+        <li class="tumblr">
+            <a href="http://www.tumblr.com/share/link?url=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F&amp;name=Orb%C3%A1n%3A+Individual+freedoms+can+never+encroach+upon+the+interests+of+the+majority&amp;description=%28via+%3Ca+href%3D%22http%3A%2F%2Findex.hu%2F%22%3EIndex%3C%2Fa%3E%29" target="_blank"></a>
+        </li>
+        <li class="viber">
+            <a href="viber://forward?text=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F" target="_blank"></a>
+        </li>
+    </ul>
+</div>
+            <div class="hozzaszolasok"></div>
+    </div>
+
+        </div>
+    </div>
+</div>
+        
+        
+        <div class="szelso-jobb-lead_container">
+            <div class="szelso-jobb">
+                                <div class="cikk-inline-ad halfpage">
+<div data-zone='4833193' class='goAdverticum' style='position: absolute; opacity: 0; pointer-events: none; z-index: -1;'>
+                                                            <script class='goa3-loader'>
+                                                                var loader = new Goa3Loader(document.querySelector('[data-zone="4833193"]'), {
+                                                                    id: '4833193',
+                                                                    area: 'microsite',
+                                                                    lazy: false,
+                                                                    quality: false
+                                                                });
+                                                                loader.insert();
+                                                            </script>
+                                                        </div>
+<div data-zone='4833198' class='goAdverticum' style='position: absolute; opacity: 0; pointer-events: none; z-index: -1;'>
+                                                            <script class='goa3-loader'>
+                                                                var loader = new Goa3Loader(document.querySelector('[data-zone="4833198"]'), {
+                                                                    id: '4833198',
+                                                                    area: 'microsite',
+                                                                    lazy: false,
+                                                                    quality: false
+                                                                });
+                                                                loader.insert();
+                                                            </script>
+                                                        </div>
+                </div>
+            </div>
+                    </div>
+
+        
+        <div class="cikk-torzs">
+            <div><!--
+            --><!--
+            --></div>
+            <div class="nm_thanks__wrapper nagykep-copy">
+    <a class="nm_thanks nm_thanks--base" href="https://tamogatas.index.hu/tamogato-leszek/?utm_source=index.hu&utm_medium=donate_thanks_hu&utm_content=link&utm_campaign=donate" target="_blank">
+        <div class="nm_thanks__logo nm_thanks__col">
+            <img src="https://index.hu/assets/images/nincs_masik/donate_thanks/index_logo.svg" width="118" />
+        </div>
+        <div class="nm_thanks__text nm_thanks__col">
+            <p class="paragraph"><strong>Támogatóinknak köszönhetően Vas és Zala megyéről összesen 18 videó készült.</strong></p>
+        </div>
+
+                    <div class="nm_thanks__button nm_thanks__col">
+                <span class="c-btn c-btn-color-secondary">
+                    <span class="c-btn_container">
+                        <span class="c-btn_container_text">Támogass te is!</span>
+                    </span>
+                </span>
+            </div>
+            </a>
+</div>
+                        <p><strong>Unlike most summer festivals, music takes a backseat to politics at Tusványos, the annual meeting of Fidesz's prominent representatives in </strong> <strong>Transylvania, Romania. As every year, the main headliner of the 2019 event was Hungarian Prime Minister Viktor Orbán, who gave his ideological briefing laying down the foundations of his government's upcoming policies in his speech on the last day of the festival </strong><strong>on Saturday</strong><strong>. This year, Orbán explained the nature of illiberalism at length (a term he first introduced at the same festival in 2014), argued for diminishing the significance of the European Commission, smirked at the ongoing probe into Hungary's rule-of-law situation, and coined the new buzzword <em>"Christian liberties"</em>. Here is our summary.</strong></p>
+                        <p>In front of an enthusiastic crowd, Orbán started by quickly looking over the past thirty years of Hungary. He defined two transitions, first what he called the <em>"liberal transition"</em> that emphasised individual freedom and the <em>"national transition"</em> which happened in 2010. The main task during the <em>"liberal transition"</em> was to achieve independence and freedom, to establish a capitalist economy, and to create the democratic system of political and legal institutions. Orbán humbly noted that the latter cost them four years during his first term as PM between 1998 and 2002, although the democratic institutions laid out in the 1989 amendment of the Hungarian Constitution saw no significant changes in that period. </p>
+                        <p>He said that this new era since 2010, the era of national transition placed the emphasis on the interests of the community and after the internationalist and socialist successors of the communist regime were defeated between 1994 and 2010, their mission now is to maintain and reproduce the mass support of this system and to beat back the attacks against it. </p>
+                        <div id="microsite_microsite" class="miniapp microsite">
+                        <div data-zone="4833178" class="goAdverticum" style="position: absolute; opacity: 0; pointer-events: none; z-index: -1;">
+                                                                                    <script class="goa3-loader">
+                                                                                        var loader = new Goa3Loader(document.querySelector('[data-zone="4833178"]'), {
+                                                                                            id: '4833178',
+                                                                                            area: 'roadblock',
+                                                                                            lazy: false,
+                                                                                            quality: false
+                                                                                        });
+                                                                                        loader.insert();
+                                                                                    </script>
+                                                                                </div>
+                        </div>
+                        <h3>Orbán plans for 15 years: "Time for tonight's feature film"</h3>
+                        <p>Prime Minister Orbán stated that he looks at the upcoming fifteen years as the <em>"prime time"</em> of his generation, as there is childhood, when a person makes plans about what they want to do, there is old age, when people regret what they haven't done, but between the ages of 35 and 70, there is adulthood; this is the time for people to act. Orbán's generation is halfway through that age, and as he said, it is time for the night's feature presentation:</p>
+                        <div class="eyecatcher_short">
+                        <div class="anti_xsl">
+                        <p>"The nation is in possession of the political, economic, and soon enough, the physical means to defend themselves and their sovereignty."</p>
+                        </div>
+                        </div>
+                        <p>Orbán noted that the nation had already defended themselves against the attacks of Brussels, the IMF, and the migrants. He said that Hungary is on an encouraging path, finances are in order, businesses are getting stronger, wages are increasing, and they are building the nation and families - but as always, this is under threats coming from outside Hungary. In Orbán's assessment, the first threat was already averted, as he said:</p>
+                        <blockquote>
+                        <p>"I wouldn't want to lay out the full extent of the truth, but we have taken complicated steps, and we have successfully tackled Soros's candidates and prevented ideological guerillas from taking EU top jobs. The European Commission is lead by a practical-minded mother of seven." </p>
+                        </blockquote>
+                        <div id="szerkfoto_image_28797701" class="miniapp szerkfotoimage">
+                        <div id="szerkfoto_image_28797701_4645087" class="kep popup kep_szeles keret">
+                        <span class="imageholder "><img id="kep_szerkfoto_image_28797701" src="https://kep.cdn.indexvas.hu/1/0/2879/28797/287977/28797701_a597cb8663574074424c77413ebcbb36_wm.jpg" alt="DSC04686" data-image_width="727" data-image_height="484" /><span class="open_popup icon-popup image-icon"></span></span><div class="kepala"><div class="photographer">Fotó: Simor Dániel</div></div></div>
+                        </div>
+                        <h3>European matters</h3>
+                        <p>So based on that, Ursula von der Leyen, unlike his predecessor <a href="https://index.hu/galeria/index/belfold/2019/03/14/mire_keszul_brusszel/4" id="hyperlink_a476a876a2d3217a6911c9ca7e649c6b" target="_self">Jean Claude Juncker</a>, may be spared from appearing with George Soros on government-sponsored billboards all over Hungary, although that could change soon as she pledged her <a href="https://www.politico.eu/article/ursula-von-der-leyen-makes-final-pitch-ahead-of-confirmation-vote/" id="hyperlink_b8cfc0c6c8829ddc434e4aa69aac6094" rel="nofollow" target="_blank">support</a> for an EU-wide rule-of-law mechanism in her election pitch in the European Parliament, which might prompt resistance from Orbán if she goes through with that idea, as the Hungarian Prime Minister has rather different ideas about the role of the Commission.</p>
+                        <p>Orbán said that the Commission must not have a program and must not launch <em>"political attacks"</em> against the member-states as it did under Juncker, and setting the direction for EU policies should continue to befall the national governments.</p>
+                        <p>He noted that the Spitzenkandidat system did not die, it only found its place: its goal was never to take the Council's right to nominate the President of the Commission - the Commission should be beholden to the Council. According to Orbán, the real sense behind the Spitzenkandidat system was for voters to have an influence over the EU's top jobs, and European voters have that by determining the composition of the European Parliament. Orbán would further diminish the Commission's significance, he said a council of Europe's ministers of interior affairs should be set up to deal with all questions surrounding migration.</p>
+                        <p>The other threat Orbán sees - besides the <em>"Soros-candidates"</em> - is that according to him, the EU had been building "European Socialism" in the past five years. Orbán said that Europe must dismiss the idea of universal basic income and should focus on jobs, and "instead of migrants, money should be given to European families so they can have more children" (to learn about Orbán's ideas on how that would work, see our video <a href="//index.hu/english/2019/07/25/orban_s_family_protection_plan_-_could_it_work/" id="hyperlink_500fe55b6d1ad2f56780af7cb27b6627" target="_self" title="Orbán&#039;s Family Protection Plan - could it work?" data-recommendation="bekezdes_utan" data-recommendation-preview="{&quot;og:title&quot;:&quot;Orb&aacute;n&amp;#039;s Family Protection Plan - could it work?&quot;,&quot;og:description&quot;:&quot;Could the government solve Hungary&amp;amp;#039;s demographic troubles by throwing money at the problem?&quot;,&quot;og:image&quot;:&quot;\/\/kep.cdn.indexvas.hu\/1\/0\/2828\/28289\/282891\/28289181_2170077_235dc83f8c18f6daf3dbb2bd3301040e_wm.gif&quot;}" data-recommendation-id="4643569">here</a>).</p>
+                        <h3>PM laughs at the rule-of-law debate</h3>
+                        <div class="eyecatcher_long">
+                        <div class="anti_xsl">
+                        <p>"Strong nerves will indeed be necessary for the upcoming rule-of-law debates, though not for defending our position but for resisting to laugh in the face of our critics."</p>
+                        </div>
+                        </div>
+                        <p>said Orbán, and continued to ridicule Finland. Orbán noted that the Finnish Academy of Sciences operates under the control of the Minister of Education, Finland has no Constitutional Court, judges are appointed by the President of the Republic based on the suggestion of the Minister of Justice, and he asked what would happen if Hungary were to introduce these measures. </p>
+                        <div id="szerkfoto_image_28797709" class="miniapp szerkfotoimage">
+                        <div id="szerkfoto_image_28797709_4645087" class="kep popup kep_szeles keret">
+                        <span class="imageholder "><img id="kep_szerkfoto_image_28797709" src="https://kep.cdn.indexvas.hu/1/0/2879/28797/287977/28797709_91f0ddaca39a240033268299b8150dd7_wm.jpg" alt="DSC04333" data-image_width="727" data-image_height="486" /><span class="open_popup icon-popup image-icon"></span></span><div class="kepala"><div class="photographer">Fotó: Simor Dániel</div></div></div>
+                        </div>
+                        <p>A little background: the Nordic country that has just begun its third EU Presidency period on 1 July made it clear that<a href="https://euobserver.com/political/145294" id="hyperlink_b67833eb13d3d3ee4c540201e3a4d2c6" rel="nofollow" target="_blank"> defending the rule of law will be one of their top priorities</a>, a statement that already caused some tension between them and Hungary. Hungarian pro-government media started denouncing Finland's democratic system as soon as they've made their priorities clear, with even the government's international spokesperson Zoltán Kovács (not the same as the author of this article) jumping on the bandwagon saying they <em><a href="http://abouthungary.hu/blog/i-bet-you-didnt-know-this-about-finland/" id="hyperlink_79c2be67a0a4464a94de7fd8f79103be" rel="nofollow" target="_blank">"preach water, drink wine."</a></em>Finland's Minister of Foreign Affairs Pekka Haavisto had <a href="https://yle.fi/uutiset/3-10891936?_ga=2.259433484.728402158.1563344256-509308107.1536361092" id="hyperlink_00fefdccee7fe56a94525ff2194175c6" rel="nofollow" target="_blank">signalled</a> his intention to sit down with Hungarian leadership to talk these matters through and said that the Budapest Finnish Embassy already sought to clarify the factual errors. </p>
+                        <h3>Liberalism versus illiberalism</h3>
+                        <p>Usually, Orbán's speeches at the Tusványos festival are more big-picture, philosophical musings and this year was no different, as the Prime Minister spent quite some time explaining the ideology behind his "illiberal democracy" - a phrase that he introduced in 2014 sitting at the very same table. </p>
+                        <p>Orbán claims to have opened a new chapter in how the individuals relate to their communities and to other individuals. He said that while the approach of liberalism is that it's an individual's private matter if they lead a <em>"useful life"</em> or not, a national system states:</p>
+                        <div class="eyecatcher_short">
+                        <div class="anti_xsl">
+                        <p>"Only those deserve acknowledgement who serve the nation's cause."</p>
+                        </div>
+                        </div>
+                        <p>Orbán illustrated this by Olympic gold medals: <em>"Nobody says that they won the gold medal, everybody says we won the gold medal. Self-care, work, studying, healthy lives, paying taxes, participating in national self-reflection: this is what we hold morally superior."</em> Orbán said that in opposition to that, liberals are loosening up all ties and want to create an empire. Hungary created a unique state model, the illiberal, Christian state, and this bothers liberals because they believe their model is universal and exclusive; they vindicate the right to set how people should think about the basic facts of life. Orbán stated:</p>
+                        <div class="eyecatcher_short">
+                        <div class="anti_xsl">
+                        <p>"Individual freedoms can never encroach on the interests of the community. There is indeed a majority that must be respected, that is the foundation of democracy."</p>
+                        </div>
+                        </div>
+                        <p>That is why, in illiberal philosophy, the state cannot remain neutral in the questions of culture, family, and of <em>"what sort of people are in your own country."</em> The main goal of illiberalism, as Orbán defined it, is to "achieve and protect Christian liberties." He said that according to liberals, all democracies must be liberal by definition, but that is not true since democracy could not exist without Christianity. Orbán supported this by saying that the only reason why the President of the Academy of Sciences has one vote just like someone who barely finished elementary school is that they were both created by God to his image.</p>
+                        <blockquote>
+                        <p>Liberal democracy was only viable until it has left its Christian roots behind, until it protected individual liberties and private property. But as soon as it started to break down people's ties to reality, questioning sexual identity, devaluing religious identity, and deeming national ties futile, the content of liberal democracy has changed. This had been Europe's zeitgeist in the past 20 or 30 years."</p>
+                        </blockquote>
+                        <div id="szerkfoto_image_28797723" class="miniapp szerkfotoimage full-width">
+                        <div id="szerkfoto_image_28797723_4645087" class="kep full-width keret">
+                        <span class="imageholder "><img id="kep_szerkfoto_image_28797723" src="https://kep.cdn.indexvas.hu/1/0/2879/28797/287977/28797723_2606e60a8b468aa3adcecc4175df1d61_wm.jpg" alt="DSC04404" data-image_width="1108" data-image_height="738" /></span><div class="kepala"><div class="photographer">Fotó: Simor Dániel</div></div></div>
+                        </div>
+                        <p>Orbán added that Churchill's and Roosevelt's Atlantic Charter is an illiberal document as it promotes the self-determination and self-governance of nations, and that these words of Robert Schuman,  <em>"Democracy owes its existence to Christianity. It was born the day that man was called to realise in this temporary life, the dignity of each human person, in his individual liberty in the respect of the rights of each and by the practice of brotherly love to all,"</em>  could never be uttered in today's European Parliament without punishment. Though in all fairness, it must be noted that just last year, during the EP debate on the  <a href="https://www.politico.eu/article/european-parliament-approves-hungary-censure-motion/" id="hyperlink_d192b5819ee6c3efa486aefa44348008" rel="nofollow" target="_blank">Hungarian situation</a>, liberal MEP Guy Verhofstadt happened to employ <a href="http://www.europarl.europa.eu/doceo/document/CRE-8-2018-09-11-INT-2-351-0000_EN.html" id="hyperlink_009c26d5918e70549bc87660f4d2dc0e" rel="nofollow" target="_blank">the very same quote</a>, albeit with a slightly different emphasis, arguing against Orbán.</p>
+                        <div data-miniapp-id="878399">
+                            <div class="yt-video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/TC3vc3-Udlg?start=170" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></div>
+                        <h3>"But why do liberals hate us?"</h3>
+                        <p>This was Orbán's question concluding his speech, and he did have his answers. He said that illiberalism stands for everything that liberals neglect and despise and that whenever Hungary is brought up in the international discourse, there are no arguments, only explosions of bile and hatred. </p>
+                        <p>Orbán attributed this to Hungary turning against the liberal zeitgeist, yet being successful - as he explained, liberals thought that their post-Christian, post-nationalistic model will bring about the universal age of liberal democracy, but that universality is broken by its Hungarian antithesis, illiberalism. This alternative, the illiberal state protects Christian freedoms, which is necessitated by liberals wanting to surrender Europe's Christian identity and migrants wanting to destroy Europe. Orbán's aim for Hungary is to turn against this liberal zeitgeist and internationalism, as Hungary can only be preserved that way:</p>
+                        <div class="eyecatcher_short">
+                        <div class="anti_xsl">
+                        <p>"This is going to be an unfair fight, but there are many things on our side that are beautiful, free, and just."</p>
+                        </div>
+                        </div>
+                        <p>The Prime Minister sees a bright future for his ideals that he deems rational and viable, as all over Europe, the most successful parties were the ones <em>"being fired upon by cannons in defence of democracy."</em> He mentioned Italy and Poland as notable examples. </p>
+                        <div id="szerkfoto_image_28797753" class="miniapp szerkfotoimage">
+                        <div id="szerkfoto_image_28797753_4645087" class="kep kep_szeles keret">
+                        <span class="imageholder "><img id="kep_szerkfoto_image_28797753" src="https://kep.cdn.indexvas.hu/1/0/2879/28797/287977/28797753_1101b9488e16ce07820c90968c4fbab3_wm.jpg" alt="28790683 a20acaf5d334b7fbabd5a9cee0e4d79f o" data-image_width="727" data-image_height="484" /></span><div class="kepala"><div class="photographer">Fotó: Simor Dániel</div></div></div>
+                        </div>
+                        <h3>Hungarian opposition reacts</h3>
+                        <p>The opposition was united in condemning Viktor Orbán's speech, here is a brief summary of what they had to say:</p>
+                        <ul><li><strong><strong>DK</strong></strong>'s chairman and former PM Ferenc Gyurcsány said: <em>"It's liberty or Orbán, the equation is that simple."</em> He added that individual liberties, the nation's preservation, and strengthening Europe are not mutually exclusive concepts, Orbán either lies or does not understand the world.</li>
+                        <li><strong>Jobbik</strong>'s parliamentary group leader Péter Jakab noted that the PM's quip about having a trowel in one hand and a sword in the other while building and defending his system at the same time is characteristic of his 9-year governance: he built a wall to isolate Hungarians in Europe and stabbed them in the back, pushing Hungary into Russia's embrace, making Hungary one of the poorest nations of Europe.</li>
+                        <li><strong>LMP </strong>noted that Orbán's speech completely omitted the topic of climate change, and called it "shocking" that Orbán presented the upcoming fifteen years as his own personal story.  </li>
+                        <li><strong>Momentum</strong>'s chairman András Fekete-Győr said that Orbán regularly uses his Tusványos speeches to dress up his 10-year-running thievery and that seemingly, Christian liberties only belong to Fidesz but not to the Hungarian scientific community, or the healthcare and education systems that are in tatters, or the Hungarian society that is in mental ruins. <em>"For Orbán, Christian liberty means liberty to steal."</em> According to Fekete-Győr, tonight's feature film will be about Orbán's fall and how he will live his life out as Putin's protectee.</li>
+                        <li><strong>MSZP</strong>'s MEP István Újhelyi said that Orbán, the former chairman of the Liberal International, tried to rationalise why he built a violent, thieving mafia state, but his murky ideological explanation could not hide the astounding riches of his friends and family. Their Budapest mayoral candidate, Párbeszéd's Gergely Karácsony added that while Orbán tried to fill the term "illiberal democracy" with content, he already did that by breaking down rule of law, equality, judicial independence, and fair elections.</li>
+                        </ul>
+<div class="nm_mini__wrapper">
+    <div class="nm_mini">
+        <div class="nm_mini__logo nm_mini__col">
+            <img src="https://index.hu/assets/images/nincs_masik/common/index_nincs_masik_logo.svg" width="118">
+        </div>
+        <div class="nm_mini__text nm_mini__col">
+            <p><strong>Support the independent media!</strong></p>
+            <p>The English section of Index is financed from donations.</p>
+        </div>
+        <div class="nm_mini__button nm_mini__col">
+            <a class="c-btn c-btn-color-primary" href="https://tamogatas.index.hu/tamogato-leszek/?utm_source=index.hu&utm_medium=donate_mini_en&utm_content=link&utm_campaign=donate" target="_blank">
+                <span class="c-btn_container">
+                    <span class="c-btn_container_text">Support Index</span>
+                </span>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+            <div class="social-stripe cikk-bottom-box">
+                <div class="index-social-box">
+    <a href="#" class="megosztas-gomb"></a>
+    <ul class="megosztas-doboz">
+        <li class="mail">
+            <a href="mailto:?subject=Index%20-%20Orb%C3%A1n%3A%20Individual%20freedoms%20can%20never%20encroach%20upon%20the%20interests%20of%20the%20majority&amp;body=https://index.hu/english/2019/07/27/viktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition/"></a>
+        </li>
+        <li class="twitter">
+            <a href="http://twitter.com/share?lang=hu&amp;via=indexhu&amp;text=Orb%C3%A1n%3A+Individual+freedoms+can+never+encroach+upon+the+interests+of+the+majority&amp;url=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F" target="_blank"></a>
+        </li>
+        <li class="tumblr">
+            <a href="http://www.tumblr.com/share/link?url=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F&amp;name=Orb%C3%A1n%3A+Individual+freedoms+can+never+encroach+upon+the+interests+of+the+majority&amp;description=%28via+%3Ca+href%3D%22http%3A%2F%2Findex.hu%2F%22%3EIndex%3C%2Fa%3E%29" target="_blank"></a>
+        </li>
+        <li class="viber">
+            <a href="viber://forward?text=https%3A%2F%2Findex.hu%2Fenglish%2F2019%2F07%2F27%2Fviktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition%2F" target="_blank"></a>
+        </li>
+    </ul>
+        <div class="fb-recommend">
+            <div class="pp_like">
+                <fb:like id="fb_like_bottom" action="recommend" layout="button_count" show_faces="false" href="https://index.hu/english/2019/07/27/viktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition/" />
+    
+                </div>
+        </div>
+</div>
+            </div>
+
+            <div class="cikk-bottom-text-ad">
+                            </div>
+                    </div>
+    </div>
+    <div class="cikk-vegi-ajanlo-reklamok-container">
+    <div class="container border cikk-vegi-ajanlo-reklamok">
+        <div class="hasab-1">
+<div class="rovat" id="rovatajanlo">
+        <h4 class="jsonrotater_header ajanlo_feed_fejlec" id="rovatenglish10143_header">
+            <a href="https://index.hu/english/">Ehhez a cikkhez ajánljuk</a>
+        </h4>
+    <div class="jsonrotater rovatajanlo" id="rovatenglish10143"  data-limit="50" data-renderer="rovatbol_feed" data-sorter="random" data-rowrenderer="kepes_leades_ajanlo" data-slicer="imagesFrontMixer" data-diffrenderer="rovatbol_feed" data-extra="cimlap5,mindekozben_besztof">
+        <div id="rovatenglishFallback" class="fallback"></div>
+    </div>
+</div>
+            <div class="hirdetes_container_bottom">
+            </div>
+        </div>
+        <div class="hasab-2">
+<div id="cross_site" class="box scrollbox scroll-left">
+
+                <iframe class="lazy" data-original="https://divany.hu/assets/static/ajanlok/divany.html?rovat=index_english" height="270"></iframe>
+                <iframe class="lazy" data-original="https://velvet.hu/assets/static/ajanlok/velvet.html?rovat=index_english" height="270"></iframe>
+</div>
+<div class="jsonrotater rovatajanlo bcs_ajanlo" id="rovatbcs9155"  data-limit="1" data-filter="bcs" data-renderer="cross_site" data-sorter="random" data-rowrenderer="bcs_ajanlo" data-slicer="image1stPlace">
+    <div id="rovatbcsFallback" class="fallback"></div>
+</div>
+    <div class="cross-site-programmatic-zones">
+    </div>
+
+    <div class="shopline-box">
+        <div class="shopline-header">
+            <a href="http://bookline.hu/?utm_source=index.hu&amp;utm_medium=termekajanlo&amp;utm_content=logo&amp;utm_campaign=index-termekajnalo-sortlista" class="logo" title="Bookline">Bookline</a>
+        </div>
+        <div class="shopline-ajanlo">
+            <div class="shopline-image cell">
+                <a href="https://bookline.hu/product/home.action?_v=3_5_8_perces_mesek_utazashoz_es_kalandoz&amp;type=22&amp;id=312289&amp;affiliate=indtrdntc17228&amp;utm_source=index.hu&amp;utm_medium=termekajanlo&amp;utm_content=3-5-8+perces+mes%C3%A9k+utaz%C3%A1shoz+%C3%A9s+kalandoz%C3%A1shoz&amp;utm_campaign=index-termekajnalo-sortlista">
+                    <img src="https://index.hu/assets/import/bookline/ID22-312289.JPG" class="ajanlo-kep" alt="">
+                </a>
+            </div>
+
+            <div class="ajanlo-content cell">
+                <div class="kedvezmeny">15%</div>
+
+                <div class="cim">
+                    <a href="https://bookline.hu/product/home.action?_v=3_5_8_perces_mesek_utazashoz_es_kalandoz&amp;type=22&amp;id=312289&amp;affiliate=indtrdntc17228&amp;utm_source=index.hu&amp;utm_medium=termekajanlo&amp;utm_content=3-5-8+perces+mes%C3%A9k+utaz%C3%A1shoz+%C3%A9s+kalandoz%C3%A1shoz&amp;utm_campaign=index-termekajnalo-sortlista">
+                                                3-5-8 perces mesék utazáshoz és kalandozáshoz                    </a>
+                </div>
+
+                <div class="arak">
+                                        <div class="regi-ar">2990 Ft</div>
+                                        <div class="uj-ar">2542 Ft</div>
+                </div>
+
+            </div>
+        </div>
+        <div class="shopline-ajanlo">
+            <div class="shopline-image cell">
+                <a href="https://bookline.hu/product/home.action?_v=Umberto_Eco_A_tegnap_szigete&amp;type=22&amp;id=313363&amp;affiliate=indtrdntc17228&amp;utm_source=index.hu&amp;utm_medium=termekajanlo&amp;utm_content=A+tegnap+szigete&amp;utm_campaign=index-termekajnalo-sortlista">
+                    <img src="https://index.hu/assets/import/bookline/ID22-313363.JPG" class="ajanlo-kep" alt="">
+                </a>
+            </div>
+
+            <div class="ajanlo-content cell">
+                <div class="kedvezmeny">15%</div>
+
+                <div class="cim">
+                    <a href="https://bookline.hu/product/home.action?_v=Umberto_Eco_A_tegnap_szigete&amp;type=22&amp;id=313363&amp;affiliate=indtrdntc17228&amp;utm_source=index.hu&amp;utm_medium=termekajanlo&amp;utm_content=A+tegnap+szigete&amp;utm_campaign=index-termekajnalo-sortlista">
+                        Umberto Eco                        A tegnap szigete                    </a>
+                </div>
+
+                <div class="arak">
+                                        <div class="regi-ar">4999 Ft</div>
+                                        <div class="uj-ar">4250 Ft</div>
+                </div>
+
+            </div>
+        </div>
+</div>
+<div class="m-otthonterkep-ajanlo">
+    <a href="http://otthonterkep.hu/?utm_source=index&amp;utm_medium=cikk_egyeb&amp;utm_campaign=ajanlo_banner_Gr" target="_blank" class="m-otthonterkep-ajanlo_header"></a>
+    <ul class="m-otthonterkep-ajanlo_card">
+        <li class="m-otthonterkep-ajanlo_card_item m-otthonterkep-ajanlo_card_heading">
+            <a href="http://otthonterkep.hu/lak%C3%B3park/ferencv%C3%A1ros+residence-3853750?utm_source=index&amp;utm_medium=cikk_egyeb&amp;utm_campaign=ajanlo_banner_Gr" target="_blank">Budapest, eladó egyéb</a>
+        </li>
+        <li class="m-otthonterkep-ajanlo_card_item m-otthonterkep-ajanlo_card_image">
+            <a href="http://otthonterkep.hu/lak%C3%B3park/ferencv%C3%A1ros+residence-3853750?utm_source=index&amp;utm_medium=cikk_egyeb&amp;utm_campaign=ajanlo_banner_Gr" style="background-image: url(https://kepek.otthonterkep.hu/lp/lak%C3%B3park/ferencv%C3%A1ros+residence-3853750/0.jpg?w=300&h=225&c=3853750_1563372870);" target="_blank" title="Budapest, eladó egyéb"></a>
+        </li>
+        <li class="m-otthonterkep-ajanlo_card_item m-otthonterkep-ajanlo_card_datas">
+            <span class="m-otthonterkep-ajanlo_card_data">
+                <span class="m-otthonterkep-ajanlo_card_data_title">Alapterület</span>
+                <span class="m-otthonterkep-ajanlo_card_data_value" title="Alapterület">&nbsp;m<sup>2</sup></span>
+            </span>
+            <span class="m-otthonterkep-ajanlo_card_data">
+                <span class="m-otthonterkep-ajanlo_card_data_title">Szobák</span>
+                <span class="m-otthonterkep-ajanlo_card_data_value" title="Szobák + félszobák száma">&nbsp;db</span>
+            </span>
+            <span class="m-otthonterkep-ajanlo_card_data">
+                <span class="m-otthonterkep-ajanlo_card_data_title">Vételár</span>
+                <span class="m-otthonterkep-ajanlo_card_data_value"></span>
+            </span>
+        </li>
+    </ul>
+    <ul class="m-otthonterkep-ajanlo_card">
+        <li class="m-otthonterkep-ajanlo_card_item m-otthonterkep-ajanlo_card_heading">
+            <a href="http://otthonterkep.hu/elad%C3%B3-h%C3%A1z-csal%C3%A1di/Budapest/j%C3%B3_%C3%A1llapot%C3%BA-g%C3%A1z_cirko-3474749?utm_source=index&amp;utm_medium=cikk_egyeb&amp;utm_campaign=ajanlo_banner_Gr" target="_blank">Budapest, eladó ház</a>
+        </li>
+        <li class="m-otthonterkep-ajanlo_card_item m-otthonterkep-ajanlo_card_image">
+            <a href="http://otthonterkep.hu/elad%C3%B3-h%C3%A1z-csal%C3%A1di/Budapest/j%C3%B3_%C3%A1llapot%C3%BA-g%C3%A1z_cirko-3474749?utm_source=index&amp;utm_medium=cikk_egyeb&amp;utm_campaign=ajanlo_banner_Gr" style="background-image: url(https://kepek.otthonterkep.hu/d/elad%C3%B3-h%C3%A1z-csal%C3%A1di/Budapest/j%C3%B3_%C3%A1llapot%C3%BA-g%C3%A1z_cirko-3474749/1.jpg?w=300&h=225&c=3474749_1557142478);" target="_blank" title="Budapest, eladó ház"></a>
+        </li>
+        <li class="m-otthonterkep-ajanlo_card_item m-otthonterkep-ajanlo_card_datas">
+            <span class="m-otthonterkep-ajanlo_card_data">
+                <span class="m-otthonterkep-ajanlo_card_data_title">Alapterület</span>
+                <span class="m-otthonterkep-ajanlo_card_data_value" title="Alapterület">177&nbsp;m<sup>2</sup></span>
+            </span>
+            <span class="m-otthonterkep-ajanlo_card_data">
+                <span class="m-otthonterkep-ajanlo_card_data_title">Szobák</span>
+                <span class="m-otthonterkep-ajanlo_card_data_value" title="Szobák + félszobák száma">5+2&nbsp;db</span>
+            </span>
+            <span class="m-otthonterkep-ajanlo_card_data">
+                <span class="m-otthonterkep-ajanlo_card_data_title">Vételár</span>
+                <span class="m-otthonterkep-ajanlo_card_data_value">89,8 M Ft</span>
+            </span>
+        </li>
+    </ul>
+</div>
+        </div>
+    </div>
+</div>
+</div>
+<footer class="m-page-footer">
+    <div class="container m-page-footer_container">
+        <ul class="m-page-footer_container_list">
+                <li class="m-page-footer_container_list_item hasText">
+                        <span class="m-page-footer_container_list_item_text">&copy; 1999-2019 <span>Index.hu</span> Zrt.</span>
+                </li>
+                <li class="m-page-footer_container_list_item hasLink">
+                        <a class="m-page-footer_container_list_item_link" href="https://dex.hu/x?f=https%3A%2F%2Findex.hu%2Fimpresszum%2F">Impresszum</a>
+                </li>
+                <li class="m-page-footer_container_list_item hasLink">
+                        <a class="m-page-footer_container_list_item_link" href="https://dex.hu/x?f=https%3A%2F%2Fajanlat.indamediasales.hu%2Fajanlatok%2FIndamedia_Sales_Index_altalanos_mediaajanlat.pdf">Médiaajánlat</a>
+                </li>
+                <li class="m-page-footer_container_list_item hasLink">
+                        <a class="m-page-footer_container_list_item_link" href="https://dex.hu/x?f=https%3A%2F%2Findex.hu%2Fcopyright%2F">Szerzői jogok</a>
+                </li>
+                <li class="m-page-footer_container_list_item hasLink">
+                        <a class="m-page-footer_container_list_item_link" href="https://dex.hu/x?f=https%3A%2F%2Findex.hu%2Fadatvedelem%2F">Adatvédelmi elvek</a>
+                </li>
+                <li class="m-page-footer_container_list_item hasLink">
+                        <a class="m-page-footer_container_list_item_link" href="https://dex.hu/x?f=https%3A%2F%2Findex.hu%2Fsutiszabalyzat%2F">Süti szabályzat</a>
+                </li>
+                <li class="m-page-footer_container_list_item hasLink">
+                        <a class="m-page-footer_container_list_item_link" href="https://dex.hu/x?f=https%3A%2F%2Findex.hu%2F24ora%2Frss%2F">RSS</a>
+                </li>
+                <li class="m-page-footer_container_list_item hasLink">
+                        <a class="m-page-footer_container_list_item_link" href="https://dex.hu/x?f=https%3A%2F%2Findex.hu%2Finfo%2Fallas%2F">Állás</a>
+                </li>
+                <li class="m-page-footer_container_list_item hasLink">
+                        <a class="m-page-footer_container_list_item_link" href="https://dex.hu/x?f=https%3A%2F%2Fajanlat.indamediasales.hu%2Fmarkabiztonsag%2FIndamedia_Sales_Markabiztonsagi_nyilatkozat.pdf">Márkabiztonság</a>
+                </li>
+        </ul>
+    </div>
+</footer>
+
+    <div class="layout_watcher phone"></div>
+    <div class="layout_watcher portrait-tablet"></div>
+    <div class="layout_watcher landscape-tablet"></div>
+    <div class="layout_watcher desktop"></div>
+    <script>/*<![CDATA[*/
+  PopupImage.register( "szerkfoto_image_28797701", {"x":{"key":"x","width":1300,"height":866,"filesize":368887,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_x.jpg"},"t":{"key":"t","width":1200,"height":799,"filesize":320214,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_t.jpg"},"q":{"key":"q","width":1120,"height":746,"filesize":286131,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_q.jpg"},"m":{"key":"m","width":1000,"height":666,"filesize":237152,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_m.jpg"},"bpc":{"key":"bpc","width":976,"height":650,"filesize":228078,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_bpc.jpg"},"l":{"key":"l","width":940,"height":626,"filesize":214960,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_l.jpg"},"k":{"key":"k","width":870,"height":580,"filesize":188601,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_k.jpg"},"j":{"key":"j","width":840,"height":560,"filesize":177054,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_j.jpg"},"h":{"key":"h","width":750,"height":500,"filesize":147859,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_h.jpg"},"g":{"key":"g","width":700,"height":466,"filesize":132464,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_g.jpg"},"f":{"key":"f","width":610,"height":406,"filesize":105999,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_f.jpg"},"d":{"key":"d","width":490,"height":326,"filesize":75125,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_d.jpg"},"c":{"key":"c","width":400,"height":266,"filesize":54817,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_c.jpg"},"b":{"key":"b","width":310,"height":207,"filesize":37072,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_b.jpg"},"xs":{"key":"xs","width":75,"height":75,"filesize":2500,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797703_d47cf0e7f1e09d11334fb86241b4aa39_xs.jpg"}} );
+  PopupImage.register( "szerkfoto_image_28797709", {"x":{"key":"x","width":1300,"height":869,"filesize":540418,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_x.jpg"},"t":{"key":"t","width":1200,"height":802,"filesize":466661,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_t.jpg"},"q":{"key":"q","width":1120,"height":749,"filesize":417683,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_q.jpg"},"m":{"key":"m","width":1000,"height":668,"filesize":348469,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_m.jpg"},"bpc":{"key":"bpc","width":976,"height":652,"filesize":335584,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_bpc.jpg"},"l":{"key":"l","width":940,"height":628,"filesize":317338,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_l.jpg"},"k":{"key":"k","width":870,"height":582,"filesize":280124,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_k.jpg"},"j":{"key":"j","width":840,"height":562,"filesize":265695,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_j.jpg"},"h":{"key":"h","width":750,"height":501,"filesize":222073,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_h.jpg"},"g":{"key":"g","width":700,"height":468,"filesize":199951,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_g.jpg"},"f":{"key":"f","width":610,"height":408,"filesize":160167,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_f.jpg"},"d":{"key":"d","width":490,"height":328,"filesize":112799,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_d.jpg"},"c":{"key":"c","width":400,"height":267,"filesize":82346,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_c.jpg"},"b":{"key":"b","width":310,"height":207,"filesize":54427,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_b.jpg"},"xs":{"key":"xs","width":75,"height":75,"filesize":3087,"url":"https:\/\/kep.index.hu\/1\/0\/2879\/28797\/287977\/28797711_5f10ffba09fe441fbbfecb340f945894_xs.jpg"}} );
+    /*]]>*/</script>
+    <script>
+        var bodyContent = '';
+        $emailAdress = 'bla';
+                    bodyContent = 'Levelet szeretnél küldeni a(z) <strong><a href="mailto:{emailAddress}" target="_blank" class="email">{emailShow}</a></strong> címre! Fontos vagy nekünk, ezért az adataidra is nagyon vigyázunk, ahogy <a href="https://index.hu/adatvedelem" target="_blank">adatvédelmi tájékoztatónkban</a> részletezzük is. Ha neked is oké, kattints az Ok gombra.';
+        
+        $(document).ready(function() {
+            $('a.email').on('click', function(e) {
+
+                e.preventDefault();
+
+                if (
+                    // Csak akkor jelenítjük meg a modal ablakot, ha ezeknek a feltételeknek valamelyike teljesül
+                    $(this).hasClass('irok_neki') ||               // Ha írok neki típusú a link vagy
+                    $(this).attr('href').indexOf('mailto:') !== -1  // van mailto link a href-ben
+                ) {
+
+                    var emailAddress = $(this).attr('href')
+                        .replace('mailto:', '')
+                        .replace('NEMSPA_M.', '');
+
+                    var emailShow = emailAddress.match(/([a-zA-Z0-9._+-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/)[0];
+
+                    var mailtoModal = new vModal({
+                        title: 'Adatvédelmi tájékoztatás',
+                        body: bodyContent.replace(/{emailAddress}/gi, emailAddress).replace(/{emailShow}/g, emailShow),
+                        buttons: {
+                            more: 'Vissza',
+                            confirm: 'OK'
+                        },
+                        className: 'vanilla_modal--basic',
+                        events: {
+                            confirm: function() {
+                                //chrome miatt kell új lapon megnyitni, különben nem működik!
+                                window.open('mailto:' + emailAddress, '_blank');
+                            }
+                        }
+                    });
+
+                    mailtoModal.open();
+
+                }
+
+            });
+
+        });
+    </script>
+        <script type="text/javascript">
+            <!--//--><![CDATA[//><!--
+            var pp_gemius_identifier = pp_gemius_original_identifier = new String('nXc1Nrb4OWrK5TaEdO9S_qQ_XhwGdu8wzBp8q6W8fHP.G7'); <!-- egyéb -->
+            //--><!]]>
+        </script>
+        <script type="text/javascript">
+            <!--//--><![CDATA[//><!--
+            function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+            gemius_pending('gemius_hit'); gemius_pending('gemius_event');
+            gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+
+            (function(d,t) {try {
+            var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':'');
+            gt.setAttribute('async','async');
+            gt.setAttribute('defer','defer');
+            gt.src=l+'://gahu.hit.gemius.pl/xgemius.js';
+            s.parentNode.insertBefore(gt,s);}
+            catch (e) {}})(document,'script');
+            //--><!]]>
+        </script>
+        <script type="text/javascript">
+            var gemABObj = {
+                docBody: document.getElementsByTagName('body')[0],
+                incScript: document.createElement('SCRIPT'),
+                checkIt: function(){document.getElementById("mnxHDozyKPjB")?pp_gemius_hit("nSdFzTtkvTTrx.B7K13yyfU378aFPueKFs36aeS6yET.A7","addon=no-adblock"):pp_gemius_hit("nSzrCTsGCKuF9KNE6iWTitVrzbu1Eg8GQHsHaml5W8n.b7","addon=adblock")}
+            };
+            gemABObj.incScript.src = '//indexhu.adocean.pl/files/x/mof/ghshscq/xajkevmjdv/ads.js';
+            gemABObj.docBody.appendChild(gemABObj.incScript);
+
+            window.addEventListener("load",gemABObj.checkIt);
+        </script>
+        <script type="application/ld+json">
+        {"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":"https:\/\/index.hu\/english\/2019\/07\/27\/viktor_orban_hungary_tusvanyos_illiberal_liberal_national_transition\/","publisher":{"@type":"Organization","name":"Index","logo":{"@type":"ImageObject","url":"https:\/\/index.hu\/assets\/images\/facebook_index_logo.png"}},"author":{"@type":"Person","name":"Kov\u00e1cs Zolt\u00e1n"},"headline":"Orb\u00e1n: Individual freedoms can never encroach upon the interests of the majority","datePublished":"2019-07-27","dateModified":"2019-07-27","description":"Orb\u00e1n: Individual freedoms can never encroach upon the interests of the majority - At Fidesz's Tusv\u00e1nyos festival, Hungarian PM Viktor Orb\u00e1n explained the ins and outs of his illiberal system.","image":"https:\/\/kep.cdn.index.hu\/1\/0\/2879\/28797\/287976\/28797679_2208687_5b316d44718d692c08b77938d130a58e_wm.jpg"}        </script>
+</body>
+</html>

@@ -1,0 +1,369 @@
+<!DOCTYPE html><html class="no-js" lang="en-US"><head><meta charset="UTF-8"><link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.2.2/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' /><link rel='stylesheet' id='social-logos-css'  href='https://c0.wp.com/p/jetpack/7.5.3/_inc/social-logos/social-logos.min.css' type='text/css' media='all' /><link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/7.5.3/css/jetpack.css' type='text/css' media='all' /><link data-optimized='2' rel='stylesheet' href='https://btnews.online/min/bfdd3.css' /><script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script><script type='text/javascript' src='https://c0.wp.com/c/5.2.2/wp-includes/js/jquery/jquery-migrate.min.js' defer data-deferred="1"></script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script><script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script><script data-optimized='1' src='https://btnews.online/min/27162.js' defer></script> <meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="profile" href="https://gmpg.org/xfn/11" /><link rel="pingback" href="https://btnews.online/xmlrpc.php"><link rel="manifest" href="/superpwa-manifest.json"><meta name="theme-color" content="#029ed9"><link rel="apple-touch-icon" sizes="192x192" href="https://btnews.online/wp-content/uploads/2018/05/192.fw_.png"><link rel="apple-touch-icon" sizes="512x512" href="https://btnews.online/wp-content/uploads/2018/05/btnews-512x512.fw_.png"><title>Iraq: Israeli fighter jets target Iranian ballistic missile launchers &#8211; BtNews.Online</title><meta name="google-site-verification" content="ZCDFdzvgo8rUTx1r6vv_pOX_FIUUX35GXJosAuXeOf4" /><meta name="msvalidate.01" content="104B5ED8C8B0419860056DCF6FB97994" /> <script>document.documentElement.className=document.documentElement.className.replace("no-js","js");</script> <link rel='dns-prefetch' href='//s0.wp.com' /><link rel='dns-prefetch' href='//s.w.org' /><link rel='dns-prefetch' href='//googleads.g.doubleclick.net' /><link rel='dns-prefetch' href='//ams.creativecdn.com' /><link rel='dns-prefetch' href='//widgets.wp.com' /><link rel='dns-prefetch' href='//platform.twitter.com' /><link rel='dns-prefetch' href='//facebook.com' /><link rel="alternate" type="application/rss+xml" title="BtNews.Online &raquo; Feed" href="https://btnews.online/feed/" /><link rel="alternate" type="application/rss+xml" title="BtNews.Online &raquo; Comments Feed" href="https://btnews.online/comments/feed/" /><link rel="alternate" type="application/rss+xml" title="BtNews.Online &raquo; Iraq: Israeli fighter jets target Iranian ballistic missile launchers Comments Feed" href="https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/feed/" /> <script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/btnews.online\/wp-includes\/js\/wp-emoji-release.min.js"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script> <style type="text/css">img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0 .07em !important;vertical-align:-.1em !important;background:0 0 !important;padding:0 !important}</style><style id='spacexchimp_p005-frontend-css-inline-css' type='text/css'>.sxc-follow-buttons{text-align:center !important}.sxc-follow-buttons .sxc-follow-button,.sxc-follow-buttons .sxc-follow-button a,.sxc-follow-buttons .sxc-follow-button a img{width:64px !important;height:64px !important}.sxc-follow-buttons .sxc-follow-button{margin:5px !important}</style><style id='hueman-main-style-inline-css' type='text/css'>body{font-family:Verdana,sans-serif;font-size:1rem}@media only screen and (min-width:720px){.nav>li{font-size:1rem}}::selection{background-color:#029ed9}::-moz-selection{background-color:#029ed9}a,a+span.hu-external:after,.themeform label .required,#flexslider-featured .flex-direction-nav .flex-next:hover,#flexslider-featured .flex-direction-nav .flex-prev:hover,.post-hover:hover .post-title a,.post-title a:hover,.sidebar.s1 .post-nav li a:hover i,.content .post-nav li a:hover i,.post-related a:hover,.sidebar.s1 .widget_rss ul li a,#footer .widget_rss ul li a,.sidebar.s1 .widget_calendar a,#footer .widget_calendar a,.sidebar.s1 .alx-tab .tab-item-category a,.sidebar.s1 .alx-posts .post-item-category a,.sidebar.s1 .alx-tab li:hover .tab-item-title a,.sidebar.s1 .alx-tab li:hover .tab-item-comment a,.sidebar.s1 .alx-posts li:hover .post-item-title a,#footer .alx-tab .tab-item-category a,#footer .alx-posts .post-item-category a,#footer .alx-tab li:hover .tab-item-title a,#footer .alx-tab li:hover .tab-item-comment a,#footer .alx-posts li:hover .post-item-title a,.comment-tabs li.active a,.comment-awaiting-moderation,.child-menu a:hover,.child-menu .current_page_item>a,.wp-pagenavi a{color:#029ed9}.themeform input[type=submit],.themeform button[type=submit],.sidebar.s1 .sidebar-top,.sidebar.s1 .sidebar-toggle,#flexslider-featured .flex-control-nav li a.flex-active,.post-tags a:hover,.sidebar.s1 .widget_calendar caption,#footer .widget_calendar caption,.author-bio .bio-avatar:after,.commentlist li.bypostauthor>.comment-body:after,.commentlist li.comment-author-admin>.comment-body:after{background-color:#029ed9}.post-format .format-container{border-color:#029ed9}.sidebar.s1 .alx-tabs-nav li.active a,#footer .alx-tabs-nav li.active a,.comment-tabs li.active a,.wp-pagenavi a:hover,.wp-pagenavi a:active,.wp-pagenavi span.current{border-bottom-color:#029ed9!important}.sidebar.s2 .post-nav li a:hover i,.sidebar.s2 .widget_rss ul li a,.sidebar.s2 .widget_calendar a,.sidebar.s2 .alx-tab .tab-item-category a,.sidebar.s2 .alx-posts .post-item-category a,.sidebar.s2 .alx-tab li:hover .tab-item-title a,.sidebar.s2 .alx-tab li:hover .tab-item-comment a,.sidebar.s2 .alx-posts li:hover .post-item-title a{color:#029ed9}.sidebar.s2 .sidebar-top,.sidebar.s2 .sidebar-toggle,.post-comments,.jp-play-bar,.jp-volume-bar-value,.sidebar.s2 .widget_calendar caption{background-color:#029ed9}.sidebar.s2 .alx-tabs-nav li.active a{border-bottom-color:#029ed9}.post-comments:before{border-right-color:#029ed9}.search-expand,#nav-topbar.nav-container{background-color:#fff}@media only screen and (min-width:720px){#nav-topbar .nav ul{background-color:#fff}}.is-scrolled #header .nav-container.desktop-sticky,.is-scrolled #header .search-expand{background-color:#fff;background-color:rgba(255,255,255,.9)}.is-scrolled .topbar-transparent #nav-topbar.desktop-sticky .nav ul{background-color:#fff;background-color:rgba(255,255,255,.95)}#header{background-color:#fff}@media only screen and (min-width:720px){#nav-header .nav ul{background-color:#fff}}#header #nav-mobile{background-color:#33363b}.is-scrolled #header #nav-mobile{background-color:#33363b;background-color:rgba(51,54,59,.9)}#nav-header.nav-container,#main-header-search .search-expand{background-color:#2380c6}@media only screen and (min-width:720px){#nav-header .nav ul{background-color:#2380c6}}#footer-bottom{background-color:#fff}body{background-color:#fff}</style> <script>if(document.location.protocol!="https:"){document.location=document.URL.replace(/^http:/i,"https:");}</script> <link rel='https://api.w.org/' href='https://btnews.online/wp-json/' /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://btnews.online/xmlrpc.php?rsd" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://btnews.online/wp-includes/wlwmanifest.xml" /><link rel='prev' title='Israel thwarts attempt to smuggle dual-use equipment into Gaza' href='https://btnews.online/israel-thwarts-attempt-to-smuggle-dual-use-equipment-into-gaza/' /><link rel='next' title='Jerusalem: 2 policemen injured during a counter-terrorism operation in Issawiya' href='https://btnews.online/jerusalem-2-policemen-injured-during-a-counter-terrorism-operation-in-issawiya/' /><meta name="generator" content="WordPress 5.2.2" /><link rel="canonical" href="https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/" /><link rel='shortlink' href='https://wp.me/p9XqAk-shX' /><link rel="alternate" type="application/json+oembed" href="https://btnews.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F" /><link rel="alternate" type="text/xml+oembed" href="https://btnews.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F&#038;format=xml" /><meta property="fb:app_id" content="1935469653193092" /> <script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-3777905424589557",enable_page_level_ads:true});</script> <script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-3777905424589557",enable_page_level_ads:true});</script> <style>.async-hide{opacity:0 !important}</style> <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;})(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-M62TPZJ':true});</script> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-120267031-1','auto');ga('require','GTM-M62TPZJ');ga('send','pageview');</script> <?php wp_head(); ?> <script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-3777905424589557",enable_page_level_ads:true});</script> <script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-3777905424589557",enable_page_level_ads:true});</script> <script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-3777905424589557",enable_page_level_ads:true});</script> <amp-auto-ads type="adsense"
+data-ad-client="ca-pub-3777905424589557">
+</amp-auto-ads><link rel='dns-prefetch' href='//v0.wordpress.com'/><link rel='dns-prefetch' href='//i0.wp.com'/><link rel='dns-prefetch' href='//i1.wp.com'/><link rel='dns-prefetch' href='//i2.wp.com'/><link rel='dns-prefetch' href='//c0.wp.com'/><style type='text/css'>img#wpstats{display:none}</style><!--[if lt IE 9]> <script src="https://btnews.online/wp-content/themes/hueman/assets/front/js/ie/html5shiv-printshiv.min.js"></script> <script src="https://btnews.online/wp-content/themes/hueman/assets/front/js/ie/selectivizr.js"></script> <![endif]--><meta name="onesignal" content="wordpress-plugin"/><link rel="manifest"
+href="https://btnews.online/superpwa-manifest.json"/> <script>window.OneSignal=window.OneSignal||[];OneSignal.push(function(){OneSignal.SERVICE_WORKER_UPDATER_PATH="OneSignalSDKUpdaterWorker.js.php";OneSignal.SERVICE_WORKER_PATH="OneSignalSDKWorker.js.php";OneSignal.SERVICE_WORKER_PARAM={scope:'/'};OneSignal.setDefaultNotificationUrl("https://btnews.online");var oneSignal_options={};window._oneSignalInitOptions=oneSignal_options;oneSignal_options['wordpress']=true;oneSignal_options['appId']='c07e4817-e696-4658-8fef-6ba5814d734f';oneSignal_options['autoRegister']=true;oneSignal_options['welcomeNotification']={};oneSignal_options['welcomeNotification']['title']="Behind the News";oneSignal_options['welcomeNotification']['message']="";oneSignal_options['path']="https://btnews.online/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";oneSignal_options['promptOptions']={};oneSignal_options['promptOptions']['acceptButtonText']='SURE!';oneSignal_options['promptOptions']['siteName']='Behind the News';oneSignal_options['notifyButton']={};oneSignal_options['notifyButton']['enable']=true;oneSignal_options['notifyButton']['position']='bottom-right';oneSignal_options['notifyButton']['theme']='inverse';oneSignal_options['notifyButton']['size']='large';oneSignal_options['notifyButton']['prenotify']=true;oneSignal_options['notifyButton']['showCredit']=false;oneSignal_options['notifyButton']['text']={};oneSignal_options['notifyButton']['text']['message.prenotify']='Be the first to know';oneSignal_options['notifyButton']['text']['tip.state.unsubscribed']='Be the first to know';oneSignal_options['notifyButton']['text']['tip.state.subscribed']='You&#039;re subscribed to Behind the News';oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe']='Be the first to know';oneSignal_options['notifyButton']['colors']={};oneSignal_options['notifyButton']['colors']['circle.background']='#00BFFF';oneSignal_options['notifyButton']['colors']['circle.foreground']='#1065B0';oneSignal_options['notifyButton']['colors']['badge.background']='#00BFFF';oneSignal_options['notifyButton']['colors']['badge.foreground']='#1065B0';oneSignal_options['notifyButton']['colors']['badge.bordercolor']='#1065B0';oneSignal_options['notifyButton']['colors']['pulse.color']='#1065B0';oneSignal_options['notifyButton']['colors']['dialog.button.background']='#00BFFF';oneSignal_options['notifyButton']['colors']['dialog.button.background.hovering']='#00BFFF';oneSignal_options['notifyButton']['colors']['dialog.button.background.active']='#00BFFF';oneSignal_options['notifyButton']['colors']['dialog.button.foreground']='#00BFFF';oneSignal_options['notifyButton']['offset']={};oneSignal_options['notifyButton']['offset']['bottom']='20px';oneSignal_options['autoRegister']=false;OneSignal.showHttpPrompt();OneSignal.init(window._oneSignalInitOptions);});function documentInitOneSignal(){var oneSignal_elements=document.getElementsByClassName("OneSignal-prompt");var oneSignalLinkClickHandler=function(event){OneSignal.push(['registerForPushNotifications']);event.preventDefault();};for(var i=0;i<oneSignal_elements.length;i++)
+oneSignal_elements[i].addEventListener('click',oneSignalLinkClickHandler,false);}
+if(document.readyState==='complete'){documentInitOneSignal();}
+else{window.addEventListener("load",function(event){documentInitOneSignal();});}</script> <link rel="amphtml" href="https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/amp/"><meta property="og:type" content="article" /><meta property="og:title" content="Iraq: Israeli fighter jets target Iranian ballistic missile launchers" /><meta property="og:url" content="https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/" /><meta property="og:description" content="BREAKING: Initial reports of alleged Israeli airstrikes taking place at an underground weapon warehouse at the Ashraf base near al-Azim area in northern Diyala, Iraq. Reports suggest that at least …" /><meta property="article:published_time" content="2019-07-28T21:04:14+00:00" /><meta property="article:modified_time" content="2019-07-28T21:14:24+00:00" /><meta property="og:site_name" content="BtNews.Online" /><meta property="og:image" content="https://i1.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers-2.jpg?fit=520%2C245&amp;ssl=1" /><meta property="og:image:width" content="520" /><meta property="og:image:height" content="245" /><meta property="og:locale" content="en_US" /><meta name="twitter:creator" content="@Behind__News" /><meta name="twitter:site" content="@Behind__News" /><meta name="twitter:text:title" content="Iraq: Israeli fighter jets target Iranian ballistic missile launchers" /><meta name="twitter:image" content="https://i1.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers-2.jpg?fit=520%2C245&#038;ssl=1&#038;w=640" /><meta name="twitter:card" content="summary_large_image" /><link rel="icon" href="https://i2.wp.com/btnews.online/wp-content/uploads/2019/07/last-icon.fw_.png?fit=32%2C32&#038;ssl=1" sizes="32x32" /><link rel="icon" href="https://i2.wp.com/btnews.online/wp-content/uploads/2019/07/last-icon.fw_.png?fit=192%2C192&#038;ssl=1" sizes="192x192" /><link rel="apple-touch-icon-precomposed" href="https://i2.wp.com/btnews.online/wp-content/uploads/2019/07/last-icon.fw_.png?fit=180%2C180&#038;ssl=1" /><meta name="msapplication-TileImage" content="https://i2.wp.com/btnews.online/wp-content/uploads/2019/07/last-icon.fw_.png?fit=270%2C270&#038;ssl=1" /> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-120267031-1','auto');ga('send','pageview');</script> </head><body data-rsssl=1 class="post-template-default single single-post postid-108745 single-format-image wp-embed-responsive wpusb-position-fixed-active col-3cm boxed ie"><div id="wrapper"><header id="header" class="specific-mobile-menu-on one-mobile-menu mobile_menu header-ads-desktop header-ads-mobile topbar-transparent has-header-img"><nav class="nav-container group mobile-menu  no-menu-assigned" id="nav-mobile" data-menu-id="header-1"><div class="mobile-title-logo-in-header"></div><div class="ham__navbar-toggler-two collapsed" title="Menu" aria-expanded="false"><div class="ham__navbar-span-wrapper">
+<span class="line line-1"></span>
+<span class="line line-2"></span>
+<span class="line line-3"></span></div></div><div class="nav-text"></div><div class="nav-wrap container"><ul class="nav container-inner group mobile-search"><li><form method="get" class="searchform themeform" action="https://btnews.online/"><div>
+<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='To search type and hit enter';" onfocus="if(this.value=='To search type and hit enter')this.value='';" value="To search type and hit enter" /></div></form></li></ul><ul id="menu-home" class="nav container-inner group"><li id="menu-item-83360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83360"><a href="https://www.btnews.online/">Home</a></li><li id="menu-item-83357" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-83357"><a href="https://btnews.online/category/israel/">Israel</a></li><li id="menu-item-83358" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-83358"><a href="https://btnews.online/category/middle-east/">Middle East</a></li><li id="menu-item-83355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83355"><a href="https://btnews.online/category/europe/">Europe</a></li><li id="menu-item-83356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83356"><a href="https://btnews.online/category/global-agenda/">Global Agenda</a></li><li id="menu-item-83359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83359"><a href="https://btnews.online/category/us-canada/">US &#038; Canada</a></li><li id="menu-item-98497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98497"><a href="https://thejewishcollectivehome.wordpress.com">The Jewish Collective</a></li></ul></div></nav><div class="container group"><div class="container-inner"><div id="header-image-wrap"><div class="group pad central-header-zone"><div class="logo-tagline-group"></div><div id="header-widgets"><div id="text-35" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="5163573213"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div></div></div><a href="https://btnews.online/" rel="home"><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://btnews.online/wp-content/uploads/2019/02/cropped-btnews.jpgnm_.fw_.png" width="512" height="104" alt="BtNews.Online" class="site-image" data-srcset="https://i0.wp.com/btnews.online/wp-content/uploads/2019/02/cropped-btnews.jpgnm_.fw_.png?w=512&amp;ssl=1 512w, https://i0.wp.com/btnews.online/wp-content/uploads/2019/02/cropped-btnews.jpgnm_.fw_.png?resize=300%2C61&amp;ssl=1 300w, https://i0.wp.com/btnews.online/wp-content/uploads/2019/02/cropped-btnews.jpgnm_.fw_.png?resize=768%2C156&amp;ssl=1 768w, https://i0.wp.com/btnews.online/wp-content/uploads/2019/02/cropped-btnews.jpgnm_.fw_.png?resize=1024%2C208&amp;ssl=1 1024w" data-sizes="(max-width: 512px) 100vw, 512px" /><noscript><img src="https://btnews.online/wp-content/uploads/2019/02/cropped-btnews.jpgnm_.fw_.png" width="512" height="104" alt="BtNews.Online" class="site-image" srcset="https://i0.wp.com/btnews.online/wp-content/uploads/2019/02/cropped-btnews.jpgnm_.fw_.png?w=512&amp;ssl=1 512w, https://i0.wp.com/btnews.online/wp-content/uploads/2019/02/cropped-btnews.jpgnm_.fw_.png?resize=300%2C61&amp;ssl=1 300w, https://i0.wp.com/btnews.online/wp-content/uploads/2019/02/cropped-btnews.jpgnm_.fw_.png?resize=768%2C156&amp;ssl=1 768w, https://i0.wp.com/btnews.online/wp-content/uploads/2019/02/cropped-btnews.jpgnm_.fw_.png?resize=1024%2C208&amp;ssl=1 1024w" sizes="(max-width: 512px) 100vw, 512px" /></noscript></a></div><nav class="nav-container group desktop-menu " id="nav-header" data-menu-id="header-2"><div class="nav-text"></div><div class="nav-wrap container"><div id="main-header-search" class="container"><div class="container-inner"><div class="toggle-search"><i class="fas fa-search"></i></div><div class="search-expand"><div class="search-expand-inner"><form method="get" class="searchform themeform" action="https://btnews.online/"><div>
+<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='To search type and hit enter';" onfocus="if(this.value=='To search type and hit enter')this.value='';" value="To search type and hit enter" /></div></form></div></div></div></div><ul id="menu-home-1" class="nav container-inner group"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83360"><a href="https://www.btnews.online/">Home</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-83357"><a href="https://btnews.online/category/israel/">Israel</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-83358"><a href="https://btnews.online/category/middle-east/">Middle East</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83355"><a href="https://btnews.online/category/europe/">Europe</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83356"><a href="https://btnews.online/category/global-agenda/">Global Agenda</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83359"><a href="https://btnews.online/category/us-canada/">US &#038; Canada</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98497"><a href="https://thejewishcollectivehome.wordpress.com">The Jewish Collective</a></li></ul></div></nav></div></div></header><div class="container" id="page"><div class="container-inner"><div class="main"><div class="main-inner group"><section class="content"><div class="page-title pad group"><ul class="meta-single group"><li class="category"><a href="https://btnews.online/category/breaking-news/" rel="category tag">Breaking News</a> <span>/</span> <a href="https://btnews.online/category/israel/" rel="category tag">Israel</a> <span>/</span> <a href="https://btnews.online/category/middle-east/" rel="category tag">Middle East</a></li></ul></div><div class="pad group"><article class="post-108745 post type-post status-publish format-image has-post-thumbnail hentry category-breaking-news category-israel category-middle-east post_format-post-format-image"><div class="post-inner group"><h1 class="post-title entry-title">Iraq: Israeli fighter jets target Iranian ballistic missile launchers</h1><p class="post-byline">
+by   <span class="vcard author">
+<span class="fn"><a href="https://btnews.online/author/btnewsil/" title="Posts by BtNews" rel="author">BtNews</a></span>
+</span>
+&middot;
+<span class="published">July 28, 2019</span></p><div class="post-format"><div class="image-container">
+<img  width="520" height="245"  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i1.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers-2.jpg?resize=520%2C245&amp;ssl=1"  class="attachment-thumb-large size-thumb-large wp-post-image" alt="" data-srcset="https://i1.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers-2.jpg?w=520&amp;ssl=1 520w, https://i1.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers-2.jpg?resize=300%2C141&amp;ssl=1 300w" data-sizes="(max-width: 520px) 100vw, 520px" data-attachment-id="108747" data-permalink="https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers-2/" data-orig-file="https://i1.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers-2.jpg?fit=520%2C245&amp;ssl=1" data-orig-size="520,245" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Iraq Israeli fighter jets target Iranian ballistic missile launchers (2)" data-image-description="&lt;p&gt;Iraq Israeli fighter jets target Iranian ballistic missile launchers&lt;/p&gt;
+" data-medium-file="https://i1.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers-2.jpg?fit=300%2C141&amp;ssl=1" data-large-file="https://i1.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers-2.jpg?fit=520%2C245&amp;ssl=1" /><div class="image-caption">Iraq Israeli fighter jets target Iranian ballistic missile launchers</div></div></div><div class="clear"></div><div class="entry themeform"><div class="entry-inner"><div class="wpusb wpusb-square-plus  "
+id="wpusb-container-square-plus"
+data-element-url="https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F"
+data-element-title="Iraq%3A%20Israeli%20fighter%20jets%20target%20Iranian%20ballistic%20missile%20launchers"
+data-attr-reference="108745"
+data-attr-nonce="4b039b7b7c"
+data-is-term="0"
+data-wpusb-component="counter-social-share"
+data-element="wpusb-fixed-top"><div class="wpusb-item wpusb-total-share wpusb-hide"><div class="wpusb-shares-count" data-element="total-share"></div><div class="wpusb-shares-text" data-title="Shares"></div>
+<span class="wpusb-pipe" data-pipe="&#x0007C;"></span></div><div class="wpusb-item wpusb-facebook " data-referrer="facebook" data-ref-title="Share"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F" target="_blank"
+class="wpusb-link wpusb-btn "
+title="Share on Facebook"
+rel="nofollow"
+data-action="open-popup"
+><i class="wpusb-icon-facebook-square-plus "></i>
+</a></div><div class="wpusb-item wpusb-twitter " data-referrer="twitter" data-ref-title="Tweet"><a href="https://twitter.com/share?url=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F&text=via @BtNewsOnline @TodayTjc @Behind__News&via=Behind__News" target="_blank"
+class="wpusb-link wpusb-btn "
+title="Tweet"
+rel="nofollow"
+data-action="open-popup"
+><i class="wpusb-icon-twitter-square-plus "></i>
+</a></div><div class="wpusb-item wpusb-whatsapp " data-referrer="whatsapp" data-ref-title="Share"><a href="whatsapp://send?text=Iraq%3A%20Israeli%20fighter%20jets%20target%20Iranian%20ballistic%20missile%20launchers%20☛%20https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F" target="_blank"
+class="wpusb-link wpusb-btn "
+title="Share on WhatsApp"
+rel="nofollow"
+data-whatsapp-wpusb="https://web.whatsapp.com/"
+><i class="wpusb-icon-whatsapp-square-plus "></i>
+</a></div><div class="wpusb-item wpusb-telegram " data-referrer="telegram" data-ref-title="Share"><a href="https://telegram.me/share/url?url=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F&text=Iraq%3A%20Israeli%20fighter%20jets%20target%20Iranian%20ballistic%20missile%20launchers" target="_blank"
+class="wpusb-link wpusb-btn "
+title="Share on Telegram"
+rel="nofollow"
+data-action="open-popup"
+><i class="wpusb-icon-telegram-square-plus "></i>
+</a></div><div class="wpusb-item wpusb-messenger " data-referrer="messenger" data-ref-title="Messenger"><a href="https://www.facebook.com/dialog/send?app_id=140586622674265&link=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F&redirect_uri=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F" target="_blank"
+class="wpusb-link wpusb-btn "
+title="Send on Facebook Messenger"
+rel="nofollow"
+data-messenger-wpusb="fb-messenger://share?link=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F"
+><i class="wpusb-icon-messenger-square-plus "></i>
+</a></div></div><div style="float: none; margin:10px 0 10px 0; text-align:center;"><ins class="adsbygoogle"
+style="display:block"
+data-ad-format="fluid"
+data-ad-layout-key="-gw-3+1f-3d+2z"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="7523007230"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script> </div><p>BREAKING: Initial reports of alleged Israeli airstrikes taking place at an underground weapon warehouse at the Ashraf base near al-Azim area in northern Diyala, Iraq.</p><p>Reports suggest that at least 40 Iran&#8217;s Revolutionary Guards and Hezbollah terrorists were eliminated in the strikes.</p><p>According to Iraqi sources, a consignment of ballistic missile launchers transferred a short time ago from Iran to Iraq was targeted in the strikes.  Additional strikes were reported in another two locations.</p><p>Residents in Lebanon report several jets circling at multiple altitudes near Beirut and Tyre. In northern Israel, residents have been reporting intense IAF activity as well as multiple explosions, (likely sonic booms) over the last few hours.</p><p>Earlier today in an unusual development, Israel&#8217;s security cabinet has been called for a meeting tomorrow afternoon, <a href="https://btnews.online/israel-and-us-successfully-tested-the-arrow-3-air-defense-system-in-alaska/" target="_blank" rel="noopener noreferrer">following the weekly meeting</a>.</p><p>A warehouse in Iraq believed to house ballistic missiles recently deployed by Iran,<a href="https://btnews.online/iranian-missiles-warehouse-in-iraq-reportedly-targeted-by-airstrikes/" target="_blank" rel="noopener noreferrer"> was targeted by Israeli airstrikes ten days ago</a>. A number of Iran’s Revolutionary Guards and Hezbollah terrorists were eliminated in the attack.</p><p><img  data-attachment-id="108746" data-permalink="https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/" data-orig-file="https://i0.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers.jpg?fit=516%2C709&amp;ssl=1" data-orig-size="516,709" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Iraq Israeli fighter jets target Iranian ballistic missile launchers" data-image-description="" data-medium-file="https://i0.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers.jpg?fit=218%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers.jpg?fit=516%2C709&amp;ssl=1" class="alignnone size-full wp-image-108746"  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i0.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers.jpg?resize=516%2C709&#038;ssl=1"  alt="Iraq Israeli fighter jets target Iranian ballistic missile launchers.jpg" width="516" height="709" data-srcset="https://i0.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers.jpg?w=516&amp;ssl=1 516w, https://i0.wp.com/btnews.online/wp-content/uploads/2019/07/Iraq-Israeli-fighter-jets-target-Iranian-ballistic-missile-launchers.jpg?resize=218%2C300&amp;ssl=1 218w" data-sizes="(max-width: 516px) 100vw, 516px" data-tcjp-recalc-dims="1" /></p><div style="float: none; margin:10px 0 10px 0; text-align:center;"><ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="7056103377"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script> </div><p>In the past, <a href="https://btnews.online/top-idf-intelligence-official-suggests-israel-could-attack-iraq-to-curb-irans-clout/" target="_blank" rel="noopener noreferrer">Israel has warned that it can reach Iraq to prevent Iran from stockpiling ballistic missiles</a> in the country.</p><p>Citing Iranian, Iraqi and Western sources, Reuters reported last year that Iran had transferred short-range ballistic missiles to Shi’ite allies in Iraq. Baghdad denied the findings.</p><p>The following week, Israel said it might attack such sites in Iraq, effectively expanding a campaign now focused in Syria.</p><div style="float: none; margin:10px 0 10px 0; text-align:center;"><ins class="adsbygoogle"
+style="display:block"
+data-ad-format="fluid"
+data-ad-layout-key="+49+px+25-ba+94"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="1730697491"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script> </div><p><a href="https://btnews.online/satellite-images-show-damage-at-iranian-weapons-warehouse-after-israeli-airstrikes-in-syria/" target="_blank" rel="noopener noreferrer">Israel has carried out scores of airstrikes in Syria against military deployments and arms deliveries</a> by Iranian forces supporting Assad and Hezbollah.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><div
+class = "fb-comments"
+data-href = "https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/"
+data-numposts = "10"
+data-colorscheme = "light"
+data-order-by = "social"
+data-width=100%></div>
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-format="fluid"
+data-ad-layout-key="+49+px+25-ba+94"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="1730697491"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script> <div style="float: none; margin:10px 0 10px 0; text-align:center;"><ins class="adsbygoogle"
+style="display:block"
+data-ad-format="autorelaxed"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="4041576155"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script> </div><div style="float: none; margin:10px 0 10px 0; text-align:center;"><ins class="adsbygoogle"
+style="display:block; text-align:center;"
+data-ad-layout="in-article"
+data-ad-format="fluid"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="1297344382"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script> </div><div style="font-size: 0px; height: 0px; line-height: 0px; margin: 0; padding: 0; clear: both;"></div><div class="wpusb wpusb-square-plus  "
+id="wpusb-container-square-plus"
+data-element-url="https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F"
+data-element-title="Iraq%3A%20Israeli%20fighter%20jets%20target%20Iranian%20ballistic%20missile%20launchers"
+data-attr-reference="108745"
+data-attr-nonce="4b039b7b7c"
+data-is-term="0"
+data-wpusb-component="counter-social-share"
+data-element="wpusb-fixed-top"><div class="wpusb-item wpusb-total-share wpusb-hide"><div class="wpusb-shares-count" data-element="total-share"></div><div class="wpusb-shares-text" data-title="Shares"></div>
+<span class="wpusb-pipe" data-pipe="&#x0007C;"></span></div><div class="wpusb-item wpusb-facebook " data-referrer="facebook" data-ref-title="Share"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F" target="_blank"
+class="wpusb-link wpusb-btn "
+title="Share on Facebook"
+rel="nofollow"
+data-action="open-popup"
+><i class="wpusb-icon-facebook-square-plus "></i>
+</a></div><div class="wpusb-item wpusb-twitter " data-referrer="twitter" data-ref-title="Tweet"><a href="https://twitter.com/share?url=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F&text=via @BtNewsOnline @TodayTjc @Behind__News&via=Behind__News" target="_blank"
+class="wpusb-link wpusb-btn "
+title="Tweet"
+rel="nofollow"
+data-action="open-popup"
+><i class="wpusb-icon-twitter-square-plus "></i>
+</a></div><div class="wpusb-item wpusb-whatsapp " data-referrer="whatsapp" data-ref-title="Share"><a href="whatsapp://send?text=Iraq%3A%20Israeli%20fighter%20jets%20target%20Iranian%20ballistic%20missile%20launchers%20☛%20https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F" target="_blank"
+class="wpusb-link wpusb-btn "
+title="Share on WhatsApp"
+rel="nofollow"
+data-whatsapp-wpusb="https://web.whatsapp.com/"
+><i class="wpusb-icon-whatsapp-square-plus "></i>
+</a></div><div class="wpusb-item wpusb-telegram " data-referrer="telegram" data-ref-title="Share"><a href="https://telegram.me/share/url?url=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F&text=Iraq%3A%20Israeli%20fighter%20jets%20target%20Iranian%20ballistic%20missile%20launchers" target="_blank"
+class="wpusb-link wpusb-btn "
+title="Share on Telegram"
+rel="nofollow"
+data-action="open-popup"
+><i class="wpusb-icon-telegram-square-plus "></i>
+</a></div><div class="wpusb-item wpusb-messenger " data-referrer="messenger" data-ref-title="Messenger"><a href="https://www.facebook.com/dialog/send?app_id=140586622674265&link=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F&redirect_uri=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F" target="_blank"
+class="wpusb-link wpusb-btn "
+title="Send on Facebook Messenger"
+rel="nofollow"
+data-messenger-wpusb="fb-messenger://share?link=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F"
+><i class="wpusb-icon-messenger-square-plus "></i>
+</a></div></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/" data-text="Iraq: Israeli fighter jets target Iranian ballistic missile launchers" data-via="Behind__News" >Tweet</a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared="" class="share-telegram sd-button" href="https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/?share=telegram" target="_blank" title="Click to share on Telegram"><span>Telegram</span></a></li><li class="share-end"></li></ul></div></div></div><nav class="pagination group"></nav></div><div class="clear"></div></div></div></article><div class="clear"></div></div></section><div class="sidebar s1 collapsed" data-position="left" data-layout="col-3cm" data-sb-id="s1"><a class="sidebar-toggle" title="Expand Sidebar"><i class="fas icon-sidebar-toggle"></i></a><div class="sidebar-content"><div id="aptf_slider_widget-2" class="widget widget_aptf_slider_widget"><div class="aptf-tweets-slider-wrapper aptf-slider-template-1" data-auto-slide ="0" data-slide-controls = "0" data-slide-duration="1500"><div class="aptf-single-tweet-slide"><div class="aptf-tweet-content"><p class="aptf-timestamp">
+<a href="https://twitter.com/@Behind__News/status/1156103114862338048" class="aptf-tweet-name" target="_blank"> -
+34 minutes ago                        </a></p><div class="clear"></div>
+Report: Israeli F-35 bombed Iranian missile shipments in Iraq this month <a href="https://t.co/2GOj2mXnh6" target="_blank">https://t.co/2GOj2mXnh6</a> <a href="https://t.co/U31BdTKOLd" target="_blank">https://t.co/U31BdTKOLd</a></div><div class="aptf-tweet-actions-wrapper aptf-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1156103114862338048" class="aptf-tweet-reply aptf-tweet-action-reply" target="_blank">h</a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1156103114862338048" class="aptf-tweet-retweet aptf-tweet-action-retweet" target="_blank">J</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1156103114862338048" class="aptf-tweet-fav aptf-tweet-action-favourite" target="_blank">R</a></div></div><div class="aptf-single-tweet-slide"><div class="aptf-tweet-content"><p class="aptf-timestamp">
+<a href="https://twitter.com/@Behind__News/status/1156090377553752064" class="aptf-tweet-name" target="_blank"> -
+1 hour ago                        </a></p><div class="clear"></div>
+15 wanted terrorists arrested – Bomb defused as Jewish worshipers enter Joseph’s Tomb <a href="https://t.co/YbvuMqp8lG" target="_blank">https://t.co/YbvuMqp8lG</a> <a href="https://t.co/U3zZl3zcYK" target="_blank">https://t.co/U3zZl3zcYK</a></div><div class="aptf-tweet-actions-wrapper aptf-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1156090377553752064" class="aptf-tweet-reply aptf-tweet-action-reply" target="_blank">h</a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1156090377553752064" class="aptf-tweet-retweet aptf-tweet-action-retweet" target="_blank">J</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1156090377553752064" class="aptf-tweet-fav aptf-tweet-action-favourite" target="_blank">R</a></div></div><div class="aptf-single-tweet-slide"><div class="aptf-tweet-content"><p class="aptf-timestamp">
+<a href="https://twitter.com/@Behind__News/status/1155890575511605248" class="aptf-tweet-name" target="_blank"> -
+14 hours ago                        </a></p><div class="clear"></div>
+Canada: Court rules Israeli wines can’t be labeled ‘Made in Israel’ <a href="https://t.co/kJ7MORoqPH" target="_blank">https://t.co/kJ7MORoqPH</a> <a href="https://t.co/apyc4C6alV" target="_blank">https://t.co/apyc4C6alV</a></div><div class="aptf-tweet-actions-wrapper aptf-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1155890575511605248" class="aptf-tweet-reply aptf-tweet-action-reply" target="_blank">h</a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1155890575511605248" class="aptf-tweet-retweet aptf-tweet-action-retweet" target="_blank">J</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1155890575511605248" class="aptf-tweet-fav aptf-tweet-action-favourite" target="_blank">R</a></div></div><div class="aptf-single-tweet-slide"><div class="aptf-tweet-content"><p class="aptf-timestamp">
+<a href="https://twitter.com/@Behind__News/status/1155848160755036161" class="aptf-tweet-name" target="_blank"> -
+17 hours ago                        </a></p><div class="clear"></div>
+California’s Gilroy terrorist identified as 19-year-old Iranian who hates whites and Hispanics… <a href="https://t.co/erb5kP1LuY" target="_blank">https://t.co/erb5kP1LuY</a></div><div class="aptf-tweet-actions-wrapper aptf-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1155848160755036161" class="aptf-tweet-reply aptf-tweet-action-reply" target="_blank">h</a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1155848160755036161" class="aptf-tweet-retweet aptf-tweet-action-retweet" target="_blank">J</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1155848160755036161" class="aptf-tweet-fav aptf-tweet-action-favourite" target="_blank">R</a></div></div><div class="aptf-single-tweet-slide"><div class="aptf-tweet-content"><p class="aptf-timestamp">
+<a href="https://twitter.com/@Behind__News/status/1155818342822875137" class="aptf-tweet-name" target="_blank"> -
+19 hours ago                        </a></p><div class="clear"></div>
+Top UNRWA officials accused of sexual misconduct, nepotism, retaliation, discrimination <a href="https://t.co/IlIsXkpPgw" target="_blank">https://t.co/IlIsXkpPgw</a> <a href="https://t.co/zDwj92C3ZR" target="_blank">https://t.co/zDwj92C3ZR</a></div><div class="aptf-tweet-actions-wrapper aptf-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1155818342822875137" class="aptf-tweet-reply aptf-tweet-action-reply" target="_blank">h</a>
+<a href="https://twitter.com/intent/retweet?tweet_id=1155818342822875137" class="aptf-tweet-retweet aptf-tweet-action-retweet" target="_blank">J</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=1155818342822875137" class="aptf-tweet-fav aptf-tweet-action-favourite" target="_blank">R</a></div></div></div></div><div id="text-3" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle"
+style="display:inline-block;width:300px;height:1050px"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="8277246740"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div><div id="text-4" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle"
+style="display:inline-block;width:300px;height:1050px"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="8277246740"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div><div id="text-5" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle"
+style="display:inline-block;width:300px;height:1050px"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="8277246740"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div><div id="text-6" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle"
+style="display:inline-block;width:300px;height:1050px"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="8277246740"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div></div></div><div class="sidebar s2 collapsed" data-position="right" data-layout="col-3cm" data-sb-id="s2"><a class="sidebar-toggle" title="Expand Sidebar"><i class="fas icon-sidebar-toggle"></i></a><div class="sidebar-content"><div id="blog_subscription-6" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widget-title"></h3><form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-6"><div id="subscribe-text"><p>Be the first to know</p></div><p>Join 4,465 other subscribers</p><p id="subscribe-email">
+<label id="jetpack-subscribe-label"
+class="screen-reader-text"
+for="subscribe-field-blog_subscription-6">
+Email Address                        </label>
+<input type="email" name="email" required="required" class="required"
+value=""
+id="subscribe-field-blog_subscription-6"
+placeholder="Email Address"/></p><p id="subscribe-submit">
+<input type="hidden" name="action" value="subscribe"/>
+<input type="hidden" name="source" value="https://btnews.online/iraq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers/"/>
+<input type="hidden" name="sub-type" value="widget"/>
+<input type="hidden" name="redirect_fragment" value="blog_subscription-6"/>
+<button type="submit"
+name="jetpack_subscriptions_widget"
+>
+Be the first to know                        </button></p></form></div><div id="text-16" class="widget widget_text"><div class="textwidget">Be the first to know<ul class="sxc-follow-buttons"><li class="sxc-follow-button">
+<a
+href="https://www.facebook.com/BehindTheNewsIsrael"
+title="Facebook"
+target="_blank"
+>
+<img
+src="https://btnews.online/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/facebook.png"
+alt="Facebook"
+/>
+</a></li><li class="sxc-follow-button">
+<a
+href="https://twitter.com/Behind__News "
+title="Twitter"
+target="_blank"
+>
+<img
+src="https://btnews.online/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/twitter.png"
+alt="Twitter"
+/>
+</a></li><li class="sxc-follow-button">
+<a
+href="https://www.instagram.com/behindthenewsonline/"
+title="Instagram"
+target="_blank"
+>
+<img
+src="https://btnews.online/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/instagram.png"
+alt="Instagram"
+/>
+</a></li><li class="sxc-follow-button">
+<a
+href="https://btnewsonlineisrael.blogspot.co.il/ "
+title="Blogger"
+target="_blank"
+>
+<img
+src="https://btnews.online/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/blogger.png"
+alt="Blogger"
+/>
+</a></li><li class="sxc-follow-button">
+<a
+href="https://www.reddit.com/user/BtNewsOnline"
+title="Reddit"
+target="_blank"
+>
+<img
+src="https://btnews.online/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/reddit.png"
+alt="Reddit"
+/>
+</a></li><li class="sxc-follow-button">
+<a
+href="https://www.pinterest.com/btnewsonline/"
+title="Pinterest"
+target="_blank"
+>
+<img
+src="https://btnews.online/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/pinterest.png"
+alt="Pinterest"
+/>
+</a></li><li class="sxc-follow-button">
+<a
+href="https://btnewsonline.tumblr.com/"
+title="Tumblr"
+target="_blank"
+>
+<img
+src="https://btnews.online/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/tumblr.png"
+alt="Tumblr"
+/>
+</a></li><li class="sxc-follow-button">
+<a
+href="https://t.me/BehindTheNews"
+title="Telegram"
+target="_blank"
+>
+<img
+src="https://btnews.online/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/telegram.png"
+alt="Telegram"
+/>
+</a></li><li class="sxc-follow-button">
+<a
+href="https://behindthenewsisrael.wordpress.com/"
+title="WordPress"
+target="_blank"
+>
+<img
+src="https://btnews.online/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/wordpress.png"
+alt="WordPress"
+/>
+</a></li><li class="sxc-follow-button">
+<a
+href="https://btnews.online/feed"
+title="RSS Feed"
+target="_blank"
+>
+<img
+src="https://btnews.online/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/rss-feed.png"
+alt="RSS Feed"
+/>
+</a></li></ul></div></div><div id="text-9" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-3777905424589557" data-ad-slot="5163573213" data-ad-format="auto" data-full-width-responsive="true"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div><div id="text-10" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-3777905424589557" data-ad-slot="5163573213" data-ad-format="auto" data-full-width-responsive="true"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div><div id="text-26" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-3777905424589557" data-ad-slot="5163573213" data-ad-format="auto" data-full-width-responsive="true"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div><div id="text-31" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-3777905424589557" data-ad-slot="5163573213" data-ad-format="auto" data-full-width-responsive="true"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script><br /></p></div></div><div id="text-12" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-3777905424589557" data-ad-slot="5163573213" data-ad-format="auto" data-full-width-responsive="true"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div><div id="text-27" class="widget widget_text"><div class="textwidget"><p><br />
+<br />
+<ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-3777905424589557" data-ad-slot="5163573213" data-ad-format="auto" data-full-width-responsive="true"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div></div></div></div></div></div></div><footer id="footer"><section class="container" id="footer-full-width-widget"><div class="container-inner"><div id="text-21" class="widget widget_text"><div class="textwidget"><p><br />
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-format="autorelaxed"
+data-ad-client="ca-pub-3777905424589557"
+data-ad-slot="4041576155"></ins><br /> <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></p></div></div></div></section><nav class="nav-container group" id="nav-footer" data-menu-id="footer-3" data-menu-scrollable="false"><div class="ham__navbar-toggler-two collapsed" title="Menu" aria-expanded="false"><div class="ham__navbar-span-wrapper">
+<span class="line line-1"></span>
+<span class="line line-2"></span>
+<span class="line line-3"></span></div></div><div class="nav-text"></div><div class="nav-wrap"><ul id="menu-%e2%9a%a0%ef%b8%8f-commenting-policy" class="nav container group"><li id="menu-item-84440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84440"><a href="https://btnews.online/%e2%9a%a0%ef%b8%8f-commenting-policy/">⚠️ Commenting Policy</a></li><li id="menu-item-84441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-84441"><a href="https://btnews.online/privacy-policy-2/">🔐 Privacy Policy</a></li><li id="menu-item-84454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84454"><a href="https://btnews.online/advertise/">📣 Advertise</a></li><li id="menu-item-84459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84459"><a href="https://btnews.online/contact-us/">📧 Contact us</a></li></ul></div></nav><section class="container" id="footer-bottom"><div class="container-inner"><a id="back-to-top" href="#"><i class="fas fa-angle-up"></i></a><div class="pad group"><div class="grid one-half"><div id="copyright"><p>BtNews.Online &copy; 2019. All Rights Reserved.</p></div></div><div class="grid one-half last"></div></div></div></section></footer></div><div id="fb-root"></div> <script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=1935469653193092';fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script> <script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-3777905424589557",enable_page_level_ads:true});</script> <script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-3777905424589557",enable_page_level_ads:true});</script><script data-cfasync="false" type="text/javascript" src="//tharbadir.com/notice.php?p=1777826&interstitial=1"></script> <script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-3777905424589557",enable_page_level_ads:true});</script> <amp-auto-ads type="adsense"
+data-ad-client="ca-pub-3777905424589557">
+</amp-auto-ads><div class="wpusb wpusb-default wpusb-fixed-left   wpusb-fixed wpusb-layout-square2-content wpusb-fixed-position_fixed"
+id="wpusb-container-fixed"
+data-element-url="https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F"
+data-element-title="Iraq%3A%20Israeli%20fighter%20jets%20target%20Iranian%20ballistic%20missile%20launchers"
+data-attr-reference="108745"
+data-is-term="0"
+data-element="fixed"
+data-attr-nonce="4b039b7b7c"
+data-wpusb-component="counter-social-share"><div data-element="buttons" class="wpusb-fixed-left-container wpusb-buttons"><div class="wpusb-item wpusb-total-share wpusb-hide"><div class="wpusb-counts">
+<span data-element="total-share"></span>
+<span class="wpusb-btn-inside">Shares</span></div></div><div class="wpusb-item wpusb-facebook "><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F" target="_blank"
+data-action="open-popup"
+class="wpusb-layout-square2 wpusb-default wpusb-btn "
+title="Share on Facebook"
+rel="nofollow"><i class="wpusb-icon-facebook-default "></i>
+</a></div><div class="wpusb-item wpusb-twitter "><a href="https://twitter.com/share?url=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F&text=via @BtNewsOnline @TodayTjc @Behind__News&via=Behind__News" target="_blank"
+data-action="open-popup"
+class="wpusb-layout-square2 wpusb-default wpusb-btn "
+title="Tweet"
+rel="nofollow"><i class="wpusb-icon-twitter-default "></i>
+</a></div><div class="wpusb-item wpusb-whatsapp "><a href="whatsapp://send?text=Iraq%3A%20Israeli%20fighter%20jets%20target%20Iranian%20ballistic%20missile%20launchers%20☛%20https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F" target="_blank"
+data-whatsapp-wpusb="https://web.whatsapp.com/"
+class="wpusb-layout-square2 wpusb-default wpusb-btn "
+title="Share on WhatsApp"
+rel="nofollow"><i class="wpusb-icon-whatsapp-default "></i>
+</a></div><div class="wpusb-item wpusb-telegram "><a href="https://telegram.me/share/url?url=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F&text=Iraq%3A%20Israeli%20fighter%20jets%20target%20Iranian%20ballistic%20missile%20launchers" target="_blank"
+data-action="open-popup"
+class="wpusb-layout-square2 wpusb-default wpusb-btn "
+title="Share on Telegram"
+rel="nofollow"><i class="wpusb-icon-telegram-default "></i>
+</a></div><div class="wpusb-item wpusb-messenger "><a href="https://www.facebook.com/dialog/send?app_id=140586622674265&link=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F&redirect_uri=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F" target="_blank"
+data-messenger-wpusb="fb-messenger://share?link=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F"
+class="wpusb-layout-square2 wpusb-default wpusb-btn "
+title="Send on Facebook Messenger"
+rel="nofollow"><i class="wpusb-icon-messenger-default "></i>
+</a></div></div>
+<span class="wpusb-toggle"
+data-action="close-buttons"></span></div><div id="fb-root"></div> <script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3';fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script> <script>jQuery(document.body).on('post-load',function(){if('undefined'!==typeof FB){FB.XFBML.parse();}});</script> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script> <script type='text/javascript'>var superpwa_sw={"url":"\/OneSignalSDKWorker.js.php"};</script> <script type='text/javascript'>var WPUSBVars={"ajaxUrl":"https:\/\/btnews.online\/wp-admin\/admin-ajax.php","context":"","minCount":"1000"};</script> <script type='text/javascript'>var HUParams={"_disabled":[],"SmoothScroll":{"Enabled":true,"Options":{"touchpadSupport":false}},"centerAllImg":"1","timerOnScrollAllBrowsers":"1","extLinksStyle":"","extLinksTargetExt":"1","extLinksSkipSelectors":{"classes":["btn","button"],"ids":[]},"imgSmartLoadEnabled":"1","imgSmartLoadOpts":{"parentSelectors":[".container .content",".container .sidebar","#footer","#header-widgets"],"opts":{"excludeImg":[".tc-holder-img"],"fadeIn_options":100}},"goldenRatio":"1.618","gridGoldenRatioLimit":"350","sbStickyUserSettings":{"desktop":false,"mobile":true},"isWPMobile":"","menuStickyUserSettings":{"desktop":"no_stick","mobile":"no_stick"},"mobileSubmenuExpandOnClick":"","submenuTogglerIcon":"<i class=\"fas fa-angle-down\"><\/i>","isDevMode":"","ajaxUrl":"https:\/\/btnews.online\/?huajax=1","frontNonce":{"id":"HuFrontNonce","handle":"3997a08cbe"},"isWelcomeNoteOn":"","welcomeContent":"","i18n":{"collapsibleExpand":"Expand","collapsibleCollapse":"Collapse"},"fitTextMap":{"single_post_title":{"selectors":".single h1.entry-title","minEm":1.375,"maxEm":2.62000000000000010658141036401502788066864013671875},"page_title":{"selectors":".page-title h1","minEm":1,"maxEm":1.3000000000000000444089209850062616169452667236328125},"home_page_title":{"selectors":".home .page-title","minEm":1,"maxEm":1.1999999999999999555910790149937383830547332763671875,"compression":2.5},"post_titles":{"selectors":".blog .post-title, .archive .post-title","minEm":1.375,"maxEm":1.475000000000000088817841970012523233890533447265625},"featured_post_titles":{"selectors":".featured .post-title","minEm":1.375,"maxEm":2.125},"comments":{"selectors":".commentlist li","minEm":0.8125,"maxEm":0.93000000000000004884981308350688777863979339599609375,"compression":2.5},"entry":{"selectors":".entry","minEm":0.9375,"maxEm":1.125,"compression":2.5},"content_h1":{"selectors":".entry h1, .woocommerce div.product h1.product_title","minEm":1.7578125,"maxEm":2.671875},"content_h2":{"selectors":".entry h2","minEm":1.5234375,"maxEm":2.390625},"content_h3":{"selectors":".entry h3","minEm":1.40625,"maxEm":1.96875},"content_h4":{"selectors":".entry h4","minEm":1.2890625,"maxEm":1.6875},"content_h5":{"selectors":".entry h5","minEm":1.0546875,"maxEm":1.40625},"content_h6":{"selectors":".entry h6","minEm":0.9375,"maxEm":1.265625,"compression":2.5}},"userFontSize":"16","fitTextCompression":"1.5"};</script> <script type='text/javascript'>var jetpackCarouselStrings={"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/btnews.online\/wp-admin\/admin-ajax.php","nonce":"7ddddacfdf","display_exif":"0","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/btnews.online\/wp-login.php?redirect_to=https%3A%2F%2Fbtnews.online%2Firaq-israeli-fighter-jets-target-iranian-ballistic-missile-launchers%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};</script> <script type='text/javascript'>var sharing_js_options={"lang":"en","counts":"1","is_stats_active":"1"};</script> <script type='text/javascript'>var windowOpen;jQuery(document.body).on('click','a.share-facebook',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomfacebook','menubar=1,resizable=1,width=600,height=400');return false;});var windowOpen;jQuery(document.body).on('click','a.share-telegram',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomtelegram','menubar=1,resizable=1,width=450,height=450');return false;});</script> <!--[if lt IE 9]> <script src="https://btnews.online/wp-content/themes/hueman/assets/front/js/ie/respond.js"></script> <![endif]--> <script type='text/javascript'>_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:7.5.3',blog:'147150572',post:'108745',tz:'0',srv:'btnews.online'}]);_stq.push(['clickTrackerInit','147150572','108745']);</script> <script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.5.3/_inc/build/photon/photon.min.js' defer data-deferred="1"></script><script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js' defer data-deferred="1"></script><script type='text/javascript' src='https://c0.wp.com/c/5.2.2/wp-includes/js/underscore.min.js' defer data-deferred="1"></script><script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.5.3/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js' defer data-deferred="1"></script><script type='text/javascript' src='https://c0.wp.com/c/5.2.2/wp-includes/js/wp-embed.min.js' defer data-deferred="1"></script><script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.5.3/_inc/build/spin.min.js' defer data-deferred="1"></script><script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.5.3/_inc/build/jquery.spin.min.js' defer data-deferred="1"></script><script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.5.3/_inc/build/carousel/jetpack-carousel.min.js' defer data-deferred="1"></script><script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.5.3/_inc/build/sharedaddy/sharing.min.js' defer data-deferred="1"></script><script type='text/javascript' src='https://stats.wp.com/e-201931.js' async='async' defer='defer'></script><script data-optimized='1' src='https://btnews.online/min/ab713.js' defer></script></body></html>
+<!-- Page optimized by LiteSpeed Cache @2019-07-30 07:58:35 -->

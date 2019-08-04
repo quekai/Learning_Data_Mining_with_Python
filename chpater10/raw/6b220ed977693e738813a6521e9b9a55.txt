@@ -1,0 +1,2978 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]> <html lang="en" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]> <html lang="en" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <html lang="en"> <!--<![endif]-->
+  <head>
+    <title>Barnaby Joyce says he&#039;s struggling to support his families on $211,000 parliamentary income - Politics - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="amphtml" href="http://amp.abc.net.au/article/11357798"/>
+<link rel="canonical" data-abc-platform="standard" href="https://www.abc.net.au/news/2019-07-29/barnaby-joyce-says-hes-struggling-on-211-thousand-dollar-income/11357798"/>
+<meta name="title" content="&#039;Where are the tissues?&#039;: Barnaby Joyce says he&#039;s struggling on $211,000 income"/>
+                <meta name="description" content="In advocating for a rise in Newstart support payments, the Nationals backbencher tells a newspaper his income is spread thin — a comment he has since tried to walk back."/>
+                <meta name="keywords" content="barnaby joyce, newstart"/>
+                <meta name="ICBM" content="-26.000,134.500"/>
+                <meta name="geo.position" content="-26.000;134.500"/>
+                <meta name="ContentId" content="11357798"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC.editorialGenre" content="News &amp; Current Affairs"/>
+                <meta name="ABC.tags" content="government-and-politics;nationals"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="true"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="ABC.productionUnit" content="States - CPH digital"/>
+                <meta name="ABC.ContentType" content="CMArticle"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="https://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.rightsHolder" content="ABC"/>
+                <meta name="DC.type" content="Text"/>
+                <meta name="DC.type" scheme="iptc-genre" content="Current"/>
+        <meta name="DC.title" content="&#039;Where are the tissues?&#039;: Barnaby Joyce says he&#039;s struggling on $211,000 income"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2019-07-29T11:40:26+1000"/>
+        <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="https://www.abc.net.au/news/2019-07-29/barnaby-joyce-says-hes-struggling-on-211-thousand-dollar-income/11357798"/>
+          <meta name="DC.language" scheme="DCTERMS.RFC3066" content="en-AU"/>
+        <meta name="DC.subject" scheme="ABCTERMS.subject" content="Government and Politics;Government and Politics:Political Parties:Nationals"/>
+        <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2019-07-29T11:40:26+1000"/>
+        <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2019-07-29T16:56:03+1000"/>
+        <meta name="DCTERMS.spatial" content="Australia"/>
+                <meta name="DCTERMS.spatial" scheme="DCTERMS.DCMIPoint" content="east=134.500;north=-26.000"/>
+        <meta property="og:title" content="&#039;Where are the tissues?&#039;: Barnaby Joyce says he&#039;s struggling on $211,000 income"/>
+                <meta property="og:description" content="In advocating for a rise in Newstart support payments, the Nationals backbencher tells a newspaper his income is spread thin — a comment he has since tried to walk back."/>
+                <meta property="og:url" content="https://www.abc.net.au/news/2019-07-29/barnaby-joyce-says-hes-struggling-on-211-thousand-dollar-income/11357798"/>
+                <meta property="og:image" content="https://www.abc.net.au/news/image/11358844-16x9-700x394.jpg"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="700"/>
+                <meta property="og:image:height" content="394"/>
+                <meta name="twitter:image" content="https://www.abc.net.au/news/image/11358844-16x9-700x394.jpg"/>
+                <meta property="og:type" content="Article"/>
+                <meta property="og:updated_time" content="2019-07-29T16:56:03+1000"/>
+                <meta property="article:published_time" content="2019-07-29T11:40:26+1000"/>
+                <meta property="article:modified_time" content="2019-07-29T16:56:03+1000"/>
+                <meta property="article:publisher" content="https://www.facebook.com/abcnews.au"/>
+                <meta property="article:tag" content="barnaby joyce"/>
+                <meta property="article:tag" content="newstart"/>
+                <meta property="article:tag" content="Australia"/>
+                <meta property="article:tag" content="Government and Politics"/>
+                <meta property="article:tag" content="Nationals"/>
+                <meta property="article:tag" content="Political Parties"/>
+                <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@ABCNews"/>
+                <meta name="apple-mobile-web-app-title" content="ABC News"/>
+                <meta property="fb:pages" content="72924719987"/>
+                <link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="https://mobile.abc.net.au/news/2019-07-29/barnaby-joyce-says-hes-struggling-on-211-thousand-dollar-income/11357798"/>
+  <link media="all" rel="stylesheet" type="text/css"
+                                                                              href="https://res.abc.net.au/bundles/2.5.0/styles/abc.bundle.2.5.0.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="https://www.abc.net.au/res/sites/news-projects/news-core/1.24.1/desktop.css"/>
+    <link rel="alternate" type="application/rss+xml" title="Just In" href="/news/feed/51120/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.abc.net.au/cm/cb/8413658/News+iOS+120x120+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png"/>
+    <script type="text/javascript" src="/news/ajax/7849224/managed.js"></script>
+<script type="text/javascript" src="https://www.abc.net.au/res/libraries/jquery/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/sites/news-projects/news-core/1.24.1/desktop.js"></script>
+        <script type="text/javascript" src="/cm/code/8724582/abc.news.config-2018-07-11.js" async></script>
+        <script>
+    window.dataLayer = window.dataLayer || [];
+  </script>
+
+  <script>
+    window.dataLayer.push({
+      'debug': {
+         'schemaVersion': '20180315',
+      },
+
+       'document': {
+        'language': 'en',
+         'canonicalUrl':'https://www.abc.net.au/news/2019-07-29/barnaby-joyce-says-hes-struggling-on-211-thousand-dollar-income/11357798',
+         'contentType': 'article',
+         'uri':'coremedia://article/11357798',
+         'contentSource':'coremedia',
+         'id':'11357798',
+         
+         'pageTitle':'Barnaby Joyce says he\'s struggling to support his families on $211,000 parliamentary income',
+         
+         'title':{
+           
+           'title':'Barnaby Joyce says he\'s struggling to support his families on $211,000 parliamentary income',
+           
+           'teaser':'\'Where are the tissues?\': Barnaby Joyce says he\'s struggling on $211,000 income',
+           
+           'short':'Joyce \'struggling\' on $211,000',
+           
+         },
+         
+         'productionUnit':'States - CPH digital',
+         
+         'siteRoot':{
+           
+              'segment':'news',
+           
+              'title':'ABC News',
+           
+         },
+         
+         'lastModified':' Mon 29 Jul 2019, 16:56PM EST',
+         
+       },
+    })
+  </script>
+
+  <script>
+    window.dataLayer.push({
+        'application': {
+          'generatorName': 'WCMS JSP',
+          'generatorVersion': '18.10.8.8.0',
+          
+          'environment':'production',
+          
+          'wcmsTheme':'phase1-news',
+        }
+    })
+  </script>
+
+</head>
+  <body
+          class="platform-standard news story_page">
+  <!-- Start ABC Bundle Header 2.5.0 (customised - p1) -->
+<!--noindex-->
+<nav id="abcHeader" class="global" aria-label="ABC Network Navigation" data-resourcebase="https://res.abc.net.au/bundles/2.5.0/" data-scriptsbase="https://res.abc.net.au/bundles/2.5.0/scripts/" data-version="2.5.0">
+ <a class="home" href="https://www.abc.net.au/" data-mobile="https://mobile.abc.net.au/"><img src="https://res.abc.net.au/bundles/2.5.0/images/logo-abc@2x.png" width="65" height="16" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="https://res.abc.net.au/bundles/2.5.0/images/icon-menu-grey@1x.gif" data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li><a role="menuitem" href="https://www.abc.net.au/" data-mobile="https://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/news/" data-mobile="https://mobile.abc.net.au/news/">News</a></li>
+    <li><a role="menuitem" href="https://iview.abc.net.au" data-mobile="https://iview.abc.net.au">iview</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/tv/" data-mobile="https://www.abc.net.au/tv/">TV</a></li>
+    <li><a role="menuitem" href="https://radio.abc.net.au/" data-mobile="https://radio.abc.net.au/">Radio</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/children/" data-mobile="https://mobile.abc.net.au/children/">Kids</a></li>
+    <li><a role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a role="menuitem" class="more" href="https://www.abc.net.au/more/" data-mobile="https://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="search" href="https://search.abc.net.au/" data-mobile="https://search.abc.net.au/"><span>Search</span>
+  <img src="https://res.abc.net.au/bundles/2.5.0/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.5.0 (p1) -->
+<!--noindex-->
+  <div class="page_margins">
+    <div id="header" class="header">
+    <div class="brand">
+        <a href="/news/"><img class="print" src="/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" alt="ABC News" width="387" height="100" />
+                <img class="noprint" src="/cm/lb/8212704/data/news-logo2017-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/news/australia/" class="location-widget">Australia</a><a href="/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-justin" class=""><a href="/news/justin/">Just In</a></li><li id="n-politics" class="active"><a href="/news/politics/">Politics</a></li><li id="n-world" class=""><a href="/news/world/">World</a></li><li id="n-business" class=""><a href="/news/business/">Business</a></li><li id="n-analysis-and-opinion" class=""><a href="/news/analysis-and-opinion/">Analysis</a></li><li id="n-sport" class=""><a href="/news/sport/">Sport</a></li><li id="n-science" class=""><a href="/news/science/">Science</a></li><li id="n-health" class=""><a href="/news/health/">Health</a></li><li id="n-arts-culture" class=""><a href="/news/arts-culture/">Arts</a></li><li id="n-factcheck" class=""><a href="/news/factcheck/">Fact Check</a></li><li id="n-more" class=""><a href="/news/more/">Other</a></li></ul>
+  </div>
+<div class="header subheader">
+  <!--endnoindex--><h1>Politics</h1>
+    <!--noindex-->
+    <ul class="nav">
+        <li>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/politics/"
+    >
+  
+
+  
+    
+        <span>Full coverage</span>
+    
+    
+  
+
+  </a>
+</li>
+        <li>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/politics/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+        <li>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/elections/"
+    >
+  
+
+  
+    
+        <span>Elections</span>
+    
+    
+  
+
+  </a>
+</li>
+        <li>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/elections/blog/"
+    >
+  
+
+  
+    
+        <span>Antony Green</span>
+    
+    
+  
+
+  </a>
+</li>
+        </ul>
+    </div><!-- A modules - start -->
+  <!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="article section">
+  
+
+<div class="tools">
+  
+    
+  
+  <a class="button"
+     href="https://www2b.abc.net.au/EAF/View/MailToQuery.aspx?https://www.abc.net.au/news/2019-07-29/barnaby-joyce-says-hes-struggling-on-211-thousand-dollar-income/11357798"><span>Email</span></a>
+</div><!--endnoindex-->
+  <h1>Barnaby Joyce says he&#039;s struggling to support his families on $211,000 parliamentary income</h1>
+
+
+
+  
+    <p class="published">
+      Updated 
+    <span class="timestamp">
+      July 29, 2019 16:56:03
+    </span>
+    </p>
+  
+  
+
+<div class="media-wrapper-dl inline-content video full" data-uri="coremedia://video/11363822">
+    <script type="text/javascript" charset="utf-8">
+          if (typeof inlineVideoData == 'undefined') var inlineVideoData = new Array();
+          inlineVideoData.push([
+          
+              {'url': 'https://abcmedia.akamaized.net/news/video/201907/NOLs_Barnaby_2907_1000k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '928', 'width': '1024', 'height': '576', 'filesize': '7406569'}
+            ,
+              {'url': 'https://abcmedia.akamaized.net/news/video/201907/NOLs_Barnaby_2907_256k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '170', 'width': '320', 'height': '180', 'filesize': '1615226'}
+            ,
+              {'url': 'https://abcmedia.akamaized.net/news/video/201907/NOLs_Barnaby_2907_512k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '424', 'width': '512', 'height': '288', 'filesize': '3472632'}
+            
+            ]);
+            </script>
+        <a href="/news/2019-07-29/im-not-skint-barnaby-joyce-walks-back-from-earlier-comment/11363822" class="inline-video"><script>
+    window.dataLayer.push({
+      'document':{
+        'embedded':{
+          'coremedia://video/11363822':{
+            'contentSource':'coremedia',
+            'contentType':'video',
+            'id':'11363822',
+            'uri':'coremedia://video/11363822',
+            'title':{
+              
+              'title':'\'I\'m not skint\' Barnaby Joyce walks back from earlier statement',
+              
+            },
+            'mediaDuration':'57',
+            
+            'transcriptAvailable':'false',
+            
+            'streamType':'ondemand',
+            
+            'classification':'none',
+            
+          },
+        },
+      },
+    })
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11358844-16x9-700x394.jpg" alt="&#039;I&#039;m not skint&#039; Barnaby Joyce walks back from earlier statement" title="Barnaby Joyce at Parliament House" width="700" height="394"/>
+</a><a href="/news/2019-07-29/im-not-skint-barnaby-joyce-walks-back-from-earlier-comment/11363822" class="inline-caption"><strong>Video:</strong> &#039;I&#039;m not skint&#039; Barnaby Joyce walks back from earlier statement
+
+<span class="source">(ABC News)</span>
+      </a></div>
+<div class="attached-content">
+      <div class="inline-content story left">
+    <a href="/news/2019-07-18/barnaby-joyce-joins-calls-to-increase-newstart-allowance/11322992"><strong>Related Story:</strong>
+       Barnaby Joyce joins calls to increase Newstart allowance</a></div>
+<div class="inline-content story left">
+    <a href="/news/2019-07-15/renewed-calls-to-increase-newstart/11308340"><strong>Related Story:</strong>
+       Working Australians and pensioners are getting extra money — what about the unemployed?</a></div>
+<div class="inline-content story left">
+    <a href="/news/2019-07-17/labor-mps-calling-for-an-increase-in-newstart-payments/11318532"><strong>Related Story:</strong>
+       Labor backbenchers call for $75 boost to weekly Newstart allowance </a></div>
+<div class="inline-content map left">
+      <div class="story-map"></div>
+      <a class="inline-caption" href="http://maps.google.com/?q=-26.000,134.500(Australia)&amp;z=5">
+        <strong>Map: </strong>
+        Australia</a>
+    </div>
+  </div>
+  <p>Former deputy prime minister Barnaby Joyce has tried to walk back comments he made to a newspaper in which he claimed his $211,000 income was "spread thin".</p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2>Key points:</h2><ul><li>Barnaby Joyce insists he's not "skint" following an interview with News Corp</li><li>He's attracted criticism for saying he's struggling to support his families on $211,000</li><li>Mr Joyce used his personal circumstances to advocate for an increase in Newstart payments</li></ul></div>
+</div><p> </p><p>Under the headline "I'm skint", the Nationals backbencher used his personal circumstances supporting two families to explain <a href="/news/2019-07-18/barnaby-joyce-joins-calls-to-increase-newstart-allowance/11322992" target="_self" title="">his calls for an increase in Newstart payments for jobseekers</a>.</p><p>The article prompted criticism from his fellow parliamentarians, prompting Mr Joyce to clarify his circumstances.</p><p>"I am not skint, very good headline," he told reporters at Parliament House.</p><p>"You've all read it but I am not skint … I am on an incredibly good wage and even on that there come times where you've really got to budget because of circumstances that I brought on myself," he said.</p><blockquote class="quote--pullquote"><p>"If I am doing that on an incredible wage, how on Earth is someone doing it on 280 bucks a week?"</p></blockquote><p>Mr Joyce supports two families, having separated from his wife, Natalie, the mother of four of his children.</p><p>He has since had two children with his new partner, former staffer Vikki Campion.</p><p>In the article, Mr Joyce said he eats his own sheep, rarely eats out and switches off the heater on cold winter nights.</p><p>Mr Joyce said he had called for an increase to Newstart because he had a new understanding for how tough it would be to live on.</p><p>"It's not that I'm not getting money, it's just that it's spread so thin," he told News Corp's The Courier-Mail.</p><div class="media-wrapper-dl inline-content video full" data-uri="coremedia://video/11323458">
+    <script type="text/javascript" charset="utf-8">
+          if (typeof inlineVideoData == 'undefined') var inlineVideoData = new Array();
+          inlineVideoData.push([
+          
+              {'url': 'https://abcmedia.akamaized.net/news/video/201907/NOLs_Barnaby_1807_256k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '170', 'width': '320', 'height': '180', 'filesize': '3065583'}
+            ,
+              {'url': 'https://abcmedia.akamaized.net/news/video/201907/NOLs_Barnaby_1807_1000k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '928', 'width': '1024', 'height': '576', 'filesize': '14335618'}
+            ,
+              {'url': 'https://abcmedia.akamaized.net/news/video/201907/NOLs_Barnaby_1807_512k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '400', 'width': '512', 'height': '288', 'filesize': '6568608'}
+            
+            ]);
+            </script>
+        <a href="/news/2019-07-18/barnaby-joyce-says-newstart-needs-to-be-raised/11323458" class="inline-video"><script>
+    window.dataLayer.push({
+      'document':{
+        'embedded':{
+          'coremedia://video/11323458':{
+            'contentSource':'coremedia',
+            'contentType':'video',
+            'id':'11323458',
+            'uri':'coremedia://video/11323458',
+            'title':{
+              
+              'title':'Barnaby Joyce says Newstart needs to be raised',
+              
+            },
+            'mediaDuration':'110',
+            
+            'transcriptAvailable':'false',
+            
+            'streamType':'ondemand',
+            
+            'classification':'none',
+            
+          },
+        },
+      },
+    })
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11195158-16x9-700x394.jpg" alt="Nationals MP Barnaby Joyce lends his voice to the calls for a re-think of Newstart. " title="Barnaby Joyce" width="700" height="394"/>
+</a><a href="/news/2019-07-18/barnaby-joyce-says-newstart-needs-to-be-raised/11323458" class="inline-caption"><strong>Video:</strong> Nationals MP Barnaby Joyce lends his voice to the calls for a re-think of Newstart. 
+
+<span class="source">(ABC News)</span>
+      </a></div><p> </p><p>The comments attracted the ire of One Nation leader Pauline Hanson, who slammed Mr Joyce.</p><p>"He feels skint? Where are the tissues, my God?" she said on Today.</p><p>"What a ridiculous, stupid way to explain himself and he is saying Newstart allowance, people need a helping hand, which I've been saying for some time now."</p><p>About 723,000 Australians receive the Newstart allowance. If they are single they live on about $40 a day.</p><p>The payment has not increased in real terms for 25 years.</p><p>Welfare groups, the business community and politicians across the political spectrum have called for an increase in Newstart payments.</p><p>The Government has repeatedly rejected those calls and insisted two-thirds of people on Newstart found work within 12 months.</p><div class="inline-content photo full">
+    <a href="/news/2019-07-29/barnaby-joyce-inside-the-house-of-represenatives-1/11359004">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11358988-3x2-700x467.jpg" alt="Barnaby Joyce bows his head for the morning prayer inside the House of Representatives" title="Barnaby Joyce inside the House of Representatives" width="700" height="467"/>
+</a><a href="/news/2019-07-29/barnaby-joyce-inside-the-house-of-represenatives-1/11359004" class="inline-caption"><strong>
+        Photo:</strong>
+       Barnaby Joyce says supporting two families is a tough financial burden. <span class="source">(ABC News: Marco Catalano)</span>
+      </a></div><p><br/> </p>
+
+
+<p class="topics">
+	<strong>Topics:</strong>
+	
+	<a href="/news/topic/government-and-politics">government-and-politics</a>,
+
+
+	
+	<a href="/news/topic/nationals">nationals</a>,
+
+
+	
+	<a href="/news/topic/australia">australia</a>
+	
+</p>
+
+
+  <p class="published">
+    First posted 
+    <span class="timestamp">
+      July 29, 2019 11:40:26
+    </span>
+  </p>
+<!--noindex-->
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <div class="section localised-top-stories">
+        <div class="inner">
+          <h2>Top Stories</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/bill-shorten-breaks-election-loss-silence-for-robodebt-concern/11366148">Shorten on grieving the election that would have made him Prime Minister</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/working-mothers-more-stressed-than-fathers-report-finds/11365632">Working mothers more stressed than fathers, while cost of child care doubles</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/antarctica-china-code-of-conduct-dome-a/11318646">&#039;Australia would be alarmed&#039;: Concern over Chinese plan for Antarctic</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/more-australian-borrowers-falling-into-mortgage-arrears/11365288">&#039;Probably the biggest mistake of my life&#039;: More Australians struggling to repay their mortgage</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/canadian-town-in-lockdown-after-potential-fugitive-sighting/11365448">&#039;Everyone&#039;s on lockdown&#039;: Remote Canadian community fears fugitives are near</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/paladinamber-claps-back-at-trolls-in-her-twitch-stream/11364982">Trolls harassed Amber for foot play. Instead she roasted them in front of millions</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/the-women-behind-bars-breaching-domestic-violence-order/11330408">Annie called police for help 19 times before she stabbed her husband. Now she&#039;s facing jail</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/brisbane-man-drifting-at-sea-for-three-days-rescued/11367028">Brisbane man rescued after drifting in Solomon Sea for three days</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/frankston-graffiti-message-to-chris-goes-viral/11366622">&#039;Talk 2 me b4 baby is born&#039;: Graffiti removed after messages scrawled across suburb</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/home-affairs-deal-crown-casinos-to-fast-track-chinese-visitors/11365068">Integrity investigation ordered into Crown Casino allegations</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/siham-carollisen-defends-charges-of-stealing-from-ill-mother/11365882">Charity founder tearfully tells court she did not steal $140,000 from her ill mother</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/presentation-college-windsor-catholic-girls-school-to-close/11364188">&#039;What does she do for Year 12?&#039;: Students in limbo as Melbourne Catholic girls school shuts</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/garden-island-wa-naval-base-hidden-history/11351430">Garden Island is home to Australia&#039;s largest naval base, but where&#039;s the garden?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/northern-territory-liquor-licensing-affecting-household-product/11365674">Retailers warned selling sauces could violate NT liquor laws</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/dairy-workers-pay-claim-hit-by-surprise-counterclaim-for-rent/11365628">Dairy workers claiming underpayment hit with surprise rent bill ahead of Federal Court hearing</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/indonesia-cracks-down-on-overweight-male-police-officers/11364876">&#039;How will they serve vigilantly?&#039;: Indonesia cracks down on overweight police officers</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/history-of-amazon-acres-nsw-community-female-only/11095974">Naked, wild and free: The women who set out to build utopia on a remote mountaintop</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/dental-clinic-temporarily-closed-cairns-hiv-hepatitis-c-risk/11367286">HIV and hepatitis C risk to dental patients at Far North Queensland clinic</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/missile-launcher-in-us-mans-luggage-at-airport/11367026">Missile launcher confiscated from US man&#039;s luggage</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/commuting-times-soar-with-house-prices-population-boom-blamed/11346258">These are the jobs and cities with the longest commute times. Where are you?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/superannation-young-women-fear-retirement-canberra-ywca-report/11365120">She&#039;s 29 — but Zoya is already worried about how she&#039;ll fund her retirement</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2019-07-30/overconfidence-study-help-hindrance/11365430">Think you&#039;re better than the average person? That could be your overconfidence talking</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/baby-killer-committal-hearing/11366216">Baby who died from head injury had &#039;unsafe sleeping arrangements&#039; at home, court told</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/shayna-jack-instagram-post-promotes-supplement-drug-test-result/11364344"><em>SPORT</em>
+      Shayna Jack promoted a sports supplement on social media last year</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="section graphic">
+  <a href="http://m.me/abcnews.au?ref=welcomefromABCNewshomepage">
+  <img src="/cm/lb/10757972/data/messenger-data.png" alt="Get the headlines to your mobile. NEWS on Messenger." title="Get the headlines to your mobile. NEWS on Messenger." height="70" width="220" />
+  </a>
+</div>
+<div class="connect-with-abc section promo">
+<h2>Connect with ABC News</h2>
+<ul>
+    <li><a href="http://www.facebook.com/abcnews.au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388890/data/facebook-data.png" alt="ABC News on Facebook" title="ABC News on Facebook" width="30" height="30" />
+    </a></li>
+    <li><a href="http://instagram.com/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389068/data/instagram-data.png" alt="ABC News on Instagram" title="ABC News on Instagram" width="32" height="31" />
+    </a></li>
+    <li><a href="http://www.twitter.com/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388894/data/twitter-data.png" alt="ABC News on Twitter" title="ABC News on Twitter" width="32" height="27" />
+    </a></li>
+    <li><a href="http://www.youtube.com/newsonabc" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389052/data/youtube-data.png" alt="ABC News on YouTube" title="ABC News on YouTube" width="50" height="22" />
+    </a></li>
+
+    <li><a href="https://apple.news/TsieN9U-WQ0SZbtP1VTI4uQ" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8458084/data/applenews-data.png" alt="ABC News on Apple News" title="ABC News on Apple News" width="32" height="32" />
+    </a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="section graphic">
+  <a href="/news/feeds/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/4745996/thumbnail/news-podcasts-sidebar-graphic-promo-thumbnail.jpg" alt="News Podcasts" title="News Podcasts" class="" width="220" />
+</a></div><div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/tip-off/"
+    >
+  
+
+  
+    
+        <span>Got a news tip?</span>
+    
+    
+  
+
+  </a>
+</h2><p>If you have inside knowledge of a topic in the news, <a href="/news/contact/tip-off/" target="_self" title="">contact the ABC</a>.</p></div>
+  </div>
+<div class="related">
+<div class="newsmail-signup card">
+<h2>News in your inbox</h2>
+<span class="spiel">Top headlines, analysis, breaking&nbsp;alerts</span>
+
+<div class="form main">
+</div>
+<a href="/news/alerts/subscribe/">More info</a>
+</div>
+</div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/news/about/backstory/"
+    >
+  
+
+  
+    
+        <span>ABC Backstory</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="https://www.abc.net.au/news/about/backstory/" target="_self" title="">ABC teams share the story behind the story and insights into the making of digital, TV and radio content.</a></p></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/"
+    >
+  
+
+  
+    
+        <span>Editorial Policies</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Read about our editorial guiding principles and the enforceable standard our journalists follow.</a></p></div>
+  </div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <div class="page section featured-scroller featured-scroller-4 dark">
+<div class="section">
+  <h2>Features</h2>
+  </div>
+<div class="inner">
+  <ol class="subcolumns">
+    <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-30/hilda-survey-shows-why-australians-dont-feel-better-off/11365200" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/8411712-16x9-220x124.jpg" alt="A child holds its parents hands." title="Child holds hands of mum and dad parenting generic" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  This is why you feel no better off</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>The latest Household, Income and Labour Dynamics Survey explains why people feel they are going backwards despite official statistics.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-29/shayna-jack-case-a-reminder-of-dangers-of-sports-supplements/11363376" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11353654-16x9-220x124.jpg" alt="Shayna Jack shouts as she watches relay teammates race in the pool" title="Shayna Jack yells from the sidelines" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Jack case a warning on supplements</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By senior national sport reporter <a href="/news/david-mark/167166" target="_self" title="">David Mark</a></p>
+		<p>Shayna Jack is the not the first athlete to point to a secondary source after a positive drug test, but experts say the warnings are very clear when it comes to athletes taking sports supplements.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-30/republicans-first-black-congresswoman-on-donald-trump/11363218" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/10558250-16x9-220x124.jpg" alt="A close up shot of US representative Mia Love talking into a microphone." title="Congresswoman Mia Love slams Trump " width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Opinion: Trump should apologise for racist tweets</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Most Republicans do not believe Mr Trump is a racist. This is why his recent remarks are so troubling to me, to people of colour and to many Trump supporters throughout the country.</p>
+	 </div>
+    </li>
+         <li class="c25r">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-29/trump-administration-after-assange-and-it-serves-as-a-warning/11350854" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/10995530-16x9-220x124.jpg" alt="Julian Assange gestures as he arrives at Westminster Magistrates&#039; Court in London." title="Julian Assange in police van" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  The end of the Trump-WikiLeaks love story</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By <a href="/news/michael-brissenden/166894" target="_self" title="">Michael Brissenden</a></p>
+		<p>The WikiLeaks founder's detractors say that despite their dislike for the man, we need to separate him from the charges against him as his prosecution could have grave implications for us all.</p>
+	 </div>
+    </li>
+         </ol>
+</div></div><div id="footer-stories" class="page section">
+    <div class="subcolumns">
+    <div class="c25l">
+        <div class="section">
+          <h2>Top Stories</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/bill-shorten-breaks-election-loss-silence-for-robodebt-concern/11366148">Shorten on grieving the election that would have made him Prime Minister</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/working-mothers-more-stressed-than-fathers-report-finds/11365632">Working mothers more stressed than fathers, while cost of child care doubles</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/antarctica-china-code-of-conduct-dome-a/11318646">&#039;Australia would be alarmed&#039;: Concern over Chinese plan for Antarctic</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/more-australian-borrowers-falling-into-mortgage-arrears/11365288">&#039;Probably the biggest mistake of my life&#039;: More Australians struggling to repay their mortgage</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/canadian-town-in-lockdown-after-potential-fugitive-sighting/11365448">&#039;Everyone&#039;s on lockdown&#039;: Remote Canadian community fears fugitives are near</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/paladinamber-claps-back-at-trolls-in-her-twitch-stream/11364982">Trolls harassed Amber for foot play. Instead she roasted them in front of millions</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/the-women-behind-bars-breaching-domestic-violence-order/11330408">Annie called police for help 19 times before she stabbed her husband. Now she&#039;s facing jail</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/brisbane-man-drifting-at-sea-for-three-days-rescued/11367028">Brisbane man rescued after drifting in Solomon Sea for three days</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/frankston-graffiti-message-to-chris-goes-viral/11366622">&#039;Talk 2 me b4 baby is born&#039;: Graffiti removed after messages scrawled across suburb</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/home-affairs-deal-crown-casinos-to-fast-track-chinese-visitors/11365068">Integrity investigation ordered into Crown Casino allegations</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Just In</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/pakistan-plane-crash-kills-at-least-18-people/11366522">At least 18 dead after Pakistani military plane crashes into homes</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/tenterfield-rural-aid-desalination-plant-delivered/11367702">Town turning on a new tap thanks to donations from across Australia</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/canadian-town-in-lockdown-after-potential-fugitive-sighting/11365448">&#039;Everyone&#039;s on lockdown&#039;: Remote Canadian community fears fugitives are near</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/siham-carollisen-defends-charges-of-stealing-from-ill-mother/11365882">Charity founder tearfully tells court she did not steal $140,000 from her ill mother</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/working-mothers-more-stressed-than-fathers-report-finds/11365632">Working mothers more stressed than fathers, while cost of child care doubles</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/de-belin-federal-court-arlc-response/11367644">A scandal every 22 days: NRL&#039;s &#039;Summer of Hell&#039; invoked in response to de Belin appeal</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/wests-tigers-great-robbie-farah-to-retire-from-nrl/11365130">&#039;Now the time is right&#039;: Wests Tigers great Robbie Farah announces retirement</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/frankston-graffiti-message-to-chris-goes-viral/11366622">&#039;Talk 2 me b4 baby is born&#039;: Graffiti removed after messages scrawled across suburb</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/victorian-public-housing-rental-increase/11365740">Public housing residents overwhelmed with rent increase</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/more-australian-borrowers-falling-into-mortgage-arrears/11365288">&#039;Probably the biggest mistake of my life&#039;: More Australians struggling to repay their mortgage</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Most Popular</h2><ul class="headlines">
+  <li>
+    <a href="/news/2019-07-30/history-of-amazon-acres-nsw-community-female-only/11095974">Naked, wild and free: The women who set out to build utopia on a remote mountaintop</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/commuting-times-soar-with-house-prices-population-boom-blamed/11346258">These are the jobs and cities with the longest commute times. Where are you?</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/shayna-jack-instagram-post-promotes-supplement-drug-test-result/11364344">Shayna Jack promoted a sports supplement on social media last year</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/canada-murder-suspects-believed-spotted-scavenging-for-food/11365144">Bear Clan Patrol spots fugitive Canadian teens &#039;scavenging for food&#039; in remote dump</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/man-pushes-boy-in-front-of-train-in-germany-killing-him/11364662">Man pushes boy in front of train in Germany, killing him</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-29/ato-lists-weirdest-tax-claims-that-got-rejected/11362492">A $58k wedding, $20k for &#039;raising twins&#039;, beer and a Lego set among &#039;weirdest&#039; claims ATO rejected</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-29/humpback-whale-appears-to-swallow-sea-lion-by-mistake/11363370">Sea lion ends up in humpback&#039;s mouth in remarkable feeding frenzy mix-up</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/home-affairs-deal-crown-casinos-to-fast-track-chinese-visitors/11365068">Integrity investigation ordered into Crown Casino allegations</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/scotland-greets-boris-johnson-with-boos-and-a-frosty-handshake/11364790">Boris Johnson greeted with loud boos and a frosty handshake in Scotland</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/the-women-behind-bars-breaching-domestic-violence-order/11330408">Annie called police for help 19 times before she stabbed her husband. Now she&#039;s facing jail</a>
+
+</li>
+</ul></div>
+      </div>
+    <div class="c25r">
+        <div class="section">
+          <h2>Analysis &amp; Opinion</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/hilda-survey-shows-why-australians-dont-feel-better-off/11365200">Feeling worse off despite changing gender roles and less reliance on welfare? You&#039;re not alone </a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/dockers-and-eagles-keen-to-snare-tim-kelly/11363844">The race is on to lure Tim Kelly back to WA, but have West Coast priced themselves out of the contest?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/republicans-first-black-congresswoman-on-donald-trump/11363218">I was the first black Republican congresswoman. This is what I think of Trump&#039;s tweets</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/asx-200-finally-makes-it-back-to-its-record-high/11313140">ASX finally makes it back to its record high — why has it taken so long?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/australian-women-ashes-team-beating-england-without-difficulty/11356398">Australians don&#039;t even need something special to beat England</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/fremantle-dockers-slump-west-coast-eagles-soar-into-afl-finals/11355342">It&#039;s a rerun of the same &#039;bad movie&#039; — a Dockers season fade out as the Eagles soar to the finals</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/government-wants-to-prevent-senate-inquiry-into-angus-taylor/11355388">It&#039;s D-Day for Angus Taylor. Here&#039;s why One Nation holds the key to his fate</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/inflation-may-be-low-but-our-cost-of-living-is-rising/11350530">You can&#039;t always get what you need, but you can afford what you want</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/lawyer-x-royal-commission-hearings-risk-straying-into-farce/11355076">Lawyer X inquiry hearings risk resembling Abbott and Costello comedy skit</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/will-australia-dare-to-win-edgbaston-ashes-test/11354864">Will Australia dare to win at Edgbaston? Or try not to lose?</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+<!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
+        </div>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/"
+    >
+  
+
+  
+    
+        <span>ABC News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/world/"
+    >
+  
+
+  
+    
+        <span>World</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/business/"
+    >
+  
+
+  
+    
+        <span>Business</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/health/"
+    >
+  
+
+  
+    
+        <span>Health</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/entertainment/"
+    >
+  
+
+  
+    
+        <span>Entertainment</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sport/"
+    >
+  
+
+  
+    
+        <span>Sport</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Analysis &amp; Opinion</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/weather/"
+    >
+  
+
+  
+    
+        <span>Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/topics/"
+    >
+  
+
+  
+    
+        <span>Topics</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/archive/"
+    >
+  
+
+  
+    
+        <span>Archive</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local Weather</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/sydney/weather/"
+    >
+  
+
+  
+    
+        <span>Sydney Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/melbourne/weather/"
+    >
+  
+
+  
+    
+        <span>Melbourne Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/adelaide/weather/"
+    >
+  
+
+  
+    
+        <span>Adelaide Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/brisbane/weather/"
+    >
+  
+
+  
+    
+        <span>Brisbane Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/perth/weather/"
+    >
+  
+
+  
+    
+        <span>Perth Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/hobart/weather/"
+    >
+  
+
+  
+    
+        <span>Hobart Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/darwin/weather/"
+    >
+  
+
+  
+    
+        <span>Darwin Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/canberra/weather/"
+    >
+  
+
+  
+    
+        <span>Canberra Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local News</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/sydney/news/"
+    >
+  
+
+  
+    
+        <span>Sydney News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/melbourne/news/"
+    >
+  
+
+  
+    
+        <span>Melbourne News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/adelaide/news/"
+    >
+  
+
+  
+    
+        <span>Adelaide News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/brisbane/news/"
+    >
+  
+
+  
+    
+        <span>Brisbane News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/perth/news/"
+    >
+  
+
+  
+    
+        <span>Perth News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/hobart/news/"
+    >
+  
+
+  
+    
+        <span>Hobart News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/darwin/news/"
+    >
+  
+
+  
+    
+        <span>Darwin News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/canberra/news/"
+    >
+  
+
+  
+    
+        <span>Canberra News</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/news/subscribe"
+    >
+  
+
+  
+    
+        <span>Newsletters</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="https://mobile.abc.net.au/news/2019-07-29/barnaby-joyce-says-hes-struggling-on-211-thousand-dollar-income/11357798?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+  <!-- Start Webtrends -->
+  <div class="hide">
+    </div>
+  <!-- End Webtrends -->
+  <!--endnoindex--><!--Global footer-->
+  <!-- Start ABC Bundle Footer 2.5.0 (customised - p1) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.5.0">
+ <ul>
+  <li><a href="https://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+  <li><a href="https://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a href="https://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+  <li><a href="https://about.abc.net.au/talk-to-the-abc/">Contact the ABC</a></li>
+  <li><a href="https://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2019</time> ABC</a></li>
+ </ul>
+</nav>
+
+<!-- ABC.Bundle Scripts -->
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.5.0/scripts/abc.bundle.2.5.0.min.js"></script>
+<!-- End ABC.Bundle Scripts -->
+
+<!-- Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=abc-aust&cg=0&cc=1&ts=noscript" width="1" height="1" alt=""></div></noscript>
+<!-- End Nielsen Online SiteCensus V6.0 -->
+
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+ // <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+<!-- ABC MyLogin -->
+<script type="text/javascript" src="https://mylogin.abc.net.au/js/abc.mylogin.embedded.js"></script>
+<script type="text/javascript">ABC.MyLoginEmbedded.init();</script>
+<!-- End ABC MyLogin -->
+
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.5.0 (p1) -->
+<!--end global footer-->
+  </body>
+  </html>

@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/" lang="en-us" prefix="fb:http://ogp.me/ns/fb# og:http://ogp.me/ns#">
+
+    <head>
+    <title>Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report</title>
+    <meta charset="utf-8">
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no,width=device-width">
+    <meta name="referrer" content="unsafe-url">
+    <meta name="apple-mobile-web-app-title" content="The Next Web">
+    <meta name="msvalidate.01" content="EBA9DC0DD4E376AF9708F73323680AB1">
+
+    <meta itemprop="name" content="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report">
+    <meta name="description" content="Venezuela appears to be leveraging cryptocurrencies as part of a larger effort to bypass US sanctions.">
+    <meta property="og:locale" content="en_US">
+
+    <link rel="dns-prefetch" href="//cdn0.tnwcdn.com/">
+    <link rel="dns-prefetch" href="//cdn4.tnwcdn.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com">
+    <link rel="preconnect" href="//cdn0.tnwcdn.com/">
+    <link rel="preconnect" href="//cdn4.tnwcdn.com/">
+    <link rel="preconnect" href="//www.googletagmanager.com">
+    <link rel="manifest" href="/manifest.json">
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/apple-touch-icon-57x57.png?v=1510743095" sizes="57x57">
+    <link rel="apple-touch-icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/apple-touch-icon-60x60.png?v=1510743095" sizes="60x60">
+    <link rel="apple-touch-icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/apple-touch-icon-72x72.png?v=1510743095" sizes="72x72">
+    <link rel="apple-touch-icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/apple-touch-icon-76x76.png?v=1510743095" sizes="76x76">
+    <link rel="apple-touch-icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/apple-touch-icon-114x114.png?v=1510743095" sizes="114x114">
+    <link rel="apple-touch-icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/apple-touch-icon-120x120.png?v=1510743095" sizes="120x120">
+    <link rel="apple-touch-icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/apple-touch-icon-144x144.png?v=1510743095" sizes="144x144">
+    <link rel="apple-touch-icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/apple-touch-icon-152x152.png?v=1510743095" sizes="152x152">
+    <link rel="apple-touch-icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/apple-touch-icon-180x180.png?v=1510743095" sizes="180x180">
+    <link rel="icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/favicon-16x16.png?v=1510743095" sizes="16x16" type="image/png">
+    <link rel="icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/favicon-32x32.png?v=1510743095" sizes="32x32" type="image/png">
+    <link rel="icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/favicon-96x96.png?v=1510743095" sizes="96x96" type="image/png">
+    <link rel="icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/favicon-194x194.png?v=1510743095" sizes="194x194" type="image/png">
+    <link rel="icon" ref="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/android-chrome-192x192.png?v=1510743095" sizes="192x192" type="image/png">
+    <link rel="shortcut icon" ref="/sub-brand/hardfork.ico">
+    <meta name="apple-mobile-web-app-title" content="Hard Fork">
+    <meta name="application-name" content="Hard Fork">
+    <meta name="theme-color" content="#660099">
+    <link rel="alternate" type="application/rss+xml" title="The Next Web RSS Feed" href="http://feeds2.feedburner.com/thenextweb">
+
+
+    <!-- BEGIN TAGS -->
+    <!-- Social Provider -->
+    <link href="" rel="publisher">
+    <meta name="yandex-verification" content="66df89eec58f9170">
+    <meta property="fb:app_id" content="378011798897423">
+        <meta property="fb:pages" content="106976563522">
+        <meta property="fb:pages" content="136548879865026">
+        <meta property="fb:pages" content="252857631761065">
+        <meta property="fb:pages" content="665773266831844">
+        <meta name="twitter:account_id" content="10876852">
+
+
+    
+    
+        <!-- Tag Realm: Article -->
+    <meta name="author" content="Yessi Bello Perez">
+    <meta name="original-source" content="https://thenextweb.com/hardfork/2019/07/26/venezuela-bitcoin-airport-taxes-us-dollars/" />
+    <link rel="canonical" href="https://thenextweb.com/hardfork/2019/07/26/venezuela-bitcoin-airport-taxes-us-dollars/" />
+    <link rel="amphtml" href="https://thenextweb.com/hardfork/2019/07/26/venezuela-bitcoin-airport-taxes-us-dollars/amp/">
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" />
+    <meta property="og:description" content="Venezuela appears to be leveraging cryptocurrencies as part of a larger effort to bypass US sanctions." />
+    <meta property="og:url" content="https://thenextweb.com/hardfork/2019/07/26/venezuela-bitcoin-airport-taxes-us-dollars/" />
+    <meta property="og:site_name" content="Hard Fork | The Next Web" />
+    <meta property="og:updated_time" content="2019-07-26T11:02:09+00:00">
+    <meta property="article:publisher" content="https://www.facebook.com/thenextweb" />
+    <meta property="article:author" content="https://www.facebook.com/thenextweb" />
+    <meta property="article:published_time" content="2019-07-26T11:02:04+00:00">
+    <meta property="article:modified_time" content="2019-07-26T11:02:09+00:00">
+    <meta name="twitter:title" content="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" />
+    <meta name="twitter:description" content="Venezuela appears to be leveraging cryptocurrencies as part of a larger effort to bypass US sanctions." />
+    <meta name="twitter:site" content="@thenextweb" />
+    <meta name="twitter:creator" content="@thenextweb" />
+    <meta name="twitter:card" content="summary_large_image">
+    
+
+    <!-- Weborama -->
+    
+    <script type='text/javascript'>
+    var wamid = '4925';
+    var typ = '1';
+    var Wvar ={
+       "tnw-keywords": ["bitcoin","insights","Venezuela","Cryptocurrency","International sanctions","Tax revenue","Bitcoin","United States dollar","Nicolás Maduro","Government"],
+       "tnw-category": ["hardfork"]
+    };
+
+    (function(){
+        var w = document.createElement("script");
+        w.type = "text/javascript";
+        w.src = document.location.protocol + "//cstatic.weborama.fr/js/wam/customers/wamfactory_dpm.wildcard.min.js?rnd="+new Date().getTime();
+        w.async = true;
+        var body = document.getElementsByTagName('script')[0];
+        body.parentNode.insertBefore(w,body);
+    })();
+    </script>
+    <!-- End Weborama -->
+
+            
+                    
+                        <meta property="og:image" content="https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F07%2FUntitled-design-7.jpg&signature=d912021bc2431707994669d4d0f67b4c">
+            <meta property="og:image:secure_url" content="https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F07%2FUntitled-design-7.jpg&signature=d912021bc2431707994669d4d0f67b4c">
+            <meta property="twitter:image" content="https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F07%2FUntitled-design-7.jpg&signature=d912021bc2431707994669d4d0f67b4c">
+                <meta property="og:image:width" content="1280" />
+        <meta property="og:image:height" content="640" />
+    
+    
+    
+        <!-- JSON-LD breadcrumbs -->
+        <script type="application/ld+json">{"@context":"http:\/\/schema.org","@id":"#Breadcrumb","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/thenextweb.com\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/thenextweb.com\/hardfork\/","name":"Hard Fork"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/thenextweb.com\/hardfork\/2019\/07\/26\/venezuela-bitcoin-airport-taxes-us-dollars\/","name":"Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report"}}]}</script>
+        <!-- JSON-LD schema -->
+        <script type="application/ld+json">{"@context":"http:\/\/schema.org","@id":"https:\/\/data.thenextweb.com\/hardfork\/2019\/07\/26\/venezuela-bitcoin-airport-taxes-us-dollars\/","@type":"NewsArticle","description":"Venezuela appears to be leveraging cryptocurrencies as part of a larger effort to bypass\u00a0US sanctions. According to an investigation by Spanish newspaper ABC, President Nicolas Maduro and his administration are using a digital wallet app called Jetman Pay to convert tax revenue from one of the country\u2019s main airports into Bitcoin and other cryptocurrencies. The [&hellip;]\n","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/thenextweb.com\/hardfork\/2019\/07\/26\/venezuela-bitcoin-airport-taxes-us-dollars\/","breadcrumb":{"@id":"#Breadcrumb"}},"headline":"Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report","datePublished":"2019-07-26T11:02:04","dateModified":"2019-07-26T11:02:09","wordCount":236,"publisher":{"@type":"Organization","@id":"http:\/\/data.thenextweb.com\/tnw\/entity\/the_next_web","name":"The Next Web","sameAs":["https:\/\/en.wikipedia.org\/wiki\/The_Next_Web","https:\/\/www.facebook.com\/thenextweb","https:\/\/www.twitter.com\/thenextweb","https:\/\/plus.google.com\/+TheNextWeb\/","https:\/\/instagram.com\/thenextweb","https:\/\/www.youtube.com\/user\/thenextweb","https:\/\/www.pinterest.com\/thenextweb\/","https:\/\/www.linkedin.com\/company\/the-next-web","https:\/\/vine.co\/thenextweb","https:\/\/thenextweb.tumblr.com","https:\/\/soundcloud.com\/thenextweb","https:\/\/vimeo.com\/thenextweb","https:\/\/vk.com\/thenextweb","https:\/\/www.slideshare.net\/thenextweb","https:\/\/flipboard.com\/@thenextweb","https:\/\/storify.com\/thenextweb","https:\/\/www.stumbleupon.com\/channel\/thenextweb","https:\/\/www.flickr.com\/photos\/thenextweb\/","https:\/\/foursquare.com\/thenextweb"],"logo":{"@type":"ImageObject","url":"https:\/\/cdn1.tnwcdn.com\/wp-content\/blogs.dir\/1\/files\/2016\/06\/tnw-logo-amp.png","width":284,"height":60}},"author":{"@type":"Person","@id":"http:\/\/data.thenextweb.com\/tnw\/user\/yessibelloperez","name":"Yessi Bello Perez","url":"https:\/\/thenextweb.com\/author\/yessibelloperez"},"articleSection":"cryptocurrency","dateCreated":"2019-07-26T11:02:04","name":"Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report","url":"https:\/\/thenextweb.com\/hardfork\/2019\/07\/26\/venezuela-bitcoin-airport-taxes-us-dollars\/","articleBody":"Venezuela appears to be leveraging cryptocurrencies as part of a larger effort to bypass\u00a0US sanctions.\nAccording to an investigation by Spanish newspaper ABC, President Nicolas Maduro and his administration are using a digital wallet app called Jetman Pay to convert tax revenue from one of the country\u2019s main airports into Bitcoin and other cryptocurrencies.\n            \n                \n            \n             \n            \n                window.jwLibrary = \"AXGgFnXj\";\n            \n        \nThe newspaper claims to have unearthed a scheme whereby cryptocurrencies are sent to foreign exchanges in Russia, China, Hong Kong, and Hungary. Once received, the funds are converted into US dollars and sent back to Venezuela.\nFor the moment, Jetman Pay is only being used by Maiquetia International Airport (IAIM), but Maduro and his government are thought to be holding talks to expand the app\u2018s use.\nVenezuela\u2018s economy has been battling severe hyperinflation\u00a0for years and cryptocurrency seems to have piqued Maduro\u2018s interest in recent times.\nEarlier this month, he ordered that every branch of the Banco de Venezuela should let citizens buy and trade El Petro, the state-issued cryptocurrency he\u2019s hoping will provide a much-needed workaround economic sanctions.\nEl Petro was first introduced last year, after Maduro said on a state-run television channel that it would be used in\u00a0international transactions starting from October 1, but the cryptocurrency\u00a0failed to catch on.\nAlthough cryptocurrency is seemingly providing a short-term solution, Venezuela\u2018s problems go well beyond what Bitcoin et al. could possibly solve.","copyrightYear":"2019","sourceOrganization":{"@id":"http:\/\/data.thenextweb.com\/tnw\/entity\/the_next_web"},"copyrightHolder":{"@id":"http:\/\/data.thenextweb.com\/tnw\/entity\/the_next_web"},"interactionStatistic":[{"@type":"InteractionCounter","interactionService":{"@type":"Website","name":"Twitter","url":"http:\/\/www.twitter.com"},"interactionType":"https:\/\/schema.org\/ShareAction","userInteractionCount":0},{"@type":"InteractionCounter","interactionService":{"@type":"Website","name":"Facebook","url":"http:\/\/www.facebook.com"},"interactionType":"https:\/\/schema.org\/ShareAction","userInteractionCount":0},{"@type":"InteractionCounter","interactionType":"https:\/\/schema.org\/CommentAction","userInteractionCount":"0"}],"image":{"@type":"ImageObject","url":"https:\/\/cdn0.tnwcdn.com\/wp-content\/blogs.dir\/1\/files\/2019\/07\/Untitled-design-7.jpg","width":1200,"height":628}}</script>
+            <!-- END TAGS -->
+
+    <script src="//cdn0.tnwcdn.com/sub-brand/assets/js/lib/modernizr-custom.js"></script>
+    <link href="//cdn0.tnwcdn.com/sub-brand//css/genesis.css?id=de3da8b7a2e0b3c6d7b4" rel="stylesheet" type="text/css" >
+    <link href="//cdn0.tnwcdn.com/sub-brand//css/style.css?id=10c8149d8fea21070448" rel="stylesheet" type="text/css" >
+
+    <!-- DataLayer -->
+    <script type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        window.dataLayer = window.dataLayer || [];
+    </script>
+    <!-- TODO -->
+        <script type="text/javascript">
+        dataLayer.push({"page":[{"id":1232353,"url":"https:\/\/thenextweb.com\/hardfork\/2019\/07\/26\/venezuela-bitcoin-airport-taxes-us-dollars\/","words":1043,"time":"11:02 am","column":0,"fyi":0,"author":"Yessi Bello Perez","date":"2019-07-26","date_published":"2019-07-26 11-02","date_published_week":"2019-30","type":"Article","post-status":"publish","videos":0,"tags":[],"categories":["cryptocurrency","Hard Fork"],"sections":["Insights"],"companies":[],"profiles":[],"events":[],"topics":["Bitcoin"],"wordlift":["Venezuela","Cryptocurrency","International sanctions","Tax revenue","Bitcoin","United States dollar","Nicol\u00e1s Maduro","Government"],"comments":"0","social_title":"Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report","shares":{"fb":"","tw":"80","li":"","go":"","re":""},"ads":{"roadblocked":0,"sponsor":"","sponsoredCategory":"Yes","sponsored":"No","client":null,"campaign_name":null,"product_type":null}}]});
+    </script>
+    
+    
+        <script type="text/javascript">var msTag = {"site":"tnw","page":"article","data":{"category":"hardfork","isSponsoredCategory":"Yes","sponsorName":"","postId":1232353,"isSponsoredPost":"No"}};</script>
+                <script src="//massariuscdn.com/pubs/tnw/tnw_adtech_setup.js"></script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MHDDSC');</script>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHDDSC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+</head>
+    <body class="p-channel p-channel--hardfork" data-modules="post|stream">
+        <nav class="c-nav" id="nav">
+    <div class="c-nav-mobile">
+        
+        <div class="c-nav-mobile-wrapper">
+            <div class="c-nav-mobile-property">
+                <h6>TNW News</h6>
+                <ul>
+                    <li><a href="https://thenextweb.com/latest">Latest</a></li>
+                    <li><a href="https://thenextweb.com/hardfork"  class="is-active" >Hard Fork</a></li>
+                    <li><a href="https://thenextweb.com/plugged" >Plugged</a></li>
+                    <li><a href="https://thenextweb.com/work2030" >Work 2030</a></li>
+                    <li><a href="https://thenextweb.com/adobe-fundamentals" >Fundamentals</a></li>
+                </ul>
+            </div>
+            <div class="c-nav-mobile-tnw">
+                <h6>More TNW</h6>
+                <ul class="c-nav-tnw-properties">
+                    <li><a href="https://thenextweb.com/">News</a></li>
+                    <li><a href="https://thenextweb.com/conference">Events</a>
+                        <ul class="c-navMobile__subMenu">
+                            <li class="c-navMobile__subMenuItem">
+                                <a class="c-navMobile__subMenuLink evnts" data-event-action="Navigation" data-event-category="Hard Fork Decentralized" data-event-label="" href="https://thenextweb.com/hardfork-decentralized">- Hard Fork Decentralized 2019</a>
+                            </li>
+                            <li class="c-navMobile__subMenuItem">
+                                <a class="c-navMobile__subMenuLink evnts" data-event-action="Navigation" data-event-category="TNW Conference" data-event-label="" href="https://thenextweb.com/conference">- TNW Conference 2020</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="https://thenextweb.com/x">Enterprise</a></li>
+                    <li><a href="https://index.co/">Intelligence</a></li>
+                    <li><a href="https://answers.thenextweb.com/">Answers</a></li>
+                    <li><a href="https://tq.co/">Spaces</a></li>
+                </ul>
+                <h6>About TNW</h6>
+                <ul class="c-nav-tnw-company">
+                    <li><a href="https://thenextweb.com/about">About</a></li>
+                    <li><a href="https://thenextweb.com/team">Team</a></li>
+                    <li><a href="https://thenextweb.com/advertise">Advertise</a></li>
+                    <li><a href="https://thenextweb.homerun.co/">Jobs</a></li>
+                    <li><a href="https://thenextweb.com/contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <a class="c-nav-logo" href="/">
+        <svg><use xlink:href="/sub-brand/assets/img/icons.svg#tnw"></use></svg>
+    </a>
+    <a class="c-nav-logoChannel" href="/hardfork">
+        <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 116 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M8.886 4.24h4.225v15.541H8.886v-5.669H4.202v5.67H0V4.24h4.202v6.194h4.684V4.241zm14.096 0l5.625 15.541h-4.334l-.788-2.517h-4.99l-.788 2.517H13.35l5.647-15.54h3.984zm-.57 9.544l-1.4-4.487h-.044l-1.4 4.487h2.845zm15.672.613l3.523 5.384H36.77l-2.933-4.75h-.963v4.75h-4.027V4.241h6.216c3.918 0 5.669 2.32 5.669 5.516 0 2.276-.985 3.83-2.648 4.618v.022zM36.42 9.669c0-.963-.766-1.773-2.276-1.773h-1.27v3.546h1.27c1.313 0 2.276-.613 2.276-1.773zm19.24 2.364c0 4.574-2.956 7.748-7.99 7.748h-5.669V4.241h5.604c4.902 0 8.054 3.195 8.054 7.792zm-4.356 0c0-2.32-1.576-4.093-3.612-4.093h-1.664v8.142h1.358c2.363 0 3.918-1.816 3.918-4.049zm13.46-4.093h6.654v-3.7H60.736v15.541h4.028v-5.23h5.45v-3.678h-5.45V7.94zm22.74 4.071c0 4.75-3.348 7.989-8.076 7.989-4.771 0-8.076-3.261-8.076-7.989S74.657 4 79.428 4c4.728 0 8.077 3.24 8.077 8.011zm-4.355 0c0-2.276-1.51-4.115-3.72-4.115-2.19 0-3.744 1.817-3.744 4.115s1.555 4.115 3.743 4.115c2.21 0 3.721-1.817 3.721-4.115zm14.512 2.386l3.523 5.384h-4.837l-2.933-4.75h-.963v4.75h-4.027V4.241h6.216c3.918 0 5.669 2.32 5.669 5.516 0 2.276-.985 3.83-2.648 4.618v.022zm-1.664-4.728c0-.963-.766-1.773-2.276-1.773h-1.27v3.546h1.27c1.313 0 2.276-.613 2.276-1.773zm14.181-5.428a.547.547 0 0 0-.513.357l-1.99 5.395a.274.274 0 0 1-.257.18h-1.703V4.24h-4.137v15.54h4.137V13.85h3.7c.23 0 .435-.143.514-.358l1.99-5.395a.273.273 0 0 1 .257-.18h3.416V4.242h-5.414zm.643 15.54h4.771v-3.677h-4.771v3.677z" fill="#FFF" />
+</svg>
+    </a>
+    <div class="c-nav-tnw">
+        <ul class="c-nav-tnw-properties">
+            <li><a href="https://thenextweb.com/">News</a></li>
+            <li><a href="https://thenextweb.com/conference">Events <span class="ev_carat"> ▾</span></a>
+                <ul class="nav-tnw-dropdown-menu">                           
+                    <li class="c-navMobile__subMenuItem">
+                        <a class="c-navMobile__subMenuLink evnts" data-event-action="Navigation" data-event-category="Hard Fork Decentralized" data-event-label="" href="https://thenextweb.com/hardfork-decentralized">Hard Fork Decentralized 2019</a>
+                    </li>
+                    <li class="c-navMobile__subMenuItem">
+                        <a class="c-navMobile__subMenuLink evnts" data-event-action="Navigation" data-event-category="TNW Conference 2019" data-event-label="" href="https://thenextweb.com/conference">TNW Conference 2020</a>
+                    </li>
+                </ul>
+        
+            </li>
+            
+            <li><a href="https://index.co/">Business <span class="ev_carat"> ▾</span></a>
+                <ul class="nav-tnw-dropdown-menu-business">                           
+                    <li class="c-navMobile__subMenuItem">
+                        <a class="c-navMobile__subMenuLink evnts" data-event-action="Navigation" data-event-category="Index" data-event-label="" href="https://index.co/">Index</a>
+                    </li>
+                    <li class="c-navMobile__subMenuItem">
+                        <a class="c-navMobile__subMenuLink evnts" data-event-action="Navigation" data-event-category="TNW X" data-event-label="" href="https://thenextweb.com/x">TNW X</a>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="https://answers.thenextweb.com/">AMAs</a></li>
+            <li><a href="https://tq.co/">Spaces</a></li>
+        </ul>
+        <ul class="c-nav-tnw-company">
+            <li><a href="https://thenextweb.com/about">About</a></li>
+            <li><a href="https://thenextweb.com/team">Team</a></li>
+            <li><a href="https://thenextweb.com/advertise">Advertise</a></li>
+            <li><a href="https://thenextweb.homerun.co/">Jobs</a></li>
+            <li><a href="https://thenextweb.com/contact">Contact</a></li>
+        </ul>
+    </div>
+        
+    <div class="c-nav-property">
+        <ul class="c-nav-menu">
+            <li><a href="https://thenextweb.com/latest">Latest</a></li>
+            <li><a href="https://thenextweb.com/hardfork"  class="is-active" >Hard Fork</a></li>
+            <li><a href="https://thenextweb.com/plugged" >Plugged</a></li>
+            <li><a href="https://thenextweb.com/adobe-fundamentals" >Fundamentals</a></li>
+            <li><a href="https://thenextweb.com/work2030" >Work 2030</a></li>
+        </ul>
+        
+        <!-- <div class="nav-countdown tnw-countdown">
+	<div class="nav-countdown-wrapper">
+		<div class="nav-countdown-conf-ams17">
+            <img alt="TNW Conference" src="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/img/misc/conf-ams17-logo-red.svg">
+			<div class="nav-countdown-conf-ams17-text">
+                IS HAPPENING NOW!
+            </div>
+            <a href="https://thenextweb.com/conference/live" class="btn" target="_blank">WATCH IT LIVE!</a>
+		</div>
+	</div>
+</div> -->
+        
+        <ul class="c-nav-icons">
+            <li class="cookieConsent">
+                <a href="#"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#cookie"></use></svg></a>
+                <div class="cookieConsent-popOut">
+                    <header>
+                        <h2>Have a cookie</h2>
+                    </header>
+                    <main>
+                    <p>
+                    TNW uses cookies to personalize content and ads to
+                    make our site easier for you to use.
+                    We do also share that information with third parties for
+                    advertising &amp; analytics.
+                    </p>
+                    </main>
+                    <footer>
+                        <button class="button button--small" onclick="TNWCookieConsent.accept();"  data-event-category="Top" data-event-action="Cookies" data-event-label="OK" data-event-non-interaction="true">Got it!</button>
+                        <span>
+                            or <a href="/privacy-policy/"  data-event-category="Top" data-event-action="Cookies" data-event-label="More information" data-event-non-interaction="true">More info</a>
+                        </span>
+                    </footer>
+                </div>
+            </li>
+            <li class="c-nav-icons-toggleMenu">
+                <a class="c-nav-toggleMenu" href="#" id="navToggleMenu">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </a>
+            </li>
+        </ul>
+        
+        
+    </div>
+        
+            <a href="https://thenextweb.com/tq/2019/07/26/5-unmissable-events-in-amsterdam-to-improve-workplace-diversity/" target="_blank"  rel="noopener">
+	<div class="c-nav-message c-nav-message-answers">
+			It's Pride Week in Amsterdam 🏳️‍🌈 Don't miss our events on diversity & inclusion → 
+	</div>
+</a>
+            
+</nav>        <div class="app
+                app--withPromo
+        ">
+            <div class="app-main">
+                <div class="p-channel-banner">
+    <div class="u-wrapper">
+        <a class="p-channel-banner-logo" href="/hardfork">
+            <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 116 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M8.886 4.24h4.225v15.541H8.886v-5.669H4.202v5.67H0V4.24h4.202v6.194h4.684V4.241zm14.096 0l5.625 15.541h-4.334l-.788-2.517h-4.99l-.788 2.517H13.35l5.647-15.54h3.984zm-.57 9.544l-1.4-4.487h-.044l-1.4 4.487h2.845zm15.672.613l3.523 5.384H36.77l-2.933-4.75h-.963v4.75h-4.027V4.241h6.216c3.918 0 5.669 2.32 5.669 5.516 0 2.276-.985 3.83-2.648 4.618v.022zM36.42 9.669c0-.963-.766-1.773-2.276-1.773h-1.27v3.546h1.27c1.313 0 2.276-.613 2.276-1.773zm19.24 2.364c0 4.574-2.956 7.748-7.99 7.748h-5.669V4.241h5.604c4.902 0 8.054 3.195 8.054 7.792zm-4.356 0c0-2.32-1.576-4.093-3.612-4.093h-1.664v8.142h1.358c2.363 0 3.918-1.816 3.918-4.049zm13.46-4.093h6.654v-3.7H60.736v15.541h4.028v-5.23h5.45v-3.678h-5.45V7.94zm22.74 4.071c0 4.75-3.348 7.989-8.076 7.989-4.771 0-8.076-3.261-8.076-7.989S74.657 4 79.428 4c4.728 0 8.077 3.24 8.077 8.011zm-4.355 0c0-2.276-1.51-4.115-3.72-4.115-2.19 0-3.744 1.817-3.744 4.115s1.555 4.115 3.743 4.115c2.21 0 3.721-1.817 3.721-4.115zm14.512 2.386l3.523 5.384h-4.837l-2.933-4.75h-.963v4.75h-4.027V4.241h6.216c3.918 0 5.669 2.32 5.669 5.516 0 2.276-.985 3.83-2.648 4.618v.022zm-1.664-4.728c0-.963-.766-1.773-2.276-1.773h-1.27v3.546h1.27c1.313 0 2.276-.613 2.276-1.773zm14.181-5.428a.547.547 0 0 0-.513.357l-1.99 5.395a.274.274 0 0 1-.257.18h-1.703V4.24h-4.137v15.54h4.137V13.85h3.7c.23 0 .435-.143.514-.358l1.99-5.395a.273.273 0 0 1 .257-.18h3.416V4.242h-5.414zm.643 15.54h4.771v-3.677h-4.771v3.677z" fill="#FFF" />
+</svg>
+        </a>
+        <div class="p-channel-banner-partner">
+        <p>Powered by</p>
+        <a class="p-channel-banner-partner-link" data-event-category="Channel" data-event-action= "hardfork" data-event-label="Header Logo  - hardfork " href="https://www.etoro.com/" target="_blank"><img alt="eToro" class="p-channel-banner-partner-logo" src="/sub-brand/assets/channels/hardfork/partner.svg"></a>
+    </div>
+    
+    </div>
+            <div class="u-wrapper">
+            <p class="p-channel-banner-tagline">Blockchain, cryptocurrencies, and insider stories by TNW.</p>
+        </div>
+    </div>
+<div class="c-stream" id="stream">
+    <article class="c-post js-post" data-post="1232353" data-index="1">
+
+        <div class="u-wrapper">
+                <div class="ad">
+            <div class='ad-unit ad-unit--billboard' id='TNW_ROS_HEADER_1232353' data-ad='TNW_ROS_HEADER' ></div>
+        </div>
+                <header class="c-post-header">
+                            <ul class="c-tags c-tags--centered">
+                                        <li class="c-tags-tag p-channel-tag"><a href="https://thenextweb.com/topic/bitcoin/" target="_blank">Bitcoin</a></li>
+                                        <li class="c-tags-tag p-channel-tag"><a href="https://thenextweb.com/section/insights/" target="_blank">Insights</a></li>
+                                        <li class="c-tags-tag p-channel-tag"><a href="https://thenextweb.com/vocabulary/venezuela/" target="_blank">Venezuela</a></li>
+                                        <li class="c-tags-tag p-channel-tag"><a href="https://thenextweb.com/vocabulary/cryptocurrency/" target="_blank">Cryptocurrency</a></li>
+                                        <li class="c-tags-tag p-channel-tag"><a href="https://thenextweb.com/vocabulary/international-sanctions/" target="_blank">International sanctions</a></li>
+                                        <li class="c-tags-tag p-channel-tag"><a href="https://thenextweb.com/vocabulary/tax-revenue/" target="_blank">Tax revenue</a></li>
+                                        <li class="c-tags-tag p-channel-tag"><a href="https://thenextweb.com/vocabulary/bitcoin/" target="_blank">Bitcoin</a></li>
+                                        <li class="c-tags-tag p-channel-tag"><a href="https://thenextweb.com/vocabulary/united-states-dollar/" target="_blank">United States dollar</a></li>
+                                        <li class="c-tags-tag p-channel-tag"><a href="https://thenextweb.com/vocabulary/nicolas-maduro/" target="_blank">Nicolás Maduro</a></li>
+                                        <li class="c-tags-tag p-channel-tag"><a href="https://thenextweb.com/vocabulary/government/" target="_blank">Government</a></li>
+                                    </ul>
+                        <h1>Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report</h1>
+                        <div class="u-hideFrom-m">
+                <ul class="c-shareIcons">
+    <li><a class="c-shareIcons-icon c-shareIcons-icon--facebook" data-share-medium="facebook" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="https://tnw.to/dUS54" href="#"><svg viewBox="0 0 1 1"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sub-brand/assets/img/icons.svg#facebook"></use></svg></a></li>
+    <li><a class="c-shareIcons-icon c-shareIcons-icon--twitter" data-share-medium="twitter" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="https://tnw.to/R5myI" href="#"><svg viewBox="0 0 1 1"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sub-brand/assets/img/icons.svg#twitter"></use></svg></a></li>
+    <li><a class="c-shareIcons-icon c-shareIcons-icon--linkedin" data-share-medium="linkedin" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="" href="#"><svg viewBox="0 0 1 1"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sub-brand/assets/img/icons.svg#linkedin"></use></svg></a></li>
+    <li><a class="c-shareIcons-icon c-shareIcons-icon--flipboard" data-share-medium="flipboard" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="https://tnw.to/dUS54" href="#"><svg viewBox="0 0 1 1"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sub-brand/assets/img/icons.svg#flipboard"></use></svg></a></li>
+    <li><a class="c-shareIcons-icon c-shareIcons-icon--mail" data-share-medium="mail" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="" href="#"><svg viewBox="0 0 1 1"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sub-brand/assets/img/icons.svg#mail"></use></svg></a></li>
+</ul>
+            </div>
+        </header>
+        <div class="c-split">
+            <main class="c-split-main">
+                <div class="u-wrapper-bleed">
+                                        <div class="c-post-image"
+                        >
+                            <img alt="Venezuela" data-lazy data-src="https://img-cdn.tnwcdn.com/image?fit=1280%2C720&amp;url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F07%2FUntitled-design-7.jpg&amp;signature=918678504fb362fe7a56f800a7a2b7c2">
+                                                </div>
+                                </div>
+
+                
+                                    <div class="ad c-post-ad c-post-ad--top">
+                        <div class='ad-unit ad-unit' data-ad='TNW_ROS_TOP' id='TNW_ROS_TOP_1232353' ></div>
+                    </div>
+                                
+                <div class="c-post-split">
+                    <aside class="c-post-split-meta js-tnwSticky" data-sticky>
+                                            <div class="c-post-author">
+    <a href="https://thenextweb.com/author/yessibelloperez" target="_blank" rel="noopener"><img alt="Yessi Bello Perez" class="c-post-author-avatar" data-lazy data-src="https://img-cdn.tnwcdn.com/image/duotone?fit=240%2C240&amp;gradient=%23660099-%2300CCAA&amp;url=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fd87cfec5b41e8afd328a1812020897c7%3Fs%3D240&amp;signature=a952261d4a713e4ebcda62f1494d030a"></a>
+    <h6>Story by</h6>
+    <h5><a href="https://thenextweb.com/author/yessibelloperez" target="_blank" rel="noopener">Yessi Bello Perez</a></h5>
+</div>                                            <div class="c-post-split-sticky js-tnwSticky-content">
+                            <ul class="c-post-engage">
+        <li>
+        <div class="c-post-engage-shares">
+            <div class="c-post-engage-shares-number">
+                66            </div>
+            <div class="c-post-engage-shares-label">Shares</div>
+        </div>
+    </li>
+    <!--
+    <li>
+        <a class="c-post-engage-comments" data-comments-show href="#comments-1232353">
+            <svg><use xlink:href="/sub-brand/assets/img/comments.svg#comments"></use></svg>
+            <span data-comments-count></span>
+        </a>
+    </li>
+    -->
+            <li><a class="c-post-engage-share c-post-engage-share--facebook" data-event-category="Article" data-event-action="Share" data-event-label="Facebook" data-share-medium="facebook" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="https://tnw.to/dUS54" href="#" title="Share on Facebook"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#facebook"></use></svg></a></li>
+                <li><a class="c-post-engage-share c-post-engage-share--twitter" data-event-category="Article" data-event-action="Share" data-event-label="Twitter" data-share-medium="twitter" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="https://tnw.to/dUS54" href="#" title="Share on Twitter"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#twitter"></use></svg></a></li>
+                <li><a class="c-post-engage-share c-post-engage-share--linkedin" data-event-category="Article" data-event-action="Share" data-event-label="Linkedin" data-share-medium="linkedin" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="https://tnw.to/dUS54" href="#"  title="Share on LinkedIn"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#linkedin"></use></svg></a></li>
+        
+    <li><a class="c-post-engage-share c-post-engage-share--flipboard" data-event-category="Article" data-event-action="Share" data-event-label="Flipboard" data-share-medium="flipboard" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="https://tnw.to/dUS54" href="#" title="Share on Flipboard"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#flipboard"></use></svg></a></li>
+        
+    <li><a class="c-post-engage-share c-post-engage-share--mail" data-event-category="Article" data-event-action="Share" data-event-label="Mail" data-share-medium="mail" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="" href="#" title="Share via email"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#mail"></use></svg></a></li>
+        
+</ul>
+                        </div>
+                    </aside>
+                    
+                    <div class="c-post-split-body">
+                                            
+                        <div class="c-post-readMore">
+                            <div class="c-formatted c-post-content">
+                                <p><span id="urn:enhancement-8f9a2b2c-ffcf-a514-4c91-d579c26f2301" itemid="http://data.thenextweb.com/tnw/entity/venezuela"><span id="urn:local-text-annotation-hpbym5ege93o67s0j6qf16mszq46o52n" itemid="http://data.thenextweb.com/tnw/entity/venezuela">Venezuela</span></span> appears to be leveraging <span id="urn:enhancement-3cf4d934-c378-abc3-f4a1-b9c632a4174a" itemid="http://data.thenextweb.com/tnw/entity/cryptocurrency"><span id="urn:local-text-annotation-s63jqg231wr2lmsnogoehrxwdswi4cy1" itemid="http://data.thenextweb.com/tnw/entity/cryptocurrency">cryptocurrencies</span></span> as part of a larger effort to bypass <span id="urn:enhancement-f58aacb5-e51f-cba5-2d3b-19d44aacdbdc">US</span> <span id="urn:enhancement-7f9fe618-dd3a-f383-2983-5a317715ac93"><span id="urn:local-text-annotation-mgr7a0vsxzhgsqrsh61gxe88jnup1ibx" itemid="http://data.thenextweb.com/tnw/entity/international_sanctions">sanctions</span></span>.</p>
+<p>According to <a href="https://www.abc.es/internacional/abci-maduro-tasas-aeroportuarias-para-burlar-sanciones-eeuu-201907212232_noticia.html" target="_blank" rel="nofollow noopener">an investigation by Spanish newspaper ABC</a>, President Nicolas Maduro and his administration are using a digital wallet app called Jetman Pay to convert <span id="urn:enhancement-2793487d-b2d1-67e7-8af1-e416326c8a14"><span id="urn:local-text-annotation-procuymmrzo6j9h6l7menghdj6c3ia01" itemid="http://data.thenextweb.com/tnw/entity/tax_revenue">tax revenue</span></span> from one of the country’s main airports into <span id="urn:enhancement-ab4abfa9-e953-1ec4-2dca-1f4f4c46471f"><span id="urn:local-text-annotation-kgo761x8ayk4fw6posn252mijktwwf4a" itemid="http://data.thenextweb.com/tnw/entity/bitcoin">Bitcoin</span></span> and other <span id="urn:enhancement-09d79aa5-eca9-8283-c0dc-52dc7f041f9a" itemid="http://data.thenextweb.com/tnw/entity/cryptocurrency"><span id="urn:local-text-annotation-ayk64nq84zl4j06jus5t228ao68dywg9" itemid="http://data.thenextweb.com/tnw/entity/cryptocurrency">cryptocurrencies</span></span>.</p>
+            <div class="jwplayer-placeholder">
+                <div id="jwplayerInlineAd"></div>
+            </div>
+            <script src="//cdn.jwplayer.com/libraries/vRZNU7bT.js"> </script>
+            <script>
+                window.jwLibrary = "AXGgFnXj";
+            </script>
+        
+<p>The newspaper claims to have unearthed a scheme whereby <span id="urn:enhancement-a66c76e6-fe2e-ff1f-45ed-976731a02cc5" itemid="http://data.thenextweb.com/tnw/entity/cryptocurrency"><span id="urn:local-text-annotation-b6drry78pcs5jpj5jodmh2npde1zy6q3" itemid="http://data.thenextweb.com/tnw/entity/cryptocurrency">cryptocurrencies</span></span> are sent to foreign <span id="urn:enhancement-4c7090b4-47c8-18d7-2a0c-72937a2b23c3"><span id="urn:enhancement-1b45b18c-f227-fc20-72ea-0e9bab5fe947">exchanges</span></span> in <span id="urn:enhancement-855d49a8-700c-b0ae-94ae-01732f666e1d"><span id="urn:enhancement-d530e43b-54de-423d-2fc1-a630992dcc01">Russia</span></span>, <span id="urn:enhancement-0656f468-6e34-5da3-b050-1bfdf3949bef"><span id="urn:enhancement-c9109511-9719-eea0-bfdf-d8e3512309cd">China</span></span>, <span id="urn:enhancement-ebcde3d6-5a52-9287-0b19-0e545486e795"><span id="urn:enhancement-434293b9-7590-257b-2d2b-5866f6ac51d5">Hong Kong</span></span>, and <span id="urn:enhancement-581c961b-402c-eaf3-4c0a-c31635867feb"><span id="urn:enhancement-b34078e0-49c3-365f-171c-10917f9a94d2">Hungary</span></span>. Once received, the funds are converted into <span id="urn:enhancement-d7acab92-920b-feb4-9c88-9b8c465d0f35"><span id="urn:local-text-annotation-e727anxc79irujgkv657sn18bfaifcwi" itemid="http://data.thenextweb.com/tnw/entity/united_states_dollar">US</span> dollars</span> and sent back to <span id="urn:enhancement-ae8cedd8-2ac6-62f3-274d-05217f480bc8" itemid="http://data.thenextweb.com/tnw/entity/venezuela"><span id="urn:local-text-annotation-ueof4l4fc3rk6yasqtxtuc2krig86pac" itemid="http://data.thenextweb.com/tnw/entity/venezuela">Venezuela</span></span>.</p>
+<p>For the moment, Jetman Pay is only being used by Maiquetia International Airport (IAIM), but <span id="urn:enhancement-ad1b9828-b3b4-0c59-62b5-d0668cde8b04"><span id="urn:local-text-annotation-il54xaxujfraplhep6belj8p3qv5a1nt" itemid="http://data.thenextweb.com/tnw/entity/nicolas_maduro">Maduro</span></span> and his <span id="urn:enhancement-61607888-b2b3-5236-061c-ad795b279d4b"><span id="urn:local-text-annotation-491m73um16wm66modjidp5xholjzhv2c" itemid="http://data.thenextweb.com/tnw/entity/government">government</span></span> are thought to be holding talks to expand the <span id="urn:enhancement-d1a42450-f598-b4bf-6879-54382af39b10">app</span>‘s use.</p>
+<p><span id="urn:enhancement-27fb8141-6911-2d80-0965-b395f851e568">Venezuela</span>‘s economy has been <a href="https://www.nytimes.com/2017/01/16/world/americas/nuevos-billetes-venezuela-new-banknotes.html" target="_blank" rel="nofollow noopener">battling severe hyperinflation</a> for years and cryptocurrency seems to have piqued <span id="urn:local-text-annotation-ga0u5rl83jgr51zibiwco6hr2ek5dzrs" itemid="http://data.thenextweb.com/tnw/entity/nicolas_maduro">Maduro</span>‘s interest in recent times.</p>
+<p>Earlier this month, <a href="https://thenextweb.com/hardfork/2019/07/05/maduro-orders-venezuelan-bank-to-sell-petro-cryptocurrency-in-latest-pump-attempt/">he ordered</a> that every branch of the Banco de <span id="urn:enhancement-f3e68f4e-1964-45db-8e2d-34c5b4b90da8">Venezuela</span> should let <span id="urn:enhancement-ab0850cf-190e-8030-f521-a5ebd4a866f6">citizens</span> buy and trade El Petro, the state-issued <span id="urn:enhancement-813f2e8f-652f-aeee-6e01-723772780fe6">cryptocurrency</span> he’s hoping will provide a much-needed workaround economic <span id="urn:local-text-annotation-yquvfmpoo49a73e3t8fuguzy8uop85ez" itemid="http://data.thenextweb.com/tnw/entity/international_sanctions">sanctions</span>.</p>
+<p>El Petro was first introduced last year, after <span id="urn:local-text-annotation-rpy70qux0sm1osabt62bop16im424njb" itemid="http://data.thenextweb.com/tnw/entity/nicolas_maduro">Maduro</span> said on a state-run television channel that it would be used in international <span id="urn:enhancement-5d24521c-cc8f-21e4-e628-862b4ae9edfe">transactions</span> starting from October 1, but the <span id="urn:enhancement-c38e0d52-4f17-8701-90d3-3e4a5d60422b">cryptocurrency</span> <a href="https://www.reuters.com/article/us-cryptocurrency-venezuela-specialrepor/special-report-in-venezuela-new-cryptocurrency-is-nowhere-to-be-found-idUSKCN1LF15U" target="_blank" rel="nofollow noopener">failed to catch on</a>.</p>
+<p>Although <span id="urn:enhancement-012379c4-818f-4693-8269-d3d245b3cfe4">cryptocurrency</span> is seemingly providing a short-term solution, <span id="urn:enhancement-932a2c5f-7365-85d0-7199-7560ecf31a01">Venezuela</span>‘s problems go well beyond what <span id="urn:enhancement-5c3a2f3f-1e8c-d956-1fcb-ea667e5bc395">Bitcoin</span> et al. could possibly solve.</p>
+
+                                
+                                <p class="c-post-pubDate">
+                                    Published July 26, 2019 &mdash; 11:02 UTC
+                                </p>
+
+                                                            </div>
+                                                        <div class="u-hideFrom-m">
+                                <ul class="c-shareIcons">
+    <li><a class="c-shareIcons-icon c-shareIcons-icon--facebook" data-share-medium="facebook" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="https://tnw.to/dUS54" href="#"><svg viewBox="0 0 1 1"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sub-brand/assets/img/icons.svg#facebook"></use></svg></a></li>
+    <li><a class="c-shareIcons-icon c-shareIcons-icon--twitter" data-share-medium="twitter" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="https://tnw.to/R5myI" href="#"><svg viewBox="0 0 1 1"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sub-brand/assets/img/icons.svg#twitter"></use></svg></a></li>
+    <li><a class="c-shareIcons-icon c-shareIcons-icon--linkedin" data-share-medium="linkedin" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="" href="#"><svg viewBox="0 0 1 1"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sub-brand/assets/img/icons.svg#linkedin"></use></svg></a></li>
+    <li><a class="c-shareIcons-icon c-shareIcons-icon--flipboard" data-share-medium="flipboard" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="https://tnw.to/dUS54" href="#"><svg viewBox="0 0 1 1"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sub-brand/assets/img/icons.svg#flipboard"></use></svg></a></li>
+    <li><a class="c-shareIcons-icon c-shareIcons-icon--mail" data-share-medium="mail" data-share-title="Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report" data-share-url="" href="#"><svg viewBox="0 0 1 1"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sub-brand/assets/img/icons.svg#mail"></use></svg></a></li>
+</ul>
+                            </div>
+
+                            <div class="c-post-authorPubDate">
+                                <a href="https://thenextweb.com/author/yessibelloperez" target="_blank" rel="noopener"><img alt="Yessi Bello Perez" class="c-post-authorPubDate-avatar" data-lazy data-src="https://img-cdn.tnwcdn.com/image/duotone?fit=240%2C240&amp;gradient=%23660099-%2300CCAA&amp;url=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fd87cfec5b41e8afd328a1812020897c7%3Fs%3D240&amp;signature=a952261d4a713e4ebcda62f1494d030a"></a>
+                                <div class="c-post-authorPubDate-text">
+                                    <h5><a href="https://thenextweb.com/author/yessibelloperez" target="_blank" rel="noopener">Yessi Bello Perez</a></h5>
+                                                                        <p class="c-post-authorPubDate-pubDate">
+                                        July 26, 2019 &mdash; 11:02 UTC
+                                    </p>
+                                </div>
+                            </div>
+                                
+                            
+                            
+                        </div>
+                        <button class="c-post-readMore-button button button--outline" href="#">Read more</button>
+                    </div>
+                </div>
+            </main>
+            <aside class="c-split-sidebar js-tnwSticky">
+                
+                
+                <div class="js-tnwSticky-content u-showFrom-l" style="top: 72px;">
+
+                    
+                                            <div class="ad c-post-ad c-post-ad--sidebar">
+                            <div class='ad-unit ad-unit--rectangle' data-ad='TNW_ROS_MPU_ATF' id='TNW_ROS_MPU_ATF_1232353' ></div>
+                        </div>
+                                        <div class="c-recommended js-recommended u-m-2">
+        <h4>Most popular</h4>
+                <a class="c-recommended-image" href="https://thenextweb.com/hardfork/2019/07/26/venezuela-bitcoin-airport-taxes-us-dollars/">
+            <img alt="Venezuela" src="https://img-cdn.tnwcdn.com/image?fit=600%2C336&amp;url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F07%2FUntitled-design-7.jpg&amp;signature=ca013ae60c6cf0156ba38f0b959f9c2f">
+        </a>
+                <div class="c-recommended-text">
+            <h5><a class="p-channel-underline" href="https://thenextweb.com/hardfork/2019/07/26/venezuela-bitcoin-airport-taxes-us-dollars/">Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report</a></h5>
+        </div>
+    </div>
+                                                                                <h5 class="u-m-1" style='text-align: center'>&nbsp;</h5>
+                    <div class="p-channel-about">
+                        <a class='button button--light' href="/hardfork/learn-to-trade">Learn to trade</a>
+                        </div>
+                                                                                                        <div class="ad c-post-ad c-post-ad--sidebar">
+                            <div class='ad-unit ad-unit--rectangle' data-ad='TNW_ROS_MPU_BTF' id='TNW_ROS_MPU_BTF_1232353' ></div>
+                        </div>
+                                    </div>
+            </aside>
+        </div>
+    </div>
+    
+        <div class="ad c-post-ad c-post-ad--interstitial">
+        <div class='ad-unit ad-unit--billboard' data-ad='TNW_ROS_TOP' id='TNW_ROS_TOP_1232353' ></div>
+    </div>
+    </article>
+</div>
+            </div>
+            <footer class="app-footer footer">
+    <div class="u-wrapper">
+        <div class="footer-split">
+            <div class="footer-split-main">
+                <div class="grid grid--collapse">
+                    <div class="grid-col-xs-12 grid-col-l-6">
+                        <div class="footer-branding">
+                            <a href="/"><svg class="footer-branding-logo" preserveAspectRatio="xMidYMid meet" viewBox="0 0 66 16"><use xlink:href="/sub-brand/dist/img/icons.svg#tnw"></use></svg></a>
+                            <p class="footer-branding-tagline">The Heart of Tech&trade;</p>
+                        </div>
+                    </div>
+                    <div class="grid-col-xs-6 grid-col-l-3">
+                        <div class="footer-block">
+                            <h5>More TNW</h5>
+                            <ul class="footer-menu">
+                                <li><a href="https://thenextweb.com/">News</a></li>
+                                <li><a href="https://thenextweb.com/conference">Events</a></li>
+                                <li><a href="https://thenextweb.com/x">Enterprise</a></li>
+                                <li><a href="https://index.co/">Intelligence</a></li>
+                                <li><a href="https://answers.thenextweb.com/">Answers</a></li>
+                                <li><a href="https://tq.co/">Spaces</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="grid-col-xs-6 grid-col-l-3">
+                        <div class="footer-block">
+                            <h5>About TNW</h5>
+                            <ul class="footer-menu">
+                                <li><a href="https://thenextweb.com/about">About</a></li>
+                                <li><a href="https://thenextweb.com/team">Team</a></li>
+                                <li><a href="https://thenextweb.com/advertise">Advertise</a></li>
+                                <li><a href="https://thenextweb.homerun.co/">Jobs</a></li>
+                                <li><a href="https://thenextweb.com/contact">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-split-sidebar">
+                <div class="footer-block">
+                    <form action="hardfork/newsletter/subscribe" onsubmit="dataLayer.push( {'event':'email','eventCategory':'Email','eventAction':'Sign up','eventLabel':'Footer','eventNonInteraction':1} )" class="footer-subscribe" method="post" data-ajax>
+                        <h5>Stay tuned</h5>
+                        <input type="hidden" name="group" value="tnw">
+                        <div class="footer-subscribe-success">
+                            <p>Thank you!</p>
+                        </div>
+                        <div class="footer-subscribe-fields">
+                            <ul class="footer-subscribe-list">
+                                <li>
+                                    <input checked id="list_weekly" name="list[weekly]" type="checkbox">
+                                    <label for="list_weekly">Weekly</label>
+                                </li>
+                                <li>
+                                    <input id="list_daily" name="list[daily]" type="checkbox">
+                                    <label for="list_daily">Daily</label>
+                                </li>
+                                <li>
+                                    <input id="list_breaking" name="list[breaking]" type="checkbox">
+                                    <label for="list_breaking">Breaking</label>
+                                </li>
+                            </ul>
+                            <div class="footer-subscribe-email">
+                                <div class="form-inputWithIcon">
+                                    <input class="form-input form-input--borderless" name="email" placeholder="Email" type="email" required>
+                                    <svg><use xlink:href="/sub-brand/assets/img/icons.svg#mail"></use></svg>
+                                </div>
+                                <button type="submit">OK</button>
+                            </div>
+                        </div>
+                    </form>
+                    <ul class="footer-social">
+                        <li><a class="button button--icon button--outline button--rounded" href="https://www.facebook.com/thenextweb" target="_blank" rel="noopener"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#facebook"></use></svg></a></li>
+                        <li><a class="button button--icon button--outline button--rounded" href="https://twitter.com/thenextweb" target="_blank" rel="noopener"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#twitter"></use></svg></a></li>
+                        <li><a class="button button--icon button--outline button--rounded" href="https://www.instagram.com/thenextweb" target="_blank" rel="noopener"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#instagram"></use></svg></a></li>
+                        <li><a class="button button--icon button--outline button--rounded" href="https://www.youtube.com/thenextweb" target="_blank" rel="noopener"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#youtube"></use></svg></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-legal">
+        <div class="u-wrapper">
+            <p>
+                <span class="txt-nowrap">Copyright &copy; 2006&mdash;2019.</span>
+                <span class="txt-nowrap">All rights reserved.</span>
+                <span class="txt-nowrap">Made with <span class="footer-legal-heart">&hearts;</span> in Amsterdam.</span>
+            </p>
+        </div>
+    </div>
+</footer>
+        </div>
+        
+        
+                <div id="fb-root"></div>
+<script>
+    var adBlocker = false;
+
+    var APP_ENV = {
+        "permalink": "https://thenextweb.com/hardfork/2019/07/26/venezuela-bitcoin-airport-taxes-us-dollars/",
+        "paths":{
+            "site": "https://thenextweb.com/hardfork",
+            "base": "https://thenextweb.com/hardfork",
+            "assets": "/hardfork"
+        },
+        "pageIdx": 1,
+        "currentPost": 1232353,
+        "activePostIdx": 0,
+                "postRack": [{"id":1232353,"permalink":"https:\/\/thenextweb.com\/hardfork\/2019\/07\/26\/venezuela-bitcoin-airport-taxes-us-dollars\/","category":"hardfork","title":"Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report","socialTitle":"Venezuela is buying Bitcoin with airport taxes to smuggle in US dollars, report","socialDescription":"Venezuela appears to be leveraging cryptocurrencies as part of a larger effort to bypass\u00a0US sanctions.","datetime":"2019-07-26T11:02:04+00:00","author":"Yessi Bello Perez","adTargeting":{"postId":1232353,"category":"hardfork","sponsorName":"","isSponsoredPost":"No","isSponsoredCategory":"Yes"}}],
+                "category": "hardfork",
+        "adTargeting": {
+            "postId": 1232353,
+            "category": "hardfork",
+            "sponsorName": "",
+            "isSponsoredPost": "No",
+            "isSponsoredCategory": "Yes"        }
+    };
+</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script data-src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=378011798897423&amp;version=v2.6" id="socialSrcFacebook" type="text/template"></script>
+<script data-src="//platform.twitter.com/widgets.js" id="socialSrcTwitter" type="text/template"></script>
+<script src="//cdn0.tnwcdn.com/sub-brand//js/app.js?id=fed0916e7cffde7d43e0"></script>
+    <img src="https://image3.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A//aud.pubmatic.com/AdServer/Artemis%3Fdpid%3D244%26addseg%3D1543400775026" width="0" height="0"/>
+
+
+
+
+<div id="amzn-assoc-ad-de124299-5c4e-48f7-a50d-56999939e0ba"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=de124299-5c4e-48f7-a50d-56999939e0ba"></script>
+    </body>
+</html>

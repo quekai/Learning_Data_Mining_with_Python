@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>S. Korea speeds up efforts to file compliant with WTO on Japan's export curbs</title>
+<meta name="description" content="The South Korean government is speeding up preparations to file a complaint with the World Trade Organization as Japan is moving to remove Asia's fourth-largest economy from its &quot;whitelist&quot; of trusted trading partners, sources said Sunday.&quot;We plan to file a complaint with the WTO on a date convenient for South Korea,&quot; Deputy Trade Minister Kim Seung-ho said last week after returning home from Gene..." />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="keywords" content="The Korea Herald, Korean news, koreaHerald, South Korea  news, South Korea  news in english, Asia News, K-POP, KPOP,  코리아헤럴드,더코리아헤럴드,코리아 헤럴드">
+<meta name="viewport" content="width=1046, user-scalable=yes"/>
+<meta name="format-detection" content="telephone=no, address=no, email=no" />
+<meta name="author" content="The Korea Herald" /> 
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.koreaherald.com/view.php?ud=20190728000054" />
+<link rel="alternate" media="handheld" href="http://m.koreaherald.com/view.php?ud=20190728000054" />
+<link rel="amphtml" href="http://m.koreaherald.com/amp/view.php?ud=20190728000054">
+<meta property="fb:pages" content="133597558822" />
+<link rel="alternate" type="application/rss+xml" title="The Korea Herald" href="/rss_xml.php" />
+<meta name="google-site-verification" content="UELFr9I8vnlcV3hPKolyZM8BBFAlib76JD9TZ-F6hVE" />
+
+
+<meta property="og:title"			content="S. Korea speeds up efforts to file compliant with WTO on Japan's export curbs"/>
+<meta property="og:type"			content="article"/>
+<meta property="og:url"				content="http://www.koreaherald.com/view.php?ud=20190728000054"/>
+<meta property="og:image"			content="http://res.heraldm.com/content/image/2019/07/28/20190728000054_0.jpg" id="meta_og_image"/>
+<meta property="og:description"		content="The South Korean government is speeding up preparations to file a complaint with the World Trade Organization as Japan is moving to remove Asia's fourth-largest economy from its &quot;whitelist&quot; of trusted trading partners, sources said Sunday.&quot;We plan to file a complaint with the WTO on a date convenient for South Korea,&quot; Deputy Trade Minister Kim Seung-ho said last week after returning home from Gene..."/>
+<meta property="og:article:author"	content="Herald"/>
+
+<meta name="twitter:card"			content="summary_large_image">
+<meta name="twitter:title"			content="S. Korea speeds up efforts to file compliant with WTO on Japan's export curbs">
+<meta name="twitter:site"			content="Herald">
+<meta name="twitter:creator"		content="Herald">
+<meta name="twitter:image"			content="http://res.heraldm.com/content/image/2019/07/28/20190728000054_0.jpg">
+<meta name="twitter:description"	content="The South Korean government is speeding up preparations to file a complaint with the World Trade Organization as Japan is moving to remove Asia's fourth-largest economy from its &quot;whitelist&quot; of trusted trading partners, sources said Sunday.&quot;We plan to file a complaint with the WTO on a date convenient for South Korea,&quot; Deputy Trade Minister Kim Seung-ho said last week after returning home from Gene...">
+
+<meta property="dable:item_id" content="20190728000054">
+<meta property="article:section" content="Economy" alt="dable">
+<meta property="article:published_time" content="2019-07-28T10:29:11+09:00" alt="dable">
+	<meta name="pnutcategory" content="0202" />
+
+
+
+<link rel="stylesheet" type="text/css" href="http://res.heraldm.com/koreaherald/version01/www/css/common.css?pp=02" media="all" />
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://res.heraldm.com/koreaherald/version01/www/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://res.heraldm.com/koreaherald/version01/www/js/common.js"></script>
+<script>(function() {
+	var _fbq = window._fbq || (window._fbq = []);
+	if (!_fbq.loaded) {
+	var fbds = document.createElement('script');
+	fbds.async = true;
+	fbds.src = '//connect.facebook.net/en_US/fbds.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(fbds, s);
+	_fbq.loaded = true;
+	}
+	_fbq.push(['addPixelId', '1440573646257323']);
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+
+	<!-- 페북 Analytics -->
+	<script type="text/javascript">
+	<!--
+		window.fbAsyncInit = function() {
+			FB.init({
+				appId      : '551489042011871',
+				cookie     : true,
+				xfbml      : true,
+				version    : 'v3.2'
+			});
+				
+			FB.AppEvents.logPageView();   
+				
+		};
+
+		(function(d, s, id){
+			 var js, fjs = d.getElementsByTagName(s)[0];
+			 if (d.getElementById(id)) {return;}
+			 js = d.createElement(s); js.id = id;
+			 js.src = "https://connect.facebook.net/en_US/sdk.js";
+			 fjs.parentNode.insertBefore(js, fjs);
+		 }(document, 'script', 'facebook-jssdk'));	
+	//-->
+	</script>
+
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1440573646257323&amp;ev=PixelInitialized" /></noscript>
+	<!--[if lt IE 9]>
+	<script type="text/javascript" src="http://res.heraldm.com/kh_201209/js/html5.js"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		<!--
+		$(document).ready(function(){
+					});
+
+		function SwitchGlobalFunc()
+		{
+			$('#dispSwitch01').hide();
+			$('#dispSwitch02').show();
+		}
+		//-->
+	</script>
+</head>
+
+<body >
+	<div class="wrapDiv">
+		<!-- 애드서버 KH_Main_Top1_728  -->
+		<div class="banner1Div">
+					<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-3533864070776314";
+			/* MA_코리아헤럴드_기사면최상단_728_90 */
+			google_ad_slot = "7060858021";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_override_format="true";
+			google_page_url="http://www.koreaherald.com";
+			//-->
+		</script>
+		<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+			</div>
+
+
+		<div class="header">
+			<div>
+				<ul class="menuDiv">
+					<!-- 20170724 수정 -->
+					
+					
+					<li><a href="http://kpopherald.koreaherald.com" target="_blank">K-Pop Herald</a></li>
+					<li><a href="http://www.theinvestor.co.kr" target="_blank">The Investor </a></li>					
+					<li><a href="http://biz.heraldcorp.com" target="_blank">The Herald Business</a></li>
+					<li><a href="http://pop.heraldcorp.com" target="_blank">The Herald POP</a></li>
+					<li><a href="http://www.realfoods.co.kr" target="_blank">Real Foods</a></li>
+					<li><a href="http://www.minspire.co.kr/" target="_blank">Inspire</a></li>
+					<!--li><a href="http://www.tapasnews.com" target="_blank">TAPAS</a></li-->					
+					<!--li><a href="http://www.juniorherald.co.kr/" target="_blank">The Junior Herald</a></li-->
+					<!-- 20170724 수정 끝 //-->
+				</ul>
+				<!--
+				<select class="selectbox">
+					<option>English</option>
+					<option>English</option>
+				</select>
+				//-->
+				<ul class="menu2Div">
+					<li><a href="http://biz.heraldcorp.com/custom/newsletter.php" target="new">NEWSLETTER</a></li>
+									<!-- 로그인 전 -->
+					<li><a href="https://emember.heraldcorp.com/member/login.php?returl=http%3A%2F%2Fwww.koreaherald.com%2Fview.php%3Fud%3D20190728000054">SIGN IN</a></li>
+															<li><a href="http://m.koreaherald.com/?cpv=1">MOBILE</a></li>
+									</ul>
+			</div>
+			<div class="topDiv">
+								<!-- 애드서버   -->
+				<div class="banner2Div">
+			<iframe src="http://adw.heraldm.com/cgi-bin/conad.fcgi/koreaherald/KH_Sub_Top3_234" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="234" height="60"></iframe>
+	</div>
+				<!-- 애드서버 KH_Main_Top1_728 / KH_Detail_Top2346  -->
+				<div class="banner3Div">
+			<iframe src="http://adw.heraldm.com/cgi-bin/conad.fcgi/koreaherald/KH_Sub_Top2_234" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="234" height="60"></iframe>
+	</div>					<a href="/" class="logo"><img src="http://res.heraldm.com/koreaherald/version01/www/images/img_topLogo.jpg" /></a>
+							</div>
+			<div class="menuArea">
+				<a href="#" class="menu"></a>
+				<div class="sub">
+					<ul>
+					
+											<li><a href="/index.php">Home</a></li>
+												<li><a href="/list.php?ct=020100000000">National</a></li>
+												<li><a href="/list.php?ct=020200000000">Business</a></li>
+												<li><a href="/list.php?ct=020300000000">Life&Style</a></li>
+												<li><a href="/list.php?ct=020400000000">Entertainment</a></li>
+												<li><a href="/list.php?ct=020500000000">Sports</a></li>
+												<li><a href="/list.php?ct=021200000000">World</a></li>
+												<li><a href="/list.php?ct=020600000000">Opinion</a></li>
+																</ul>
+					<ul class="rightDiv">
+						<li><a href="/list.php?ctv=12">Weekender</a></li>
+						<li><a href="/list.php?ct=021000000000">English Eye</a></li>
+						<li><a href="http://nbiz.heraldcorp.com/subsc/?sv=1" target="_blank" class="blue">Subscribe</a></li>
+					</ul>
+				</div>
+				<a href="#" class="search"></a>
+				<div class="searchDiv">
+					<form id="frm_search" method="get" action="/search/index.php">
+						<input type="text" class="inputTxt" name="q" />
+						<input type="hidden" name="kr" value="0"/>
+						<a href="#" onclick="$('#frm_search').submit();"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_search.gif" /></a>
+					</form>
+				</div>
+				<div class="allMenuDiv">
+										<ul>
+												<li><a href="/list.php?ct=020100000000" class="tt">National</a>
+															<a href="/list.php?ct=020101000000">Politics</a>
+															<a href="/list.php?ct=020102000000">Social Affairs</a>
+															<a href="/list.php?ct=020103000000">Foreign Affairs</a>
+															<a href="/list.php?ct=020106000000">Defense</a>
+															<a href="/list.php?ct=020104000000">North Korea</a>
+															<a href="/list.php?ct=020107000000">Science</a>
+															<a href="/list.php?ct=020112000000">Diplomatic Circuit</a>
+															<a href="/list.php?ct=020109000000">Education</a>
+														</li>
+												<li><a href="/list.php?ct=020200000000" class="tt">Business</a>
+															<a href="/list.php?ct=020201000000">Economy</a>
+															<a href="/list.php?ct=020202000000">Finance</a>
+															<a href="/list.php?ct=020203000000">Industry</a>
+															<a href="/list.php?ct=020206000000">Technology</a>
+															<a href="/list.php?ct=020205000000">Automode</a>
+														</li>
+												<li><a href="/list.php?ct=020300000000" class="tt">Life&Style</a>
+															<a href="/list.php?ct=020307000000">Culture</a>
+															<a href="/list.php?ct=020301000000">Travel</a>
+															<a href="/list.php?ct=020302000000">Fashion</a>
+															<a href="/list.php?ct=020303000000">Food & Beverage</a>
+															<a href="/list.php?ct=020304000000">Books</a>
+															<a href="/list.php?ct=020305000000">People</a>
+															<a href="/list.php?ct=020306000000">Expat Living</a>
+															<a href="/list.php?ct=020308000000">Arts & Design</a>
+															<a href="/list.php?ct=020309000000">Health</a>
+														</li>
+												<li><a href="/list.php?ct=020400000000" class="tt">Entertainment</a>
+															<a href="/list.php?ct=020401000000">Film</a>
+															<a href="/list.php?ct=020402000000">Television</a>
+															<a href="/list.php?ct=020403000000">Music</a>
+															<a href="/list.php?ct=020404000000">Theater</a>
+														</li>
+												<li><a href="/list.php?ct=020500000000" class="tt">Sports</a>
+															<a href="/list.php?ct=020501000000">Soccer</a>
+															<a href="/list.php?ct=020502000000">Baseball</a>
+															<a href="/list.php?ct=020503000000">Golf</a>
+															<a href="/list.php?ct=020504000000">More Sports</a>
+														</li>
+												<li><a href="/list.php?ct=021200000000" class="tt">World</a>
+															<a href="/list.php?ct=021201000000">World News</a>
+															<a href="/list.php?ct=021202000000">World Business</a>
+															<a href="/list.php?ct=021204000000">Asia News Network</a>
+														</li>
+												<li><a href="/list.php?ct=020600000000" class="tt">Opinion</a>
+															<a href="/list.php?ct=020601000000">Editorial</a>
+															<a href="/list.php?ct=020603000000">Viewpoints</a>
+														</li>
+												<li class="mt100">
+							<a href="/list.php?ct=021000000000" class="tt">English Eye</a>
+							<a href="/list.php?ct=021001000000">Podcast</a>
+							<a href="/list.php?ct=021003000000">English Cafe</a>
+						</li>
+					</ul>
+
+										<div>
+						<ul class="btnDiv">
+							<!-- 20170724 수정 -->
+														<li><a href="/index_kr.php" target="_blank">Korean</a></li>
+														<li><a href="http://biz.heraldcorp.com/mobile/" target="_blank">Mobile App</a></li>
+							<li><a href="/paoin/" >PDF</a></li>	
+							<!--li><a href="http://biz.heraldcorp.com/mobile/?sv=2" target="_blank" >SMS/LMS</a></li-->
+							<li><a href="https://twitter.com/TheKoreaHerald" target="_blank">Twitter</a></li>														
+							<li><a href="http://facebook.com/thekoreaherald" target="_blank">Facebook</a></li>
+							<li><a href="http://youtube.com/thekoreaherald" target="_blank">Youtube</a></li>
+							<li><a href="http://nbiz.heraldcorp.com/subsc/" target="_blank">RSS</a></li>
+							<!-- 20170724 수정 끝 //-->
+						</ul>
+						<a href="http://m.koreaherald.com/?cpv=1"  class="mobileVersion">Go to Mobile Version</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="contentsWrap">
+
+
+<script type="text/javascript">
+
+
+function fbs_click() {
+	 u='http://www.koreaherald.com//view.php?ud=20190728000054';
+	var fbWin = window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u),'facebooksharer','toolbar=0,status=0,width=626,height=436');
+	return;
+}
+
+
+function sendMail()  {
+	window.open("/common/newsemail.php?ud=20190728000054&tt=S.+Korea+speeds+up+efforts+to+file+compliant+with+WTO+on+Japan%27s+export+curbs", "", "width=620, height=620, scrollbars=yes,resizable=no");
+}
+
+function printNews()  {
+	window.open("/common/newsprint.php?ud=20190728000054", "", "width=620, height=620, scrollbars=yes,resizable=no");
+}
+
+
+$(function() {
+
+	$("#articleText center img, #articleText table img").css("cursor","pointer");
+	$("#articleText center img, #articleText table img").click(function(){
+		$("#layer_img").attr("src",$(this).attr("src"));					
+		imgView($("#layer_img").get(0).naturalWidth, $("#layer_img").get(0).naturalHeight);
+	})
+
+});
+
+function imgView(x, y)  {
+	y = y + 50;
+
+	$(".dim").addClass("on");
+	$(".popup.imgViewPop").css("width", x);
+	$(".popup.imgViewPop").css("height", y);
+	$(".popup.imgViewPop").addClass("on");
+	$(".popup.imgViewPop").css("top", Math.max(0, $(window).scrollTop() + 100) + "px");
+	$(".popup.imgViewPop").css("left", (($(window).width()-$(".popup.imgViewPop").outerWidth())/2+$(window).scrollLeft())+"px");
+
+	return;
+}
+
+</script>
+		
+	
+
+
+						<!-- 왼쪽 날개 배너 -->
+		<div style="position:absolute;right:100%;margin-left:533px;margin-top:0px;" id="siteleft_banner">
+			
+						<!-- /21706222089/koreaherald_p_l_w_01_120x600 -->
+			<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+			<script>
+			 var googletag = googletag || {};
+			 googletag.cmd = googletag.cmd || [];
+			</script>
+			<div id="koreaherald_p_l_w_01_120x600">
+			<script>
+			 googletag.cmd.push(function() {
+			googletag.defineSlot('/21706222089/koreaherald_p_l_w_01_120x600', [120, 600], 'koreaherald_p_l_w_01_120x600').addService(googletag.pubads().set("page_url", "koreaherald.com"));
+			 googletag.enableServices();
+			 googletag.display('koreaherald_p_l_w_01_120x600');
+			});
+			</script> 
+			</div>
+					</div>
+		<!-- // 왼쪽 날개 배너 -->
+
+		<!-- 오른쪽 날개 배너 -->
+		<div style="position:absolute;left:50%;margin-left:533px;margin-top:0px" id="siteright_banner">
+
+				<!--div style="margin-bottom: 10px; ">
+					<iframe src="//io1.innorame.com/imp/MKzRnKRqnkMX.iframe" width="120" height="240" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" style="z-index: 2147483647;"></iframe>
+				</div-->
+			
+								<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-3533864070776314";
+				/* MA_코리아헤럴드_기사면우측여백_120_600 */
+				google_ad_slot = "1616952688";
+				google_ad_width = 120;
+				google_ad_height = 600;
+				google_override_format="true";
+				google_page_url="http://www.koreaherald.com";
+				//-->
+				</script>
+				<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+						</div>
+		<!-- //오른쪽 날개 배너 -->		
+
+		<div class="contents sub">
+				<div class="overHidden">
+
+					<div class="subContents w776">						
+					
+						<!-- view_cont -->
+													
+
+
+						
+						<!-- 공통 상단 카테고리 -->
+														<p class="fontTitle6 alignCenter">BUSINESS</p>
+				<ul class="subMenuDiv">
+											<li ><a href="/list.php?ct=020200000000" >All</a></li>
+											<li class="on"><a href="/list.php?ct=020201000000" >Economy</a></li>
+											<li ><a href="/list.php?ct=020202000000" >Finance</a></li>
+											<li ><a href="/list.php?ct=020203000000" >Industry</a></li>
+											<li ><a href="/list.php?ct=020206000000" >Technology</a></li>
+											<li ><a href="/list.php?ct=020205000000" >Automode</a></li>
+									</ul>
+				
+				
+				
+
+
+
+
+						<!-- latest_news -->
+						<div class="latestNewsDiv">
+	<div class="titleDiv">LATEST NEWS</div>
+	<ul class="rollingList">
+		<li><a href="/view.php?ud=20190730000563">Long-term smokers eligible for state lung cancer screening</a></li> <li><a href="/view.php?ud=20190730000230">[News Focus] Korea falling behind in GDP, exports</a></li> <li><a href="/view.php?ud=20190730000557">[Herald Review] Good intentions, poor execution make ‘The Battle: Roar to ...</a></li> <li><a href="/view.php?ud=20190730000659">S. Korea, US in talks over new Pentagon chief Esper's possible trip to Seou...</a></li> <li><a href="/view.php?ud=20190730000424">‘Bad Guys’ reunite once again, this time on the big screen</a></li> <li><a href="/view.php?ud=20190730000643">Japan targets Korea’s future industries in impending trade war</a></li> <li><a href="/view.php?ud=20190730000575">S. Korean airlines reduce flights to Japan amid trade row</a></li> <li><a href="/view.php?ud=20190730000564">[Advertorial] LS Cable & System replaces PVC cables with eco-friendly alter...</a></li> <li><a href="/view.php?ud=20190730000558">[Newsmaker] ‘Park Yoo-chun invited police officers home while under probe’</a></li> <li><a href="/view.php?ud=20190730000552">Retail sales up in June led mostly by online shops</a></li> 	</ul>
+	<a href="/list.php?ct=020000000000" class="more"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_more2.gif" /></a>
+</div>
+
+						<!-- title_top ad -->
+						<div class="alignCenter mt10">	
+	
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<ins class="adsbygoogle"
+			 style="display:inline-block;width:740px;height:150px"
+			 data-ad-client="ca-pub-2831301421308936"
+			 data-ad-slot="9907901577"></ins>
+		<script>
+			 (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+			
+	<iframe width="670" height="130" src="http://zone5.adpopcon.com/cgi-bin/PelicanC.dll?impr?pageid=00gn&out=iframe" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" ></iframe>
+</div>						
+						<div class="newsInfo">
+							<p class="fontTitle6 mb16">S. Korea speeds up efforts to file compliant with WTO on Japan's export curbs</p>
+														<a href="/search/list_name.php?byline=Yonhap" class="fontReporter2">By Yonhap</a>
+																					<ul class="info">
+								<li>Published : Jul 28, 2019 - 10:30 </li>
+								<li>Updated : Jul 28, 2019 - 10:30 </li>
+								<li class="btn">
+									<a href="javascript:fontSizeChange('articleText','down');"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_sizeDown.gif" /></a>
+									<a href="javascript:fontSizeChange('articleText','up');" class="mr2 ml-4"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_sizeUp.gif" /></a>
+									<a href="javascript:fbs_click();"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_facebook.gif" /></a>
+									<a href="http://twitter.com/?status=S.+Korea+speeds+up+efforts+to+file+compliant+with+WTO+on+Japan%27s+export+curbs http://www.koreaherald.com/view.php?ud=20190728000054" class="ml-3"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_twitter.gif" /></a>
+									<a href="javascript:sendMail();" class="ml-3"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_mailSend.gif" /></a>	
+									<a href="javascript:printNews();" class="ml-3"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_print.gif" /></a>		
+								</li>
+							</ul>
+							<br>
+							<script src="http://res.heraldm.com/js/aws-sdk.js"></script>
+							<script>
+							var playcheck = 1;
+							function jstplay2(){
+							  if(playcheck==2){ 
+									var audioElement = document.getElementById('heraldaudio');
+									audioElement.pause();
+									$("#audioplay").html("본문듣기 ▶");
+									$("#audioplay").css("background-Color","#FFFFFF");
+									$("#audioplay").css("color","#000000");
+									playcheck=3;
+							  }else if(playcheck==3){
+									var audioElement = document.getElementById('heraldaudio');
+									audioElement.play();
+									$("#audioplay").html("본문듣기 IMG..");
+									$("#audioplay").css("background-Color","#00A5dd");
+									$("#audioplay").css("color","#FFFFFF");
+									playcheck=2;
+							  }else{
+								playcheck=2;
+								  AWS.config.update({accessKeyId: 'AKIAIDHKRAW5DREW2RAQ', secretAccessKey: 'khTSY4GgNC8rcgOYU8qR2Eue6G1tObE594TslvGB', region: 'us-east-1'});
+								  var params = {
+									OutputFormat: "mp3",
+									SampleRate: "8000",
+
+									Text: "The South Korean government is speeding up preparations to file a complaint with the World Trade Organization as Japan is moving to remove Asia's fourth-largest economy from its "whitelist" of trusted trading partners, sources said Sunday."We plan to file a complaint with the WTO on a date convenient for South Korea," Deputy Trade Minister Kim Seung-ho said last week after returning home from Geneva, where he participated in a WTO meeting to win support from the international community and fend off export curbs by Tokyo.Deputy Trade Minister Kim Seung-ho (Yonhap)Early this month, Japan implemented strict regulations for exports of three key materials to South Korea, which are crucial for the production of chips and displays, on the grounds that Seoul runs a lax system for the control of goods that can be diverted for military purposes.Shortly after the announcement, the South Korean government said it will consider all measures, including filing a complaint with the WTO, and claimed that all allegations raised by Japan on the export control were groundless.Japan is set to expand its restrictions to other areas by removing South Korea from a whitelist of trusted importers in the coming weeks, a move that could delay or disrupt the supply of such materials as it can affect more than 1,000 items.The South Korean government is currently reviewing details of the request for consultation, which will be handed to the WTO as the first step for the lawsuit. In line with such efforts, Seoul is also seeking to find a diplomatic settlement with Japan.Foreign Minister Kang Kyung-wha will use a series of multilateral talks in Thailand to reverse Japan's recent export control measure against South Korea.Kang is set to attend the annual ministerial gatherings involving the 10-member Association of Southeast Asian Nations taking place in Bangkok next week.Trade Minister Yoo Myung-hee also visited Washington last week to highlight that Tokyo's restrictions could disrupt global supply chains and have a negative impact on not only Asian companies but the world's largest economy. (Yonhap)",
+									TextType: "text",
+									VoiceId: "Joanna"
+								  };
+								  var polly = new AWS.Polly();
+								  polly.synthesizeSpeech(params, function(err, data) {
+									if (err) console.log(err, err.stack); // an error occurred
+									else     console.log(data);           // successful response
+									var audioElement = document.getElementById('heraldaudio');
+									var uInt8Array = new Uint8Array(data.AudioStream);
+									var arrayBuffer = uInt8Array.buffer;
+									var blob = new Blob([arrayBuffer]);
+									var url = URL.createObjectURL(blob);
+									audioElement.src = url;
+									$("#audioplay").html("본문듣기 IMG..");
+									$("#audioplay").css("background-Color","#00A5dd");
+									$("#audioplay").css("color","#FFFFFF");
+									audioElement.play();
+								  });
+							  }
+							}
+							</script>
+													</div>
+						<div id="articleText" class="content_view" itemprop="articleBody">
+							<p>The South Korean government is speeding up preparations to file a complaint with the World Trade Organization as Japan is moving to remove Asia's fourth-largest economy from its "whitelist" of trusted trading partners, sources said Sunday.<br /><br />"We plan to file a complaint with the WTO on a date convenient for South Korea," Deputy Trade Minister Kim Seung-ho said last week after returning home from Geneva, where he participated in a WTO meeting to win support from the international community and fend off export curbs by Tokyo.<br /><br /><br /><table style="margin:auto;margin-bottom: 10px; width: 650px; margin-top: 10px" cellspacing="0" cellpadding="0" align="center" border="0" categoryid="9900000000000000"><tbody><tr><td><img alt="" width="650" height="431" categoryid="9900000000000000" src="http://res.heraldm.com/content/image/2019/07/28/20190728000054_0.jpg" /></td></tr><tr><td align="left"><font style="font-family: arial; font-size: 15px; line-height: 18px; color:#999;  font-family: arial">Deputy Trade Minister Kim Seung-ho (Yonhap)</font></td></tr></tbody></table><br />Early this month, Japan implemented strict regulations for exports of three key materials to South Korea, which are crucial for the production of chips and displays, on the grounds that Seoul runs a lax system for the control of goods that can be diverted for military purposes.<br /><br />Shortly after the announcement, the South Korean government said it will consider all measures, including filing a complaint with the WTO, and claimed that all allegations raised by Japan on the export control were groundless.<br /><br />Japan is set to expand its restrictions to other areas by removing South Korea from a whitelist of trusted importers in the coming weeks, a move that could delay or disrupt the supply of such materials as it can affect more than 1,000 items.<br /><br />The South Korean government is currently reviewing details of the request for consultation, which will be handed to the WTO as the first step for the lawsuit. <br /><br />In line with such efforts, Seoul is also seeking to find a diplomatic settlement with Japan.<br /><br />Foreign Minister Kang Kyung-wha will use a series of multilateral talks in Thailand to reverse Japan's recent export control measure against South Korea.<br /><br />Kang is set to attend the annual ministerial gatherings involving the 10-member Association of Southeast Asian Nations taking place in Bangkok next week.<br /><br />Trade Minister Yoo Myung-hee also visited Washington last week to highlight that Tokyo's restrictions could disrupt global supply chains and have a negative impact on not only Asian companies but the world's largest economy. (Yonhap)</p>						</div>
+												<div id="thumimage" style="display: none; ">
+						<img src="http://res.heraldm.com/koreaherald/version01/www/images/img_snsLogo.png"/>
+						</div>
+						<center><a href="#" onclick='FB.AppEvents.logEvent("buttonClicked");goNewsletter();'><img src='http://res.heraldm.com/koreaherald/images/img/kh_banner_0817.jpg'></a></center>
+						<BR><BR>
+						
+
+						
+
+													
+						
+						<!-- newstand kor  -->
+													
+
+					
+												<!-- google 광고1  -->
+							
+	<style>
+		.ad_2big {padding:15px 25px; clear: both; overflow: hidden; }
+		.ad_2big_1{margin:0; width: 45%; float: left; }
+		.ad_2big_2{margin:0; width: 45%; float:right; }
+	</style>
+	<div class="ad_2big">
+		<div class="ad_2big_1">
+			<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-3533864070776314";
+				/* MA_코리아헤럴드_기사면하단좌측_300_250 */
+				google_ad_slot = "9022139528";
+				google_ad_width = 300;
+				google_ad_height = 250;
+				google_override_format="true";
+				google_page_url="http://www.koreaherald.com";
+				//-->
+				</script>
+				<script type="text/javascript"
+				src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+
+		</div>
+		<div class="ad_2big_2">
+			<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-3533864070776314";
+				/* MA_코리아헤럴드_기사면하단우측_300_250 */
+				google_ad_slot = "1115695166";
+				google_ad_width = 300;
+				google_ad_height = 250;
+				google_override_format="true";
+				google_page_url="http://www.koreaherald.com";
+				//-->
+				</script>
+				<script type="text/javascript"
+				src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+
+		</div>
+	</div>											
+						
+
+						<ul class="info floatR overHidden mb10">		<!-- 20170725 수정 //-->
+
+							<li class="btn">
+								<a href="javascript:fontSizeChange('articleText','down');"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_sizeDown.gif" /></a>
+								<a href="javascript:fontSizeChange('articleText','up');" class="mr2 ml-4"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_sizeUp.gif" /></a>
+								<a href="javascript:fbs_click();"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_facebook.gif" /></a>
+								<a href="http://twitter.com/?status=S.+Korea+speeds+up+efforts+to+file+compliant+with+WTO+on+Japan%27s+export+curbs http://www.koreaherald.com/view.php?ud=20190728000054" class="ml-3"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_twitter.gif" /></a>
+								<a href="javascript:sendMail();" class="ml-3"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_mailSend.gif" /></a>		
+								<a href="javascript:printNews();" class="ml-3"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_print.gif" /></a>		
+							</li>
+						</ul>
+						<ul class="btnArea bt1 pt10  mb45">
+							<li><a href="/search/list_name.php?byline=Yonhap"><img src="http://res.heraldm.com/koreaherald/version01/www/images/img_moreByWritter.gif" /></a></li>
+							<li class="alignCenter"><a href="/list.php?ct=020201000000"><img src="http://res.heraldm.com/koreaherald/version01/www/images/img_backList2.gif" /></a></li>
+							<li class="alignRight"><a href="#"><img src="http://res.heraldm.com/koreaherald/version01/www/images/img_goTop.gif" /></a></li>
+						</ul>
+
+
+						<!-- adpopcon 광고 -->
+						<div align="center">
+	<iframe width="670" height="130" src="http://zone5.adpopcon.com/cgi-bin/PelicanC.dll?impr?pageid=08N6&amp;out=iframe" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</div>
+
+
+						<!-- 포핀 컨텐츠 광고 -->
+						
+
+<div>
+	<script src="http://media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=02Hg&lang=utf-8&out=script"></script>
+</div>
+			
+
+												<!-- google 광고2  -->
+							<style>
+		.ad_2big {padding:15px 25px; clear: both; overflow: hidden; }
+		.ad_2big_1{margin:0; width: 45%; float: left; }
+		.ad_2big_2{margin:0; width: 45%; float:right}
+	</style>
+	<div class="ad_2big">
+		<div class="ad_2big_1">
+			<!-- /21706222089/koreaherald_p_c_b_01_300x250 -->
+				<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+				<script>
+				 var googletag = googletag || {};
+				 googletag.cmd = googletag.cmd || [];
+				</script>
+				 <div id="koreaherald_p_c_b_01_300x250">
+				<script>
+				 googletag.cmd.push(function() {
+				googletag.defineSlot('/21706222089/koreaherald_p_c_b_01_300x250', [300, 250], 'koreaherald_p_c_b_01_300x250').addService(googletag.pubads().set("page_url", "koreaherald.com"));
+				 googletag.enableServices();
+				 googletag.display('koreaherald_p_c_b_01_300x250');
+				});
+				</script> 
+				</div>
+
+		</div>
+		<div class="ad_2big_2">
+			<!-- /21706222089/koreaherald_p_c_b_02_300x250 -->
+			<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+			<script>
+			 var googletag = googletag || {};
+			 googletag.cmd = googletag.cmd || [];
+			</script>
+			 <div id="koreaherald_p_c_b_02_300x250">
+			<script>
+			 googletag.cmd.push(function() {
+			googletag.defineSlot('/21706222089/koreaherald_p_c_b_02_300x250', [300, 250], 'koreaherald_p_c_b_02_300x250').addService(googletag.pubads().set("page_url", "koreaherald.com"));
+			 googletag.enableServices();
+			 googletag.display('koreaherald_p_c_b_02_300x250');
+			});
+			</script> 
+			</div>
+
+		</div>
+	</div>											
+						<!-- youtube -->
+						<div>							
+		<div class="youtube" style="margin-bottom: 15px; ">
+			<div class="youtube_top"><img src="http://res.heraldm.com/new_201209/images/economy/ytb_title.jpg"><a href="https://www.youtube.com/channel/UC7kYzfu7mHLQ7nG6AMnTc9g" class="youtube_btn" target="_blank"><img src="http://res.heraldm.com/new_201209/images/economy/subscribe_btn.jpg"></a></div>
+			<div class="youtube_con" id="youtube560_nkh_url"></div>
+			<div class="youtube_bottom" id="youtube560_nkh_title"></div>
+		</div>
+		<script type="text/javascript">
+		$.ajax({url:"http://biz.heraldcorp.com/common/youtube_iframe_t.php?site=nkh&kind=youtubeKH&callback=youtubeKH_nkh", async:true, dataType:"jsonp", crossDomain:true, cache:true, jsonp:false, jsonpCallback:"youtubeKH_nkh"});
+		function youtubeKH_nkh(data){
+			if(data[0].url){
+				var vodUrl ;
+				vodUrl = decodeURIComponent(data[0].url);
+				vodUrl2 = vodUrl.replace(/\+/gi, " ");
+				vodUrl2 = vodUrl2.replace(/WIDTH\=\'560\'/gi, "WIDTH\=\'560\'");
+				vodUrl2 = vodUrl2.replace(/HEIGHT\=\'315\'/gi, "HEIGHT\=\'315\'");
+				$("#youtube560_nkh_url").html(vodUrl2);
+				$("#youtube560_nkh_title").html(data[0].title);
+			}
+		}
+		</script>
+	</div>
+						
+						<!-- codes 광고  -->
+								
+	<style>
+		.adcodes_2big {padding:15px 25px; clear: both; overflow: hidden; }
+		.adcodes_2big_1{margin:0; width: 45%; float: left; }
+		.adcodes_2big_2{margin:0; width: 45%; float:right}
+	</style>
+	<div class="adcodes_2big">
+		<div class="adcodes_2big_1">
+			<iframe src="//tm.interworksmedia.co.kr/ads.sx/F4DBC158" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" allowfullscreen="true" width="300" height="250"></iframe>
+		</div>
+		<div class="adcodes_2big_2">
+			<iframe src="//tm.interworksmedia.co.kr/ads.sx/DF7A451A" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" allowfullscreen="true" width="300" height="250"></iframe>
+		</div>
+	</div>
+<script type="text/javascript">
+<!--
+function goNewsletter(){
+	window.open('http://biz.heraldcorp.com/custom/newsletter.php','_blank'); 
+}
+//-->
+</script>											</div>	
+
+
+
+					<!-- cont_right_area -->
+																<div class="rightContents">
+						<!-- 250x250  -->
+						<div class="mt30">
+		<script type="text/javascript"><!--
+	google_ad_client = "ca-pub-3533864070776314";
+	/* MA_코리아헤럴드_기사면우측중단1_250_250 */
+	google_ad_slot = "1990317404";
+	google_ad_width = 250;
+	google_ad_height = 250;
+	google_override_format="true";
+	google_page_url="http://www.koreaherald.com";
+	//-->
+	</script>
+	<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	</div>
+						<!-- headline news / most popular  -->
+											
+					<ul class="tab">
+							<li class="on"><a href="#headline" class="headlineNews">MOST POPULAR</a></li>		
+							<li><a href="#most" class="mostPopular">LATEST NEWS</a></li>
+						</ul>
+						<ul class="tabList headlineNews" style="display: block">
+							<li><a href="/view.php?ud=20190729000185">Big Hit takes over music label of K-pop girl band GFriend</a></li><li><a href="/view.php?ud=20190729000581">Cristiano Ronaldo’s no-show prompts upset fans to seek legal action</a></li><li><a href="/view.php?ud=20190729000567">Sweltering heat wave hits Korea</a></li><li><a href="/view.php?ud=20190729000667">South Korea beset by escalating trade tensions</a></li><li><a href="/view.php?ud=20190728000119">Juventus accused of breach of contract for benching Ronaldo in Seoul exhibition</a></li><li><a href="/view.php?ud=20190730000429">Japan likely to pass bill striking S. Korea off export whitelist: ministry</a></li><li><a href="/view.php?ud=20190729000586">[Herald Review] ‘Hotel Del Luna’ wins over viewers with spooky romance</a></li><li><a href="/view.php?ud=20190729000766">Hungarian swimmer accused of groping sent to prosecutors</a></li><li><a href="/view.php?ud=20190729000741">South Korea reviews sending troops to Strait of Hormuz</a></li><li><a href="/view.php?ud=20190729000601">Global chipmakers spur investments while Samsung suffers</a></li>	
+						</ul>
+						<ul class="tabList mostPopular" style="display: none">							
+							<li><a href="/view.php?ud=20190730000563">Long-term smokers eligible for state lung cancer screening</a></li><li><a href="/view.php?ud=20190730000230">[News Focus] Korea falling behind in GDP, exports</a></li><li><a href="/view.php?ud=20190730000557">[Herald Review] Good intentions, poor execution make ‘The Battle: Roar to Victory’ painful to watch</a></li><li><a href="/view.php?ud=20190730000659">S. Korea, US in talks over new Pentagon chief Esper's possible trip to Seoul</a></li><li><a href="/view.php?ud=20190730000424">‘Bad Guys’ reunite once again, this time on the big screen</a></li><li><a href="/view.php?ud=20190730000643">Japan targets Korea’s future industries in impending trade war</a></li><li><a href="/view.php?ud=20190730000575">S. Korean airlines reduce flights to Japan amid trade row</a></li><li><a href="/view.php?ud=20190730000564">[Advertorial] LS Cable & System replaces PVC cables with eco-friendly alternative</a></li><li><a href="/view.php?ud=20190730000558">[Newsmaker] ‘Park Yoo-chun invited police officers home while under probe’</a></li><li><a href="/view.php?ud=20190730000544">Nongshim to sell ‘Non-frying Shin Ramen’ in US</a></li>						</ul>
+					 
+						<!-- 배너 광고 -->
+						<div class="mt15" style="width:250px;">
+	<iframe src="http://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=08Vo&amp;out=iframe" width="250" height="300" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+</div>	
+
+													<div class="mt15" style="width:250px;">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<ins class="adsbygoogle"
+		 style="display:inline-block;width:250px;height:500px"
+		 data-ad-client="ca-pub-2831301421308936"
+		 data-ad-slot="8997310439"></ins>
+	<script>
+		 (adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+												<!-- 라이프 투데이  -->
+
+												
+<!-- 이디엘 250*250-->
+<div class="mt15" style="width:250px;">
+					<!-- /21706222089/koreaherald_p_r_s_03_250x250 -->
+		<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+		<script>
+		 var googletag = googletag || {};
+		 googletag.cmd = googletag.cmd || [];
+		</script>
+		 <div id="koreaherald_p_r_s_03_250x250">
+		<script>
+		 googletag.cmd.push(function() {
+		googletag.defineSlot('/21706222089/koreaherald_p_r_s_03_250x250', [250, 250], 'koreaherald_p_r_s_03_250x250').addService(googletag.pubads().set("page_url", "koreaherald.com"));
+		 googletag.enableServices();
+		 googletag.display('koreaherald_p_r_s_03_250x250');
+		});
+		</script> 
+		</div>
+		
+	</div>									
+
+						<!--  LEADERS CLUB // Business 세션에서만 노출 : 영문판만-->
+												<p class="fontCategory"><span>LEADERS CLUB <a href="/leader/"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_more.gif"></span></a></p>
+						<ul class="leadersClubDiv">
+							<li><a href="/leader/view.php?scd=051910">
+								<div class="imgArea">
+									<img src="http://res.heraldm.com/content/leaders/201410/20141014171321_051910_CompanyLogoFileName_211_54_35_200_5522.jpg" alt="리더스클럽 이미지">
+								</div>
+							</a></li><li><a href="/leader/view.php?scd=011070">
+								<div class="imgArea">
+									<img src="http://res.heraldm.com/HeraldResource/LeadersClub/011070/2/lginno.gif" alt="리더스클럽 이미지">
+								</div>
+							</a></li><li><a href="/leader/view.php?scd=000000">
+								<div class="imgArea">
+									<img src="http://res.heraldm.com/HeraldResource/LeadersClub/000000/2/merck1.gif" alt="리더스클럽 이미지">
+								</div>
+							</a></li><li><a href="/leader/view.php?scd=005490">
+								<div class="imgArea">
+									<img src="http://res.heraldm.com/HeraldResource/LeadersClub/005490/2/posco.gif" alt="리더스클럽 이미지">
+								</div>
+							</a></li><li><a href="/leader/view.php?scd=000830">
+								<div class="imgArea">
+									<img src="http://res.heraldm.com/HeraldResource/LeadersClub/000830/2/samsung_CnT.gif" alt="리더스클럽 이미지">
+								</div>
+							</a></li><li><a href="/leader/view.php?scd=055550">
+								<div class="imgArea">
+									<img src="http://res.heraldm.com/HeraldResource/LeadersClub/055550/2/SHINHAN.gif" alt="리더스클럽 이미지">
+								</div>
+							</a></li>						</ul>
+
+
+						<!-- 배너 광고 250x90 -->
+						
+<div class="mt15">
+<a href="http://www.koreaherald.com/view.php?ud=20190527000542" target="_blank"><img src="http://res.heraldm.com/HeraldResource/doubleuad/hyj/20190528_banner.jpg"></a>
+</div>
+
+	
+
+						<!-- 배너 광고 250x90 유투브 & 팟캐스트 -->
+						<div class="mt15" style="width:250px;">
+<a href=" http://www.koreaherald.com/list.php?ct=021001000000"><img src="http://res.heraldm.com/banner/koreaherald/2019/20190305_banner02.jpg"></a>
+</div>
+<div class="mt15" style="width:250px;">
+<a href="https://www.youtube.com/thekoreaherald" target="_blank"><img src="http://res.heraldm.com/banner/koreaherald/2019/20190305_banner01.jpg"></a>
+</div>	
+
+						<!-- 배너 광고 250x90 -->
+						<div class="mt15" style="width:250px;">
+	<a href="http://biz.heraldcorp.com/subsc/?sv=1" target="_blank"><img src="http://res.heraldm.com/koreaherald/images/img/subscribenow_b.jpg"></a>
+</div>
+
+	
+						
+						<!-- 배너 광고 250x90 한글 / 영문 공통 : kh광고국 광고 -->
+						<div class="mt15" style="width:250px;">
+	<iframe src="http://adw.heraldm.com/cgi-bin/conad.fcgi/koreaherald/KH_Detail_Right12525" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="250" height="250"></iframe>
+</div>
+
+						<!-- 배너 광고3 한글 / 영문 공통 : kh광고국 광고  -->
+						
+					</div>					
+
+
+				</div>
+			</div>
+
+
+
+<script type="text/javascript">
+
+
+var setCookie = function(name, value, exp) {
+  var date = new Date();
+  date.setTime(date.getTime() + exp*24*60*60*1000);
+  document.cookie = name + '=' + value + ';expires=' + date.toUTCString() + ';path=/';
+};
+
+var getCookie = function(name) {
+  var value = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+  return value? value[2] : null;
+};
+
+
+
+
+var fontSize = getCookie('kh_f');
+var lineHeight = getCookie('kh_lh');
+if(fontSize == "" || isNaN(fontSize)){
+	fontSize =$('#articleText').css('fontSize').replace("px", "");
+	lineHeight = "150%"; 
+}else{
+	$("#articleText").css({"font-size":fontSize+"px", "line-height" : lineHeight })
+	setCookie("kh_f",fontSize,20);
+	setCookie("kh_lh",lineHeight,20);
+}
+
+
+function fontSizeChange(article, option){
+	var nCurrentSize = $('#' + article).css('fontSize');	
+	var fNum = parseFloat( nCurrentSize, 10 );
+	var strUnit = nCurrentSize.slice( -2 );
+
+	if(option == "up"){
+		fNum += 1;
+		if( fNum > 23 )
+			fNum = 23;
+	}else{		
+		fNum -= 1;
+		if( fNum < 10 )
+			fNum = 10;		
+	}
+
+	line_h = "150%"; 
+	setCookie("kh_f",fNum,20);
+	setCookie("kh_lh",line_h,20);
+
+	$("#articleText").css({"font-size":fNum+"px", "line-height" : line_h})
+}
+
+
+
+// 가로 이미지 사이즈가 720보다 크면 720에 고정 되도록 수정 	
+$(function(){
+	$("#articleText table, #articleText img").each(function(index, item){		
+		if($(item).width() > 720){
+			$(item).attr("style","max-width:725px; height: auto;  ");
+		}
+	});
+});
+
+</script>
+
+
+<!-- netinsight recommend script start -->
+<script type="text/javascript">if (typeof window.jQuery == 'undefined') { document.writeln('<scri'+'pt type="text/javascri'+'pt" src="http://code.jquery.com/jquery-1.8.2.min.js"></scri'+'pt>');}</script>
+<script type="text/javascript" src="http://rec.netinsight.co.kr/facebook.netinsight.recommend.controller_3.js"></script>
+<script type="text/javascript">
+var NISPublisher = 'koreaherald2';  // 발급받은 매체 아이디
+var recommend = new NISRecommend(NISPublisher);
+// 프로그램과 연동으로 현재 기사의 카테고리 및 일련번호를 입력해야 한다.
+recommend.setArticle('020201000000', '020201000000', '20190728000054', '2019-07-28 10:30');
+recommend.send();
+</script>
+<!-- netinsight recommend end -->
+
+
+
+
+		</div>
+		<div class="footer">
+			<div class="footerDiv">
+				<ul class="menu">
+					<li><a href="/board/index.php">ANNOUNCEMENT</a></li>
+					<li><a href="http://biz.heraldcorp.com/custom/index.php" target="_blank">CS CENTER</a></li>
+					<li><a href="/custom/contact.php">CONTACT US</a></li>
+					<li><a href="http://company.heraldcorp.com/location.php?lang=eng" target="_blank">LOCATION</a></li>
+				</ul>
+				<ul class="menu right">
+					<li><a href="http://company.heraldcorp.com/content.php?lang=eng" target="_blank">ABOUT KOREA HERALD</a></li>
+					<li><a href="http://company.heraldcorp.com/index.php?lang=eng" target="_blank">ABOUT HERALD CORPORATION</a></li>
+					<li style="padding:0 4px"><a href="https://twitter.com/TheKoreaHerald" style="margin-top:10px; display:block" target="_blank"><img src="http://res.heraldm.com/koreaherald/version01/mobile/images/icn_02.gif" alt="twitter" width="20" /></a></li>
+					<li style="padding:0 4px"><a href="https://www.facebook.com/thekoreaherald" style="margin-top:10px; display:block" target="_blank"><img src="http://res.heraldm.com/koreaherald/version01/mobile/images/icn_03.gif" alt="facebook" width="20" /></a></li>
+					<li style="padding:0 4px"><a href="https://www.youtube.com/thekoreaherald" style="margin-top:10px; display:block" target="_blank"><img src="http://res.heraldm.com/koreaherald/version01/mobile/images/icn_04.gif" alt="youtube" width="20" /></a></li>
+				</ul>
+			</div>
+			<div class="footerDiv2">
+				<div class="left">
+					<p class="txt1">The Korea Herald by Herald Corporation
+					<select class="selectbox">
+						<option value="#X">Our Sites</option>
+						
+						<option value="http://www.koreaherald.com">THE KOREA HERALD</option>
+						<option value="http://kpopherald.koreaherald.com">K-POP HERALD</option>
+						<option value="http://www.theinvestor.co.kr">THE INVESTOR</option>
+						<option value="http://biz.heraldcorp.com">THE HERALD BUSINESS</option>
+						<option value="http://pop.heraldcorp.com">THE HERALD POP</option>
+						<option value="http://www.realfoods.co.kr">REAL FOODS</option>						
+						<option value="http://www.minspire.co.kr/">INSPIRE</option>
+					</select>
+					</p>
+					<p class="txt1 light">Copyright Herald Corporation. All Rights Reserved.</p>
+					<ul class="menu">
+						<li><a href="/custom/privacy.php">PRIVACY STATEMENT</a></li>
+						<li><a href="/custom/cpprivacy.php">COPYRIGHT POLICY</a></li>
+						<li><a href="/custom/ombudsman.php">HERALD OMBUDSMAN</a></li>
+					</ul>
+				</div>
+				<div class="right">
+					<p class="txt1"><span class="black">Address</span> : Huam-ro 4-gil 10, Yongsan-gu,Seoul, Korea<br />
+						<span class="black">Online newspaper registration No</span> : Seoul 아03711<br />
+						<span class="black">Date of registration</span> : 2015.04.28<br />
+						<span class="black">Publisher. Editor</span> : Kwon Chung-won<br/>
+						<span class="black">Juvenile Protection Manager</span> : Yang Sung-jin<br />
+						<span class="black">Tel</span> : 02.727.0114</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+		<div class="dim">
+	</div>
+	<div class="popup imgViewPop">
+		<div class="closeBtn">
+			<a href="#" class="popClose"><img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_close.gif" /></a>
+		</div>
+		<img src="http://res.heraldm.com/koreaherald/version01/www/images/btn_close.gif" id="layer_img" />
+	</div>
+	
+	<!-- 하단 풋터 광고 -->
+	
+	
+	<!-- Dable 스크립트(2015-11-17) -->
+	<script>
+	(function(d,a,b,l,e,_) {
+	d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+	e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+	_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+	})(window,document,'dable','script');
+	dable('setService', 'koreaherald.com');
+	dable('sendLog');
+	</script>
+
+	
+
+	
+	<script language="javascript" type="text/javascript">var g_strDispType='KH'; var g_strCategory='020201000000'; var g_strNewsID='20190728000054'; var g_strRemoteIP = 'NULL';</script> 
+	<script language="javascript" type="text/javascript" src="http://res.heraldm.com/js/logcollectscript_201312.js?pp=001"></script>
+	
+	<!-- 네이버 로거 -->
+	<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+	<script type="text/javascript">
+		if(!wcs_add) var wcs_add = {}; wcs_add["wa"] = "c7749f754cfc38"; wcs_do();
+	</script> 
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127230343-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-127230343-1');
+	</script>	
+
+	<!-- // AceCounter -->
+	
+	<!--환경변수 설정-->
+	<script>
+	var _GCD = '020200000000';			// 사이트 구분 코드 
+	var _AceTitle = 'S. Korea speeds up efforts to file compliant with WTO on Japan\'s export curbs';		// 기사타이틀
+	var _aid = '20190728000054';		// 기사아이디
+	var _aname = 'Yonhap';			// 기자명
+	var _atype = 'Business';			// 기사 분류
+	var _pd = '2019-07-28 10:30:00';	// 기사 생성 일시
+	</script>
+
+	<script>
+	if(typeof _GUL == 'undefined') {
+		var _GUL = 'herald.loginside.co.kr';
+		var _GPT='80';
+		var _SGPT='443';
+		var _AIMG = new Image();
+		var _bn=navigator.appName;
+		var _PR = location.protocol=="https:"?"https://"+_GUL+":"+_SGPT:"http://"+_GUL+":"+_GPT;
+		if( _bn.indexOf("Netscape") > -1 || _bn=="Mozilla") {
+			setTimeout("_AIMG.src = _PR+'/?cookie';",1);
+		} else{
+			_AIMG.src = _PR+'/?cookie';
+		};
+			document.writeln("<scr"+"ipt language='javascript' src='//res.heraldm.com/js/acecounter_V70.js'></scr"+"ipt>");
+	}
+	</script>
+  </body>
+</html>
+

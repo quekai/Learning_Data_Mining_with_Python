@@ -1,0 +1,2472 @@
+<!DOCTYPE html>
+<!--[if IE 6]><html class="is_ie6 is_ie" lang="en"><![endif]-->
+<!--[if IE 7]><html class="is_ie7 is_ie" lang="en"><![endif]-->
+<!--[if IE 8]><html class="is_ie8 is_ie" lang="en"><![endif]-->
+<!--[if IE 9]><html class="is_ie9 is_ie enhanced" lang="en"><![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8) | !(IE 9) ]><!--><html lang="en" class="enhanced"  itemscope  itemtype="http://schema.org/NewsArticle" ><!--<![endif]-->
+<head>
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+    <meta charset="UTF-8" />
+    <meta name="theme-color" content="#133F6F" />
+		<link rel="manifest" href="/manifest.json">
+		<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+		<script src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/js/min/one-signal.min.js?v=1.0.0" async=""></script>
+							<link rel="amphtml" href="https://globalnews.ca/news/5689260/illegitimate-internet-use-five-eyes-goodale/amp/">
+					
+		<script>
+		var gnca_omniture_config_params = {"trackingDomain":"metrics.corus.ca","StrackingDomain":"smetrics.corus.ca","accounts":"corus-tv-globalnews"};
+	</script>
+		
+	
+
+    <meta id="metaViewport" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="https://plus.google.com/+GlobalnewsCaHeadlines" rel="publisher"/>
+    <title>&#8216;Illegitimate&#8217; internet use under the microscope at Five Eyes meeting: Goodale - National | Globalnews.ca</title>
+			<meta name="title" content="&#8216;Illegitimate&#8217; internet use under the microscope at Five Eyes meeting: Goodale - National | Globalnews.ca"  itemprop="headline" />
+		<script type="application/ld+json">
+		{"@context":"http:\/\/schema.org","@type":"WebPage","name":"&#8216;Illegitimate&#8217; internet use under the microscope at Five Eyes meeting: Goodale","url":"http:\/\/globalnews.ca\/news\/5689260\/illegitimate-internet-use-five-eyes-goodale\/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".gn-speakable-title",".gn-speakable-description p:first-of-type"]}}	</script>
+	<meta name="medium" content="news" itemprop="genre" />
+<link href="https://globalnews.ca/news/5689260/illegitimate-internet-use-five-eyes-goodale/" rel="canonical"/>
+<meta content="2019-07-28T11:00" itemprop="datePublished" name="pubdate"/>
+<meta content="2019-07-28T11:00" name="dateCreated"/>
+<meta content="2019-07-28T11:00" property="article:published_time"/>
+<meta content="2019-07-28T11:00" itemprop="dateModified"/>
+		
+		<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+				<meta itemprop="url" content="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/logo-amp.png?v=2">
+				<meta itemprop="width" content="107">
+				<meta itemprop="height" content="60">
+			</div>
+			<meta itemprop="name" content="Global News">
+		</div>
+		
+		<meta property="article:publisher" content="https://www.facebook.com/GlobalNews/"/>
+<meta content="Global News" itemprop="sourceOrganization" name="source"/>
+<meta property="article:section" content="Canada"/>
+<meta content="Canada" itemprop="articleSection" />
+<meta content="Amanda Connolly" itemprop="author"/><meta property="og:see_also" content="https://globalnews.ca/news/5496654/canada-huawei-5g-decision/" /><meta property="og:see_also" content="https://globalnews.ca/news/5694795/the-west-block-season-8-episode-47/" /><meta property="og:see_also" content="https://globalnews.ca/news/5668204/huawei-says-new-4g-internet-plan-in-canadas-north-was-approved-by-feds/" />		<meta name="description" content="Goodale said the meeting will be a chance to address how best to address malicious use of the internet."  itemprop="description" />
+			<meta name="keywords" content="Canadian Politics, Canada Huawei, Five Eyes, Huawei, Huawei Espionage, huawei spying, National security, Ralph Goodale, US Huawei ban, Canada, News, Politics"  itemprop="keywords" />
+	<meta name="news_keywords" content="Canadian Politics, Canada Huawei, Five Eyes, Huawei, Huawei Espionage, huawei spying, National security, Ralph Goodale, US Huawei ban, Canada, News, Politics">
+<meta property="article:tag" content="Canadian Politics">
+<meta property="article:tag" content="Canada Huawei">
+<meta property="article:tag" content="Five Eyes">
+<meta property="article:tag" content="Huawei">
+<meta property="article:tag" content="Huawei Espionage">
+<meta property="article:tag" content="huawei spying">
+<meta property="article:tag" content="National security">
+<meta property="article:tag" content="Ralph Goodale">
+<meta property="article:tag" content="US Huawei ban">
+<meta property="article:tag" content="Canada">
+<meta property="article:tag" content="News">
+<meta property="article:tag" content="Politics">
+<meta property="fb:app_id" content="318812448281278"/>
+<meta name="thumbnail" content="https://shawglobalnews.files.wordpress.com/2019/05/cpt11400801-1.jpg?quality=70&strip=all&crop=0px%2C16px%2C1024px%2C541px&resize=720%2C379" itemprop="thumbnailUrl"/><meta itemprop="image" content="https://shawglobalnews.files.wordpress.com/2019/05/cpt11400801-1.jpg?quality=70&strip=all&crop=0px%2C16px%2C1024px%2C541px&resize=720%2C379"/>
+		<link type="image/jpg" rel="image_src" href="https://shawglobalnews.files.wordpress.com/2019/05/cpt11400801-1.jpg?quality=70&strip=all&crop=0px%2C16px%2C1024px%2C541px&resize=720%2C379"/>
+
+	
+<!-- og: starts here -->
+<meta property="og:title" content="&#8216;Illegitimate&#8217; internet use under the microscope at Five Eyes meeting: Goodale"/>
+<meta property="og:description" content="Goodale said the meeting will be a chance to address how best to address malicious use of the internet."/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://globalnews.ca/news/5689260/illegitimate-internet-use-five-eyes-goodale/"/>
+<meta property="og:site_name" content="Global News"/>
+<meta property="og:image" content="https://shawglobalnews.files.wordpress.com/2019/05/cpt11400801-1.jpg?quality=70&strip=all&crop=0px%2C16px%2C1024px%2C541px&resize=720%2C379"/>
+
+<!-- og: ends here -->
+
+<!-- twitter: starts here -->
+<meta name="twitter:title" content="&#8216;Illegitimate&#8217; internet use under the microscope at Five Eyes meeting: Goodale"/>
+<meta name="twitter:url" content="https://globalnews.ca/news/5689260/illegitimate-internet-use-five-eyes-goodale/"/>
+<meta name="twitter:description" content="Goodale said the meeting will be a chance to address how best to address malicious use of the internet."/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@globalnews"/>
+<meta name="twitter:image" content="https://shawglobalnews.files.wordpress.com/2019/05/cpt11400801-1.jpg?quality=70&strip=all&crop=0px%2C16px%2C1024px%2C541px&resize=720%2C379"/>
+
+<!-- twitter: ends here -->
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://globalnews.ca/xmlrpc.php">
+    		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=globalnews.ca&amp;id=43869434&amp;t=1564472952&amp;back=https%3A%2F%2Fglobalnews.ca%2Fnews%2F5689260%2Fillegitimate-internet-use-five-eyes-goodale%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//platform.twitter.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//shawglobalnews.wordpress.com' />
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJx9kN1ugzAMhV9oqYumVtvFtGdJggWG/Ambpn37mqKiTVu5iU7s7/gkhlqMz0kwCcTZlDB3lBgCjcgwoBTrR/O4HTzzGyhOyYe51bYWoCUWcCE/KDfZ6QYst4CHSGlz/BPg84Raj8XKQkRsyWLAqNierVLboazRqzaC111LLOdn0CJ7/RDvRhSljXNlQmajZ6Q5Gun1bX99axkuVIB7W00XsrMhYWXY1vQcLBVRrAv4Q75YquWeNIJ/bXFDBh2g/dHl6yYW6jt+NafTR9O8N5/H4Q4mWLGt?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='screen-css-1-1' href='https://s0.wp.com/_static/??-eJytlc9OwzAMxl+ItIJtSBwQB16AV/BStzVL7Cp2Vm1PT9RJXDgh9xBVSuOfvnz+k35dQhQ2ZOttxozaX2npdYY1TEnOkBhX7aO2JRzBepaSIdEdu0TnLhN37edT/2/O2E5rByk5GGdQik7GY9erJMFNqjkhC0WrBUdqFJ+5GdQrJiNXJ4La12vsKGJYnJAIRapiamE5C+9FMwR1a1OTcgtZhprQ63eGCbcYIHYLI06NEtQoXm7hSgOKk2gFeSCevI4trayk4OCdHgXh4pfTCgqN7mDkriyxMcDgbRlbyfw9M7Y571WySAv3IWZph2JB9Hq7RwH/dv4esI3x1R4Od6rqMoDhp1T2p10lEniT9hhERVZv/VSdg9LEdfH2egzEYZu1TlKBgbyp3xhhl6dNa7mi907SrCHDwGI0Uvwzyj7y+/PpdDocX17fDt8/5JzYQA==?cssminify=yes' type='text/css' media='screen' />
+<link rel='stylesheet' id='screenandmin-width36em-css-2-1' href='https://s0.wp.com/_static/??-eJyt0UEOgjAQBdALCSMGMS6MJ/AQhY5Q7cyQzmCDp5etS1MXf/WTl598yHM1CBuygU1IqPAKM+jkcjVG6V1kzAqDbhEenAE5tToHjzUFrrdiBz8b0a2yFCuEvJQadxHDVKqoSVpv4peIpZQlZB94LJ40C6sk9KVQn9A9/zCIhNHC21kQLn8tkX4hV7o0x0PTtafzvnt8AFhkEVE=?cssminify=yes' type='text/css' media='screen and (min-width:36em)' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-normalize-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/normalize.lib.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-fonts-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/fonts.all.ie.css?m=1499368331h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-basic-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/basic.all.ie.css?m=1511475036h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-globals-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/globals.all.ie.css?m=1526050786h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-layout-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/layout.all.ie.css?m=1537557869h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-picturefill-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/picturefill.lib.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-mast-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/mast.all.ie.css?m=1522072041h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-menu-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/menu.all.ie.css?m=1505142288h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-icons-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/icons.all.ie.css?m=1520447655h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-footer-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/footer.all.ie.css?m=1511458363h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-carousel-common-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/carousel-common.all.ie.css?m=1501797629h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-carousel-teaser-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/carousel-teaser.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-story-module-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/story-module.all.ie.css?m=1555342693h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-image-container-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/image-container.all.ie.css?m=1539694084h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-inline-sticky-video-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/inline-sticky-video.all.ie.css?m=1531840464h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-trending-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/trending.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-sponsored-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/sponsored.all.ie.css?m=1502831730h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-breaking-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/breaking.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-monetization-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/monetization.all.ie.css?m=1524747849h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-otf-ads-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/otf-ads.all.ie.css?m=1529521386h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-twitter-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/twitter.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-forms-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/forms.all.ie.css?m=1554908597h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-poll-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/poll.all.ie.css?m=1518542195h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-homescreen-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/homescreen.all.ie.css?m=1417555925h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-video-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/video.all.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-carousel-video-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/carousel-video.all.ie.css?m=1533661884h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-videoPlayer-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/videoPlayer.all.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-updateCounter-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/updateCounter.all.ie.css?m=1525104548h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-social-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/social.all.ie.css?m=1523979864h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-image-row-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/image-row.all.ie.css?m=1521573321h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-push-signup-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/push-signup.all.ie.css?m=1535028985h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-bc-in-story-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/bc-in-story.all.ie.css?m=1521643560h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-radio-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/radio.all.ie.css?m=1546889002h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-radio-footer-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/radio-footer.all.ie.css?m=1540572085h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-survey-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/survey.all.ie.css?m=1549996699h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-on-site-notification-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/on-site-notification.all.ie.css?m=1535033388h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-mast-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/mast.wide.ie.css?m=1504624217h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-layout-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/layout.wide.ie.css?m=1461610567h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-menu-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/menu.wide.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-footer-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/footer.wide.ie.css?m=1505142288h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-storyModule-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/storyModule.wide.ie.css?m=1521647906h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-trending-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/trending.wide.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-sponsored-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/sponsored.wide.ie.css?m=1389020413h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-breaking-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/breaking.wide.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-monetization-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/monetization.wide.ie.css?m=1447193443h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-forms-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/forms.wide.ie.css?m=1506522868h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='gnca-fontawesome-lib-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='screen-css-97-1' href='https://s2.wp.com/_static/??-eJyt0rEOwjAMBNAfIg0UocKAWBjhI5xgGiM3iWLTCr6ejMyE4bbTG05nl2x8iopRrQacUOxM2UqAxYycHHDERayXmhQ9qIWi5BnPqEDcAXM3UexqYWV/ta6QGyEPJT0F2YzVwfJq5MQXco7xQjM2UlwJx2lsZBRaBQZFURMQbkwRpXWizKSZfMfkGph7bRuhN5b/XMkEGgPX6Ld3mo6b3Xbo98O6Pzw+MOwbtA==?cssminify=yes' type='text/css' media='screen' />
+<link rel='stylesheet' id='screenandmin-width36em-css-98-1' href='https://s1.wp.com/_static/??-eJylzDsOhDAMANELQcxHiKVANLQcwmQtMEqciFjk+tBuuxTTjR7kWNogSqKgO3lKcHGEtGMuNxdWdEI5gU1PQSwq4KlsHc2kyM5k/pLxLOY5CvgXWzC+lRS3H2LyY921ffPpq2Y4bpVfVWE=?cssminify=yes' type='text/css' media='screen and (min-width:36em)' />
+<link rel='stylesheet' id='print-css-99-1' href='https://s1.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/print-article.all.min.css?m=1500562933h&cssminify=yes' type='text/css' media='print' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-articleDetail-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/articleDetail.all.ie.css?m=1537287029h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-articleMap-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/articleMap.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-carousel-gallery-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/carousel-gallery.all.ie.css?m=1537287029h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-scribbleLive-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/scribbleLive.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-liveblog-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/liveblog.all.ie.css?m=1521492596h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-tag-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/tag.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-latest-headlines-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/latest-headlines.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-splitpic-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/splitpic.lib.ie.css?m=1427749187h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-font-sizer-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/font-sizer.all.ie.css?m=1443193312h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-article-highlight-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/article-highlight.all.ie.css?m=1446214269h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-articleDetail-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/articleDetail.wide.ie.css?m=1537287029h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-articleMap-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/articleMap.wide.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-tag-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/tag.wide.ie.css?m=1391005995h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-print-article-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/print-article.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='print' />
+<![endif]-->
+<link rel='stylesheet' id='screen-css-128-1' href='https://s0.wp.com/_static/??-eJylkksOwjAMRC9EGkCtRBeIsziJVQzOR7FpxO0JS5YoC2/s0dNoxrYV43NSTGr1jhHF7lSs3KGZjbMDTtjEeumTkwe18o4us6BOTG6KlKZ+PNi/ORFETV9OwDyA0VyMaK6EYmIOL8ZBoFcYJGCgbkhMIf+UQZZQQAd1lMLdyiCjIXRhNY3C1ssfbI0iMqXRrnT/flBPuuatQvwJ+xavp2Vej/NyOa+PD8bxFws=?cssminify=yes' type='text/css' media='screen' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-symbolset-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/symbolset.lib.ie.css?m=1484859383h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-mast-new-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/mast-new.all.ie.css?m=1543424118h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-top-stories-module-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/top-stories-module.all.ie.css?m=1539098971h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-cta-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/cta.all.ie.css?m=1477417039h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-editors-picks-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/editors-picks.all.ie.css?m=1503585558h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-sidebar-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/sidebar.all.ie.css?m=1549045829h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-slick-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/slick.all.ie.css?m=1444074517h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-weather-widget-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/weather-widget.all.ie.css?m=1531332805h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-timeline-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/timeline.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-tv-news-programs-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/tv-news-programs.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='screen-css-148-1' href='https://s1.wp.com/_static/??-eJytzksOwjAMRdENkVi0tGKCWItJrCbI+Sh2m+23zBhDB292dfSgV+NKVsoKGiiRwBYrSMBuFi4v5ExdwMmxkh0qCGFzwQRCT80is00x2yO4wK9Wj34hPcdqJCur/InhqsWVVJmUDPoPdMq7bfh2nulxnaZhvt/mcXzvS3yTBg==?cssminify=yes' type='text/css' media='screen' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-search-header-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/search-header.all.ie.css?m=1425412221h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-search-widget-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/search-widget.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-search-results-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/search-results.all.ie.css?m=1426694712h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-autocomplete-admin-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/autocomplete-admin.all.ie.css?m=1552080737h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-search-v2-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/search-v2.all.ie.css?m=1552661789h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-159-1' href='https://s2.wp.com/_static/??-eJx9i9EKgzAMAH9oXRAydA9j31JLFjPSRmxkv7/6MiaCb3dwBwLFXJKV+oNrqvUCnzk0cSoOeQ2zriytYbKglqKLlZ2El0ZZztaFRjVuyNCqPz1MPlGmChMCq41Rt+CZHx3e7ohD3+H7C83dQx4=?cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcom_geo_settings = {"geolocation_endpoint":"https:\/\/public-api.wordpress.com\/geo\/","locations":["gnca-national","gnca-barrie","gnca-bc","gnca-calgary","gnca-durham","gnca-guelph","gnca-edmonton","gnca-halifax","gnca-hamilton","gnca-kingston","gnca-kitchener","gnca-lethbridge","gnca-london","gnca-montreal","gnca-new-brunswick","gnca-okanagan","gnca-ottawa","gnca-peterborough","gnca-regina","gnca-saskatoon","gnca-toronto","gnca-winnipeg","gnca-national"],"default_location":"gnca-national","cookie_name":"_wpcom_geo","expiry_date":"Tue, 06 Aug 2019 07:49:12 UTC","expiry_time":"604800"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_sticky_ad_settings = {"stick_on_demand":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gncaGetInTouch = {"ajaxurl":"https:\/\/shawglobalnews.wordpress.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_sticky_video_settings = {"enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_inline_video_settings = {"muted_autoplay":"1","mobile_muted_autoplay":"1","slimcut_url":"https:\/\/static.freeskreen.com\/ba\/31\/freeskreen.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_ad_settings = {"amazon_bidding_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gncaPageVars = {"queryType":"single","post_id":"5689260","enable_lazy_load_ads":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_story_processor_setting = {"frequency":"200","outbrain_readmore":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJylV9tu2zAM/aGpbrILtodhL/uPgpZom4kkupJsN/n60W4yLFvQoRQSIIlDHvF6SDXLaChaPznMzUHezxOm0+Xj4ZA/NG8JmEB9goIPgeJV2HIsGMsqO3IuAXOGHu/8G7glj2bKmEQgFjmm4ztytyZRnAmX/4odsIxgjyZhpvM/p5cBxa5mprEZ/dRTzPKv5WB6ZDNFEozN2d8P3wDIAyym99yCj7hsau9W8NQ2EsKmjxbMVMjnexF9B8YCxQ6YKlEg2oFTNUwuZI8nA06Pk71A6NUv1WqZj3S3WN+GWSEcB0HTm0CcDdsBYo+moxedEVKNgaNON2FPHI1klLMmpSvGTE4aZPRw0iIEyEWnmRGSHcy8r6xGC4mFc3xtUbMlqACRIFoEN2MqlEUhKsJyxXJYQDjDjOxPHfkKqwI7TJHOFS0fVuoJ6AgqgkO2TAl1vqwAIFG1Mlw8tJpM/0FdiWKvc4QwDzTrDn7KT1ZSobP8mKYXM6AftU3KpRO2VsygzXxcJ7kpPEm3LuTkd0UCykKlYHqFq8CBAyg4994Y2ziwEoqip4ivUFo2vQGUL1TFywOLgE2IN9PlzuI3UYNdh7YmqZ5mlAIFt0ahYtVJMA6A3uzNzlSMhSvMmWXZe5TXJyXpOBkuvmZ3gwBnmdEtOSe0U9XDQRa3df/WdvGWJxaXVqCaBoZ+SzWmGksilLVm1KSUwBGbjrnULC5GHlRo56lif1wQRDBVMWqBVhm/y+nKYxN0HVml8rxGXXabxHLVDDXN1an37ixE3YLS/cvwYLmAiBNW7sNcQfcwFV6vtIY6CUcNewrdU9t63NhYW1Z/rdZjkTuGssbywMtPys/TVf9H+L77/GX38evjfv/t8AujQzz1'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1530132353h&cssminify=yes' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="canonical" href="http://globalnews.ca/news/5689260/illegitimate-internet-use-five-eyes-goodale/" />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fglobalnews.ca%2Fnews%2F5689260%2Fillegitimate-internet-use-five-eyes-goodale%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fglobalnews.ca%2Fnews%2F5689260%2Fillegitimate-internet-use-five-eyes-goodale%2F&amp;for=wpcom-auto-discovery" /><link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/134ef81f5668dc78080f6bd19ca2310b?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/134ef81f5668dc78080f6bd19ca2310b?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/134ef81f5668dc78080f6bd19ca2310b?s=114" />
+<link rel='openid.server' href='https://shawglobalnews.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://shawglobalnews.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://globalnews.ca/osd.xml" title="Global News" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+				<meta property="ia:markup_url" content="https://globalnews.ca/news/5689260/illegitimate-internet-use-five-eyes-goodale/?ia_markup=1" />
+				<link rel="alternate" type="application/rss+xml" title="Global News &#8216;Illegitimate&#8217; internet use under the microscope at Five Eyes meeting: Goodale Feed" href="https://globalnews.ca/news/5689260/illegitimate-internet-use-five-eyes-goodale/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Global News  Feed" href="https://globalnews.ca/feed/" />
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Global News" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://globalnews.ca/feed/;icon-uri=https://secure.gravatar.com/blavatar/134ef81f5668dc78080f6bd19ca2310b?s=16" />		
+		<script type='text/javascript'>
+			var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
+			(function() { var gads = document.createElement('script'); gads.async = true; gads.type = 'text/javascript'; var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; var node = document.getElementsByTagName('script')[0]; node.parentNode.insertBefore(gads, node); })();
+		</script>
+
+				<!-- District M Header Bid Script for globalnews.ca -->
+		<script type='text/javascript' async="async" src='//cdn.districtm.ca/merge/merge.v4.2.102885.js'></script>
+		<!-- End District M Header Bid Script -->	
+		
+		<script async src="//js-sec.indexww.com/ht/p/183422-173052907676579.js"></script>
+		
+			
+		
+		<script type='text/javascript'>
+			gnca_ad_slots = [];
+			gnca_late_ad_slots = [];
+			var adskip = false;
+			var mapping;
+			var adlocation = document.location.href.toLowerCase();
+			if ( adlocation.indexOf('?') > -1 ) {
+				adlocation = adlocation.split('?')[1];
+				if ( adlocation.indexOf('email=') >-1 || adlocation.indexOf('email-address=') > -1 ) {
+					adskip = true;
+				}
+			}
+
+			if ( !adskip ) {
+			googletag.cmd.push(function() {
+				var gptadpath = "\/6872\/shaw.globalnews.ca\/canadian-politics\/5689260\/amanda-connolly";
+				if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+					gNewsWP.Ads.setAdPath( gptadpath );
+				}
+gnca_ad_slots['div-gpt-gnca-ads-6872-72890-1'] = googletag.defineSlot(gptadpath, [728,90], 'div-gpt-gnca-ads-6872-72890-1').addService(googletag.pubads()).setTargeting("pos","1");
+							var divgptgncaads6872728901 = {
+								'id': "div-gpt-gnca-ads-6872-72890-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-72890-1" ]
+							};
+																var divgptgncaads6872728901Mapping = googletag.sizeMapping()
+																			.addSize( [970,0], [[970,90],[728,90]] )
+																			.addSize( [728,0], [[728,90]] )
+																			.addSize( [0,0], [[320,100],[320,50]] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-72890-1" ].defineSizeMapping( divgptgncaads6872728901Mapping );
+									divgptgncaads6872728901['mapping'] = divgptgncaads6872728901Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads6872728901);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-300150-1'] = googletag.defineSlot(gptadpath, [300,150], 'div-gpt-gnca-ads-6872-300150-1').addService(googletag.pubads()).setTargeting("pos","1").setTargeting( "strnativekey","w3JqtE5R2zBzdkCVjBgA3YD9");
+							var divgptgncaads68723001501 = {
+								'id': "div-gpt-gnca-ads-6872-300150-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300150-1" ]
+							};
+														if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723001501);	
+							}
+							gnca_ad_slots['div-gpt-gnca-ads-6872-300150-2'] = googletag.defineSlot(gptadpath, [300,150], 'div-gpt-gnca-ads-6872-300150-2').addService(googletag.pubads()).setTargeting("pos","2").setTargeting( "strnativekey","w3JqtE5R2zBzdkCVjBgA3YD9");
+							var divgptgncaads68723001502 = {
+								'id': "div-gpt-gnca-ads-6872-300150-2",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300150-2" ]
+							};
+														if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723001502);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-300250-1'] = googletag.defineSlot(gptadpath, [[300,250],[300,600]], 'div-gpt-gnca-ads-6872-300250-1').addService(googletag.pubads()).setTargeting("pos","1");
+							var divgptgncaads68723002501 = {
+								'id': "div-gpt-gnca-ads-6872-300250-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300250-1" ]
+							};
+																var divgptgncaads68723002501Mapping = googletag.sizeMapping()
+																			.addSize( [897,0], [[300,600],[300,250]] )
+																			.addSize( [0,0], [] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-300250-1" ].defineSizeMapping( divgptgncaads68723002501Mapping );
+									divgptgncaads68723002501['mapping'] = divgptgncaads68723002501Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723002501);	
+							}
+							gnca_ad_slots['div-gpt-gnca-ads-6872-300250-2'] = googletag.defineSlot(gptadpath, [300,250], 'div-gpt-gnca-ads-6872-300250-2').addService(googletag.pubads()).setTargeting("pos","2");
+							var divgptgncaads68723002502 = {
+								'id': "div-gpt-gnca-ads-6872-300250-2",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300250-2" ]
+							};
+														if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723002502);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-300100-1'] = googletag.defineSlot(gptadpath, [300,100], 'div-gpt-gnca-ads-6872-300100-1').addService(googletag.pubads()).setTargeting("pos","1");
+							var divgptgncaads68723001001 = {
+								'id': "div-gpt-gnca-ads-6872-300100-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300100-1" ]
+							};
+																var divgptgncaads68723001001Mapping = googletag.sizeMapping()
+																			.addSize( [897,0], [[300,100]] )
+																			.addSize( [0,0], [] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-300100-1" ].defineSizeMapping( divgptgncaads68723001001Mapping );
+									divgptgncaads68723001001['mapping'] = divgptgncaads68723001001Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723001001);	
+							}
+							gnca_ad_slots['div-gpt-gnca-ads-6872-300100-2'] = googletag.defineSlot(gptadpath, [300,100], 'div-gpt-gnca-ads-6872-300100-2').addService(googletag.pubads()).setTargeting("pos","2");
+							var divgptgncaads68723001002 = {
+								'id': "div-gpt-gnca-ads-6872-300100-2",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300100-2" ]
+							};
+																var divgptgncaads68723001002Mapping = googletag.sizeMapping()
+																			.addSize( [897,0], [[300,100]] )
+																			.addSize( [0,0], [] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-300100-2" ].defineSizeMapping( divgptgncaads68723001002Mapping );
+									divgptgncaads68723001002['mapping'] = divgptgncaads68723001002Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723001002);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-30050-2'] = googletag.defineSlot(gptadpath, [300,50], 'div-gpt-gnca-ads-6872-30050-2').addService(googletag.pubads()).setTargeting("pos","2");
+							var divgptgncaads6872300502 = {
+								'id': "div-gpt-gnca-ads-6872-30050-2",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-30050-2" ]
+							};
+																var divgptgncaads6872300502Mapping = googletag.sizeMapping()
+																			.addSize( [897,0], [[300,50]] )
+																			.addSize( [0,0], [] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-30050-2" ].defineSizeMapping( divgptgncaads6872300502Mapping );
+									divgptgncaads6872300502['mapping'] = divgptgncaads6872300502Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads6872300502);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-140100-1'] = googletag.defineSlot(gptadpath, [140,100], 'div-gpt-gnca-ads-6872-140100-1').addService(googletag.pubads()).setTargeting("pos","1");
+							var divgptgncaads68721401001 = {
+								'id': "div-gpt-gnca-ads-6872-140100-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-140100-1" ]
+							};
+														if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68721401001);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-11-1'] = googletag.defineOutOfPageSlot(gptadpath, 'div-gpt-gnca-ads-6872-11-1').addService(googletag.companionAds()).addService(googletag.pubads()).setTargeting("pos","1");
+							var divgptgncaads6872111 = {
+								'id': "div-gpt-gnca-ads-6872-11-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-11-1" ]
+							};
+																var divgptgncaads6872111Mapping = googletag.sizeMapping()
+																			.addSize( [1120,0], [[1,1]] )
+																			.addSize( [0,0], [] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-11-1" ].defineSizeMapping( divgptgncaads6872111Mapping );
+									divgptgncaads6872111['mapping'] = divgptgncaads6872111Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads6872111);	
+							}
+							
+				
+				// Network targets
+				googletag.pubads().setTargeting("site","globalnews").setTargeting("network","shaw");
+
+				// Watson categorization data
+				if ( typeof( window.DFP_AI_channel ) !== 'undefined' && window.DFP_AI_channel ) {
+					googletag.pubads().setTargeting( 'AI_channel', window.DFP_AI_channel );	
+				}
+				if ( typeof( window.DFP_AI_section ) !== 'undefined' && window.DFP_AI_section ) {
+					googletag.pubads().setTargeting( 'AI_section', window.DFP_AI_section );
+				}
+
+				// Age Gate logic
+				var ageGateRequired = window.ageGateRequired; // This article is for 19+
+				var ageGateCookie  = 'undefined' !== typeof( jQuery.cookie( 'over-nineteen' ) ) ? true : false; // User has over-nineteen cookie
+				
+				// If the article is for 19+ and there is no cookie set
+				if ( ageGateRequired && ageGateCookie ) {
+					googletag.pubads().setTargeting( 'userOverNineteen', 'true' );
+				}
+
+				// Page targets
+				googletag.pubads().setTargeting("userregion","national").setTargeting("contentregion","national").setTargeting("page","5689260").setTargeting("template","single").setTargeting("category",["canada","news","politics"]).setTargeting("tags",["canada-huawei","canadian-politics","five-eyes","huawei","huawei-espionage","huawei-spying","national-security","ralph-goodale","us-huawei-ban"]).setTargeting("show","the-west-block").setTargeting("weathertemp","22").setTargeting("weatherprec","0").setTargeting("weathercode","-SH");
+								var adslot_vals = [];
+				var i = 0;
+				for(var key in gnca_ad_slots) {
+    				adslot_vals[i] = gnca_ad_slots[key];
+    				i++;
+				}
+
+				// Slot render ended listener
+				googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+					var divId = event.slot.getSlotElementId();
+					var adDiv = document.querySelector('#' + divId);
+					if ( adDiv ) {
+					adDiv.classList.add('is-loaded');
+					adDiv.dataset.loadTime = (new Date()).getTime();
+					if ( event.isEmpty ) {
+						adDiv.classList.add('is-empty');
+					}
+					if ( typeof( GNCA_Watcher ) !== 'undefined' ) {
+						GNCA_Watcher.fireWindowEvent( 'adCompleted', { id: divId } );
+					}
+					}
+				});
+				
+				//Settings
+				googletag.pubads().collapseEmptyDivs();
+				googletag.companionAds().setRefreshUnfilledSlots(true);
+
+				// Batch SRA implemented
+				googletag.pubads().enableSingleRequest();
+				googletag.pubads().disableInitialLoad();
+				googletag.enableServices();
+							});	
+
+				var gncaPageTargets = {"userregion":"national","contentregion":"national","page":"5689260","template":"single","category":["canada","news","politics"],"tags":["canada-huawei","canadian-politics","five-eyes","huawei","huawei-espionage","huawei-spying","national-security","ralph-goodale","us-huawei-ban"],"show":["the-west-block"],"weathertemp":"22","weatherprec":"0","weathercode":"-SH"};
+			}			
+		</script>
+		<script type="text/javascript">
+			function gnca_load_late_ads(){
+				var current_late_ads = [];
+				var current_late_idx = 0;
+				var gptadpath = "\/6872\/shaw.globalnews.ca\/canadian-politics\/5689260\/amanda-connolly";
+				jQuery(".gnca_late_ads").each(function(){
+					
+					var par_div = jQuery(this).parent();
+					if( par_div.attr('data-lateprocessed') == '1' ){
+						return;
+					}
+					var my_id = par_div.attr("id");
+					if ( !my_id ) { return; }					
+					
+					if ( my_id.indexOf('{pgno}') ) {
+						var bd_no = document.body.getAttribute( 'data-page-num' );
+						if(  bd_no && parseInt( bd_no ) > 1 && parseInt( bd_no ) < 7 ){
+							bd_no = parseInt( bd_no ) - 1;
+							my_id = my_id.replace( '{pgno}', bd_no );
+							par_div.attr( 'id', my_id );
+						} else { par_div.css( 'display', 'none' ); return; }
+					}
+
+					var posid = my_id.replace('-pos','|').split('|');
+					posid = posid[2];
+					if( ! gnca_late_ad_slots[my_id] ) {
+						gnca_late_ad_slots[my_id] = googletag.defineSlot(gptadpath, [300,250], my_id).addService(googletag.pubads()).setTargeting("pos",posid);	
+
+						if( typeof cygnus_index_start == 'function' ) {
+							cygnus_index_start();
+						}
+
+						googletag.display( my_id );
+					}
+															
+					current_late_ads[current_late_idx]   = gnca_late_ad_slots[my_id];
+					current_late_idx++;
+					par_div.attr('data-lateprocessed','1');
+				});
+				
+				googletag.pubads().refresh( current_late_ads );
+				
+			}
+			var gnca_ads_page_ad_targets = "userregion=national&lt;br/&gt;contentregion=national&lt;br/&gt;page=5689260&lt;br/&gt;template=single&lt;br/&gt;category%5B0%5D=canada&lt;br/&gt;category%5B1%5D=news&lt;br/&gt;category%5B2%5D=politics&lt;br/&gt;tags%5B0%5D=canada-huawei&lt;br/&gt;tags%5B1%5D=canadian-politics&lt;br/&gt;tags%5B2%5D=five-eyes&lt;br/&gt;tags%5B3%5D=huawei&lt;br/&gt;tags%5B4%5D=huawei-espionage&lt;br/&gt;tags%5B5%5D=huawei-spying&lt;br/&gt;tags%5B6%5D=national-security&lt;br/&gt;tags%5B7%5D=ralph-goodale&lt;br/&gt;tags%5B8%5D=us-huawei-ban&lt;br/&gt;show%5B0%5D=the-west-block&lt;br/&gt;weathertemp=22&lt;br/&gt;weatherprec=0&lt;br/&gt;weathercode=-SH";
+		</script>
+	<script>
+    // Load the APS JavaScript Library
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // Initialize the Library
+    apstag.init({
+         pubID: '3311',
+         adServer: 'googletag'
+    });
+
+    googletag.cmd.push(function() {
+    var biddingSlots = [];
+      var ads = ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) ? gNewsWP.Ads.getAds() : {};
+
+              var divgptgncaads6872728901Mapping = typeof( ads["div-gpt-gnca-ads-6872-72890-1"] ) !== 'undefined' ? ads["div-gpt-gnca-ads-6872-72890-1"].mapping : undefined;
+      biddingSlots.push({
+         slotID: "div-gpt-gnca-ads-6872-72890-1",
+         slotName: "\/6872\/shaw.globalnews.ca\/canadian-politics\/5689260\/amanda-connolly\/div-gpt-gnca-ads-6872-72890-1",
+           sizes: typeof( divgptgncaads6872728901Mapping ) !== 'undefined' ? GNCA_APS_Helper.parseSizeMappings( divgptgncaads6872728901Mapping ) : [[728,90],[970,90],[320,100],[320,50]]      });
+              var divgptgncaads68723002501Mapping = typeof( ads["div-gpt-gnca-ads-6872-300250-1"] ) !== 'undefined' ? ads["div-gpt-gnca-ads-6872-300250-1"].mapping : undefined;
+      biddingSlots.push({
+         slotID: "div-gpt-gnca-ads-6872-300250-1",
+         slotName: "\/6872\/shaw.globalnews.ca\/canadian-politics\/5689260\/amanda-connolly\/div-gpt-gnca-ads-6872-300250-1",
+           sizes: typeof( divgptgncaads68723002501Mapping ) !== 'undefined' ? GNCA_APS_Helper.parseSizeMappings( divgptgncaads68723002501Mapping ) : [[300,250],[300,600]]      });
+              var divgptgncaads68723002502Mapping = typeof( ads["div-gpt-gnca-ads-6872-300250-2"] ) !== 'undefined' ? ads["div-gpt-gnca-ads-6872-300250-2"].mapping : undefined;
+      biddingSlots.push({
+         slotID: "div-gpt-gnca-ads-6872-300250-2",
+         slotName: "\/6872\/shaw.globalnews.ca\/canadian-politics\/5689260\/amanda-connolly\/div-gpt-gnca-ads-6872-300250-2",
+           sizes: typeof( divgptgncaads68723002502Mapping ) !== 'undefined' ? GNCA_APS_Helper.parseSizeMappings( divgptgncaads68723002502Mapping ) : [300,250]      });
+      
+    apstag.fetchBids({
+      slots: biddingSlots, 
+      timeout: 700
+    }, function(bids) {
+      // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration 
+      googletag.cmd.push(function(){
+        apstag.setDisplayBids();
+          var adSlots = [];
+          for (var key in ads) {
+              adSlots.push( ads[key].slot );
+        }
+          googletag.pubads().refresh( adSlots );
+        });
+      });
+    });
+</script>
+				<!-- Anti-flicker snippet (recommended)  -->
+				<style>.async-hide { opacity: 0 !important} </style>
+				<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+				h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+				(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+				})(window,document.documentElement,'async-hide','dataLayer',4000,
+				{'GTM-WJGRMKT':true});</script>
+				<!-- Modified Analytics tracking code with Optimize plugin -->
+
+				<!-- Google Analytics -->
+				<script>
+					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+					ga('create', 'UA-37934458-1', 'auto' );
+					ga('require', 'GTM-WJGRMKT'); // Optimise Installation
+					ga('require', 'linker'); // Loads the Linker plugin
+					ga('linker:autoLink', ['globalnews.ca']);
+					ga('set', 'dimension1', "national"); // User Region
+					ga('set', 'dimension2', "national"); // Content Region
+					// Category or Program
+ga("set", "dimension3", "The West Block");					ga('send', 'pageview');
+				</script>
+				<!-- End Google Analytics -->
+			
+	<!-- DNS prefetch -->
+	<link rel='dns-prefetch' href='//api.flyertown.ca' />
+	<link rel='dns-prefetch' href='//metrics.corus.ca' />
+	<link rel='dns-prefetch' href='//aip.context.corus.ca' />
+	<link rel='dns-prefetch' href='//i0.wp.com' />
+	<link rel='dns-prefetch' href='//i1.wp.com' />
+	<link rel='dns-prefetch' href='//i2.wp.com' />
+	<link rel='dns-prefetch' href='//s0.wp.com' />
+	<link rel='dns-prefetch' href='//s1.wp.com' />
+	<link rel='dns-prefetch' href='//s2.wp.com' />
+	<link rel='dns-prefetch' href='//www.facebook.com' />
+	<link rel='dns-prefetch' href='//cdn.krxd.net' />
+	<link rel='dns-prefetch' href='//beacon.krxd.net' />
+	<link rel='dns-prefetch' href='//widgets.outbrain.com' />
+	<link rel='dns-prefetch' href='//ping.chartbeat.net' />
+	
+	
+				<style type="text/css">
+			.gnca_do_not_show_on_me_5689260 {
+				display: none;
+			}
+		</style>
+	
+	<!-- FB link ownership meta tags -->
+	<meta property="fb:pages" content="114019975312443" />
+	<meta property="fb:pages" content="115413405149434" />
+	<meta property="fb:pages" content="156752041012592" />
+	<meta property="fb:pages" content="85920510328" />
+	<meta property="fb:pages" content="147876361920969" />
+	<meta property="fb:pages" content="135368173158417" />
+	<meta property="fb:pages" content="78585693009" />
+	<meta property="fb:pages" content="130968530253684" />
+	<meta property="fb:pages" content="209712602400859" />
+	<meta property="fb:pages" content="160347210655494" />
+	<meta property="fb:pages" content="104554073627" />
+	<meta property="fb:pages" content="130660530344466" />
+	<meta property="fb:pages" content="475237565520" />
+	<meta property="fb:pages" content="101827423245383" />
+	<meta property="fb:pages" content="10080840973" />
+	<meta property="fb:pages" content="115446208478014" />
+	<meta property="fb:pages" content="8475622807" />
+	<meta property="fb:pages" content="116588618370885" />
+	<meta property="fb:pages" content="7078490926" />
+	<meta property="fb:pages" content="63750601090" />
+	<meta property="fb:pages" content="17283404678" />
+	<meta property="fb:pages" content="122301577965124" />
+	<meta property="fb:pages" content="111515975551979" />
+	<meta property="fb:pages" content="125250400820441" />
+	<meta property="fb:pages" content="133713529984442" />
+	<meta property="fb:pages" content="429228375456" />
+	
+	<!-- FB link ownership meta tags for FM -->
+	<meta property="fb:pages" content="881072405358139" />
+	<meta property="fb:pages" content="12799224100" />
+	<meta property="fb:pages" content="257080087687534" />
+	<meta property="fb:pages" content="789314681157775" />
+	<meta property="fb:pages" content="112905142082887" />
+	<meta property="fb:pages" content="19003505092" />
+	<meta property="fb:pages" content="103411603025398" />
+	<meta property="fb:pages" content="525962767428911" />
+	<meta property="fb:pages" content="146507038705131" />
+	<meta property="fb:pages" content="182496758453639" />
+	<meta property="fb:pages" content="434208840045103" />
+	<meta property="fb:pages" content="1559293260991262" />
+	<meta property="fb:pages" content="880316541988529" />
+	<meta property="fb:pages" content="16751766462" />
+	<meta property="fb:pages" content="193313102322" />
+	<meta property="fb:pages" content="478019845595073" />
+	<meta property="fb:pages" content="1523209977908749" />
+	<meta property="fb:pages" content="863955850330486" />
+	<meta property="fb:pages" content="376802075093" />
+	<meta property="fb:pages" content="270951586402505" />
+	<meta property="fb:pages" content="296232292622" />
+	<meta property="fb:pages" content="222336294466387" />
+	<meta property="fb:pages" content="59903172026" />
+	<meta property="fb:pages" content="15041172220" />
+	<meta property="fb:pages" content="251425722777" />
+	<meta property="fb:pages" content="51570824279" />
+	<meta property="fb:pages" content="118387401802" />
+	<meta property="fb:pages" content="91251252807" />
+
+	
+	<!-- MOAT Analytics Code -->
+	<script>(function() { try{var a={l1:document.location.host.replace(/^www\./,""),l2:document.title||"Untitled",l3:"__page__",l4:"-",sa:"",sn:""},b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src="//d3elyky6ck2w00.cloudfront.net?a=4e06069f74504ba68f7fdece906ab9ba";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/shaw307wLtn52/moatcontent.js#"+b}catch(f){try{var g="//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&ac=1&k="+encodeURIComponent(f)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();(new Image).src=g}catch(h){}};})();</script>
+	<!-- End of MOAT Analytics Code -->
+
+	
+		<!-- BEGIN Krux Control Tag for "GlobalNews" -->
+				<script src="https://aip.context.corus.ca/globalnews_ca_news_5689260_illegitimate_internet_use_five_eyes_goodale.js"></script>
+			
+	
+<script class="kxct" data-id="KmBBKjN2" data-timing="async" data-version="3.0" type="text/javascript">
+	window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+	(function(){
+	var k = document.createElement('script'); k.type = 'text/javascript'; k.async = true;
+    k.src = (location.protocol === "https:" ? "https:" : "http:") + "//cdn.krxd.net/controltag/KmBBKjN2.js";
+    var tag=document.getElementsByTagName('script')[0];tag.parentNode.insertBefore(k,tag);
+	}());
+</script>
+
+		<!-- END Krux Controltag -->
+	
+			<!-- Hotjar Tracking Code for globalnews.ca -->
+			<script>
+				(function(h,o,t,j,a,r){
+					h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+					h._hjSettings={hjid:1113660,hjsv:6};
+					a=o.getElementsByTagName('head')[0];
+					r=o.createElement('script');r.async=1;
+					r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+					a.appendChild(r);
+				})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+			</script>
+	
+	<script type="text/javascript">
+		var _sf_async_config          = {};
+		_sf_async_config.uid          = 51927;
+		_sf_async_config.domain       = 'globalnews.ca';
+		_sf_async_config.useCanonical = true;
+	</script>
+	<script src="//mab.chartbeat.com/js/chartbeat_mab.js"></script>
+		
+	
+	<script type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>
+</head>
+<body class="post-template-default single single-post postid-5689260 single-format-standard mp6 customizer-styles-applied gnca-national reskin-enabled highlander-enabled highlander-light" data-page-num="1">
+	
+<div id="fb-root"></div>
+
+<script>
+
+window.fbAsyncInit = function() {
+	var currentCommentID = 0;					
+	FB.Event.subscribe('comment.create', function(response) {
+		if ( currentCommentID !== response.commentID ) {
+			currentCommentID = response.commentID;
+			if ( typeof( OmnitureHelper ) !== 'undefined' ) {
+					OmnitureHelper.trackLink( true, 'o', 'facebook comment', { 'fb.comment': OmnitureHelper.getContextData('content.pagename') } );
+			}
+		}
+	});
+};
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=318812448281278&version=v3.3";
+  js.async = true;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<script id="gnca-sponsored-most-popular" type="text/template">
+	<div class="story" id="{{template_id}}">
+		<article>
+			<a href="{{data.url}}" class="story-img-link">
+				<img width="150" height="84" src="{{data.image}}" class="story-img wp-post-image"/>
+			</a>
+			<h3 class="story-h">
+				<a href="{{data.url}}">{{data.title}}</a>
+			</h3>
+		</article> 
+		<div class="sponsor"> 
+				<span>Sponsored by</span>
+				<a href="{{data.url}}">
+					<img width="34" height="34" src="{{data.logo}}" class="story-img wp-post-image"/>
+				</a>
+		</div>
+		<br style="clear:both">
+	</div>
+</script>
+<script id="gnca-header-sponsored" type="text/template">
+	<div class="header-sponsored {{data.gradient}}" id="{{template_id}}" style="background-image: url({{data.background}});">
+		<a href="{{data.url}}" target="{{data.target}}">
+			<span style="color:{{data.color}}" class="header-sponsored-text small">{{data.label}}</span>
+			<img src="{{data.logo}}" class="header-sponsored-logo" onerror="this.style.display='none'"/>
+			<span style="color:{{data.color}}; width: calc(100% - {{data.width}}px);" class="header-sponsored-text large">
+				<span>{{data.label}}</span>
+			</span>
+			<img class="inline-pixel" src="{{data.impression}}" style="max-width: 1px; max-height: 1px;"/>
+		</a>	
+	</div>
+</script>	
+	<div id="ad-support" class="ad-placeholder"></div>
+<script type="text/javascript">
+	window.GNCA_Ad_Support = function( evt ) {
+		var adDiv = document.getElementById( 'ad-support' );
+		return ( adDiv ? getComputedStyle( adDiv, null ).display === 'block' : false );
+	};
+</script>	<div class="contain">
+    	
+    	    		<div id="header-ad-wrapper" class="leaderboard-wrapper stickable-ad-wrapper">
+	<div class="leaderboard-container ad-container">
+		<div class="leaderboard-tab-wrapper">
+			<div class="ad-countdown"></div>
+			<div id="div-gpt-gnca-ads-6872-72890-1" class="leaderboard-big-main header-ad gnca-ad">
+					<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-72890-1");
+			      	});
+	</script>	
+			</div>
+			<div class="leaderboard-tab"></div>
+		</div>
+	</div>
+</div>
+
+ 
+		
+		
+<header class="mast" role="banner">
+	<nav role="navigation" id="main-navigation">
+		<ul class="primary clearfix">
+			<li class="logo top-item">
+				<a href="https://globalnews.ca">
+					<img src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" alt="Global">
+				</a>
+			</li>
+			<li class="mobile-toggles top-item">
+				<a href class="menu-toggle" data-toggle="menu">
+					<i class="menu-icon"></i>
+					<span>Menu</span>
+				</a><!-- Hack to fix inline-block space issue. http://css-tricks.com/fighting-the-space-between-inline-block-elements/
+			 --><a class="social-toggle" href="https://globalnews.ca/pages/twitter/">
+					<i class="ss-social-regular ss-twitter"></i>
+				</a><!--
+			 --><a class="social-toggle" href="https://globalnews.ca/pages/facebook/">
+					<i class="ss-social-regular ss-facebook"></i>
+				</a><!--
+			--><a href class="search-toggle" data-toggle="search">
+					<i class="ss-standard ss-search"></i>
+				</a>
+			</li>
+						<li class="regions top-item parent" data-toggle-open="menu">
+				<a href="https://globalnews.ca/national/">
+				<span>
+					<h3>National <i class="ss-standard ss-navigatedown"></i>
+						<span class="change-location"><i class="ss-standard ss-navigate"></i>Change Location</span>
+					</h3>
+					<p>Change Location</p>
+				</span>
+				</a>
+				<h3 class="change-location">Select Location<i class="ss-standard ss-delete"></i></h3>
+				<ul id="regions-menu" class="child"><li id="menu-item-4643364" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4643364"><a href="https://globalnews.ca/barrie/">Barrie</a></li>
+<li id="menu-item-4643362" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4643362"><a href="https://globalnews.ca/bc/">BC</a></li>
+<li id="menu-item-1560878" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560878"><a href="https://globalnews.ca/calgary/">Calgary</a></li>
+<li id="menu-item-4643369" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4643369"><a href="https://globalnews.ca/durham/">Durham</a></li>
+<li id="menu-item-1560880" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560880"><a href="https://globalnews.ca/edmonton/">Edmonton</a></li>
+<li id="menu-item-4643374" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4643374"><a href="https://globalnews.ca/guelph/">Guelph</a></li>
+<li id="menu-item-1560887" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560887"><a href="https://globalnews.ca/halifax/">Halifax</a></li>
+<li id="menu-item-4643376" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4643376"><a href="https://globalnews.ca/hamilton/">Hamilton</a></li>
+<li id="menu-item-3619454" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-3619454"><a href="https://globalnews.ca/kingston/">Kingston</a></li>
+<li id="menu-item-4176515" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4176515"><a href="https://globalnews.ca/kitchener/">Kitchener</a></li>
+<li id="menu-item-1560888" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560888"><a href="https://globalnews.ca/lethbridge/">Lethbridge</a></li>
+<li id="menu-item-3226778" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-3226778"><a href="https://globalnews.ca/london/">London</a></li>
+<li id="menu-item-4643377" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4643377"><a href="https://globalnews.ca/montreal/">Montreal</a></li>
+<li id="menu-item-1560851" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560851"><a href="https://globalnews.ca/new-brunswick/">New Brunswick</a></li>
+<li id="menu-item-1560881" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560881"><a href="https://globalnews.ca/okanagan/">Okanagan</a></li>
+<li id="menu-item-4643379" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4643379"><a href="https://globalnews.ca/ottawa/">Ottawa</a></li>
+<li id="menu-item-3619452" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-3619452"><a href="https://globalnews.ca/peterborough/">Peterborough</a></li>
+<li id="menu-item-1560889" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560889"><a href="https://globalnews.ca/regina/">Regina</a></li>
+<li id="menu-item-4643381" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4643381"><a href="https://globalnews.ca/saskatoon/">Saskatoon</a></li>
+<li id="menu-item-1560877" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560877"><a href="https://globalnews.ca/toronto/">Toronto</a></li>
+<li id="menu-item-1560884" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560884"><a href="https://globalnews.ca/winnipeg/">Winnipeg</a></li>
+</ul>				<ul id="locality-menu" class="child"><li id="menu-item-3498219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498219"><a href="/national">News</a></li>
+<li id="menu-item-3498221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498221"><a href="/national/weather">Weather</a></li>
+<li id="menu-item-3498234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498234"><a href="/national/videos">National Video</a></li>
+<li id="menu-item-3498239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498239"><a href="/national/contests">Contests</a></li>
+<li id="menu-item-3498243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498243"><a href="/national/traffic">Traffic</a></li>
+</ul>			</li>
+							<li class="programs top-item parent" data-toggle-open="menu">
+					<a href="https://globalnews.ca/national/tv-news-program/">
+						<span>
+							<h3>TV News Programs <i class="ss-standard ss-navigatedown"></i></h3>
+							<p>Newscasts &amp; Videos</p>
+						</span>
+					</a>
+					<div class="child tv-only">	
+						<div class="programs-wrapper clearfix">
+							<a href="https://globalnews.ca/national/tv-news-program/">
+								<h3>TV</h3>
+							</a>
+							<ul id="programs-menu" class=""><li id="menu-item-1564339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1564339"><a href="#">Global National</a>
+<ul class="sub-menu">
+	<li id="menu-item-1564346" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-program menu-item-1564346"><a href="https://globalnews.ca/national/program/global-national/">Global National</a></li>
+	<li id="menu-item-1564347" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-program menu-item-1564347"><a href="https://globalnews.ca/national/program/the-west-block/">The West Block</a></li>
+	<li id="menu-item-1564349" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-program menu-item-1564349"><a href="https://globalnews.ca/national/program/the-morning-show/">The Morning Show</a></li>
+	<li id="menu-item-1564351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564351"><a href="/national/programs/">More &#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-1564352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564352"><a href="/national/staff/personalities/">Personalities</a></li>
+<li id="menu-item-1564364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564364"><a href="/national/videos/">Video Centre</a></li>
+</ul>						</div>
+
+							
+					</div>
+				</li>
+
+			<li class="search top-item" data-toggle-open="search">
+				<form class="search-form" method="get" action="https://globalnews.ca/search/">
+					<input id="top-item-search" type="text" autocomplete="off" name="s" placeholder="Search" class="nav-input" value="">
+					<i class="ss-standard ss-search"></i>
+					<button type="submit" id="searchsubmit" class="submit-button">Go</button>
+				</form>
+			</li>
+
+				<li class="ad-choices">
+				<a href="http://www.corusent.com/privacy-policy/#adchoices" target="_blank" data-trackable="true" data-track-desc="launches ad choices privacy in new tab">
+						<img src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/ad-choices.png"> Ad Choices
+					</a>
+				</li>
+		</ul>
+				<h3 class="topics-header topics" data-toggle-open="menu"><span>Topics</span></h3>
+		<ul id="topics-menu" class="topics clearfix" data-toggle-open="menu"><li id="menu-item-1560662" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560662"><a href="https://globalnews.ca/world/">World</a></li>
+<li id="menu-item-1560663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560663"><a href="https://globalnews.ca/canada/">Canada</a></li>
+<li id="menu-item-1560690" class="local-news parent menu-item menu-item-type-custom menu-item-object-custom menu-item-1560690"><a href="https://globalnews.ca/national/">Local</a><ul id="topics-sub-menu" class="child"><li id="menu-item-3498219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498219"><a href="/national">News</a></li>
+<li id="menu-item-3498221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498221"><a href="/national/weather">Weather</a></li>
+<li id="menu-item-3498234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498234"><a href="/national/videos">National Video</a></li>
+<li id="menu-item-3498239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498239"><a href="/national/contests">Contests</a></li>
+<li id="menu-item-3498243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498243"><a href="/national/traffic">Traffic</a></li>
+</ul></li>
+<li id="menu-item-1560702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560702"><a href="https://globalnews.ca/politics/">Politics</a></li>
+<li id="menu-item-2982734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2982734"><a href="https://globalnews.ca/tag/smart-living/">Smart Living</a></li>
+<li id="menu-item-1560689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560689"><a href="https://globalnews.ca/money/">Money</a></li>
+<li id="menu-item-1560894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560894"><a href="https://globalnews.ca/entertainment/">Entertainment</a></li>
+<li id="menu-item-1560897" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560897"><a href="https://globalnews.ca/health/">Health</a></li>
+<li id="menu-item-1560934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1560934"><a href="/videos">Video</a></li>
+<li id="menu-item-4688461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-linkout menu-item-4688461"><a target="_blank" rel="noopener noreferrer" href="https://curiouscast.ca/">Podcast</a></li>
+<li id="menu-item-3557668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3557668"><a href="https://globalnews.ca/trending/">Trending</a></li>
+<li id="menu-item-4557864" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4557864"><a href="https://globalnews.ca/cannabis/">Cannabis</a></li>
+<li id="menu-item-3590510" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3590510"><a href="https://globalnews.ca/commentary/">Commentary</a></li>
+<li id="menu-item-1560931" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560931"><a href="https://globalnews.ca/sports/">Sports</a></li>
+<li id="menu-item-1560935" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1560935"><a href="/contests">Contests</a></li>
+<li id="menu-item-2174199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2174199"><a href="https://globalnews.ca/live">Live</a></li>
+<li id="menu-item-1655407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1655407"><a href="https://globalnews.ca/tech/">Tech</a></li>
+		<li class="social">
+			<a href="https://globalnews.ca/pages/facebook/">
+				<i class="ss-social-regular ss-facebook"></i>
+				<span>Like</span>
+			</a>
+		</li>
+		<li class="social">
+			<a href="https://globalnews.ca/pages/twitter/">
+				<i class="ss-social-regular ss-twitter"></i>
+				<span>Follow</span>
+			</a>
+		</li>
+			<h3><!-- horizontal bar 0--></h3>
+		<li class="ad-choices">
+			<a href="http://www.corusent.com/privacy-policy/#adchoices" target="_blank" data-trackable="true" data-track-desc="launches ad choices privacy in new tab">
+									<img src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/ad-choices.png">
+								Ad Choices
+			</a>
+		</li>
+	</ul>	</nav>
+</header>
+
+         
+			<div class="layout-header clearfix" id="section-header">
+
+	            	            <!-- /.breaking-news-site -->
+
+			
+						<div class="sub-mast sub-mast-taxonomy sub-mast-tag clearfix">
+						
+			</div>
+								
+						</div>
+			<span id="div-gpt-gnca-ads-6872-140100-1" style="display:none">
+			<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-140100-1");
+			      	});
+	</script>	
+					</span>
+					<!-- /.longform template check -->
+<div class="layout-contain right-well-article">
+    <div class="stream">
+        <section>
+            <div class="story story-detail article-detail" id="regular-article-container">
+                <article>
+
+                    <div class="meta-bar">
+                        <div class="meta-bar-cat category"><a href="https://globalnews.ca/canada/">Canada</a></div>
+
+								<div class="meta-bar-time-group">
+			<span class="meta-bar-date">July 28, 2019</span>
+			<span class="meta-bar-time">11:00 am</span>
+		</div> <!-- /.meta-bar-time-group -->
+
+			
+                    </div> <!-- /.meta-bar -->
+					                    <h1 class="story-h gn-speakable-title">&#8216;Illegitimate&#8217; internet use under the microscope at Five Eyes meeting: Goodale</h1>
+										
+					                    <div class="story-byline">
+                    					<!-- Post author Image -->
+					<a href="https://globalnews.ca/author/amanda-connolly/">
+			 		<img width="55" height="55" src="https://shawglobalnews.files.wordpress.com/2017/11/39ysdoaz_400x400.jpg?quality=60&amp;strip=all&amp;w=55&amp;h=55&amp;crop=1" class="story-author-avatar landscape wp-post-image" alt="" data-attachment-id="5085628" data-permalink="https://globalnews.ca/author/amanda-connolly/39ysdoaz_400x400/" data-orig-file="https://shawglobalnews.files.wordpress.com/2017/11/39ysdoaz_400x400.jpg?quality=70&amp;strip=all" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="39YsDOAz_400x400" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2017/11/39ysdoaz_400x400.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2017/11/39ysdoaz_400x400.jpg?quality=70&amp;strip=all&amp;w=400" />					</a>
+					<!-- Post Author Credit -->
+	<span class="story-author">By
+		<a href="https://globalnews.ca/author/amanda-connolly/" title="Posts by Amanda Connolly" class="author url fn" rel="author">Amanda Connolly</a>	</span>
+					<!-- Author position -->
+				<span class="story-author-position story-author-has-thumbnail">
+					National Online Journalist (Politics)					&nbsp;<span class="story-via">Global News</span>				</span>
+			                        
+                    </div>
+					                    
+	<div class="socialShare" data-socialshare="comments,facebook,twitter,email,whatsapp,print" data-socialshare-more="google,linkedin,reddit,pinterest,tumblr,stumbleupon" data-socialshare-collapsable="false" data-socialshare-count="false"></div>
+
+
+					<div class="fe-embed-container">						<a class="story-img-link" data-displayinline-featured="true" data-displayinline-type="video" data-displayinline-stickyiframe="video_5691426" data-displayinline-ratio="16:9" data-displayinline="https://globalnews.ca/video/embed/5691426/#autoplay&#038;stickyiframe=video_5691426">
+	        	<span class="story-img-link-wrapper">
+					<span class="icon-media icon-media-video icon-media-playVideo"></span>
+					<img width="640" height="360" src="https://i0.wp.com/media.globalnews.ca/videostatic/4/851/WB_GOODALE_JULY_28-Medium_848x480_1577330243949.jpg?w=670&#038;quality=70&#038;strip=all" class="story-img">
+	        	</span>
+			</a>
+					</div><div class="fe-embed-caption"><p><strong>WATCH: Canada’s Public Safety Minister Ralph Goodale says illegitimate internet use, from terrorism to trafficking to electoral interference, will be on the agenda at this week’s Five Eyes meeting.</strong></p></div><div id="gnca_sponsored_small_otf_ad_single_page" class="sponsored sponsored-small-otf" style="display:none;">
+    <a class="sponsored-logo otf-small-company-url" href="#">
+        <img src="" class="sponsored-logo-hd otf-small-image-src" style="max-width:38px;max-height:38px;">
+        <img src="" class="sponsored-logo-sd otf-small-image-src" style="max-width:38px;max-height:38px;">
+    </a>
+    <h5 class="sponsored-h">
+		<a class="otf-small-company-url otf-small-presented-label" href="#">
+		</a>
+	</h5>
+    <div class="sponsored-sponsor">
+		<a  class="otf-small-company-url otf-small-company-name" href="#">
+			
+		</a>
+        <div class="sponsored-tip">
+            <div class="sponsor-help">
+                <div class="sponsor-help-content">
+                    <h5></h5>
+                    <p>
+	                    <b></b><span></span>
+						<a href="https://globalnews.ca/pages/sponsored-content-on-global-news/"></a>
+					</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h5 class="sponsored-help-text"><a href="#modalId123"><span></span><div class="sponsored-tip"></div></a></h5>
+    <div class="sponsored-tip-modal">
+        <div class="sponsor-help" id="modalId123">
+            <div class="sponsor-help-content">
+                <a href="#close" title="Close" class="modal-close">X</a>
+				<h5></h5>
+				<p>
+	                <b></b><span></span>
+					<a href="https://globalnews.ca/pages/sponsored-content-on-global-news/"></a>
+				</p>
+            </div>
+        </div>
+    </div>
+</div>
+<script language="javascript" type="text/javascript" >
+function gnca_render_small_sponsored_otf_ad( img_url, company_url, company_name, presented_label ) {
+	var main_div = jQuery("#gnca_sponsored_small_otf_ad_single_page");
+	main_div.find("a.otf-small-company-url").attr( "href", company_url );
+	main_div.find("img.otf-small-image-src").attr( "src", img_url );
+	main_div.find("a.otf-small-company-name").html( company_name );
+	main_div.find("a.otf-small-presented-label").html( presented_label );
+    main_div.find(".sponsor-help-content h5").text("What is this?");
+    main_div.find(".sponsor-help-text span").text("What is this");
+    main_div.find(".sponsor-help-text div").text("?");
+    main_div.find(".sponsor-help-content p b").text("Sponsored content");
+    main_div.find(".sponsor-help-content p span").text(" is written by Global News' without any editorial influence by the sponsor.");
+    main_div.find(".sponsor-help-content p a").text("If you'd like to learn more...");
+	main_div.css( "display","inline" );
+}
+</script>                    
+<div class="story-txt"  >
+		<div class="story-actions">
+		<div class="fontSizer">
+	<button class="fontButton fontDecrease">-</button>
+	
+	<span class="fontSizerLetters">
+		<span class="small">A</span>
+		<span class="big">A</span>
+	</span>
+
+	<button class="fontButton fontIncrease">+</button>
+</div>	</div>
+	
+	<span class="gnca-article-story-txt gn-speakable-description" itemprop="articleBody">
+		
+    	<p>Public Safety Minister <a href="https://globalnews.ca/tag/ralph-goodale/">Ralph Goodale</a> heads out for the <a href="https://globalnews.ca/tag/five-eyes/">Five Eyes</a> meeting in London on Sunday, and while there, he says the challenges posed by those who use the internet for &#8220;illegitimate&#8221; means will be going under the microscope.</p>	<div class="story-ad-read-more"><a href="javascript:void(0);">Story continues below</a></div>
+	<script>
+		jQuery(".story-ad-read-more a").click(function() {
+			jQuery("html, body").animate({ scrollTop: jQuery("#div-gpt-gnca-ads-6872-300250-2").offset().top + jQuery("#div-gpt-gnca-ads-6872-300250-2").height()  }, "fast");
+			return false;
+		});
+	</script>
+				<div class="story-ad">
+			<section class="ad" id="div-gpt-gnca-ads-6872-300250-2">
+			<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300250-2");
+			      	});
+	</script>	
+	</section>
+</div>
+<p>In an interview with the West Block&#8217;s Eric Sorenson, Goodale said the meeting — which will have at least one new face around the table after the swearing-in of Prime Minister Boris Johnson last week — will be a chance to address how best to address the societal harms stemming from malicious use of the internet.</p>		<p>
+		<strong>
+			READ MORE: 			<a href="https://globalnews.ca/news/5434594/ralph-goodale-running-again/" target="_blank">
+				‘More work left to be done’: Ralph Goodale makes another run for Parliament Hill			</a>
+		</strong>
+		</p>
+	<p>“Cyber security is a growing concern around the world and that will undoubtedly be a major topic of discussion … as well as the use of the internet and the social harms that flow from the illegitimate and sometimes criminal use of internet services and platforms,&#8221; he said, pointing to terrorism, violent extremism, exploitation of children and interference in elections as examples.</p><p>“Those are some of the issues we’ll be dealing with.”</p><p><strong>WATCH BELOW: Federal government says &#8216;extensive&#8217; review of 5G technology underway</strong></p>						<a class="story-img-link" data-displayinline-featured="" data-displayinline-type="video" data-displayinline-stickyiframe="video_5236699" data-displayinline-ratio="16:9" data-displayinline="https://globalnews.ca/video/embed/5236699/#autoplay&#038;stickyiframe=video_5236699">
+	        	<span class="story-img-link-wrapper">
+					<span class="icon-media icon-media-video icon-media-playVideo"></span>
+					<img width="640" height="360" src="https://i0.wp.com/media.globalnews.ca/videostatic/680/958/2019-05-03T15-19-29.867Z--1280x720.jpg?w=670&#038;quality=70&#038;strip=all" class="story-img">
+	        	</span>
+			</a>
+					<p>He also acknowledged it will be a chance to make other members of the Five Eyes aware of the recent creation of Canada&#8217;s new national security review agency.</p><p>Established under Bill C-59, the National Security and Intelligence Review Agency replaces the separate review agencies in place for bodies like CSIS and the CSE, and effectively amalgamates all authority for probing the national security activities carried out by government into the new agency.</p><p>Retiring NDP MP Murray Rankin will chair the agency. He previously advocated for civil and Indigenous rights as a lawyer before beginning his political career in 2012, and served as the party&#8217;s justice critic.</p><p>He also served as legal counsel for the Security and Intelligence Review Committee, one of the watchdogs the new agency is replacing, and also served as a special advocate for immigrants and refugees during hearings into whether they posed national security risks.</p>		<p>
+		<strong>
+			READ MORE: 			<a href="https://globalnews.ca/news/5496654/canada-huawei-5g-decision/" target="_blank">
+				Canada to hold off on Huawei 5G decision until after the election: sources			</a>
+		</strong>
+		</p>
+	<p>Goodale said Rankin&#8217;s background as an opposition MP and national security and justice advocate was a key part of why he was chosen for the role.</p><p>“That is indeed part of the process here. We want to make sure that this agency has independence and credibility, that it’s non-partisan, that it acts always in the Canadian public interest and that Canadians can trust it,&#8221; he said.</p><p>“He is very well respected both in Parliament and outside.”</p><p>Goodale was also asked about reports that the government plans to push its decision on whether to allow Chinese technology firm Huawei to be part of Canada&#8217;s 5G network, but said the review into the security of Canadian telecommunications remains underway.</p><p>“We’re taking this review process very, very seriously,&#8221; he said, pointing to a desire to hear from a range of allies who have different views on whether Huawei poses a security threat.</p><p>The U.S., for example, views them as a significant threat and has barred them from their networks, while the U.K. has imposed few limits.</p><p>&#8220;We want to take all that on board and make sure when we make the decision, it is the right one for Canada, not just what is fastest.”</p> <div id="article-newsletter-widget">		<section class="newsletter-signup">
+			<form class="newsletter-signup__form" method="GET" target="_blank" action="https://globalnews.ca/pages/email-alerts/">
+				<h3 class="newsletter-signup__header">Get daily local headlines and alerts</h3>
+				<div class="newsletter-signup__container">
+					<input type="email" name="email" class="newsletter-signup__email" placeholder="Email Address" />
+					<input type="hidden" name="category" value="local" />
+				</div>
+				<input type="submit" class="newsletter-signup__submit" value="Sign up" />
+			</form>
+		</section>
+					<script type="text/javascript">
+				jQuery('document').ready(function() {
+					// localize widget
+					var nl_region_name = jQuery('.regions.top-item .current-region a').text();
+					var category_name  = 'local';
+					if ( nl_region_name.length > 0 && 'local' === category_name ) {
+						jQuery('.newsletter-signup__header').text('Get daily ' + nl_region_name + ' headlines and alerts');
+					}
+
+					// Show widget if user has already signed up
+						var storedValue = jQuery.cookie( 'newsletter-' + currentgeo );
+					if ( 'registered' !== storedValue ) {
+						// Keeping the newsletter signup hidden for now for everyone
+						// To display widget, add: jQuery( '.newsletter-signup' ).show();
+						}
+				});
+			</script>
+			</div>	
+		
+			</span>
+
+    		<p class="article-copyright">
+			&copy;&nbsp;2019&nbsp;Global News, a division of Corus Entertainment Inc.		</p>
+				<div class="report-article-error">
+			<a href='https://globalnews.ca/gnca-ajax/contact-me/%7B%22author_id%22%3A%2244023110%22%2C%22type%22%3A%22report%22%2C%22post_id%22%3A%225689260%22%7D/' target='_self' class="thickbox">
+				<span class="fa fa-exclamation-triangle"></span> Report an error
+			</a>
+		</div>
+	</div>
+
+                   
+                    
+					
+						<div class="OUTBRAIN" data-src="https://globalnews.ca/news/5689260/illegitimate-internet-use-five-eyes-goodale/" data-widget-id="AR_2" data-ob-template="GlobalNews.ca" ></div>
+	<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+
+ <!-- no more stories returned -->
+					
+					
+                    
+<div class="story-tags" id="story-tags">
+                        <div class="story-tag"><a href="https://globalnews.ca/tag/canada-huawei/">Canada Huawei</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/canadian-politics/">Canadian Politics</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/five-eyes/">Five Eyes</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/huawei/">Huawei</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/huawei-espionage/">Huawei Espionage</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/huawei-spying/">huawei spying</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/national-security/">National security</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/ralph-goodale/">Ralph Goodale</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/us-huawei-ban/">US Huawei ban</a></div>
+            </div>
+                        <div class="socialShare" data-socialshare="comments,facebook,twitter,email,whatsapp,print,google,linkedin,reddit,pinterest,tumblr,stumbleupon" data-socialshare-collapsable="true"></div>
+
+                    		<div class="stream-ad mobile-only" id="div-gpt-gnca-ads-6872-300250-5">
+		<script type="text/javascript">
+			jQuery(function() {
+				gNewsWP.Ads.createDynamicAd({
+					id: "div-gpt-gnca-ads-6872-300250-5",
+					$target: jQuery( "#div-gpt-gnca-ads-6872-300250-5" ),
+					sizes: [[300,600],[300,250]],
+					mapping: false,
+					height: 250,
+					pos: 5,
+					initialized: false
+				});
+			});
+		</script>
+	</div>
+	
+							
+		<section class="editors-picks-container ep-single" id="editors-picks">
+				<!-- <div id="editors-picks-video-holder"></div> -->
+				
+				<h3>
+					<span>Editor's Picks</span>
+					<nav role="navigation"></nav>
+				</h3>
+
+				<div class="editors-picks" data-slick-show="2.2" data-slick-scroll="2">
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/5659860/ontario-man-lawsuit-human-trafficking-charges/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="217" src="https://shawglobalnews.files.wordpress.com/2019/07/everoll.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="5660108" data-permalink="https://globalnews.ca/news/5659860/ontario-man-lawsuit-human-trafficking-charges/everoll/" data-orig-file="https://shawglobalnews.files.wordpress.com/2019/07/everoll.jpg?quality=70&amp;strip=all" data-orig-size="1425,1118" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 8&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1562758193&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.99&quot;,&quot;iso&quot;:&quot;32&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Everoll" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2019/07/everoll.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2019/07/everoll.jpg?quality=70&amp;strip=all&amp;w=1024" />							</a>
+															<p>
+									<a href="https://globalnews.ca/canada/">
+										Canada									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/5659860/ontario-man-lawsuit-human-trafficking-charges/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									Ontario man files $7M lawsuit over 16 ‘wrongful’ charges related to human trafficking								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/5488632/satanic-temple-canada/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<img width="276" height="193" src="https://shawglobalnews.files.wordpress.com/2018/08/19576404-e1563545831864.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="4395117" data-permalink="https://globalnews.ca/news/4395114/satanic-temple-baphomet-ten-commandments/satanic-temple-2/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/08/19576404-e1563545831864.jpg?quality=70&amp;strip=all" data-orig-size="3618,2530" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;The Associated Press&quot;,&quot;camera&quot;:&quot;Pixel 2&quot;,&quot;caption&quot;:&quot;The Satanic Temple unveils its statue of Baphomet, a winged-goat creature, at a rally for the first amendment in Little Rock, Ark., Thursday, Aug. 16, 2018. The Satanic Temple wants to install the statue on Capitol grounds as a symbol for religious freedom after a monument of the Biblical Ten Commandments was installed in 2017. (AP Photo\/Hannah Grabenstein)&quot;,&quot;created_timestamp&quot;:&quot;1534443424&quot;,&quot;copyright&quot;:&quot;Copyright 2018 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;4.442&quot;,&quot;iso&quot;:&quot;58&quot;,&quot;shutter_speed&quot;:&quot;0.000214&quot;,&quot;title&quot;:&quot;Satanic Temple&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Satanic Temple" data-image-description="&lt;p&gt;The Satanic Temple unveils its statue of Baphomet, a winged goat creature, at a rally for the First Amendment in Little Rock, Ark., Thursday, Aug. 16, 2018. &lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/08/19576404-e1563545831864.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/08/19576404-e1563545831864.jpg?quality=70&amp;strip=all&amp;w=1024" />							</a>
+															<p>
+									<a href="https://globalnews.ca/canada/">
+										Canada									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/5488632/satanic-temple-canada/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									The rise of the Satanic Temple in Canada								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/5478714/moon-landing-anniversary-2/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<img width="276" height="184" src="https://shawglobalnews.files.wordpress.com/2019/07/global_720x480_50th-anniversary-of-moon-landing_v2.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="5653332" data-permalink="https://globalnews.ca/global_720x480_50th-anniversary-of-moon-landing_v2/" data-orig-file="https://shawglobalnews.files.wordpress.com/2019/07/global_720x480_50th-anniversary-of-moon-landing_v2.jpg?quality=70&amp;strip=all" data-orig-size="720,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Global_720x480_50th-anniversary-of-moon-landing_v2" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2019/07/global_720x480_50th-anniversary-of-moon-landing_v2.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2019/07/global_720x480_50th-anniversary-of-moon-landing_v2.jpg?quality=70&amp;strip=all&amp;w=720" />							</a>
+															<p>
+									<a href="https://globalnews.ca/canada/">
+										Canada									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/5478714/moon-landing-anniversary-2/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									Canada&#039;s Footprint: How cigarettes, coffee and Canadian engineers helped put men on the moon								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/5510783/minimum-wage-renting-canada/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="195" src="https://shawglobalnews.files.wordpress.com/2019/06/renters-office.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="5384305" data-permalink="https://globalnews.ca/news/5384195/vancouver-renters-office-approved/home-rental-prices/" data-orig-file="https://shawglobalnews.files.wordpress.com/2019/06/renters-office.jpg?quality=70&amp;strip=all" data-orig-size="3154,2232" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;The Associated Press&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;FILE - In this July 19, 2006 file photo, a woman walks next to a \&quot;For Rent\&quot; sign at an apartment complex in Palo Alto, Calif. Real estate data firm Zillow reports on U.S. home rental prices in December 2014 on Friday, Jan. 23, 2015. (AP Photo\/Paul Sakuma, File)&quot;,&quot;created_timestamp&quot;:&quot;1153337046&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Home Rental Prices&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Home Rental Prices" data-image-description="&lt;p&gt;A woman walks next to a &#8220;For Rent&#8221; sign at an apartment complex on July 19, 2006. Vancouver city council has approved a staff report calling for the creation of a renter&#8217;s office and other initiatives meant to educate and protect renters.&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2019/06/renters-office.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2019/06/renters-office.jpg?quality=70&amp;strip=all&amp;w=1024" />							</a>
+															<p>
+									<a href="https://globalnews.ca/canada/">
+										Canada									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/5510783/minimum-wage-renting-canada/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									$22/hr is average wage needed to afford a two-bedroom apartment in Canada: report								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/5460281/bc-casino-regulator-complaint-bclc-management-dirty-money/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="181" src="https://shawglobalnews.files.wordpress.com/2018/10/kroeker.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="4518883" data-permalink="https://globalnews.ca/news/4518836/former-casino-security-executive-steps-down-chair-justice-instiute-bc-board/kroeker/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/10/kroeker.jpg?quality=70&amp;strip=all" data-orig-size="735,482" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1538673116&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="kroeker" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/10/kroeker.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/10/kroeker.jpg?quality=70&amp;strip=all&amp;w=735" />							</a>
+															<p>
+									<a href="https://globalnews.ca/canada/">
+										Canada									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/5460281/bc-casino-regulator-complaint-bclc-management-dirty-money/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									B.C. casino regulator received complaint alleging BCLC management pressured to &#039;allow dirty money&#039;								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/5463766/organized-crime-knows-fraud-is-the-way-to-go-former-rcmp-financial-crime-expert/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="184" src="https://shawglobalnews.files.wordpress.com/2014/03/chy102175254_high.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="1233542" data-permalink="https://globalnews.ca/chy102175254_high-jpg/" data-orig-file="https://shawglobalnews.files.wordpress.com/2014/03/chy102175254_high.jpg?quality=70&amp;strip=all" data-orig-size="650,433" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;Chris Young&quot;,&quot;camera&quot;:&quot;Canon EOS-1D X&quot;,&quot;caption&quot;:&quot;RCMP Insp. Henry Tso points to a chart as speaks to media after a news conference in Toronto on Wednesday, March 26, 2014. Six Ontario residents are facing charges after RCMP say thousands of investors and the Canadian government lost millions of dollars in an alleged fraudulent investment scheme. THE CANADIAN PRESS\/Chris Young&quot;,&quot;created_timestamp&quot;:&quot;1395838877&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;42&quot;,&quot;iso&quot;:&quot;6400&quot;,&quot;shutter_speed&quot;:&quot;0.00125&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Six charged over alleged bogus tax shelter" data-image-description="&lt;p&gt;RCMP Insp. Henry Tso points to a chart as speaks to media after a news conference in Toronto on Wednesday, March 26, 2014. Six Ontario residents are facing charges after RCMP say thousands of investors and the Canadian government lost millions of dollars in an alleged fraudulent investment scheme. THE CANADIAN PRESS/Chris Young&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2014/03/chy102175254_high.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2014/03/chy102175254_high.jpg?quality=70&amp;strip=all&amp;w=650" />							</a>
+															<p>
+									<a href="https://globalnews.ca/canada/">
+										Canada									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/5463766/organized-crime-knows-fraud-is-the-way-to-go-former-rcmp-financial-crime-expert/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									&#039;Organized crime knows fraud is the way to go&#039;: former RCMP financial crime expert								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/5295110/rcmp-sexual-harassment-settlement/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="156" src="https://shawglobalnews.files.wordpress.com/2019/05/img_5882-e1562605151708.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="5297175" data-permalink="https://globalnews.ca/news/5295110/rcmp-sexual-harassment-settlement/img_5882/" data-orig-file="https://shawglobalnews.files.wordpress.com/2019/05/img_5882-e1562605151708.jpg?quality=70&amp;strip=all" data-orig-size="719,406" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 6s&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1558008081&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.15&quot;,&quot;iso&quot;:&quot;64&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_5882" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2019/05/img_5882-e1562605151708.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2019/05/img_5882-e1562605151708.jpg?quality=70&amp;strip=all&amp;w=719" />							</a>
+															<p>
+									<a href="https://globalnews.ca/canada/">
+										Canada									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/5295110/rcmp-sexual-harassment-settlement/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									Second $100M settlement announced in RCMP sexual harassment case								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/5459969/financial-crisis-2008-recession-coming/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="184" src="https://shawglobalnews.files.wordpress.com/2019/07/stock-floor.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="5460710" data-permalink="https://globalnews.ca/news/5459969/financial-crisis-2008-recession-coming/ipo-of-the-vw-truck-division-traton/" data-orig-file="https://shawglobalnews.files.wordpress.com/2019/07/stock-floor.jpg?quality=70&amp;strip=all" data-orig-size="5451,3629" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;picture alliance via Getty Image&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;28 June 2019, Hessen, Frankfurt\/Main: Hundreds are following Traton&#039;s IPO. The Volkswagen Group has floated its truck and bus subsidiary on the stock exchange. With the sale of a good tenth of the shares, the Wolfsburg-based company initially intends to flush up to 1.9 billion euros into the coffers. From 28 June, the securities will be traded on the stock exchange. Photo: Boris Roessler\/dpa (Photo by Boris Roessler\/picture alliance via Getty Images)&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;(c) Copyright 2019, dpa (www.dpa.de). Alle Rechte vorbehalten&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;IPO of the VW truck division Traton&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IPO of the VW truck division Traton" data-image-description="&lt;p&gt;28 June 2019, Hessen, Frankfurt/Main: Hundreds are following Traton&#8217;s IPO. The Volkswagen Group has floated its truck and bus subsidiary on the stock exchange. With the sale of a good tenth of the shares, the Wolfsburg-based company initially intends to flush up to 1.9 billion euros into the coffers. From 28 June, the securities will be traded on the stock exchange. Photo: Boris Roessler/dpa (Photo by Boris Roessler/picture alliance via Getty Images)&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2019/07/stock-floor.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2019/07/stock-floor.jpg?quality=70&amp;strip=all&amp;w=1024" />							</a>
+															<p>
+									<a href="https://globalnews.ca/economy/">
+										Economy									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/5459969/financial-crisis-2008-recession-coming/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									Model that predicted 2008 financial crisis suggests another recession is coming: expert								</a>
+							</h4>
+							
+						</article>
+									</div>
+		</section>
+		
+		
+					                </article>
+            </div>
+			
+            			
+			
+		<div class="flyer-info" id="weekly-flyers">
+		<section>
+			<h3 class="section-h-light"> FLYERS </h3>
+	
+<div id="flyertown_module_18032"></div>
+<script src="https://api.flyertown.ca/18032/0b853834345e8f40/flyertown_module.js" defer></script>
+
+	<p class="right-more-link">
+		<a href="https://globalnews.ca/pages/flyers/" target="_blank"> More Weekly Flyers </a>
+	</p>
+			</section>
+		
+</div>
+
+			<a name="respond"></a>
+			<div class="article-comments">
+				<div class="comments-info">
+					<section>
+						<h3 class="section-h">Comments</h3>
+					</section>
+				</div>					
+							<div>
+				<p>Want to discuss? Please read our <a href="https://globalnews.ca/pages/global-news-commenting-policy/" target="_blank">Commenting Policy</a> first.</p>
+			</div>
+								<div class="fb-comments" data-href="https://globalnews.ca/news/5689260/illegitimate-internet-use-five-eyes-goodale/" data-numposts="5" data-colorscheme="light" data-width="100%" data-order-by="reverse_time" ></div>
+			 
+					</div>	
+
+										<script language="javascript">
+					jQuery(function($){
+						jQuery("div.article-comments").find("h3.section-h").first().addClass("section-h-light").removeClass("section-h");
+						reskin_header_section_h_light_add();
+					})
+					
+					function reskin_header_section_h_light_add(){
+						
+						var elems_fly  = jQuery("div.flyer-module-article").find("h3.section-h").first();
+						if( elems_fly.length > 0 ) {
+							elems_fly.addClass("section-h-light").removeClass("section-h");	
+							jQuery("div.ws_stacks").css("padding","8px");
+						} else if( jQuery("div.flyer-module-article").length <= 0 ) {
+							setTimeout( "reskin_header_section_h_light_add()", 1000 );
+						}
+					}
+			 
+				</script>
+			 
+		</section>
+	</div>
+	
+	<div class="wells">
+    <aside class="top-sidebar" id="top-sidebar">
+				<section class='gnca_empty_weatherbug'>
+		</section>
+		<section>
+	<div class="weather-ad">
+	
+		<span id="div-gpt-gnca-ads-6872-300100-1">
+				<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300100-1");
+			      	});
+	</script>	
+		</span>
+
+				<span id="div-gpt-gnca-ads-6872-300100-2" >
+				<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300100-2");
+			      	});
+	</script>	
+		</span>
+			
+	</div><!-- /.weather-ad -->
+</section>
+
+
+<!-- Countdown -->
+<span id="render-countdown" style="display:none;"></span>
+<!-- Live Stream Widget -->
+
+<!-- Sidebar Embed 1 -->
+		
+<!-- Custom Sidebar Promo Banner -->
+
+<section>
+	<div class="sidebar-ad" id="div-gpt-gnca-ads-6872-300250-1">
+	   	<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300250-1");
+			      	});
+	</script>	
+	</div><!-- /.sidebar-ad -->
+		<span class='bt-dfp-tg' style='display: none !important'>
+			<!--
+
+			<script type='text/javascript'> 
+				googletag.cmd.push(function() { 
+					googletag.defineSlot('/6872/btgn.corus', [300, 250], 'div-gpt-ad-1468526038745-0').addService(googletag.pubads()); 
+					googletag.pubads().enableSingleRequest(); 
+					googletag.pubads().collapseEmptyDivs(); 
+					googletag.enableServices(); 
+				}); 
+			</script>
+
+			<div id='div-gpt-ad-1468526038745-0' style='height:250px; width:300px;'>
+				<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1468526038745-0'); });
+				</script>
+			</div>
+
+			-->
+		</span>
+
+	
+	
+	<div class="tile-ads" id="tile-ads">
+		
+		
+				<span class="pos-3">
+			
+<a href="https://globalnews.ca/live/national/" target="_blank">
+	<img src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/images/gnlive-ads/default.png"/>
+</a>		</span>
+		<span>
+			
+		</span>
+		<span class="pos-4" id="div-gpt-gnca-ads-6872-30050-2" >
+				<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-30050-2");
+			      	});
+	</script>	
+		</span>
+		
+				
+	</div>
+</section>
+
+<!-- Custom Callout Widget -->
+	
+<!-- Sidebar Embed 2 -->
+
+<!-- Add event link -->
+
+<!-- In Other News Widget -->
+	</aside>
+	<aside class="dynamic-widgets-wrapper" id="bottom-sidebar">
+		<div class="dynamic-widgets">
+			<section id="gnca_popular_now_widget-13" class="widget widget_gnca_popular_now_widget">	
+		<section>
+			<h3 class="section-h-new widget-title"><span>Popular Now</span></h3>			<div class="popular-now-well">
+													<div class="story not-ad">
+						<article>
+															<a href="https://globalnews.ca/news/5697042/rcmp-manhunt-bc-murder-york-landing/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014" class="story-img-link image-container landscape fit-to-width">
+									<div style="display:none;" class="story-img-square-container">
+																				<img src="https://shawglobalnews.files.wordpress.com/2019/07/manhunt-e1564409472334.jpg?quality=70&#038;strip=all&#038;w=115&#038;h=115&#038;crop=1" class="story-img" width="100" height="100">
+									</div>
+									<div style="display:none;" class="story-img-wide-container">
+																				<img src="https://shawglobalnews.files.wordpress.com/2019/07/manhunt-e1564409472334.jpg?quality=70&#038;strip=all&#038;w=300&#038;h=200&#038;crop=1" class="story-img" width="300" height="200">
+									</div>
+									<img width="150" height="99" src="https://shawglobalnews.files.wordpress.com/2019/07/manhunt-e1564409472334.jpg?quality=70&amp;strip=all&amp;w=150" class="story-img landscape wp-post-image" alt="" data-attachment-id="5697130" data-permalink="https://globalnews.ca/news/5697042/rcmp-manhunt-bc-murder-york-landing/manhunt-2/" data-orig-file="https://shawglobalnews.files.wordpress.com/2019/07/manhunt-e1564409472334.jpg?quality=70&amp;strip=all" data-orig-size="487,320" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="manhunt" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2019/07/manhunt-e1564409472334.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2019/07/manhunt-e1564409472334.jpg?quality=70&amp;strip=all&amp;w=487" />								</a>
+														
+							<h3 class="story-h">
+								
+								<a href="https://globalnews.ca/news/5697042/rcmp-manhunt-bc-murder-york-landing/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+									
+									B.C. murder suspects stopped, released by band constables before manhunt: councillor								</a>
+							</h3>
+	
+							<ul class="story-stats">
+															<li>
+									<a href="https://globalnews.ca/news/5697042/rcmp-manhunt-bc-murder-york-landing/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+										<span class="icon icon-eye-black"></span>
+										11795									</a>
+								</li>
+							</ul>
+														<div class="story-meter">
+								<div class="story-meter-value" style="width:100%;"></div>
+							</div>
+							<!-- <div class="story-divider"></div> -->
+						</article> 
+					</div>
+									<div class="story not-ad">
+						<article>
+															<a href="https://globalnews.ca/news/5700226/capital-one-data-breach-canada/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014" class="story-img-link image-container landscape fit-to-width">
+									<div style="display:none;" class="story-img-square-container">
+																				<img src="https://shawglobalnews.files.wordpress.com/2019/07/2019-07-29t233156z_2_lynxnpef6s1kq_rtroptp_4_usa-stocks.jpg?quality=70&#038;strip=all&#038;w=115&#038;h=115&#038;crop=1" class="story-img" width="100" height="100">
+									</div>
+									<div style="display:none;" class="story-img-wide-container">
+																				<img src="https://shawglobalnews.files.wordpress.com/2019/07/2019-07-29t233156z_2_lynxnpef6s1kq_rtroptp_4_usa-stocks.jpg?quality=70&#038;strip=all&#038;w=300&#038;h=200&#038;crop=1" class="story-img" width="300" height="200">
+									</div>
+									<img width="150" height="150" src="https://shawglobalnews.files.wordpress.com/2019/07/2019-07-29t233156z_2_lynxnpef6s1kq_rtroptp_4_usa-stocks.jpg?quality=70&amp;strip=all&amp;crop=0px%2C139px%2C4734px%2C2672px&amp;resize=150%2C150" class="story-img landscape wp-post-image" alt="" data-attachment-id="5700240" data-permalink="https://globalnews.ca/news/5700226/capital-one-data-breach-canada/the-logo-and-ticker-for-capital-one-are-displayed-on-a-screen-on-the-floor-of-the-nyse-in-new-york/" data-orig-file="https://shawglobalnews.files.wordpress.com/2019/07/2019-07-29t233156z_2_lynxnpef6s1kq_rtroptp_4_usa-stocks.jpg?quality=70&amp;strip=all" data-orig-size="4734,3156" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;REUTERS&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;FILE PHOTO: The logo and ticker for Capital One are displayed on a screen on the floor of the New York Stock Exchange (NYSE) in New York, U.S., May 21, 2018. REUTERS/Brendan McDermid&quot;,&quot;created_timestamp&quot;:&quot;1564443116&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;The logo and ticker for Capital One are displayed on a screen on the floor of the NYSE in New York&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="The logo and ticker for Capital One are displayed on a screen on the floor of the NYSE in New York" data-image-description="&lt;p&gt;The logo and ticker for Capital One are displayed on a screen on the floor of the New York Stock Exchange (NYSE) in New York, U.S., May 21, 2018. &lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2019/07/2019-07-29t233156z_2_lynxnpef6s1kq_rtroptp_4_usa-stocks.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2019/07/2019-07-29t233156z_2_lynxnpef6s1kq_rtroptp_4_usa-stocks.jpg?quality=70&amp;strip=all&amp;w=1024" />								</a>
+														
+							<h3 class="story-h">
+								
+								<a href="https://globalnews.ca/news/5700226/capital-one-data-breach-canada/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+									
+									Capital One data breach hits about 6 million people in Canada, 100 million in U.S.								</a>
+							</h3>
+	
+							<ul class="story-stats">
+															<li>
+									<a href="https://globalnews.ca/news/5700226/capital-one-data-breach-canada/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+										<span class="icon icon-eye-black"></span>
+										9789									</a>
+								</li>
+							</ul>
+														<div class="story-meter">
+								<div class="story-meter-value" style="width:83%;"></div>
+							</div>
+							<!-- <div class="story-divider"></div> -->
+						</article> 
+					</div>
+									<div class="story not-ad">
+						<article>
+															<a href="https://globalnews.ca/news/5694558/rcmp-bc-murder-suspects-manhunt/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014" class="story-img-link image-container landscape fit-to-width">
+									<div style="display:none;" class="story-img-square-container">
+																				<img src="https://shawglobalnews.files.wordpress.com/2019/07/21507265.jpg?quality=70&#038;strip=all&#038;w=115&#038;h=115&#038;crop=1" class="story-img" width="100" height="100">
+									</div>
+									<div style="display:none;" class="story-img-wide-container">
+																				<img src="https://shawglobalnews.files.wordpress.com/2019/07/21507265.jpg?quality=70&#038;strip=all&#038;w=300&#038;h=200&#038;crop=1" class="story-img" width="300" height="200">
+									</div>
+									<img width="150" height="150" src="https://shawglobalnews.files.wordpress.com/2019/07/21507265.jpg?quality=70&amp;strip=all&amp;crop=0px%2C184px%2C1600px%2C904px&amp;resize=150%2C150" class="story-img landscape wp-post-image" alt="" data-attachment-id="5696387" data-permalink="https://globalnews.ca/news/5694558/rcmp-bc-murder-suspects-manhunt/northern-bc-murders-20190728/" data-orig-file="https://shawglobalnews.files.wordpress.com/2019/07/21507265.jpg?quality=70&amp;strip=all" data-orig-size="1600,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;THE CANADIAN PRESS&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Officers look through a remote lake area alongside a landed helicopter in the Gillam, Man., area in July 28, 2019, police image published to social media. THE CANADIAN PRESS/HO-Twitter, Royal Canadian Mounted Police, @rcmpmb, *MANDATORY CREDIT*&quot;,&quot;created_timestamp&quot;:&quot;1564350398&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Northern BC Murders 20190728&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Northern BC Murders 20190728" data-image-description="&lt;p&gt;Officers look through a remote lake area alongside a landed helicopter in the Gillam, Man., area in July 28, 2019, police image published to social media&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2019/07/21507265.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2019/07/21507265.jpg?quality=70&amp;strip=all&amp;w=1024" />								</a>
+														
+							<h3 class="story-h">
+								
+								<a href="https://globalnews.ca/news/5694558/rcmp-bc-murder-suspects-manhunt/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+									
+									RCMP zero in on 2 people matching descriptions of B.C. murder suspects								</a>
+							</h3>
+	
+							<ul class="story-stats">
+															<li>
+									<a href="https://globalnews.ca/news/5694558/rcmp-bc-murder-suspects-manhunt/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+										<span class="icon icon-eye-black"></span>
+										3834									</a>
+								</li>
+							</ul>
+														<div class="story-meter">
+								<div class="story-meter-value" style="width:33%;"></div>
+							</div>
+							<!-- <div class="story-divider"></div> -->
+						</article> 
+					</div>
+									<div class="story not-ad">
+						<article>
+															<a href="https://globalnews.ca/news/5698241/menhaz-zaman-online-posts/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014" class="story-img-link image-container landscape fit-to-width">
+									<div style="display:none;" class="story-img-square-container">
+																				<img src="https://shawglobalnews.files.wordpress.com/2019/07/capture-41.jpg?quality=70&#038;strip=all&#038;w=115&#038;h=115&#038;crop=1" class="story-img" width="100" height="100">
+									</div>
+									<div style="display:none;" class="story-img-wide-container">
+																				<img src="https://shawglobalnews.files.wordpress.com/2019/07/capture-41.jpg?quality=70&#038;strip=all&#038;w=300&#038;h=200&#038;crop=1" class="story-img" width="300" height="200">
+									</div>
+									<img width="150" height="93" src="https://shawglobalnews.files.wordpress.com/2019/07/capture-41.jpg?quality=70&amp;strip=all&amp;w=150" class="story-img landscape wp-post-image" alt="" data-attachment-id="5698895" data-permalink="https://globalnews.ca/news/5698241/menhaz-zaman-online-posts/capture-2108/" data-orig-file="https://shawglobalnews.files.wordpress.com/2019/07/capture-41.jpg?quality=70&amp;strip=all" data-orig-size="720,447" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Nick Westoll&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1564411280&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Capture" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2019/07/capture-41.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2019/07/capture-41.jpg?quality=70&amp;strip=all&amp;w=720" />								</a>
+														
+							<h3 class="story-h">
+								
+								<a href="https://globalnews.ca/news/5698241/menhaz-zaman-online-posts/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+									
+									Man charged in 4 Markham murders allegedly posts graphic details of deaths online								</a>
+							</h3>
+	
+							<ul class="story-stats">
+															<li>
+									<a href="https://globalnews.ca/news/5698241/menhaz-zaman-online-posts/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+										<span class="icon icon-eye-black"></span>
+										2972									</a>
+								</li>
+							</ul>
+														<div class="story-meter">
+								<div class="story-meter-value" style="width:25%;"></div>
+							</div>
+							<!-- <div class="story-divider"></div> -->
+						</article> 
+					</div>
+									<div class="story not-ad">
+						<article>
+															<a href="https://globalnews.ca/news/5695584/alan-schmegelsky-book/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014" class="story-img-link image-container landscape fit-to-width">
+									<div style="display:none;" class="story-img-square-container">
+																				<img src="https://shawglobalnews.files.wordpress.com/2019/07/cpt50110176-8.jpg?quality=70&#038;strip=all&#038;w=115&#038;h=115&#038;crop=1" class="story-img" width="100" height="100">
+									</div>
+									<div style="display:none;" class="story-img-wide-container">
+																				<img src="https://shawglobalnews.files.wordpress.com/2019/07/cpt50110176-8.jpg?quality=70&#038;strip=all&#038;w=300&#038;h=200&#038;crop=1" class="story-img" width="300" height="200">
+									</div>
+									<img width="150" height="122" src="https://shawglobalnews.files.wordpress.com/2019/07/cpt50110176-8.jpg?quality=70&amp;strip=all&amp;w=150" class="story-img landscape wp-post-image" alt="" data-attachment-id="5690824" data-permalink="https://globalnews.ca/cpt50110176-jpg-9/" data-orig-file="https://shawglobalnews.files.wordpress.com/2019/07/cpt50110176-8.jpg?quality=70&amp;strip=all" data-orig-size="945,768" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;Laura Kane&quot;,&quot;camera&quot;:&quot;iPhone 6s&quot;,&quot;caption&quot;:&quot;Alan Schmegelsky, father of Bryer Schmegelsky, poses for a photo during an interview with The Canadian Press in Mill Bay B.C. on Wednesday, July 24, 2019. The father of a suspect in the deaths of three people in northern British Columbia says his son is in &quot;very serious pain&quot; and he expects a nationwide manhunt will end in the young man&#039;s death. THE CANADIAN PRESS/Laura Kane&quot;,&quot;created_timestamp&quot;:&quot;1563960819&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.15&quot;,&quot;iso&quot;:&quot;25&quot;,&quot;shutter_speed&quot;:&quot;0.0028985507246377&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="CPT50110176.jpg" data-image-description="&lt;p&gt;Alan Schmegelsky, father of Bryer Schmegelsky, poses for a photo during an interview with The Canadian Press in Mill Bay B.C. on Wednesday, July 24, 2019. The father of a suspect in the deaths of three people in northern British Columbia says his son is in &#8220;very serious pain&#8221; and he expects a nationwide manhunt will end in the young man&#8217;s death. THE CANADIAN PRESS/Laura Kane&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2019/07/cpt50110176-8.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2019/07/cpt50110176-8.jpg?quality=70&amp;strip=all&amp;w=945" />								</a>
+														
+							<h3 class="story-h">
+								
+								<a href="https://globalnews.ca/news/5695584/alan-schmegelsky-book/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+									
+									Father of B.C. murder suspect pens book, details troubled life								</a>
+							</h3>
+	
+							<ul class="story-stats">
+															<li>
+									<a href="https://globalnews.ca/news/5695584/alan-schmegelsky-book/?utm_source=Article&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+										<span class="icon icon-eye-black"></span>
+										1181									</a>
+								</li>
+							</ul>
+														<div class="story-meter">
+								<div class="story-meter-value" style="width:10%;"></div>
+							</div>
+							<!-- <div class="story-divider"></div> -->
+						</article> 
+					</div>
+								<section class="most-pop-sponsored">
+	<h3 class="section-h-new most-pop-sponsored-title" style="display:none;">
+		<span>Sponsored content</span>
+	</h3>
+	<span id="div-gpt-gnca-ads-6872-300150-1">
+			<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300150-1");
+			      	});
+	</script>	
+	</span>
+	<span id="div-gpt-gnca-ads-6872-300150-2">
+			<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300150-2");
+			      	});
+	</script>	
+	</span>
+</section>
+
+			</div><!-- /.featured-stories -->
+		</section>
+	</section>	<section class="widget" id="popular-videos">
+		<h3 class="section-h-new widget-title"><span>Popular Videos</span></h3>
+		<div class="popular-now-well">
+								<div class="story" style="margin-bottom:15px;min-height: 80px;">
+						<article>
+															<a href="https://globalnews.ca/video/5700540/b-c-supercar-collision-caught-on-camera/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019" class="story-img-link">
+																		<img width="150" height="84" src="https://i0.wp.com/media.globalnews.ca/videostatic/952/599/2019-07-30T01-12-39.666Z--640x360.jpg?w=150&#038;quality=70&#038;strip=all" class="story-img wp-post-image" alt="B.C. supercar collision caught on camera" style="height:84px;"/>	
+								</a>
+														
+							<h3 class="story-h">
+								<a href="https://globalnews.ca/video/5700540/b-c-supercar-collision-caught-on-camera/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019">
+									B.C. supercar collision caught on camera								</a>
+							</h3>
+							<ul class="story-stats">
+								<li>
+									<a href="https://globalnews.ca/video/5700540/b-c-supercar-collision-caught-on-camera/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019" >
+										<span class="icon-media-watch-now">WATCH NOW </span>
+									</a>		
+								</li>
+							</ul>
+						</article> 
+					</div>
+									<div class="story" style="margin-bottom:15px;min-height: 80px;">
+						<article>
+															<a href="https://globalnews.ca/video/5453569/2019-iwwf-world-under-21-waterski-championships-coming-to-albertas-capital-region/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019" class="story-img-link">
+																		<img width="150" height="84" src="https://i0.wp.com/media.globalnews.ca/videostatic/836/23/2019-07-02T14-51-29.166Z--1280x720.jpg?w=150&#038;quality=70&#038;strip=all" class="story-img wp-post-image" alt="2019 IWWF World Under 21 Waterski Championships coming to Alberta&#8217;s Capital Region" style="height:84px;"/>	
+								</a>
+														
+							<h3 class="story-h">
+								<a href="https://globalnews.ca/video/5453569/2019-iwwf-world-under-21-waterski-championships-coming-to-albertas-capital-region/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019">
+									2019 IWWF World Under 21 Waterski Championships coming to Alberta&#8217;s Capital Region								</a>
+							</h3>
+							<ul class="story-stats">
+								<li>
+									<a href="https://globalnews.ca/video/5453569/2019-iwwf-world-under-21-waterski-championships-coming-to-albertas-capital-region/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019" >
+										<span class="icon-media-watch-now">WATCH NOW </span>
+									</a>		
+								</li>
+							</ul>
+						</article> 
+					</div>
+									<div class="story" style="margin-bottom:15px;min-height: 80px;">
+						<article>
+															<a href="https://globalnews.ca/video/5696437/rcmp-move-manhunt-to-york-landing-after-possible-sighting-of-b-c-suspects/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019" class="story-img-link">
+																		<img width="150" height="84" src="https://i1.wp.com/media.globalnews.ca/videostatic/540/987/SU_SEAN_OSHEA_PKG_JULY_28_848x480_1577895491677.jpg?w=150&#038;quality=70&#038;strip=all" class="story-img wp-post-image" alt="RCMP move manhunt to York Landing after possible sighting of B.C. suspects" style="height:84px;"/>	
+								</a>
+														
+							<h3 class="story-h">
+								<a href="https://globalnews.ca/video/5696437/rcmp-move-manhunt-to-york-landing-after-possible-sighting-of-b-c-suspects/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019">
+									RCMP move manhunt to York Landing after possible sighting of B.C. suspects								</a>
+							</h3>
+							<ul class="story-stats">
+								<li>
+									<a href="https://globalnews.ca/video/5696437/rcmp-move-manhunt-to-york-landing-after-possible-sighting-of-b-c-suspects/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019" >
+										<span class="icon-media-watch-now">WATCH NOW </span>
+									</a>		
+								</li>
+							</ul>
+						</article> 
+					</div>
+									<div class="story" style="margin-bottom:15px;min-height: 80px;">
+						<article>
+															<a href="https://globalnews.ca/video/5679549/greater-police-presence-deployed-in-gillam-man-to-locate-suspects-connected-to-b-c-murders/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019" class="story-img-link">
+																		<img width="150" height="84" src="https://i0.wp.com/media.globalnews.ca/videostatic/813/87/GillamThumber.jpg?w=150&#038;quality=70&#038;strip=all" class="story-img wp-post-image" alt="Greater police presence deployed in Gillam, Man. to locate suspects connected to B.C. murders" style="height:84px;"/>	
+								</a>
+														
+							<h3 class="story-h">
+								<a href="https://globalnews.ca/video/5679549/greater-police-presence-deployed-in-gillam-man-to-locate-suspects-connected-to-b-c-murders/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019">
+									Greater police presence deployed in Gillam, Man. to locate suspects connected to B.C. murders								</a>
+							</h3>
+							<ul class="story-stats">
+								<li>
+									<a href="https://globalnews.ca/video/5679549/greater-police-presence-deployed-in-gillam-man-to-locate-suspects-connected-to-b-c-murders/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019" >
+										<span class="icon-media-watch-now">WATCH NOW </span>
+									</a>		
+								</li>
+							</ul>
+						</article> 
+					</div>
+									<div class="story" style="margin-bottom:15px;min-height: 80px;">
+						<article>
+															<a href="https://globalnews.ca/video/5699131/rcmp-move-resources-to-small-manitoba-community-following-b-c-manhunt-tip/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019" class="story-img-link">
+																		<img width="150" height="84" src="https://i1.wp.com/media.globalnews.ca/videostatic/796/343/WEB_NN_SEAN_MANHUNT_848x480_1578175555807.jpg?w=150&#038;quality=70&#038;strip=all" class="story-img wp-post-image" alt="RCMP move resources to small Manitoba community following B.C. manhunt tip" style="height:84px;"/>	
+								</a>
+														
+							<h3 class="story-h">
+								<a href="https://globalnews.ca/video/5699131/rcmp-move-resources-to-small-manitoba-community-following-b-c-manhunt-tip/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019">
+									RCMP move resources to small Manitoba community following B.C. manhunt tip								</a>
+							</h3>
+							<ul class="story-stats">
+								<li>
+									<a href="https://globalnews.ca/video/5699131/rcmp-move-resources-to-small-manitoba-community-following-b-c-manhunt-tip/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2019" >
+										<span class="icon-media-watch-now">WATCH NOW </span>
+									</a>		
+								</li>
+							</ul>
+						</article> 
+					</div>
+							</div><!-- /.featured-stories -->
+		</section>
+		</div>
+							<div id="sidebar-impulse-widget">
+		<a href="https://www.facebook.com/GlobalNews" class="cta cta-newsletter cta-sidebar">
+										<img src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/social-impulse/large/facebook/national.gif" alt="Global News" />
+									</a>
+		</div>
+				</aside>
+</div> <!-- /.wells --></div>				</div><!--/.contain-->
+        <div class="footer-contain">
+            <div class="footer">
+                <footer>
+                    <section>
+                        <div class="region-names">
+                            <h3>Jump to a Region</h3>
+                            <div class="region-nav">
+                                <article>
+                                    <nav role="navigation">
+                                        <ul id="footerRegionalNav">
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-barrie" id="MapLink_barrie" >Barrie</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-bc" id="MapLink_bc" >BC</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-calgary" id="MapLink_calgary" >Calgary</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-durham" id="MapLink_durham" >Durham</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-edmonton" id="MapLink_edmonton" >Edmonton</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-guelph" id="MapLink_guelph" >Guelph</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-halifax" id="MapLink_halifax" >Halifax</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-hamilton" id="MapLink_hamilton" >Hamilton</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-kingston" id="MapLink_kingston" >Kingston</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-kitchener" id="MapLink_kitchener" >Kitchener</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-lethbridge" id="MapLink_lethbridge" >Lethbridge</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-london" id="MapLink_london" >London</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-montreal" id="MapLink_montreal" >Montreal</a>
+												</li>
+
+                                            																						                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-new-brunswick" id="MapLink_new-brunswick" >New Brunswick</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-okanagan" id="MapLink_okanagan" >Okanagan</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-ottawa" id="MapLink_ottawa" >Ottawa</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-peterborough" id="MapLink_peterborough" >Peterborough</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-regina" id="MapLink_regina" >Regina</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-saskatoon" id="MapLink_saskatoon" >Saskatoon</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-toronto" id="MapLink_toronto" >Toronto</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/?taxonomy=&#038;term=gnca-winnipeg" id="MapLink_winnipeg" >Winnipeg</a>
+												</li>
+
+                                                                                    </ul>
+                                    </nav>
+                                </article>
+                            </div> <!-- /.region-nav -->
+                        </div> <!-- /.region-names -->
+                    </section>
+                    <section>
+                        <div class="social">
+                            <h3>Connect</h3>
+                            <nav role="navigation" id="footer-connect">
+                                <ul>
+                                    <li>
+                                        <a href="/pages/facebook/">
+                                            <span class="social-icon"><span class="icon icon-facebook"></span></span>
+                                            <span>Facebook</span>
+                                        </a>
+									</li>
+                                    <li>
+                                        <a href="/pages/twitter/">
+                                            <span class="social-icon"><span class="icon icon-twitter-white"></span></span>
+                                            <span>Twitter</span>
+                                        </a>
+									</li>
+                                    <li>
+                                        <a href="/pages/google/">
+                                            <span class="social-icon"><span class="icon icon-googleplus"></span></span>
+                                            <span>Google+</span>
+                                        </a>
+									</li>
+                                    <li>
+                                        <a href="https://instagram.com/globalnews/">
+                                            <span class="social-icon"><span class="icon icon-instagram"></span></span>
+                                            <span>Instagram</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.linkedin.com/company/global-television?trk=biz-companies-cym">
+                                            <span class="social-icon"><span class="icon icon-linkedin"></span></span>
+                                            <span>LinkedIn</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://globalnewscanada.tumblr.com/">
+                                            <span class="social-icon"><span class="icon icon-tumblr"></span></span>
+                                            <span>Tumblr</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.pinterest.com/globaltvnews/">
+                                            <span class="social-icon"><span class="icon icon-pinterest"></span></span>
+                                            <span>Pinterest</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/pages/feeds/">
+                                            <span class="social-icon"><span class="icon icon-rss-white"></span></span>
+                                            <span>RSS</span>
+                                        </a>
+									</li>
+                                    <li>
+                                        <a href="https://globalnews.ca/pages/contact-us/">
+                                            <span class="social-icon"><span class="icon icon-email-white"></span></span>
+                                            <span>Contact Us</span>
+                                        </a>
+									</li>
+                                    <li>
+                                        <a href="//globalnews.ca/pages/email-alerts/">
+                                            <span class="social-icon"><span class="icon newsletter-text-icon">@</span></span>
+                                            <span>Newsletter</span>
+                                        </a>
+									</li>
+	                                <li>
+	                                    <a href="https://www.youtube.com/globalnews">
+	                                        <span class="social-icon"><span class="icon icon-youtube-white"></span></span>
+	                                        <span>Youtube</span>
+	                                    </a>
+									</li>
+									<li>
+										<a href="/pages/alexa/">
+											<span class="social-icon"><span class="icon icon-alexa-white"></span></span>
+											<span>Alexa</span>
+										</a>
+									</li>
+									<li>
+										<a href="/pages/notifications/">
+											<span class="social-icon"><span class="icon icon-notifications-white"></span></span>
+											<span>Notifications</span>
+										</a>
+									</li>
+                                </ul>
+                            </nav>
+                        </div><!-- /.social -->
+                    </section>
+                    <section>
+                        <div class="sections">
+                            <!-- Global News -->
+                            <h3>Global News</h3>
+                            <nav role="navigation" id="footer-navigation">
+                                <ul>
+                                    <li><a href="/pages/about/">About Us</a></li>
+                                    <li><a href="http://www.corusent.com/privacy-policy/" target="_blank">Privacy Policy</a></li>
+									<li><a href="/pages/principles-practices/">Principles &amp; Practices</a></li>
+                                    <li><a href="http://www.shawmedia.ca/copyright.asp" target="_blank">Copyright</a></li>
+                                    <li><a href="https://www.corusent.com/media-centre/brands/" target="_blank">Corus Entertainment</a></li>
+                                    <li><a href="https://www.corusent.com/about/our-brands/" target="_blank">Advertise</a></li>
+                                    <li><a href="http://www.corusent.com/terms-and-conditions/" target="_blank">Advertising Standard Terms</a></li>
+                                    <li><a href="https://globalnews.ca/pages/advertisers-election-registry/" target="_blank">Advertisers Election Registry</a></li>
+                                    <li><a href="http://www.corusent.com/terms-of-use/" target="_blank">Terms of Use</a></li>
+                                    <li><a href="/branded-content/">Branded Content</a></li>
+                                    <li><a href="/tag/open-data/">Open Data</a></li>
+                                </ul>
+                            </nav>
+                        </div> <!-- /.sections -->
+                    </section>
+					<div class="copyright">&copy; 2019 Global News, a division of Corus Entertainment Inc. Corus News. All rights reserved.
+
+
+					</div>
+										<div class="copyright" style="padding-top:0;">
+													<a href="https://wpvip.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=globalnews.ca" rel="generator nofollow" class="powered-by-wpcom"><img src="https://s2.wp.com/wp-content/themes/vip/plugins/vip-do-not-include-on-wpcom/vip-powered-wpcom/images/vip-powered-light-small.png" width="187" height="26" alt="Powered by WordPress.com VIP" /></a>											</div>
+					<!-- wpcom_wp_footer -->
+		<script type="text/javascript">
+						var _sf_async_config={};
+			_sf_async_config.uid = "51927";
+			_sf_async_config.domain = "globalnews.ca";
+			_sf_async_config.useCanonical = "true";
+			 _sf_async_config.authors = "Amanda Connolly";
+			_sf_async_config.sections = "_ntl, Canada, Politics";
+					(function(){
+			        function loadChartbeat() {
+					window._sf_endpt=(new Date()).getTime();
+					var e = document.createElement('script');
+					e.setAttribute('language', 'javascript');
+					e.setAttribute('type', 'text/javascript');
+					e.setAttribute('src', "\/\/static.chartbeat.com\/js\/chartbeat.js" );
+					document.body.appendChild(e);
+				  }
+				  var oldonload = window.onload;
+				  window.onload = (typeof window.onload != 'function') ?
+					 loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+				})();
+		</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/shawglobalnews.wordpress.com\/public.api\/connect\/?action=request&domain=globalnews.ca","logoutURL":"https:\/\/shawglobalnews.wordpress.com\/wp-login.php?action=logout&_wpnonce=a7fb7f45b8","homeURL":"https:\/\/globalnews.ca\/","postID":"5689260","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1551752381j'></script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??/wp-content/js/devicepx.js,/wp-content/mu-plugins/likes/queuehandler.js?m=1549314680j'></script>
+<script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s2.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_notification_settings = {"current_post_id":"5689260","non_subscriber_only":"","opt_out_supported":"1","auto_close":"","browser_tab_count":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydkNFOwzAMRX+ILC1ahXhAfEuaeKm7xA6Js9K/J5sEYhNQjac41jnXsvWSlGUSINGxqhSqRypaFhSBrMZg7HHE7FRC0AnIIfndXB70PR7BCfK1i2RDdVD03KQJG8zvX8UfAx7VCdNZao8yZMIqaMutIBNEuDC6TGZRPvBoAsFymReRtCdrFLHgAa0RZNq17v0xwkkV4YxQ/hcADpte2pns8Sri+4Hmtwp51RW15Qzb1ILOg2xziQve7v4zGYHqb1T7mr5ft0NMFbYcUwD5XOI1vvTDMHTd0/O+mz8ATH/zAQ=='></script>
+<script type='text/javascript' src='//platform.twitter.com/widgets.js?ver=5.2.2'></script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVzcEOgjAMBuAXsjRE8GZ8lm5UKG5lWQdLfHoXD568cGv+/v2KNYHftLAWLAtHNjwkoS1UYQ6bo6BcDVfDKIqzeoJnq4PJm7sWdatd8LxRmVozA6XkSJWznceCuC9oKUhJ4v8JcYcU9lnUkKa2B0cZI1nh3CbYDs5Zpvbjl50USib/snb0iPd+HId+GPrrbf0AyIx/nA=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+_sf_async_config.sections = "_ntl,Canada,Politics";
+</script><script src="//stats.wp.com/w.js?60" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'43869434','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'43869434','v':'wpcom','tz':'-4','user_id':'0','post':'5689260','subd':'shawglobalnews'}]);
+function st_vt() {var x=document.createElement("img");x.src="https://pixel.wp.com/g.gif?blog=43869434&v=wpcomvt&tz=-4&user_id=0&post=5689260&subd=shawglobalnews&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTcwSXdvY1QlZC40dD9iYzlIZ11Rd2xMeDlZb2V2bE9TcHNmNUJSUGJXUnE1Qk04V3RKSHhWOSxWRmNoSUdmaVZ+JUdFMVRpelkrb3lvdFFJN1Jpelp8UkxYYTcsW05sSEw0JlNjRTNqc2FXemg0WF1lL1lRaDlDUnNoJjNtK2wvZW1PXXoxdWg9OV1GdEdpN1FsZjc9MjhjYjZCWVRNYzdJcTNUdSVhR1kmYlktUktWOTNFVS1yR2hBblt4W2dOLF9PaV8='}]);
+_stq.push([ 'clickTrackerInit', '43869434', '5689260' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>					<span id="div-gpt-gnca-ads-6872-11-1" >
+							<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-11-1");
+			      	});
+	</script>	
+					</span>
+					<script language="javascript">
+										function gnca_outer_ad_pixel_call_from_footer( gnca_image , color ) {
+						gNewsWP.Ads.showWallpaper( gnca_image, color );
+					}
+					// Wallpaper ad with a fixed background attachment
+					function gnca_outer_ad_pixel_call_from_footer_fixed( gnca_image , color , attachment ) {
+						gNewsWP.Ads.showWallpaper( gnca_image, color, attachment );
+					}
+					// Wallpaper ad with an optional background fixed/scroll
+					function gnca_outer_ad_pixel_call_from_footer_scroll_option( gnca_image , color , attachment ) {
+						if ( attachment !== undefined && attachment === true ) {
+							gnca_outer_ad_pixel_call_from_footer_fixed( gnca_image , color , attachment );
+						} else {
+							gnca_outer_ad_pixel_call_from_footer( gnca_image , color );
+						}
+					}
+										function gnca_countdown_start( settings ) {
+						gNewsWP.Ads.startCountDownClock( settings );
+					}
+					function gnca_render_instream_otf( hid, par_elem ) {
+						render_content_otf_ad_wrapper( hid, par_elem );
+					}
+					function gnca_branded_content_in_story( settings ) {
+						gNewsWP.Ads.brandedContentInStory( settings );
+					}
+					//Sliding expiration
+					if(!jQuery.cookie("_wpcom_geo_exp") ){
+						var region = jQuery.cookie("_wpcom_geo");
+						if( region ){
+							if( region === 'default' || region === 'gnca-default' ) {
+								region = 'gnca-national';
+							}
+							jQuery.cookie('_wpcom_geo',  region, { expires:90, path:'/' });
+							jQuery.cookie('_wpcom_geo_exp',  region, { expires:60, path:'/' });
+						}
+					}
+					
+					// re-geo hamilton users
+					var currentgeo = jQuery.cookie("_wpcom_geo");
+					if( 'gnca-hamilton' === currentgeo && !jQuery.cookie("_gnca_regeo_hml") ) {
+						try {
+								jQuery.getJSON( 'https://public-api.wordpress.com/geo/', function( data ){
+									if( data.region && data.city ) {
+										var re_geo_loc = data.city.toUpperCase() + ' ' + data.region.toUpperCase();
+										if( 'HAMILTON ONTARIO' !== re_geo_loc ) { 
+											jQuery.removeCookie('_wpcom_geo', { path: '/' } ); // remove cookie if not geo'd to hamilton
+											jQuery.removeCookie('_wpcom_geo_exp', { path: '/' } ); // remove cookie if not geo'd to hamilton
+										}
+									}
+								});
+								jQuery.cookie( '_gnca_regeo_hml','yes', { expires:90, path:'/' } );
+								
+						} catch(e){}
+					} 
+											jQuery(document).ready(function($){
+							$('section.widget_gnca_popular_now_widget a').click(function(e){
+								ga('send', 'event', 'ClickPopular', 'MostPopular');
+								e.preventDefault();
+								setTimeout(function(x){
+									document.location = x;
+								},500,$(this).attr('href'));
+							})
+							$('#popular-videos a').click(function(e){
+								ga('send', 'event', 'ClickPopular', 'MostPopularVideo');
+								e.preventDefault();
+								setTimeout(function(x){
+									document.location = x;
+								},500,$(this).attr('href'));
+							})
+					});
+					</script>
+                </footer>
+            </div>
+        </div>
+		
+						<script type="text/javascript">
+			/* You may give each page an identifying name, server, and channel on the next lines. */
+			if( typeof s == "undefined" ) { s = { };s.t=function(){return false} }
+			
+		if ( typeof( OmnitureHelper ) !== 'undefined' ) {
+			OmnitureHelper.setPageSections( ["news","illegitimate internet use five eyes goodale"] );
+							OmnitureHelper.setContextData( "hourofday", "3" );
+							OmnitureHelper.setContextData( "dayofweek", "Tuesday" );
+							OmnitureHelper.setContextData( "weekdayweekend", "Weekday" );
+							OmnitureHelper.setContextData( "userregion", "national" );
+							OmnitureHelper.setContextData( "region", "national" );
+							OmnitureHelper.setContextData( "publishdate", "2019\/07\/28" );
+							OmnitureHelper.setContextData( "template", "regular" );
+							OmnitureHelper.setContextData( "author.region", "national" );
+							OmnitureHelper.setContextData( "author.name", "amanda connolly" );
+							OmnitureHelper.setContextData( "category", "Canada,News,Politics" );
+							OmnitureHelper.setContextData( "tag", "Canada Huawei,Canadian Politics,Five Eyes,Huawei,Huawei Espionage,huawei spying,National security,Ralph Goodale,US Huawei ban" );
+							OmnitureHelper.setContextData( "primarytag", "Canadian Politics" );
+							OmnitureHelper.setContextData( "contenttype", "news" );
+							OmnitureHelper.setContextData( "contentid", 5689260 );
+								}
+
+						if ( typeof( OmnitureHelper ) !== 'undefined' ) {
+					OmnitureHelper.track();
+				}
+		</script>
+		<!-- End SiteCatalyst code version: JS-2.6.0. -->
+			<script type="text/javascript">
+		if ( typeof KruxHelper !== 'undefined' ) {
+		//	KruxHelper.track("KmBBKjN2");
+			KruxHelper.setData();
+		}
+	</script>
+		<script>
+			var _comscore = _comscore || []; 
+			_comscore.push({ c1: "2", c2: "3005670", c3: "", options: { url_append: "comscorekw=national" } });
+			(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+		</script>
+		<noscript>
+			<img src="https://sb.scorecardresearch.com/p?c1=2&c2=3005670&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" />
+		</noscript>
+				
+				
+		<script>
+			if( 'serviceWorker' in navigator ) {
+				navigator.serviceWorker.register( "/serviceworker.js", { 'scope' : '/' } );					
+			}	
+		</script>
+		
+		
+		<!-- JustUno embed code -->
+		<script data-cfasync="false">
+			var showJU = false;
+			var newsletter_target = '';
+
+			if ( currentgeo && 'gnca-kingston' === currentgeo ) {
+				showJU            = true;
+				newsletter_target = currentgeo;
+			}
+
+					
+			if ( true === showJU ) {
+			window.ju_num="7B0961AE-FF86-42E5-BF55-C31546353499";window.asset_host='//cdn.justuno.com/';(function(i,s,o,g,r,a,m){i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)};a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script',asset_host+'vck.js','juapp');
+		}
+
+			var ju_options = {
+				'targeting': {
+					'GN_Target': newsletter_target
+				}
+			}
+		</script>
+
+	</body>
+</html>
+<!--
+	generated in 0.228 seconds
+	171256 bytes batcached for 300 seconds
+-->

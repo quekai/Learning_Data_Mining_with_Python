@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" dir="ltr">
+
+<head><base href="https://www.msn.com/en-us/news/world/police-and-protesters-clash-throughout-hong-kong-on-third-day-of-unrest/ar-AAEYFpD?amp;i10c.encReferrer=aHR0cHM6Ly93d3cuYmluZy5jb20vbmV3cy9zZWFyY2g%2fcT1OZXdzK2Zvcit5b3UmbnZhdWc9JTViTmV3c1ZlcnRpY2FsK0NhdGVnb3J5JTNkJTIycnRfTXlGZWVkJTIyJTVkJkZPUk09TlNCQUJS"><meta name=robots content=noindex,nofollow><script type="text/javascript" onload="this.parentNode&amp;&amp;this.parentNode.removeChild(this)" data-config="{}" src="https://c-7npsfqifvt0x24dmjfoux2eobopwjtpsx2ejp.g01.msn.com/g00/3_c-7x78x78x78.nto.dpn_/c-7NPSFQIFVT0x24iuuqtx3ax2fx2fdmjfou.obopwjtps.jpx2fj21dx40q2x2fdmjfoux2fow-21.9.0x2fnpsqifvtx2fjotubsu.kt_$/$/$/$/$/$?i10c.ua&equals;3"></script><script type=text/javascript >(function(){var currentScript = document['currentScript'] || document.scripts[document.scripts.length - 1]; currentScript.parentNode.removeChild(currentScript);})();
+        ;(function(w) {
+          try {
+            w.I11C = w.I11C || {};
+            w.I11C && (w.I11C.Morph = 1);
+            w.I10C = w.I10C || {};
+            w.I10C && (w.I10C.Morph = 1);
+          } catch(e) {}
+          if (w === top) {
+            var _0x4efc=['div[style*="visibility: visible;"]','querySelectorAll','length','style','visibility: visible;','visibility : visible;','replace','getAttribute','setAttribute','[style*="background-image:"]','background-image: ','background-image : ','iframe[src^="about:"]','contentDocument','document'];function f(_0x1221x2){try{let _0x1221x3=_0x1221x2[_0x4efc[1]](_0x4efc[0]);for(let _0x1221x4=0;_0x1221x4< _0x1221x3[_0x4efc[2]];_0x1221x4++){_0x1221x3[_0x1221x4][_0x4efc[8]](_0x4efc[3],_0x1221x3[_0x1221x4][_0x4efc[7]](_0x4efc[3])[_0x4efc[6]](_0x4efc[4],_0x4efc[5]))};_0x1221x3= _0x1221x2[_0x4efc[1]](_0x4efc[9]);for(let _0x1221x4=0;_0x1221x4< _0x1221x3[_0x4efc[2]];_0x1221x4++){let _0x1221x5=_0x1221x3[_0x1221x4][_0x4efc[7]](_0x4efc[3]);if(_0x1221x5){_0x1221x5= _0x1221x5[_0x4efc[6]](_0x4efc[10],_0x4efc[11])[_0x4efc[6]](/(?:URL\('([^']+)'\))/,function(_0x1221x6,_0x1221x7){return _0x1221x7})};_0x1221x3[_0x1221x4][_0x4efc[8]](_0x4efc[3],_0x1221x5)};let _0x1221x8=_0x1221x2[_0x4efc[1]](_0x4efc[12]);for(let _0x1221x9 of _0x1221x8){f(_0x1221x9[_0x4efc[13]])}}catch(e){}}f(window[_0x4efc[14]]);setInterval(function(){f(window[_0x4efc[14]])},2000)
+          }
+        }(window));
+         ;(function(w) {
+        try {
+          w.I12C = w.I12C || {};
+          w.I12C && (w.I12C.Morph = 1);
+        } catch(e) {}
+      })(window);</script>
+ <!-- data-info:v:20190721_17159710;a:9506e426-8eb6-4380-9a67-24a0ddf3573b;cn:31;az:{did:32f22864df734a25aa3ad032d895ab34, rid: 31, sn: westus-prod-entertainment, dt: 2019-07-19T19:07:10.7778275Z, bt: 2019-07-22T00:14:08.6141625Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:gray;PageName:articlePage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:AAEYFpD,vk:news,n:ar,l:en-us,ck:newsworld};xd:BByEbzA;ovc:f;al:;fxd:f;xdpub:2017-04-19 16:25:27Z;xdmap:2019-07-30 07:49:02Z;axd:;f:msnallexpusers,muidflt15cf,muidflt28cf,muidflt51cf,muidflt59cf,muidflt259cf,muidflt312cf,muidflt313cf,startedge1cf,moneyedge1cf,bingcollabedge2cf,pnehp1cf,artgly3cf,gallery1cf,jslltelemetry;userOptOut:false;userOptOutOptions: -->
+ <meta name="civicscience:jspoll-hostname" content="www138.civicscience.com" /><meta name="application-name" content="Police and protesters clash throughout Hong Kong on third day of unrest" /><meta name="cq" content="passed" /><meta name="robots" content="index, follow" />
+ <link rel="canonical" href="https://www.theguardian.com/world/2019/jul/28/hong-kong-protests-against-police-continue-in-third-day-of-unrest" />
+ 
+
+ <title>Police and protesters clash throughout Hong Kong on third day of unrest</title>
+ <meta name="description" content="Authorities fire teargas and rubber bullets at demonstrators who defied ban on rallying" />
+ 
+<meta name="viewport" content="width&equals;device-width,initial-scale&equals;1, maximum-scale&equals;1" />
+ <link rel="stylesheet" href="https://c-7npsfqifvt0x24tubujd-foufsubjonfou-x78vt-t-nto-dpnx2eblbnbjaf.g01.msn.com/g00/3_c-7x78x78x78.nto.dpn_/c-7NPSFQIFVT0x24iuuqtx3ax2fx2ftubujd-foufsubjonfou-x78vt-t-nto-dpn.blbnbjafe.ofux2ffo-vtx2fofx78tx2f_tdx2fdttx2fc554790b-714ccd40x2fejsfdujpox3dmus.mpdbmftx3dfo-vt.uifnftx3dhsbz.eqjx3dsftpmvujpo2yx2f53-c9ff46-82fdbe2dx2f24-cgd775-c23d11f1x2f29-6g582g-df0e8f2fx2f28-4g4813-79eec3bcx2f3b-2g2770-359edbb5x2f0c-cb7c2g-g05e4387x2fbc-63gf33-b759fbc3x3fwfsx3d31201832_28260821x26geifbex3dntobmmfyqvtfstx2cnvjegmu26dgx2cnvjegmu39dgx2cnvjegmu62dgx2cnvjegmu60dgx2cnvjegmu360dgx2cnvjegmu423dgx2cnvjegmu424dgx2ctubsufehf2dgx2cnpofzfehf2dgx2ccjohdpmmbcfehf3dgx2cqofiq2dgx2cbsuhmz4dgx2chbmmfsz2dgx2cktmmufmfnfuszx26dtpqex3d31201630322953x26dtpqecx3d31201833276365x26j21d.nbslx3dmjol_$/$/$/$/$/$/$/$/$/$/$/$/$/$?i10c.ua&equals;3" type="text/css" media="all" x-enc1="href" />
+ <script type="text/javascript">//<![CDATA[
+;/*7P1RCD3H9R0M*/var I11C;var I12C;(function(I12C){ I12C.ScriptBegin || (I12C.ScriptBegin = function(){}); I12C.ScriptEnd || (I12C.ScriptEnd = function(){});I12C.PostMessage || (I12C.PostMessage = function(){ return this.postMessage.apply(this, arguments); });I12C.Location || (I12C.Location = function i10cloc(ba$e, isWrite, op){ var locat1onPresent = Object.getOwnPropertyNames(ba$e).indexOf('locat1on') !== -1; return (!isWrite) ? ( locat1onPresent ? ba$e.locat1on : (ba$e.location || ba$e.locat1on)) : (locat1onPresent ? {set href(v) {ba$e.locat1on.href = v;}, get href() {return i10cloc(ba$e,false,op);}} : {set href(v) {ba$e.location = v;}, get href() {return i10cloc(ba$e,false,op);}});});
+I12C.PreLocationContextProxy || (I12C.PreLocationContextProxy = function i10cPreLocContext(ba$e) { return ba$e;});})(I12C||I11C|| (I12C = {}));(I12C || I11C).ScriptBegin();(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,locat1on:o&&((I12C || I11C).PreLocationContextProxy)(o).locat1on,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","locat1on","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]>
+;(I12C || I11C).ScriptEnd();</script><script type="text/javascript" src="https://c-7npsfqifvt0x24tubujd-foufsubjonfou-x78vt-t-nto-dpnx2eblbnbjaf.g01.msn.com/g00/3_c-7x78x78x78.nto.dpn_/c-7NPSFQIFVT0x24iuuqtx3ax2fx2ftubujd-foufsubjonfou-x78vt-t-nto-dpn.blbnbjafe.ofux2ffo-vtx2ffoufsubjonfoux2f_ix2f5d60gb3dx2fx78fcdpsfx2ffyufsobmtdsjqutx2fkrvfszx2fkrvfsz-2.22.2.njo.ktx3fj21d.nbslx3dtdsjqu_$/$/$/$/$/$/$/$/$?i10c.ua&equals;3" x-enc1="src"></script>
+ 
+ <style>.storyimage.smallfullwidth .image,.storyimage.smallfullwidth img{background:#000;margin:0 auto;}#toast-container{display:none;}iframe.instagram-media{position:relative !important;}#maincontent #main .morefromprovider{display:none;}#maincontent #main .morefromproviderrr{display:none;}.mobile .galleryinfo .img-divider{display:none;}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem;}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none;}.settings.start.tmx.pc .globalsettings .social.twitter{display:none;}@media screen and (max-width:52.303em){#irisbanner .irisbanner header>a{max-width:33rem;}}</style>
+</head>
+
+<body class="ap content center-content gray"><script>
+  (function() {
+    var node = document.currentScript;
+    node && node.parentNode && node.parentNode.removeChild(node);
+    var ns = (I12C || I11C);
+    var notify = ns && ns.BeginBODY;
+    notify && notify();
+  })();
+  </script>
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-us">Home</a>
+</li>
+ <li class="current">
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ <li >
+<a href="/en-us/kids">Kids</a>
+</li>
+ <li >
+<a href="/en-us/news/causes">causes</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-us" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" x-defer-src="//static-entertainment-wus-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-us/news" tabindex="2">news</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img alt="go to navigation" width="27" height="20" x-defer-src="//static-entertainment-wus-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form method="get" id="srchfrm" x-defer-action="http://www.bing.com/search?scope&equals;web">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRNWSR" />
+ <input type="hidden" name="mkt" value="en-us" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="9506e4268eb643809a6724a0ddf3573b">
+<input type="submit" class="text" value="web search" title="web search" />
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-us">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main" data-region="main">
+ 
+ 
+
+ <div class="articlecontent">
+<h1>Police and protesters clash throughout Hong Kong on third day of unrest</h1>
+<div>
+<div>
+ <span class="partner">
+ <a href="http://www.theguardian.com/" title="the guardian logo"><img alt="The Guardian logo" title="The Guardian logo" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAxYbMJ.img?h&equals;17&amp;w&equals;0&amp;m&equals;6&amp;q&equals;60&amp;u&equals;t&amp;o&equals;t&amp;l&equals;f&amp;f&equals;png" /> The Guardian</a>
+ </span>
+ <span>
+ <span class="time">1 day ago</span>
+         <span class="authorname-txt">
+                <span class="truncate">Lily Kuo in Hong Kong</span>
+        </span>
+
+                </span>
+            </div>
+        </div>
+
+ <div class="richtext" data-aop="articlebody">
+ <p>
+ <div class="storyimage fullwidth ">
+<span class="image" data-aop="inlinegallery">
+<a class="inline-slide" href="/en-us/news/world/in-photos-hong-kong-protests/ss-AACEMhP?amp%3Bi10c.encReferrer&equals;aHR0cHM6Ly93d3cuYmluZy5jb20vbmV3cy9zZWFyY2g%2FcT1OZXdzK2Zvcit5b3UmbnZhdWc9JTViTmV3c1ZlcnRpY2FsK0NhdGVnb3J5JTNkJTIycnRfTXlGZWVkJTIyJTVkJkZPUk09TlNCQUJS&amp;parent-title&equals;police-and-protesters-clash-throughout-hong-kong-on-third-day-of-unrest&amp;parent-ns&equals;ar&amp;parent-content-id&equals;AAEYFpD">
+ <img alt="HONG KONG, CHINA - JULY 28: Riot police fire tear gas during a demonstration in the area of Sheung Wan on July 28, 2019 in Hong Kong, China. Pro-democracy protesters have continued weekly rallies on the streets of Hong Kong against a controversial extradition bill since 9 June as the city plunged into crisis after waves of demonstrations and several violent clashes. Hong Kong&#39;s Chief Executive Carrie Lam apologized for introducing the bill and recently declared it &quot;dead&quot;, however protesters have continued to draw large crowds with demands for Lam&#39;s resignation and completely withdraw the bill. (Photo by Laurel Chor/Getty Images)" height="200" width="300" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAEZv6X.img?h&equals;200&amp;w&equals;300&amp;m&equals;6&amp;q&equals;60&amp;o&equals;f&amp;l&equals;f&amp;x&equals;1385&amp;y&equals;1225" />
+</a>
+</span>
+ </div>
+<strong><em>Slideshow by photo services</em></strong></p><p>Hong Kong has had its third consecutive day of mass protests as demonstrators and riot police firing teargas and rubber bullets clashed in several locations throughout the city.<br></p><p>Tens of thousands of protesters, dressed in black and armed with umbrellas and hardhats, defied police orders to keep Sunday’s rally constrained to a park in central Hong Kong and fanned out across the city in the early evening. They streamed west and east, occupying main roads, setting up barricades, and chanting: “Reclaim Hong Kong!”</p><p>As the city endured a tense calm on Monday, all eyes were on Beijing where it was expected that the Hong Kong and Macao affairs office – China’s highest level body on the former British colony – would be holding a press conference at 3pm local time (0700 GMT).</p><p>It is believed to be the first time the unit has held a press briefing since Hong Kong was handed over to Beijing in 1997 and comes amid a flurry of condemnation of the protests from China’s state media.</p><p>In the latest round of editorials, China Daily claimed that “external forces” and “outside meddling” were to blame for the unrest.</p><p>It comes after the protesters again made Beijing’s representative office in Hong Kong a target for their anger on Sunday.</p><p>Riot police blocked a contingent of demonstrators on their way to the building and as the crowd grew, police fired tear gas and rubber bullets. The protesters responded by throwing umbrellas, rocks, eggs, and gas canisters back at the police. The protesters created a drum beat using street signs and traffic barriers as they tried to hold their ground.</p><p>“It lasted a whole minute. It was at least 10 rounds,” said Long, a 25-year-old medical volunteer who said he had helped pull demonstrators back from the frontline when they were stumbling and unable to see.</p>
+ <span class="storyimage fullwidth inlineimage" data-aop="image">
+<span class="image" data-attrib="Reuters" data-caption="Demonstrators clash with police during a protest against police violence. Photograph: Edgar Su/Reuters">
+ <img alt="a group of people standing around a fire: Demonstrators clash with police during a protest against police violence. Photograph: Edgar Su/Reuters" height="180" width="300" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAEYwUg.img?h&equals;180&amp;w&equals;300&amp;m&equals;6&amp;q&equals;60&amp;o&equals;f&amp;l&equals;f&amp;x&equals;1978&amp;y&equals;1126" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Reuters</span>
+ Demonstrators clash with police during a protest against police violence. Photograph: Edgar Su/Reuters
+</span>
+</span>
+<p>Over the past three days, demonstrators have rallied to condemn an <a href="https://www.theguardian.com/world/2019/jul/22/where-were-the-police-hong-kong-outcry-after-masked-thugs-launch-attack">attack last weekend on commuters</a> by suspected triad gangs, an incident that has led to accusations of government collusion, denied by Hong Kong officials.</p><p>On Saturday, a peaceful march in the town of Yuen Long <a href="https://www.theguardian.com/world/2019/jul/28/hong-kong-police-likened-to-thugs-after-yuen-long-violence">turned chaotic</a> as police fired teargas, rubber bullets and sponge grenades, and charged protesters in a railway station. Thousands of demonstrators joined aviation workers at the airport for an 11-hour-sit-in on Friday.</p><p>The former British colony is facing its most serious political crisis since it was returned to Chinese control in 1997. Under the terms of that agreement, the semi-autonomous region was meant to maintain a “high degree of autonomy” through an independent judiciary, a free press and an open market economy, a framework known as: “One country, two systems.”</p><p>Sunday’s protests marked the eighth consecutive weekend that Hongkongers have taken to the streets in protests that began over an extradition bill that would have allowed wanted suspects to be sent to mainland China.</p><p>As the police fired continuous rounds of teargas into crowds on Sunday, some protesters fell to ground choking. One group sought refuge in a nearby apartment building when residents opened the gate, ushering them in. Demonstrators collapsed on the stairwell, some of them crying.</p><p>“Even though the protesters are peaceful, they keep throwing the teargas. I don’t know why they keep throwing,” said Hinton, 16, who had tears in his eyes after being gassed.</p><p>Police said they used teargas to disperse protesters who were hurling bricks at them but protesters insisted police fired first. “We are trying to protect our own freedom. We are doing this for this place, our place. I’ll be honest, I did throw things because I’m that angry,” said one protester, Angus, 24.</p><p>The protesters were then pushed back to smaller roads in Sheung Wan, a normally busy neighbourhood turned into a ghost town after shops closed and residents were warned to stay inside. Tourists and residents ran from the scene, covering their eyes and mouths.</p><p>Before midnight, the police had surrounded the protesters, shielding themselves with wooden boards and street signs. Teargas was lobbed at the protesters from all directions, shrouding the road and forcing the protesters to enter a mass transit station and leave.</p><p>Some protesters said the police appeared to escalating their tactics, with officers firing on protesters earlier and more frequently. “I can’t even count how many rounds of teargas they used,” said Roy Chan, 39.</p><p>In a statement, the government said protesters had pushed a cart of burning cardboard at police, “threatening the safety of police officers and members of public”. The government said it would “continue to give full support to police to strictly enforce the law to stop all violent behaviours”.</p><p>Police said 49 people had been arrested in relation to Sunday’s protest, for suspected unlawful assembly and possession of assault weapons.</p><p>Organisers for Sunday’s event had originally planned to march from central Hong Kong to Sheung Wan to condemn the police for firing teargas and rubber bullets on protesters last weekend. The police did not grant a permit for the march – the second time authorities have rejected a protest request – following a ban on the Saturday rally in Yuen Long.</p><p>
+ <span class="storyimage fullwidth inlineimage" data-aop="image">
+<span class="image" data-attrib="Reuters" data-caption="Police officers line up during a protest near China’s liaison office in Hong Kong. Photograph: Edgar Su/Reuters">
+ <img alt="a group of people walking on a city street: Police officers line up during a protest near China’s liaison office in Hong Kong. Photograph: Edgar Su/Reuters" height="181" width="300" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAEYBw0.img?h&equals;181&amp;w&equals;300&amp;m&equals;6&amp;q&equals;60&amp;o&equals;f&amp;l&equals;f" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Reuters</span>
+ Police officers line up during a protest near China’s liaison office in Hong Kong. Photograph: Edgar Su/Reuters
+</span>
+</span>
+<br></p><p>Protesters fear authorities will adopt this line more in the future. On Sunday, one of the organisers of the Yuen Long rally, Max Chung, was arrested by police on suspicion of inciting an illegal assembly.<br></p><p>Some say the situation risks spiralling out of control as the public doubts the Hong Kong government’s ability to govern and Beijing is likely to pressure Hong Kong authorities to take a harder line on protesters. As protesters continue to clash with police, people have only grown more frustrated, fuelling yet more demonstrations.</p><p>“There’s a lot of public anger and I don’t think that’s going to go away soon,” said James Yip, 27, part of the group of protesters leaving Sheung Wan. “I think everyone is exhausted on both side, pro-government and pro-democracy.”</p><p>Exhaustion among protests appears to have set in as well. Amy Yeung, 26, has been attending as many protests as she can. “I am mentally tired. Watching the news, you cry,” she said. “But at least standing here, we are giving the message that we are not alone.”</p><p>On Sunday, protesters said they were more angry than exhausted and would continue. Jonathan, 19, who was resting on a curb away from the frontline in between rounds of teargas, said: “They see us as a threat because we are having an impact.”</p><p>Residents have seen Beijing’s influence over Hong Kong grow in recent years, as activists have been jailed and pro-democracy lawmakers disqualified from running or holding office. Independent book sellers have disappeared from the city, to reappear in mainland China facing charges, a point critics of the extradition bill often make.</p><p>“It seems to us that this is our last chance. If we don’t do this now, we won’t be able to later,” said Eunice Chan, 55, who grew up in Hong Kong before it was returned to Chinese control in 1997.</p>
+</div>
+ </div>
+
+ 
+
+<div class="back-msn-home" data-aop="back-to-home">
+<a href="/en-us" role="button"><span>Go to MSN Home</span></a>
+</div>
+
+ 
+ 
+
+<script>;/*7P1RCD3H9R0M*/var I11C;var I12C;(function(I12C){ I12C.ScriptBegin || (I12C.ScriptBegin = function(){}); I12C.ScriptEnd || (I12C.ScriptEnd = function(){});I12C.PostMessage || (I12C.PostMessage = function(){ return this.postMessage.apply(this, arguments); });I12C.Location || (I12C.Location = function i10cloc(ba$e, isWrite, op){ var locat1onPresent = Object.getOwnPropertyNames(ba$e).indexOf('locat1on') !== -1; return (!isWrite) ? ( locat1onPresent ? ba$e.locat1on : (ba$e.location || ba$e.locat1on)) : (locat1onPresent ? {set href(v) {ba$e.locat1on.href = v;}, get href() {return i10cloc(ba$e,false,op);}} : {set href(v) {ba$e.location = v;}, get href() {return i10cloc(ba$e,false,op);}});});
+I12C.PreLocationContextProxy || (I12C.PreLocationContextProxy = function i10cPreLocContext(ba$e) { return ba$e;});})(I12C||I11C|| (I12C = {}));(I12C || I11C).ScriptBegin();
+    require(["refreshPdpModules", "c.dom", "c.sso"], function(refreshPdpModules)
+    {
+        try
+        {
+            define("c.financeajaxrefreshstart", 1);
+            refreshPdpModules();
+        } catch (e)
+        {
+            define("c.financeajaxrefresherror", 1);
+        }
+    });
+    require(["refreshPdpModules", "c.dom", "c.pdp"], function(refreshPdpModules)
+    {
+        try
+        {
+            define("c.financeajaxrefreshstart", 1);
+            refreshPdpModules();
+        } catch (e)
+        {
+            define("c.financeajaxrefresherror", 1);
+        }
+    });
+
+    require(["jquery", "binding", "LocaleSettings", "c.pdpready"], function($, binding, utils)
+    {
+        utils.PostAjaxComplete();
+    });
+    require(["jquery", "binding", "LocaleSettings", "finance.ajax.done"], function($, binding, utils)
+    {
+        utils.PostAjaxComplete();
+    });
+
+    define("LocaleSettings", ["utils"], function()
+    {
+        var settings = {};
+        settings.numberGroupSizes = "3".split(" ");
+settings.numberDecimalSeparator = ".";
+settings.numberDecimalDigits = "2";
+settings.numberGroupSeparator = ",";
+settings.currencyGroupSizes = "3".split(" ");
+settings.currencyGroupSeparator = ",";
+settings.currencyDecimalSeparator = ".";
+settings.currencyDecimalDigits = parseInt("2");
+settings.currencySymbol = "$";
+settings.currencyPositivePattern = parseInt("0");
+settings.currencyNegativePattern = parseInt("0");
+settings.percentGroupSizes = "3".split(" ");
+settings.percentGroupSeparator = ",";
+settings.percentDecimalSeparator = ".";
+settings.percentDecimalDigits = parseInt("2");
+settings.percentSymbol = "%";
+settings.percentPositivePattern = parseInt("0");
+settings.percentNegativePattern = parseInt("0");
+settings.shortTimePattern = "h:mm tt";
+settings.monthYearPattern = "MMM yyyy";
+settings.monthDatePattern = "MMM d";
+settings.dayDatePattern = "ddd MMM d";
+settings.negativeSign = "-";
+settings.defaultDatePattern = " MMMM d, yyyy";
+settings.monthDayYearPattern = "M/d/yyyy";
+settings.longTimePattern = "h:mm:ss tt";
+settings.dateSeparator = "/";
+settings.timeSeparator = ":";
+settings.indexdetailsurl = "/en-us/money/indexdetails";
+settings.stockdetailsurl = "/en-us/money/stockdetails";
+settings.funddetailsurl = "/en-us/money/funddetails";
+settings.etfdetailsurl = "/en-us/money/etfdetails";
+settings.commoditydetailsurl = "/en-us/money/markets/commoditydetails";
+settings.watchlisturl = "/en-us/money/watchlist";
+settings.commoditiesNewsurl = "/en-us/money/commoditiesnews";
+settings.currencyConverterUrl = "/en-us/money/currencyconverter";
+settings.serpUrl = "/en-us/money/serp";
+settings.milestoneDigits = "".split(",");
+settings.milestoneWords = "".split(",");
+settings.isUserAuthenticated = "False";
+settings.currenciesUrl = "/en-us/money/currencydetails";
+settings.marketDetailsUrl = "/en-us/money/marketdetails";
+settings.homepageScreenersUrl = "/en-us/money/homepagescreeners";
+settings.screenerAddFilterUrl = "/en-us/money/getscreenerfilters";
+settings.filterResponseUrl = "/en-us/money/getfilterresponse";
+settings.presetScreensUrl = "/en-us/money/getpresetscreens";
+settings.realTimeQuotesUrl = "/en-us/money/realtimequotes";
+settings.autosuggestControllerUrl = "/en-us/money/autosuggest";
+settings.searchresultsPageUrl = "/en-us/money/searchresults";
+settings.heroChartUrl = "/en-us/money/stockdetails/herochart";
+settings.stockDetailsFilmstripUrl = "/en-us/money/stockdetailsfilmstrippartialpage?symbol=AAEYFPD";
+settings.partnerButtonUrl = "";
+settings.locale = "en-us";
+settings.language = "en";
+settings.country = "us";
+
+        settings.PostAjaxComplete = function(alwaysReset)
+        {
+            var pagingSection = binding.get("pagingSection", ".pagingsection");
+            //<![CDATA[
+            if (pagingSection && typeof pagingSection.teardown === "function" && typeof pagingSection.setup === "function")
+            {
+                pagingSection.teardown();
+                pagingSection.setup();
+                if (alwaysReset)
+                {
+                    binding("pagingSection", ".pagingsection").all();
+                }
+            } else
+            {
+                binding("pagingSection", ".pagingsection").all();
+            }
+            //]]>
+        };
+
+        return settings;
+    });
+
+;(I12C || I11C).ScriptEnd();</script>
+
+<style>.bingNewsContainer h2::after,
+    [data-aop="financeportfoliobingnewsmodule"] h3::after,
+    .bingNewsContainer #pdp-module h3::after{content:"News from the Web";}</style>
+
+</div>
+<div id="aside" data-region="aside">
+ 
+     <div class="ad" id="rectangle1_article_newsworld_cacf7379-e902-4b2a-ba65-2f749c92a576">
+        <div>
+            <div id="rectangle1_article_newsworld_container_cacf7379-e902-4b2a-ba65-2f749c92a576">
+                    <script type="text/javascript">;/*7P1RCD3H9R0M*/var I11C;var I12C;(function(I12C){ I12C.ScriptBegin || (I12C.ScriptBegin = function(){}); I12C.ScriptEnd || (I12C.ScriptEnd = function(){});I12C.PostMessage || (I12C.PostMessage = function(){ return this.postMessage.apply(this, arguments); });I12C.Location || (I12C.Location = function i10cloc(ba$e, isWrite, op){ var locat1onPresent = Object.getOwnPropertyNames(ba$e).indexOf('locat1on') !== -1; return (!isWrite) ? ( locat1onPresent ? ba$e.locat1on : (ba$e.location || ba$e.locat1on)) : (locat1onPresent ? {set href(v) {ba$e.locat1on.href = v;}, get href() {return i10cloc(ba$e,false,op);}} : {set href(v) {ba$e.location = v;}, get href() {return i10cloc(ba$e,false,op);}});});
+I12C.PreLocationContextProxy || (I12C.PreLocationContextProxy = function i10cPreLocContext(ba$e) { return ba$e;});})(I12C||I11C|| (I12C = {}));(I12C || I11C).ScriptBegin();
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=NEWUSEN34&amp;PVGUID=9506e4268eb643809a6724a0ddf3573b&amp;PROVIDERID=7GYW5ZC", 300, 600, "rectangle1_article_newsworld_container_cacf7379-e902-4b2a-ba65-2f749c92a576");
+                    
+;(I12C || I11C).ScriptEnd();</script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID&equals;286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+    <div class="ad" id="rectangle2_article_newsworld_571a324f-7d1a-400a-9fb6-8423bc25e218">
+        <div>
+            <div id="rectangle2_article_newsworld_container_571a324f-7d1a-400a-9fb6-8423bc25e218">
+                    <script type="text/javascript">;/*7P1RCD3H9R0M*/var I11C;var I12C;(function(I12C){ I12C.ScriptBegin || (I12C.ScriptBegin = function(){}); I12C.ScriptEnd || (I12C.ScriptEnd = function(){});I12C.PostMessage || (I12C.PostMessage = function(){ return this.postMessage.apply(this, arguments); });I12C.Location || (I12C.Location = function i10cloc(ba$e, isWrite, op){ var locat1onPresent = Object.getOwnPropertyNames(ba$e).indexOf('locat1on') !== -1; return (!isWrite) ? ( locat1onPresent ? ba$e.locat1on : (ba$e.location || ba$e.locat1on)) : (locat1onPresent ? {set href(v) {ba$e.locat1on.href = v;}, get href() {return i10cloc(ba$e,false,op);}} : {set href(v) {ba$e.location = v;}, get href() {return i10cloc(ba$e,false,op);}});});
+I12C.PreLocationContextProxy || (I12C.PreLocationContextProxy = function i10cPreLocContext(ba$e) { return ba$e;});})(I12C||I11C|| (I12C = {}));(I12C || I11C).ScriptBegin();
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=NEWUSEN32&amp;PVGUID=9506e4268eb643809a6724a0ddf3573b&amp;PROVIDERID=7GYW5ZC", 300, 250, "rectangle2_article_newsworld_container_571a324f-7d1a-400a-9fb6-8423bc25e218");
+                    
+;(I12C || I11C).ScriptEnd();</script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID&equals;286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+ <section class="morefromproviderrr" data-aop="morefromprovidervnext_morefromprovidervnext">
+ 
+<h3> <h2>
+ <span>More from The Guardian</span>
+ </h2>
+</h3>
+         <div class="logo" data-aop="provider_upsell">
+            <a target="_blank" href="http://www.theguardian.com">
+               <img alt="The Guardian" height="250" width="300" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB6yEAf.img?h&equals;250&amp;w&equals;300&amp;m&equals;1&amp;q&equals;60&amp;b&equals;white" />
+            </a>
+        </div>
+
+<ul>
+ <li   >
+<a href="https://www.theguardian.com/business/2019/jul/30/british-gas-owner-centrica-loss-iain-conn" target="_blank">
+ 
+<div class="headline-container">
+  <span class="truncate">Chief of British Gas owner Centrica to step down as it posts loss</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="The Guardian Logo" height="16" width="16" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyxfDD.img?h&equals;16&amp;w&equals;16&amp;m&equals;6&amp;q&equals;60&amp;u&equals;t&amp;o&equals;t&amp;l&equals;f" />
+ The Guardian
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="https://www.theguardian.com/us-news/2019/jul/30/toxic-america-families-seek-answers-childhood-cancers" target="_blank">
+ 
+<div class="headline-container">
+  <span class="truncate">Families seek answers for US rise in childhood cancers</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="The Guardian Logo" height="16" width="16" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyxfDD.img?h&equals;16&amp;w&equals;16&amp;m&equals;6&amp;q&equals;60&amp;u&equals;t&amp;o&equals;t&amp;l&equals;f" />
+ The Guardian
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="https://www.theguardian.com/football/2019/jul/30/premier-league-2019-20-preview-bournemouth-eddie-howe" target="_blank">
+ 
+<div class="headline-container">
+  <span class="truncate">Premier League 2019‑20 preview No 3: Bournemouth</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="The Guardian Logo" height="16" width="16" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyxfDD.img?h&equals;16&amp;w&equals;16&amp;m&equals;6&amp;q&equals;60&amp;u&equals;t&amp;o&equals;t&amp;l&equals;f" />
+ The Guardian
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ </ul>
+         <div class="promotionalcontent">
+            <span class="promoimage">
+                <a target="_blank" href="http://www.theguardian.com/" data-aop="provider_logo_secondary">
+                   <img alt="The Guardian" height="100" width="100" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAxYbMJ.img?h&equals;100&amp;w&equals;100&amp;m&equals;6&amp;q&equals;60&amp;u&equals;t&amp;o&equals;f&amp;l&equals;f" />
+                </a>
+            </span>
+            <span class="promotext">
+                <div class="providername">
+                    The Guardian
+                </div>
+                <div class="readmore">
+                    <a target="_blank" href="http://www.theguardian.com" data-aop="provider_promotext">
+                       View the Full Site
+                    </a>
+                </div>
+            </span>
+        </div>
+
+ 
+</section>
+
+ <div class="nextcontentitem">
+<h3> <h2>
+ <span>Microsoft Store Offers - Sponsored</span>
+ </h2>
+</h3>
+<ul>
+ <li >
+ 
+ <a href="https://www.nextadvisor.com/credit_cards/discover_it_review?kw&equals;msnhp_na_ed_rs10-rs-1.1.18-na-brooke-622-ed-24-ed-1" target="_blank">
+<img alt="" height="72" width="96" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUvkJ4.img?h&equals;72&amp;w&equals;96&amp;m&equals;6&amp;q&equals;60&amp;u&equals;t&amp;o&equals;t&amp;l&equals;f&amp;x&equals;316&amp;y&equals;145" /> <h4>The Highest Paying Cash Back Card Is Finally Here</h4>
+ <span>
+ NextAdvisor
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="https://www.fool.com/mms/mark/sa-earlybird?utm_source&equals;msn&amp;utm_medium&equals;contentmarketing&amp;utm_campaign&equals;sar-earlybird-feb2019&amp;paid&equals;8969&amp;waid&equals;8969&amp;psource&equals;esamhpwdg0210058&amp;wsource&equals;esamhpwdg0210058" target="_blank">
+<img alt="" height="72" width="96" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTBrny.img?h&equals;72&amp;w&equals;96&amp;m&equals;6&amp;q&equals;60&amp;u&equals;t&amp;o&equals;t&amp;l&equals;f" /> <h4>This Stock Could Be Like Buying Amazon in 1997</h4>
+ <span>
+ The Motley Fool
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="https://www.msn.com/en-us/money/personalfinance/savingsrates" target="_blank">
+<img alt="" height="72" width="96" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyk0aW.img?h&equals;72&amp;w&equals;96&amp;m&equals;6&amp;q&equals;60&amp;u&equals;t&amp;o&equals;t&amp;l&equals;f" /> <h4>Savvy Americans are moving their money to these banks</h4>
+ <span>
+ MSN Money
+</span>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="https://www.msn.com/en-us/money/realestate/mortgagerates" target="_blank">
+<img alt="" height="72" width="96" x-defer-src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAsZMRM.img?h&equals;72&amp;w&equals;96&amp;m&equals;6&amp;q&equals;60&amp;u&equals;t&amp;o&equals;t&amp;l&equals;f" /> <h4>These are the best mortgage rates in your area</h4>
+ <span>
+ MSN Money
+</span>
+ </a>
+
+</li>
+ </ul>
+</div>
+
+
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-us">Home</a>
+</li>
+ <li class="current">
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ <li >
+<a href="/en-us/kids">Kids</a>
+</li>
+ <li >
+<a href="/en-us/news/causes">causes</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-us/">&#169; 2019 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId&equals;521839">Privacy &amp; Cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID&equals;246338">Terms of use</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID&equals;286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId&equals;512703">Help</a>
+ <a href="/en-us/msn-worldwide">MSN Worldwide</a>
+ <a href="/en-us/newslettersignup">Newsletter</a>
+ <a href="https://blog.msn.com/">MSN Blog</a>
+ <a href="/en-us/news/us/about-us/ar-BBN0NAK">About Us</a>
+</div>
+</div>
+  <div>
+ <img alt="image beacon" width="1" height="1" x-defer-src="//c.msn.com/c.gif?udc&equals;true&amp;rid&equals;9506e4268eb643809a6724a0ddf3573b&amp;rnd&equals;637000698267222359&amp;rf&equals;&amp;tp&equals;https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fworld%252Fpolice-and-protesters-clash-throughout-hong-kong-on-third-day-of-unrest%252Far-AAEYFpD%253Famp%253Bi10c.encReferrer%253DaHR0cHM6Ly93d3cuYmluZy5jb20vbmV3cy9zZWFyY2g%25252fcT1OZXdzK2Zvcit5b3UmbnZhdWc9JTViTmV3c1ZlcnRpY2FsK0NhdGVnb3J5JTNkJTIycnRfTXlGZWVkJTIyJTVkJkZPUk09TlNCQUJS&amp;di&equals;17930&amp;lng&equals;en-us&amp;activityId&equals;9506e4268eb643809a6724a0ddf3573b&amp;d.dgk&equals;downlevel.pc&amp;d.imd&equals;0&amp;st.dpt&equals;newsworld&amp;st.sdpt&equals;&amp;subcvs&equals;news&amp;pg.n&equals;articlevnext&amp;pg.t&equals;article&amp;pg.c&equals;&amp;pg.p&equals;prime&amp;anoncknm&equals;&amp;issso&equals;0&amp;aadState&equals;0" /><img alt="image beacon" width="1" height="1" x-defer-src="https://sb.scorecardresearch.com/p?c1&equals;2&amp;c2&equals;3000001&amp;cs_ucfr&equals;1&amp;rn&equals;637000698267222359&amp;c7&equals;https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fworld%252Fpolice-and-protesters-clash-throughout-hong-kong-on-third-day-of-unrest%252Far-AAEYFpD%253Famp%253Bi10c.encReferrer%253DaHR0cHM6Ly93d3cuYmluZy5jb20vbmV3cy9zZWFyY2g%25252fcT1OZXdzK2Zvcit5b3UmbnZhdWc9JTViTmV3c1ZlcnRpY2FsK0NhdGVnb3J5JTNkJTIycnRfTXlGZWVkJTIyJTVkJkZPUk09TlNCQUJS&amp;c8&equals;&amp;c9&equals;" /><img src="https://web.vortex.data.msn.com/collect/v1/t.gif?name&equals;&apos;Ms.Webi.PageView&apos;&amp;ver&equals;&apos;2.1&apos;&amp;appId&equals;&apos;JS:MSN&apos;&amp;ext-app-env&equals;&apos;prod&apos;&amp;ext-javascript-libver&equals;&apos;4.0.0-beta-10&apos;&amp;ext-user-localId&equals;&apos;t:00A0AD4F820D6DD13136A0E683946C50&apos;&amp;*baseType&equals;&apos;Ms.Content.PageView&apos;&amp;*isJs&equals;False&amp;*title&equals;&apos;&apos;&amp;*isLoggedIn&equals;False&amp;*isManual&equals;True&amp;*serverImpressionGuid&equals;&apos;9506e426-8eb6-4380-9a67-24a0ddf3573b&apos;&amp;-ver&equals;&apos;1.0&apos;&amp;-impressionGuid&equals;&apos;9506e426-8eb6-4380-9a67-24a0ddf3573b&apos;&amp;-pageName&equals;&apos;articlevnext&apos;&amp;-uri&equals;&apos;https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fworld%252Fpolice-and-protesters-clash-throughout-hong-kong-on-third-day-of-unrest%252Far-AAEYFpD%253Famp%253Bi10c.encReferrer%253DaHR0cHM6Ly93d3cuYmluZy5jb20vbmV3cy9zZWFyY2g%25252fcT1OZXdzK2Zvcit5b3UmbnZhdWc9JTViTmV3c1ZlcnRpY2FsK0NhdGVnb3J5JTNkJTIycnRfTXlGZWVkJTIyJTVkJkZPUk09TlNCQUJS&apos;&amp;-referrerUri&equals;&apos;&apos;&amp;-pageTags&equals;&apos;{&quot;pg.t&quot;:&quot;article&quot;%2C&quot;pg.p&quot;:&quot;prime&quot;%2C&quot;pg.c&quot;:&quot;&quot;%2C&quot;ex&quot;:&quot;&quot;%2C&quot;rid&quot;:&quot;9506e426-8eb6-4380-9a67-24a0ddf3573b&quot;%2C&quot;di&quot;:&quot;17930&quot;%2C&quot;partner&quot;:&quot;The%2BGuardian&quot;%2C&quot;publcat&quot;:&quot;Guardian%2BNews%2B%2526%2BMedia%2BLimited&quot;%2C&quot;cvs&quot;:&quot;Browser&quot;%2C&quot;subcvs&quot;:&quot;news&quot;%2C&quot;entityId&quot;:&quot;AAEYFpD&quot;%2C&quot;entitySrc&quot;:&quot;ar&quot;%2C&quot;provid&quot;:&quot;AA28KK&quot;%2C&quot;dpt&quot;:&quot;newsworld&quot;%2C&quot;sdpt&quot;:&quot;&quot;%2C&quot;ar&quot;:&quot;0&quot;%2C&quot;dgk&quot;:&quot;downlevel.pc&quot;%2C&quot;imd&quot;:&quot;0&quot;%2C&quot;parentId&quot;:&quot;&quot;%2C&quot;pgIdx&quot;:&quot;&quot;%2C&quot;pgTot&quot;:&quot;&quot;%2C&quot;anoncknm&quot;:&quot;&quot;%2C&quot;issso&quot;:&quot;0&quot;%2C&quot;aadState&quot;:&quot;0&quot;}&apos;&amp;-behavior&equals;0&amp;-market&equals;&apos;en-us&apos;" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>;/*7P1RCD3H9R0M*/var I11C;var I12C;(function(I12C){ I12C.ScriptBegin || (I12C.ScriptBegin = function(){}); I12C.ScriptEnd || (I12C.ScriptEnd = function(){});I12C.PostMessage || (I12C.PostMessage = function(){ return this.postMessage.apply(this, arguments); });I12C.Location || (I12C.Location = function i10cloc(ba$e, isWrite, op){ var locat1onPresent = Object.getOwnPropertyNames(ba$e).indexOf('locat1on') !== -1; return (!isWrite) ? ( locat1onPresent ? ba$e.locat1on : (ba$e.location || ba$e.locat1on)) : (locat1onPresent ? {set href(v) {ba$e.locat1on.href = v;}, get href() {return i10cloc(ba$e,false,op);}} : {set href(v) {ba$e.location = v;}, get href() {return i10cloc(ba$e,false,op);}});});
+I12C.PreLocationContextProxy || (I12C.PreLocationContextProxy = function i10cPreLocContext(ba$e) { return ba$e;});})(I12C||I11C|| (I12C = {}));(I12C || I11C).ScriptBegin();
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    
+;(I12C || I11C).ScriptEnd();</script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <script>;/*7P1RCD3H9R0M*/var I11C;var I12C;(function(I12C){ I12C.ScriptBegin || (I12C.ScriptBegin = function(){}); I12C.ScriptEnd || (I12C.ScriptEnd = function(){});I12C.PostMessage || (I12C.PostMessage = function(){ return this.postMessage.apply(this, arguments); });I12C.Location || (I12C.Location = function i10cloc(ba$e, isWrite, op){ var locat1onPresent = Object.getOwnPropertyNames(ba$e).indexOf('locat1on') !== -1; return (!isWrite) ? ( locat1onPresent ? ba$e.locat1on : (ba$e.location || ba$e.locat1on)) : (locat1onPresent ? {set href(v) {ba$e.locat1on.href = v;}, get href() {return i10cloc(ba$e,false,op);}} : {set href(v) {ba$e.location = v;}, get href() {return i10cloc(ba$e,false,op);}});});
+I12C.PreLocationContextProxy || (I12C.PreLocationContextProxy = function i10cPreLocContext(ba$e) { return ba$e;});})(I12C||I11C|| (I12C = {}));(I12C || I11C).ScriptBegin();
+        require(["document", "c.deferred"], function (document)
+        {
+            var iframe = document.createElement("iframe");
+            var protocolWithColon = "True" === "True" ? ((I12C || I11C).PreLocationContextProxy)(document).locat1on.protocol : protocol + ":";
+
+            iframe.src = protocolWithColon + "//" + "cdn.adaptv.advertising.com/msft/msftsync.html";
+            iframe.width = 0;
+            iframe.height = 0;
+            iframe.setAttribute("style", "display: block; border: 0");
+
+            document.body.appendChild(iframe);
+        });
+    
+;(I12C || I11C).ScriptEnd();</script>
+    <noscript>
+        <iframe src="cdn.adaptv.advertising.com/msft/msftsync.html" height="0" width="0" style="display: block; border: 0"></iframe>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>

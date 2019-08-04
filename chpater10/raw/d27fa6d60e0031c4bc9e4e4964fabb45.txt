@@ -1,0 +1,1027 @@
+
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr"
+  class='com_content view-article itemid-114 j39 mm-hover'>
+
+<head>
+<script>window.dataLayer = window.dataLayer || [];</script>
+<!-- Google Tag Manager JS V.1.0.0 from Tools for Joomla -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PD698PL');</script>
+<!-- End Google Tag Manager JS -->
+  <base href="https://www.iranfocus.com/en/terrorism-mainmenu-31/33735-uk-navy-will-accompany-all-british-merchant-ships-through-strait-of-hormuz-to-avoid-iran-attack" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Iran, Rouhani,Rajavi" />
+	<meta name="author" content="Jubin Katiraie" />
+	<meta name="description" content="World Terrorism has made the headlines for years. Read about Iran terrorism and protests from the source. Iran Focus is the opposition's word. Click here for more." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>UK Navy Will Accompany All British Merchant Ships Through Strait of Hormuz to Avoid Iran Attack</title>
+	<link href="/en/templates/ja_focus/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/en/templates/ja_focus/css/themes/red/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.iranfocus.com/en//plugins/content/bt_socialshare/assets/bt_socialshare.css" rel="stylesheet" type="text/css" />
+	<link href="/en/templates/ja_focus/css/themes/red/template.css" rel="stylesheet" type="text/css" />
+	<link href="/en/templates/ja_focus/css/themes/red/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/en/templates/ja_focus/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/en/templates/ja_focus/js/swiper/swiper.css" rel="stylesheet" type="text/css" />
+	<link href="//fonts.googleapis.com/css?family=Heebo:400,500,700,900|Noticia+Text" rel="stylesheet" type="text/css" />
+	<link href="/en/templates/ja_focus/css/themes/red/layouts/docs.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.iranfocus.com/en/media/mod_ninja_simple_icon_menu/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="/en/modules/mod_minifrontpage/themes/default/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.iranfocus.com/en/modules/mod_datetime/tmpl/default.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+.nsi-container div {margin-top: 0px}.nsi-container div {margin-top: 0px}div.mod_search88 input[type="search"]{ width:auto; }.nsi-container div {margin-top: 0px}
+	</style>
+	<script src="/en/media/jui/js/jquery.min.js?1d1bfebf2ca6317c02234fa6e123854b" type="text/javascript"></script>
+	<script src="/en/media/jui/js/jquery-noconflict.js?1d1bfebf2ca6317c02234fa6e123854b" type="text/javascript"></script>
+	<script src="/en/media/jui/js/jquery-migrate.min.js?1d1bfebf2ca6317c02234fa6e123854b" type="text/javascript"></script>
+	<script src="/en/media/system/js/caption.js?1d1bfebf2ca6317c02234fa6e123854b" type="text/javascript"></script>
+	<script src="/en/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?1d1bfebf2ca6317c02234fa6e123854b" type="text/javascript"></script>
+	<script src="/en/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/en/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/en/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/en/templates/ja_focus/js/swiper/swiper.min.js" type="text/javascript"></script>
+	<script src="/en/templates/ja_focus/js/script.js" type="text/javascript"></script>
+	<script src="/en/media/system/js/html5fallback.js?1d1bfebf2ca6317c02234fa6e123854b" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="UK Navy Will Accompany All British Merchant Ships Through Strait of Hormuz to Avoid Iran Attack" />
+	<meta property="og:url" content="https://www.iranfocus.com/en/terrorism-mainmenu-31/33735-uk-navy-will-accompany-all-british-merchant-ships-through-strait-of-hormuz-to-avoid-iran-attack" />
+	<meta property="og:description" content="By Jubin Katiraie
+The UK announced Thursday that it has begun sending warships to accompany all British-flagged vessels through the Strait of Hormuz to protect them from Iran, only days after the government said it did not have resources to do so.
+A government spokesman said: “The Royal Navy has" />
+	<meta property="og:image" content="https://www.iranfocus.com/en/images/2019/July/UK-Navy-750.png" />
+
+  
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script type="text/javascript" src="/en/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+  
+
+<meta name="google-site-verification" content="" />
+
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-92548499-1']);
+ _gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_trackPageview']);
+					
+ (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+
+</head>
+
+<body>
+<!-- Google Tag Manager iframe V.1.0.0 from Tools for Joomla -->
+<noscript><iframe src='//www.googletagmanager.com/ns.html?id=GTM-PD698PL'
+height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
+<!-- End Google Tag Manager iframe -->
+
+<div class="t3-wrapper"> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
+  <div class="container-hd">
+    
+
+<!-- TOPBAR -->
+
+<!-- HEADER -->
+<header id="t3-header" class="container t3-header">
+	<div class="row">
+
+		<!-- LOGO -->
+		<div class="col-xs-12 col-sm-6 col-lg-4 logo">
+			<div class="logo-image">
+				<a href="https://www.iranfocus.com/en/" title="Iran Focus">
+											<img class="logo-img" src="/en/images/1logo.jpg" alt="Iran Focus" />
+															<span>Iran Focus</span>
+				</a>
+							</div>
+		</div>
+		<!-- //LOGO -->
+
+		<div class="col-xs-12 col-sm-6 col-lg-8">
+							<!-- SPOTLIGHT 1 -->
+				<div class="t3-sl t3-sl-1">
+						<!-- SPOTLIGHT -->
+	<div class="t3-spotlight t3-spotlight-1  row">
+					<div class="col  col-lg-6 col-md-6  col-sm-6 hidden-sm   col-xs-6 hidden-xs ">
+								<div class="t3-module module " id="Mod217"><div class="module-inner"><div class="module-ct no-title">
+    <span class="mod_datetime"><time datetime="2019-07-30T08:00:44+00:00">Tuesday, 30 July 2019
+		<span id="mod_datetime_visitors_time_217"></span>
+		<script type="text/javascript">
+			<!--
+			zone=0
+			isitlocal=true;
+			ampm="";
+			
+			function mod_datetime_visitors_time_217()
+			{
+				now=new Date();
+				ofst=now.getTimezoneOffset()/60; 
+				
+				
+				now.setUTCHours(now.getUTCHours()+Math.abs(ofst), now.getUTCMinutes());
+				timezone = now.getTimezoneOffset();
+				secs=now.getUTCSeconds();
+				sec=-1.57+Math.PI*secs/30;
+				mins=now.getUTCMinutes();
+				min=-1.57+Math.PI*mins/30;
+				hr=(isitlocal)? now.getUTCHours():(now.getUTCHours() + parseInt(ofst)) + parseInt(zone);
+				hrs=-1.575+Math.PI*hr/6+Math.PI*parseInt(now.getMinutes())/360;
+				if (hr < 0) hr+=24;
+				if (hr > 23) hr-=24;
+				
+				ampm = (hr > 11)?"":"";
+				
+				statusampm = ampm;
+				
+				hr2 = hr;
+				if (hr2 == 0) hr2=24;//24 or 12
+				(hr2 < 13)?hr2:hr2 %= 24;// 24 or 12
+				if (hr2<10) hr2="0"+hr2
+var finaltime=hr2+":"+((mins < 10)?"0"+mins:mins)+":"+((secs < 10)?"0"+secs:secs)+" "+statusampm;
+	
+				document.getElementById("mod_datetime_visitors_time_217").innerHTML=finaltime
+				setTimeout("mod_datetime_visitors_time_217()",1000)
+			}
+			mod_datetime_visitors_time_217()
+			//-->    
+		</script></time></span>
+</div></div></div>
+							</div>
+					<div class="col  col-lg-6 col-md-6 col-sm-12  col-xs-12 hidden-xs ">
+								<div class="t3-module module " id="Mod215"><div class="module-inner"><div class="module-ct no-title"><div class="nsi-container nsi-iconhoriz-icontop">
+   <div>
+    <ul>                
+                      <li>
+                  <a href="http://iranfocus.com/en" target="_self" title="English">
+                  		                  		
+                  			                  		<img src="https://www.iranfocus.com/en/media/mod_ninja_simple_icon_menu/images/en.jpg" alt="English" height="60" width="60" />
+	                  		                  	<br />	                  	
+	                  		                  	<span>English</span>
+                   		                  </a>
+                </li>
+                        <li>
+                  <a href="http://iranfocus.com/fr" target="_self" title="French">
+                  		                  		
+                  			                  		<img src="https://www.iranfocus.com/en/media/mod_ninja_simple_icon_menu/images/fr.jpg" alt="French" height="60" width="60" />
+	                  		                  	<br />	                  	
+	                  		                  	<span>French</span>
+                   		                  </a>
+                </li>
+             </ul>
+  </div>
+</div>
+</div></div></div>
+							</div>
+			</div>
+<!-- SPOTLIGHT -->
+				</div>
+				<!-- //SPOTLIGHT 1 -->
+					</div>
+
+	</div>
+</header>
+<!-- //HEADER -->
+
+
+    
+<!-- MAIN NAVIGATION -->
+<div class="container">
+	<nav id="t3-mainnav" class="navbar navbar-default t3-mainnav">
+
+		
+		<div class="t3-navbar navbar-collapse collapse">
+			<div  class="t3-megamenu"  data-responsive="true">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav level0">
+<li itemprop='name'  data-id="101" data-level="1">
+<a itemprop='url' class=""  href="/en/"   data-target="#">Home </a>
+
+</li>
+<li itemprop='name'  data-id="109" data-level="1">
+<a itemprop='url' class=""  href="/en/iran-general-mainmenu-26"   data-target="#">Iran (General) </a>
+
+</li>
+<li itemprop='name'  data-id="110" data-level="1">
+<a itemprop='url' class=""  href="/en/human-rights"   data-target="#">Human Rights </a>
+
+</li>
+<li itemprop='name'  data-id="122" data-level="1">
+<a itemprop='url' class=""  href="/en/life-in-iran"   data-target="#">Life in Iran </a>
+
+</li>
+<li itemprop='name'  data-id="124" data-level="1">
+<a itemprop='url' class=""  href="/en/nuclear"   data-target="#">Nuclear </a>
+
+</li>
+<li itemprop='name'  data-id="111" data-level="1">
+<a itemprop='url' class=""  href="/en/women-mainmenu-28"   data-target="#">Women </a>
+
+</li>
+<li itemprop='name' class="dropdown mega" data-id="123" data-level="1">
+<a itemprop='url' class=" dropdown-toggle"  href="/en/iran-a-neighbours"   data-target="#" data-toggle="dropdown">Iran &amp; Neighbours <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name'  data-id="112" data-level="2">
+<a itemprop='url' class=""  href="/en/iran-a-neighbours/iraq-mainmenu-29"   data-target="#">Iraq </a>
+
+</li>
+<li itemprop='name'  data-id="131" data-level="2">
+<a itemprop='url' class=""  href="/en/iran-a-neighbours/afghanistan"   data-target="#">Afghanistan </a>
+
+</li>
+<li itemprop='name'  data-id="133" data-level="2">
+<a itemprop='url' class=""  href="/en/iran-a-neighbours/syria"   data-target="#">Syria </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="125" data-level="1">
+<a itemprop='url' class=""  href="/en/economy"   data-target="#">Economy </a>
+
+</li>
+<li itemprop='name' class="current active" data-id="114" data-level="1">
+<a itemprop='url' class=""  href="/en/terrorism-mainmenu-31"   data-target="#">Terrorism </a>
+
+</li>
+<li itemprop='name'  data-id="115" data-level="1">
+<a itemprop='url' class=""  href="/en/iran-in-the-world-press-mainmenu-32"   data-target="#">Iran and world press </a>
+
+</li>
+<li itemprop='name'  data-id="137" data-level="1">
+<a itemprop='url' class=""  href="/en/blog"   data-target="#">Blog </a>
+
+</li>
+<li itemprop='name'  data-id="129" data-level="1">
+<a itemprop='url' class=""  href="/en/op-ed"   data-target="#">Op-Ed </a>
+
+</li>
+</ul>
+</div>
+
+		</div>
+	</nav>
+	<!-- //MAIN NAVIGATION -->
+</div>
+
+
+<script>
+	(function ($){
+		var maps = [];
+		$(maps).each (function (){
+			$('li[data-id="' + this['id'] + '"]').addClass (this['class']);
+		});
+	})(jQuery);
+</script>
+<noscript>
+  YOU MUST ENABLED JS</noscript>
+
+    
+
+
+    
+
+
+    
+
+
+    
+<div id="t3-mainbody" class="container t3-mainbody one-sidebar-right">
+	<div class="row equal-height">
+
+		<!-- MAIN CONTENT -->
+		<div id="t3-content" class="t3-content col col-xs-12 col-sm-8">
+			
+			
+<div class="item-page">
+
+	
+	<!-- Article -->
+	<article class="default" itemscope itemtype="http://schema.org/Article">
+	  <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://google.com/article"/>
+		<meta itemprop="inLanguage" content="en-GB" />
+		<meta itemprop="description" content="TwitterBy Jubin Katiraie
+The UK announced Thursday that it has begun sending warships to accompany all British-flagged vessels through the Strait of Hormuz to protect them from Iran, only days after the government said it did not have resources to do so.
+A government spokesman said: “The Royal Navy has been tasked to accompany British-flagged ships through the Strait of Hormuz, either individually or in groups, should sufficient notice be given of their passage.”
+
+				(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) {return;}
+				  js = d.createElement(s); js.id = id;
+				  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));{lang: 'en-GB'}" />
+		<meta itemprop="author" content="Jubin Katiraie"/>
+		<meta itemprop="datePublished" content="2019-07-27 11:46:38"/>
+
+		<!-- Video - Gallery -->
+				<div class="ja-media-content ">
+					</div>
+		<!-- // Video - Gallery -->
+		<!-- Image full -->
+					
+	<div class="pull-right item-image article-image article-image-full">
+    <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+      <img
+                src="/en/images/2019/July/UK-Navy-750.png"
+        alt="UK Navy will accompany all British merchant ships through Strait of Hormuz to avoid Iran attack" itemprop="url" />
+      <meta itemprop="height" content="auto" />
+      <meta itemprop="width" content="auto" />
+    </span>
+	</div>
+
+				<!-- // Image full -->
+
+					
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					<a href="/en/terrorism-mainmenu-31/33735-uk-navy-will-accompany-all-british-merchant-ships-through-strait-of-hormuz-to-avoid-iran-attack" itemprop="url" title="UK Navy Will Accompany All British Merchant Ships Through Strait of Hormuz to Avoid Iran Attack">
+				UK Navy Will Accompany All British Merchant Ships Through Strait of Hormuz to Avoid Iran Attack</a>
+			</h1>
+
+			</header>
+				
+				
+		
+  	<!-- Aside -->
+				<aside class="article-aside clearfix">
+							<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+													Details							</dt>
+
+			
+			
+										<dd class="category-name hasTooltip" title="Category: ">
+				<i class="fa fa-folder-open"></i>
+									<span itemprop="genre">Terrorism</span>
+							</dd>			
+										<dd class="published hasTooltip" title="Published: ">
+				<i class="fa fa-calendar"></i>
+				<time datetime="2019-07-27T11:46:00+00:00" itemprop="datePublished">
+					27 July 2019          <meta  itemprop="datePublished" content="2019-07-27T11:46:00+00:00" />
+          <meta  itemprop="dateModified" content="2019-07-27T11:46:00+00:00" />
+				</time>
+			</dd>
+					
+					
+			
+						</dl>
+
+		  		  
+
+			<div class="btn-group pull-right">
+			<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="fa fa-cog"></span> <span class="caret"><span class="element-invisible">Empty</span></span> </a>
+						<ul class="dropdown-menu">
+									<li class="print-icon"> <a href="/en/terrorism-mainmenu-31/33735-uk-navy-will-accompany-all-british-merchant-ships-through-strait-of-hormuz-to-avoid-iran-attack?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">Print</a> </li>
+													<li class="email-icon"> <a href="/en/component/mailto/?tmpl=component&amp;template=ja_focus&amp;link=a85c13e9a9119d6e695ed832d6b4a6395412d3ec" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;">Email</a> </li>
+											</ul>
+		</div>
+	
+		  		</aside>
+				<!-- // Aside -->
+
+		
+				
+							
+		
+			
+			<section class="article-content clearfix" itemprop="articleBody">
+				<div class="bt-social-share bt-social-share-above"><div class="bt-social-share-button bt-facebook-share-button"><fb:share-button href="https://www.iranfocus.com/en/terrorism-mainmenu-31/33735-uk-navy-will-accompany-all-british-merchant-ships-through-strait-of-hormuz-to-avoid-iran-attack" type="button_count"></fb:share-button></div><div class="bt-social-share-button bt-facebook-like-button"><fb:like send="false" colorscheme="light" font="arial" href="https://www.iranfocus.com/en/terrorism-mainmenu-31/33735-uk-navy-will-accompany-all-british-merchant-ships-through-strait-of-hormuz-to-avoid-iran-attack" layout="button_count" width="70" show_faces="false" action="like"></fb:like></div><div class="bt-social-share-button bt-twitter-button" style="width:80px"><a href="http://twitter.com/share" class="twitter-share-button" 
+						  data-via="iranfocus" 
+						  data-url="https://www.iranfocus.com/en/terrorism-mainmenu-31/33735-uk-navy-will-accompany-all-british-merchant-ships-through-strait-of-hormuz-to-avoid-iran-attack" 
+						  data-size="medium"
+						  data-lang="en"
+						  data-count="horizontal" >Twitter</a></div><div class="bt-social-share-button bt-linkedin-button"><script type="IN/share" data-url="https://www.iranfocus.com/en/terrorism-mainmenu-31/33735-uk-navy-will-accompany-all-british-merchant-ships-through-strait-of-hormuz-to-avoid-iran-attack"
+						 data-showzero="false"
+						 data-counter="right"></script></div><div class="bt-social-share-button bt-googleplus-button"><g:plus action="share" href="https://www.iranfocus.com/en/terrorism-mainmenu-31/33735-uk-navy-will-accompany-all-british-merchant-ships-through-strait-of-hormuz-to-avoid-iran-attack" annotation="bubble" height="20" ></g:plus></div></div><p style="text-align: justify;">By Jubin Katiraie</p>
+<p style="text-align: justify;">The UK announced Thursday that it has begun sending warships to accompany all British-flagged vessels through the Strait of Hormuz to protect them from Iran, only days after the government said it did not have resources to do so.</p>
+<p style="text-align: justify;">A government spokesman <a href="https://www.reuters.com/article/us-mideast-iran-britain/britain-begins-escorting-all-uk-vessels-through-hormuz-strait-idUSKCN1UK1HI" target="_blank" rel="noopener noreferrer">said</a>: “The Royal Navy has been tasked to accompany British-flagged ships through the Strait of Hormuz, either individually or in groups, should sufficient notice be given of their passage.”</p>
+ 
+<p style="text-align: justify;">Tensions between the two countries have risen over the past week since Iran seized a British-flagged tanker in the Strait, where one-fifth of all oil shipments pass through. This incident came two weeks after Britain captured an Iranian oil tanker near Gibraltar that they accused of violating EU sanctions on Syria.</p>
+<p style="text-align: justify;">British frigate HMS Montrose, which recently arrived in the Persian Gulf, carried out the first mission on Wednesday evening.</p>
+<p style="text-align: justify;">Bob Sanguinetti, chief executive of the UK Chamber of Shipping trade association, said: “This move will provide some much-needed safety and reassurance to our shipping community in this uncertain time.”</p>
+<p style="text-align: justify;">The UK had previously advised British-flagged vessels to avoid the Strait and notify the Navy if they had to cross it but warned they would not be able to escort every ship. However, an official said that this new plan had actually been in place for a few days.</p>
+<p style="text-align: justify;">In a statement, the spokesman said: “Freedom of navigation is crucial for the global trading system and world economy, and we will do all we can to defend it.”</p>
+<p style="text-align: justify;">However, this cannot be all because Iran will be looking to fight back.</p>
+<p style="text-align: justify;">Former Royal Navy captain Gerry Northwood, from maritime security firm MAST, said Iran has operational capabilities throughout the region and will be looking to “embarrass” the UK for failure to protect shipping.</p>
+<p style="text-align: justify;">Mark Gray, a retired colonel with Britain’s Royal Marines, said: “The key issue with the escorts is the rules of engagement. The vessels must have the authorization to fire warning shots, and also, if necessary, target rounds against boats and helicopters. If not, the Iranians will call our bluff and board, even if escorted.”</p>
+<p style="text-align: justify;">Britain wants to create a European-led mission to protect shipping in the Strait, something which France, Italy, and Denmark have supported, after last week’s tanker seizure that London described as “state piracy”.</p>
+<p style="text-align: justify;">The Royal Navy said that the destroyer HMS Duncan and four mine countermeasures vessels have been deployed to the region.</p><div id="fb-root"></div>
+				<script>(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) {return;}
+				  js = d.createElement(s); js.id = id;
+				  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script><script src="//platform.twitter.com/widgets.js" type="text/javascript"></script><script type="text/javascript" src="//platform.linkedin.com/in.js"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js">{lang: 'en-GB'}</script>			</section>
+
+			<!-- Item tags -->
+													<!-- // Item tags -->
+
+			<!-- Footer -->
+						<!-- // Footer -->
+
+			
+			
+						
+	</article>
+	<!-- //Article -->
+
+	
+		</div>
+
+
+		</div>
+		<!-- //MAIN CONTENT -->
+
+		<!-- SIDEBAR RIGHT -->
+		<div class="t3-sidebar t3-sidebar-right col col-xs-12 col-sm-4 ">
+			<div class="t3-module module " id="Mod214"><div class="module-inner"><div class="module-ct no-title"><div class="nsi-container nsi-iconhoriz-icontop">
+   <div>
+    <ul>                
+                      <li>
+                  <a href="https://www.facebook.com/IranFocus-897776873594527/" target="_blank" title="">
+                  		                  		
+                  			                  		<img src="https://www.iranfocus.com/en/media/mod_ninja_simple_icon_menu/images/3 (1).jpg" alt="" height="26px" width="26px" />
+	                  		                  	<br />	                  	
+	                  	                  </a>
+                </li>
+                        <li>
+                  <a href="https://twitter.com/Iran_Focus" target="_blank" title="">
+                  		                  		
+                  			                  		<img src="https://www.iranfocus.com/en/media/mod_ninja_simple_icon_menu/images/1.jpg" alt="" height="26px" width="26px" />
+	                  		                  	<br />	                  	
+	                  	                  </a>
+                </li>
+                        <li>
+                  <a href="https://www.youtube.com/user/focusoniran" target="_blank" title="">
+                  		                  		
+                  			                  		<img src="https://www.iranfocus.com/en/media/mod_ninja_simple_icon_menu/images/youtube.png" alt="" height="26px" width="26px" />
+	                  		                  	<br />	                  	
+	                  	                  </a>
+                </li>
+             </ul>
+  </div>
+</div>
+</div></div></div><div class="t3-module module " id="Mod88"><div class="module-inner"><div class="module-ct no-title"><div class="search mod_search88">
+	<form action="/en/terrorism-mainmenu-31" method="post" class="form-inline form-search">
+		<label for="mod-search-searchword88" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="form-control search-query" type="search" size="15" placeholder="Search ..." aria-label="serch" /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();">Search</button>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="114" />
+	</form>
+</div>
+</div></div></div><div class="t3-module module " id="Mod219"><div class="module-inner"><h3 class="module-title "><span>#Iran - April 10 - Bojnurd, North Khorasan Province, Northeast</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube219').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube219').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube219" src="https://www.youtube.com/embed/I7_Q_uTH07Y?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod220"><div class="module-inner"><h3 class="module-title "><span>April 10 - Shadegan, Khuzestan Province, SW #Iran</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube220').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube220').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube220" src="https://www.youtube.com/embed/K7UwvjWOdp4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod222"><div class="module-inner"><h3 class="module-title "><span>#IranFloods- Kut Abdullah, Ahvaz, Khuzestan Province, SW #Iran</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube222').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube222').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube222" src="https://www.youtube.com/embed/dnXXIKiwLEQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod221"><div class="module-inner"><h3 class="module-title "><span>Seems to be Lorestan Province, western #Iran Horrifying footage of a road literally collapsing</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube221').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube221').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube221" src="https://www.youtube.com/embed/yJ5uMFJeSEA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod223"><div class="module-inner"><h3 class="module-title "><span>#IranFloods-April 4, Poledokhtar,Lorestan province W #Iran</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube223').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube223').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube223" src="https://www.youtube.com/embed/Cs6QpfAjg2U?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod224"><div class="module-inner"><h3 class="module-title "><span>Iran: Ahvaz Steel Workers on Strike for 5th Day</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube224').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube224').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube224" src="https://www.youtube.com/embed/8QqgoE1IYuc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod225"><div class="module-inner"><h3 class="module-title "><span>Iran Sugarcane Workers Protest Unpaid Wages on 10th Day of Strike</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube225').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube225').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube225" src="https://www.youtube.com/embed/dRyKwFh8su4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod226"><div class="module-inner"><h3 class="module-title "><span>Iran. November, 2018. Eleventh Day of Truckers’ Nationwide Strike</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube226').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube226').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube226" src="https://www.youtube.com/embed/LQSEBr7eDAc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod227"><div class="module-inner"><h3 class="module-title "><span>Iran. July 24, 2018. New Round of Truck Drivers’ Nationwide Strike</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube227').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube227').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube227" src="https://www.youtube.com/embed/LzU7bAGzG3o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod228"><div class="module-inner"><h3 class="module-title "><span>Iran. November, 2018. Protest Gathering of Ahvaz Alloyed Steel National Group Workers</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube228').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube228').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube228" src="https://www.youtube.com/embed/hvBgx5j6SOc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod229"><div class="module-inner"><h3 class="module-title "><span>Yasuj, Iran. July 23, 2018. New Round of Truck Drivers’ Nationwide Strike</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube229').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube229').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube229" src="https://www.youtube.com/embed/_i1fuA82F2I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod230"><div class="module-inner"><h3 class="module-title "><span>Torbat-E Jam, Iran. July 23, 2018. New Round of Truck Drivers’ Nationwide Strike</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube230').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube230').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube230" src="https://www.youtube.com/embed/gT6Zoj50A64?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod231"><div class="module-inner"><h3 class="module-title "><span>Yazd, Iran. July 23, 2018. New Round of Truck Drivers’ Nationwide Strike</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube231').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube231').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube231" src="https://www.youtube.com/embed/eW8GawsLNH4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod232"><div class="module-inner"><h3 class="module-title "><span>Iran, Tehran – Anti-Regime Chants in Protest, June 25</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube232').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube232').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube232" src="https://www.youtube.com/embed/BNR4owdVPVY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod233"><div class="module-inner"><h3 class="module-title "><span>Iran, Tehran – Major Protest With Chants of ‘We Will Fight, We Will Die, but We’ll Take Back Iran’</span></h3><div class="module-ct ">	<script type="text/javascript">
+		jQuery(function($) {
+			$('.sp_simple_youtube_responsive').each(function(){
+				var $that = $(this);
+				$('#sp-simple-youtube233').css({
+					'width': $(this).width(),
+					'height': ( $(this).data('height')*$(this).width() ) / $(this).data('width')
+				});
+
+				$(window).resize(function(){
+					$('#sp-simple-youtube233').css({
+						'width': $that.width(),
+						'height': ( $that.data('height')*$that.width() ) / $that.data('width')
+					});
+				});
+			});
+		});
+	</script>
+	
+	<div class="sp_simple_youtube sp_simple_youtube_responsive" data-width="300" data-height="200">
+					<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube233" src="https://www.youtube.com/embed/kU7bXXmQn30?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+</div></div></div><div class="t3-module module " id="Mod103"><div class="module-inner"><h3 class="module-title "><span>blog</span></h3><div class="module-ct "><!-- MiniFrontPage Module - Another Quality Freebie from TemplatePlazza.com --> 
+<div class="minifrontpage-default" id="minifrontpage-103">
+<div style="display:table;table-layout: fixed;width:100%;padding:0 !important; margin:0 !important;" class="minifrontpageid">
+		<div class="mfp-table-row" style="display:table-row;width:100%">
+				<div class="mfp-table-cell" style="display:table-cell;width:100%;word-wrap:break-word !important">
+			<div class="mfp-table-cell-inner">
+									<a href="/en/blog/33331-how-to-contain-the-growing-threat-iran-poses-to-europe">
+							<img class="mfp-img-left" 
+								src="/en/images/minifp/imagecache/169ab8e1c7a00f42e609c14bd5b05223.jpg" 
+								alt="How to Contain the Growing Threat Iran Poses to Europe" title=""
+								style="height:48px;width:48px;" />
+						</a>
+					
+					<span class="mfp-introtitle"><a href="/en/blog/33331-how-to-contain-the-growing-threat-iran-poses-to-europe">How to Contain the Growing Threat Iran Poses to Eu...</a></span><br/><div class='clrfix'></div>			</div>
+		</div>
+			</div>
+		<div class="mfp-table-row" style="display:table-row;width:100%">
+				<div class="mfp-table-cell" style="display:table-cell;width:100%;word-wrap:break-word !important">
+			<div class="mfp-table-cell-inner">
+									<a href="/en/blog/33272-eu-must-address-iran-s-ballistic-missile-programme">
+							<img class="mfp-img-left" 
+								src="/en/images/minifp/imagecache/4878e1cb48bb7c7f6b2ada1703231bb0.jpg" 
+								alt="EU Must Address Iran’s Ballistic Missile Programme" title=""
+								style="height:48px;width:48px;" />
+						</a>
+					
+					<span class="mfp-introtitle"><a href="/en/blog/33272-eu-must-address-iran-s-ballistic-missile-programme">EU Must Address Iran’s Ballistic Missile Programme...</a></span><br/><div class='clrfix'></div>			</div>
+		</div>
+			</div>
+		<div class="mfp-table-row" style="display:table-row;width:100%">
+				<div class="mfp-table-cell" style="display:table-cell;width:100%;word-wrap:break-word !important">
+			<div class="mfp-table-cell-inner">
+									<a href="/en/blog/33265-iran-budget-causing-anger-with-more-money-diverted-to-suppressive-forces">
+							<img class="mfp-img-left" 
+								src="/en/images/minifp/imagecache/ce50eda85f3747887bc013c5723c135c.jpg" 
+								alt="Iran Budget Causing Anger With More Money Diverted to Suppressive Forces" title=""
+								style="height:48px;width:48px;" />
+						</a>
+					
+					<span class="mfp-introtitle"><a href="/en/blog/33265-iran-budget-causing-anger-with-more-money-diverted-to-suppressive-forces">Iran Budget Causing Anger With More Money Diverted...</a></span><br/><div class='clrfix'></div>			</div>
+		</div>
+			</div>
+	</div>
+
+<div class="mfp-other-article" style="display:table;table-layout: fixed; height:100px;width:100%;">
+	<div class="mfp-other-article-inner">
+		<span class="mfp-other-article-title">Other Articles</span>
+		<ul>
+			<li><a href="/en/blog/33259-analysis-of-the-new-iranian-budget-bill">Analysis of the New Iranian Budget Bill</a></li><li><a href="/en/blog/33166-a-frustrated-attempt-to-whitewash-terrorist-mullahs-in-iran">A Frustrated Attempt to Whitewash Terrorist Mullah...</a></li>		</ul>
+	</div>
+</div>
+</div></div></div></div>
+		</div>
+		<!-- //SIDEBAR RIGHT -->
+
+	</div>
+</div> 
+
+
+
+    
+
+
+    
+<!-- BACK TOP TOP BUTTON -->
+<div id="back-to-top" data-spy="affix" data-offset-top="200" class="back-to-top hidden-xs hidden-sm affix-top">
+  <button class="btn btn-primary" title="Back to Top"><span class="fa fa-long-arrow-up" aria-hidden="true"></i><span class="empty">empty</span></button>
+</div>
+
+<script type="text/javascript">
+(function($) {
+  // Back to top
+  $('#back-to-top').on('click', function(){
+    $("html, body").animate({scrollTop: 0}, 500);
+    return false;
+  });
+})(jQuery);
+</script>
+<noscript>
+  YOU MUST ENABLED JS</noscript>
+<!-- BACK TO TOP BUTTON -->
+
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
+
+			<!-- FOOT NAVIGATION -->
+		<div class="container">
+			<div class="footer-spotlight">
+					<!-- SPOTLIGHT -->
+	<div class="t3-spotlight t3-footnav  row">
+					<div class="col  col-lg-12 col-md-12 col-sm-12  col-xs-6 hidden-xs ">
+								<div class="t3-module module " id="Mod238"><div class="module-inner"><div class="module-ct no-title"><div class="nsi-container nsi-iconhoriz-iconbottom">
+   <div>
+    <ul>                
+                      <li>
+                  <a href="/en/about-us-topmenu-34" target="_self" title="About Us">
+                  		                  		<span>About Us</span><br />
+                  		                  		
+                  			                  		                  	
+	                  	                  </a>
+                </li>
+                        <li>
+                  <a href="/en/privacy-policy" target="_self" title="Privacy Policy">
+                  		                  		<span>Privacy Policy</span><br />
+                  		                  		
+                  			                  		                  	
+	                  	                  </a>
+                </li>
+                        <li>
+                  <a href="/en/contact-us" target="_self" title="Contact Us">
+                  		                  		<span>Contact Us</span><br />
+                  		                  		
+                  			                  		                  	
+	                  	                  </a>
+                </li>
+             </ul>
+  </div>
+</div>
+</div></div></div>
+							</div>
+					<div class="col  col-lg-2 col-md-2 col-sm-3 col-xs-6">
+								&nbsp;
+							</div>
+					<div class="col  col-lg-2 col-md-2 col-sm-3 col-xs-6">
+								&nbsp;
+							</div>
+					<div class="col  col-lg-2 col-md-2 col-sm-3 col-xs-6">
+								&nbsp;
+							</div>
+					<div class="col  col-lg-3 col-md-2 col-sm-3 col-xs-6">
+								&nbsp;
+							</div>
+					<div class="col  col-lg-3 col-md-4 col-sm-12 col-xs-12">
+								&nbsp;
+							</div>
+			</div>
+<!-- SPOTLIGHT -->
+			</div>
+		</div>
+		<!-- //FOOT NAVIGATION -->
+	
+	<section class="t3-copyright-wrap">
+		<div class="container">
+			<div class="t3-copyright">
+				<div class="row">
+					<div class="col-md-12 copyright ">
+						
+					</div>
+									</div>
+			</div>
+		</div>
+	</section>
+
+</footer>
+<!-- //FOOTER -->
+  </div>
+</div>
+
+</body>
+
+</html>

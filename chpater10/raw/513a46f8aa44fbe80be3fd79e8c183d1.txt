@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" dir="ltr">
+
+<head>
+ <!-- data-info:v:20190721_17159710;a:f641545b-5cc9-4ccf-9b1e-e871b6f4fb5d;cn:15;az:{did:31698b0d0d144cf79ad26d9e51691b83, rid: 15, sn: easia-prod-entertainment, dt: 2019-07-22T00:31:34.2457633Z, bt: 2019-07-22T00:14:08.6141625Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:gray;PageName:articlePage;m:en-gb;cb:;l:en-gb;mu:en-gb;ud:{cid:AAF0XFg,vk:news,n:ar,l:en-gb,ck:newsuk};xd:;ovc:f;al:;f:msnallexpusers,adflt-gal1sec,muidflt54cf,muidflt298cf,oneboxdhpcf,compliancehp1cf,moneyhz2cf,jslltelemetry;userOptOut:false;userOptOutOptions: -->
+ <meta name="application-name" content="Britain's youngest terrorist gets lifelong anonymity after lawyers argue he may become ISIS poster boy"/><meta name="cq" content="passed"/><meta name="robots" content="index, follow"/>
+ <link rel="canonical" href="https://www.telegraph.co.uk/news/2019/07/29/britains-youngest-terrorist-gets-lifelong-anonymity-lawyers/" />
+ 
+
+ <title>Britain&#39;s youngest terrorist gets lifelong anonymity after lawyers argue he may become ISIS poster boy</title>
+ <meta name="description" content="Britain&#39;s youngest terrorist gets lifelong anonymity after lawyers argue he may become ISIS poster boy"/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-entertainment-eas-s-msn-com.akamaized.net/en-gb/news/_sc/css/b443689a-/direction=ltr.locales=en-gb.themes=gray.dpi=resolution1x/42-b8ee35-71ecad1c/13-bfc664-b12c00e0/18-5f471f-ce9d7e1e/17-3f3702-68ddb2ab/2a-1f1669-16c6af35/9b-ba6b1f-f94d3276/ab-52fe22-a648eab2?ver=20190721_17159710&amp;fdhead=msnallexpusers,adflt-gal1sec,muidflt54cf,muidflt298cf,oneboxdhpcf,compliancehp1cf,moneyhz2cf,jslltelemetry&amp;csopd=20190529211842&amp;csopdb=20190722165254" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-entertainment-eas-s-msn-com.akamaized.net/en-gb/entertainment/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>.storyimage.smallfullwidth .image,.storyimage.smallfullwidth img{background:#000;margin:0 auto}#toast-container{display:none}iframe.instagram-media{position:relative !important}#maincontent #main .morefromprovider{display:none}#maincontent #main .morefromproviderrr{display:none}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}@media screen and (max-width:52.303em){#irisbanner .irisbanner header>a{max-width:33rem}}</style>
+</head>
+
+<body class="ap content center-content gray">
+ 
+
+
+ <div class="euBanner" aria-labelledby="cookiebannerheader" >
+ <script src="https://c.s-microsoft.com/mscc/statics/mscc-0.4.1.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://c.s-microsoft.com/mscc/statics/mscc-0.4.1.min.css">
+ <div id='msccBanner' dir='ltr' data-site-name='msn.com' data-mscc-version='0.4.1' data-nver='aspnet-3.1.1' data-sver='0.1.2' class='cc-banner' role='alert' aria-labelledby='msccMessage'><div class='cc-container'><svg class='cc-icon cc-v-center' x='0px' y='0px' viewBox='0 0 44 44' height='30px' fill='none' stroke='currentColor'><circle cx='22' cy='22' r='20' stroke-width='2'></circle><line x1='22' x2='22' y1='18' y2='33' stroke-width='3'></line><line x1='22' x2='22' y1='12' y2='15' stroke-width='3'></line></svg> <span id='msccMessage' class='cc-v-center cc-text' tabindex='0'>This site uses cookies for analytics, personalized content and ads. By continuing to browse this site, you agree to this use.</span> <a href='https://go.microsoft.com/fwlink/?linkid=845480' target='_top' aria-label='Learn more about Microsoft&#39;s Cookie Policy' id='msccLearnMore' class='cc-link cc-v-center cc-float-right' data-mscc-ic='false'>Learn more</a></div></div>
+</div>
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-gb">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-gb/news">News</a>
+</li>
+ <li >
+<a href="/en-gb/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-gb/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-gb/sport">Sport</a>
+</li>
+ <li >
+<a href="/en-gb/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-gb/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-gb/lifestyle/horoscopes">Horoscopes</a>
+</li>
+ <li >
+<a href="/en-gb/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-gb/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-gb/cars">Cars</a>
+</li>
+ <li >
+<a href="/en-gb/lifestyle/travel">Travel</a>
+</li>
+ <li >
+<a href="https://k.ilius.net/?mtcmk=832724&amp;fsid=103">Dating</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-gb" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-entertainment-eas-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-gb/news" tabindex="2">news</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-entertainment-eas-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRNWSR" />
+ <input type="hidden" name="mkt" value="en-gb" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="f641545b5cc94ccf9b1ee871b6f4fb5d">
+<input type="submit" class="text" value="web search" title="web search"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-gb">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+ 
+
+ <div class="articlecontent">
+<h1>Britain&#39;s youngest terrorist gets lifelong anonymity after lawyers argue he may become ISIS poster boy</h1>
+<div>
+<div>
+ <span class="partner">
+ <a  href="http://www.telegraph.co.uk/"  title="the telegraph logo"><img alt="The Telegraph logo" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBxWf6r.img?h=17&amp;w=0&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" title="The Telegraph logo" /> The Telegraph</a>
+ </span>
+ <span>
+ <span class="time">20 hrs ago</span>
+         <span class="authorname-txt" 
+              
+              
+              >
+                <span class="truncate" >Phoebe Southworth</span>
+        </span>
+
+                </span>
+            </div>
+        </div>
+
+ <div class="richtext"  data-aop="articlebody">
+ 
+ <span class="storyimage fullwidth inlineimage"  data-aop="image">
+<span class="image" data-attrib="Julian Elliott Photography/Getty Images Contributor" data-caption="The President of the Queen&#39;s Bench Division, Dame Victoria Sharp, handed down the judgement at the Royal Courts of Justice in London" >
+ <img alt="an old church: The President of the Queen&#39;s Bench Division, Dame Victoria Sharp, handed down the judgement at the Royal Courts of Justice in London" height="188" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAF12ZT.img?h=188&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f" width="300" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Julian Elliott Photography/Getty Images Contributor</span>
+ The President of the Queen's Bench Division, Dame Victoria Sharp, handed down the judgement at the Royal Courts of Justice in London
+</span>
+</span>
+<p>Britain's youngest terrorist who was jailed for life aged 14 for plotting to murder police officers has been granted lifelong anonymity, after his lawyers argued he could become an ISIS "poster boy" if he is identified.</p><p>The teenager from Blackburn, Lancashire, referred to only as RXG, admitted inciting terrorism overseas in 2015 after he exchanged more than 3,000 encrypted messages with Australian jihadist Sevdet Besim.</p><p>Writing from his bedroom, RXG convinced Besim, then aged 18, to run over and behead police officers guarding Anzac Day parade in Melbourne. Held on April 25 each year, it commemorates Australian and New Zealand personnel killed in conflicts.</p><p>The plot was foiled after British officers discovered the incriminating messages on RXG's phone and alerted police in Australia.</p><p>RXG, who has autism, was given automatic anonymity like the majority of child offenders until his current age of 18, when reporting restrictions are usually lifted and identities revealed.</p><p><strong>Related: </strong><strong><a href="Cubs of the Caliphate: Syria's children of Islamic State">Cubs of the Caliphate: The children raised by Islamic State</a></strong></p>
+ <span class="storyimage fullwidth inlineimage"  data-aop="image">
+<span class="image" data-attrib="Sky NEws" data-caption="Cubs of the Caliphate: The children raised by Islamic State" >
+ <img alt="Cubs of the Caliphate: The children raised by Islamic State" height="228" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAF1cnu.img?h=228&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f" width="300" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Sky NEws</span>
+ Cubs of the Caliphate: The children raised by Islamic State
+</span>
+</span>
+<p>But the teenager, who could be released from prison as early as next year, has now won a year-long High Court battle for lifelong anonymity - a legal challenge never before seen in a terrorism case in the UK.</p><p>The President of the Queen's Bench Division, Dame Victoria Sharp, handed down the judgement during a brief hearing at the Royal Courts of Justice in London today.</p><p>His lawyers had argued that making his identity public would put him and his family at serious risk of reprisals, make him vulnerable to indoctrination by extremists, and jeopardise his rehabilitation.</p><p>They said media coverage would result in him becoming "instantly and globally infamous as the youngest person to be convicted of a terrorist conviction" and his name would be "embedded in the public domain on the internet".</p><p>It could also lead to him being glorified and used by ISIS to indoctrinate and recruit "impressionable teenagers", they argued.</p>
+ <span class="storyimage fullwidth inlineimage"  data-aop="image">
+<span class="image" data-attrib="Reuters" data-caption="" >
+ <img alt="" height="200" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAF1eiW.img?h=200&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=1484&amp;y=201" width="300" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Reuters</span>
+ 
+</span>
+</span>
+<p>A summary of their representations in the judgement states: "If he now loses his anonymity, he will be of interest to extremists who may target him to seek to indoctrinate him. </p><p>"ISIS said it wanted him to be its 'poster boy' and RXG is of particular interest for propaganda purposes because of the notorious nature of his offence and the fact he was the youngest convicted terrorist in the UK."</p><p>RXG joins just six other offenders who have been awarded lifelong anonymity orders by the UK courts. These include James Bulger's killers Jon Venables and Robert Thompson, double child killer Mary Bell, and Maxine Carr, who was charged in relation to the Soham murders.</p><p>He was diagnosed as having "high functioning autism" in October 2017 following his conviction. </p><p><strong>Related: 10 countries where IS is still a major threat (Reuters)</strong></p><p>
+ <div class="storyimage fullwidth ">
+<span class="image"  data-aop="inlinegallery">
+<a class="inline-slide" href="/en-gb/news/uknews/10-countries-where-islamic-state-is-still-a-major-threat/ss-BBWhPRv?parent-title=britains-youngest-terrorist-gets-lifelong-anonymity-after-lawyers-argue-he-may-become-isis-poster-boy&amp;parent-ns=ar&amp;parent-content-id=AAF0XFg"  >
+ <img alt="a man standing on top of a snow covered bridge: Driven from its self-styled caliphate in Iraq and Syria, Islamic State is down but not out. Where once they confronted armies, the extremist Islamist group&#39;s adherents have now staged hit-and-run raids and suicide attacks. In some cases, the group has claimed responsibility for atrocities, including the bombings of churches and hotels in Sri Lanka that killed at least 359 people. Its involvement is not always proven, but even if the link is ideological rather than operational, Islamic State still poses a security threat in many countries. The following are 10 nations where Islamic State is still a risk. Pictured: A member of the Syrian Democratic Forces calls his comrades during the fighting with Islamic State fighters in Raqqa, Syria, August 14, 2017. REUTERS/Zohra Bensemra" height="200" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBWhPQh.img?h=200&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=2430&amp;y=1218" width="300" />
+</a>
+</span>
+ </div>
+<strong></strong></p><p>A forensic psychologist said in an assessment eight months later that "hostile reporting" or being identified as "a terrorist" would cause him distress and "evoke feelings of shame and humiliation".</p><p>In the report, Dr Louise Bowers wrote: "RXG appears to have left his 'terrorist identity' behind and is well on the way to developing a new stable and pro-social identity."</p><p>Judges decided whether or not to grant lifelong anonymity to RXG by weighing up his right to privacy under human rights law against the public's right to know about his crimes.   In the judgement it states that RXG's case is "exceptional" and that there is "compelling evidence" that identifying him would likely "cause him serious harm".</p><p>It continues: "In this case, there is a consensus in the expert evidence that the identification of RXG as a person convicted of terrorist offences would fundamentally undermine his rehabilitation.</p><p><strong>Related: The rise and fall of IS (Reuters)</strong></p>
+ <div class="storyimage fullwidth ">
+<span class="image"  data-aop="inlinegallery">
+<a class="inline-slide" href="/en-gb/news/uknews/rise-and-fall-of-the-islamic-state-caliphate/ss-BBVg3q4?parent-title=britains-youngest-terrorist-gets-lifelong-anonymity-after-lawyers-argue-he-may-become-isis-poster-boy&amp;parent-ns=ar&amp;parent-content-id=AAF0XFg"  >
+ <img alt="Militant Islamist fighters take part in a military parade along the streets of northern Raqqa province, June 2014. REUTERS/Stringer" height="172" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBVgcFv.img?h=172&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=1285&amp;y=483" width="300" />
+</a>
+</span>
+ </div>
+<p>"The position is exacerbated by his autism which manifests itself in his obsessive behaviour. "This, combined with his need for recognition and status, makes him very vulnerable to exploitation and potential re-radicalisation.  "RXG... now has a better understanding of his autism and how to manage it more effectively. However, this is in the context of the protection he currently enjoys."</p><p>RXG pleaded guilty to two offences of inciting terrorism overseas at Manchester Crown Court in July 2015.</p><p>In October 2015 he was handed a life sentence and ordered to serve a minimum of five years. He will be eligible for release in 2020.</p><p>RXG was recruited by ISIS after he became isolated in his education and home life, the sentencing judge Mr Justice Saunders said at the time.</p><p>He added: "There was a vacuum in his life which he filled with religious extremism.</p><p>"He communicated with extremist propagandists who either worked for ISIS or supported their aims over the internet. They were experienced recruiters who were keen to enlist young impressionable Muslims to the cause."</p>
+</div>
+ </div>
+
+ 
+
+<div class="back-msn-home"  data-aop="back-to-home">
+<a href="/en-gb"  role="button"><span>Go to MSN Home</span></a>
+</div>
+
+ 
+ 
+
+</div>
+<div id="aside"  data-region="aside">
+ 
+  <section class="morefromproviderrr"  data-aop="morefromprovidervnext_morefromprovidervnext" >
+ 
+<h3> <h2>
+ <span>More from The Telegraph</span>
+ </h2>
+</h3>
+ 
+<ul>
+ <li   >
+<a href="https://www.telegraph.co.uk/news/2019/07/30/foyles-war-voted-tvs-most-missed-show-21st-century-top-ten-revealed/"  target="_blank">
+ <img alt="Honeysuckle Weeks and Michael Kitchen in Foyle&#39;s War" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAF3yEb.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=599&amp;y=182" title="Honeysuckle Weeks and Michael Kitchen in Foyle&#39;s War - ITV/Eleventh Hour Films" width="88" />
+<div class="headline-container">
+  <span class="truncate">Foyle&#39;s War tops poll of most missed TV shows of the 21st century</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="The Telegraph Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBxWcHH.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ The Telegraph
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="https://www.telegraph.co.uk/football/2019/07/29/fa-introduce-sin-bins-acrossgrass-roots-game-successful-trial/"  target="_blank">
+ <img alt="Referee Holding a Red Card" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAF3bdp.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Referee Holding a Red Card" width="88" />
+<div class="headline-container">
+  <span class="truncate">FA to introduce &#39;sin bins&#39; across grass-roots game</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="The Telegraph Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBxWcHH.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ The Telegraph
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="https://www.telegraph.co.uk/tv/2019/07/29/love-island-final-major-upset-amber-greg-crowned-winners-black/"  target="_blank">
+ <img alt="Greg O&#39;Shea and Amber Gill" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAF2YAC.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=2015&amp;y=1340" title="Love Island - Shutterstock" width="88" />
+<div class="headline-container">
+  <span class="truncate">Major upset as Amber and Greg crowned Love Island winners</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="The Telegraph Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBxWcHH.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ The Telegraph
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ </ul>
+         <div class="promotionalcontent">
+            <span class="promoimage">
+                <a target="_blank" href="http://www.telegraph.co.uk/"  data-aop="provider_logo_secondary" >
+                   <img alt="The Telegraph" height="100" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBxWf6r.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;u=t&amp;o=f&amp;l=f" width="100" />
+                </a>
+            </span>
+            <span class="promotext">
+                <div class="providername">
+                    The Telegraph
+                </div>
+                <div class="readmore">
+                    <a target="_blank" href="http://www.telegraph.co.uk"  data-aop="provider_promotext" >
+                       View the Full Site
+                    </a>
+                </div>
+            </span>
+        </div>
+
+ 
+</section>
+
+
+
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-gb">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-gb/news">News</a>
+</li>
+ <li >
+<a href="/en-gb/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-gb/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-gb/sport">Sport</a>
+</li>
+ <li >
+<a href="/en-gb/money">Money</a>
+</li>
+ <li >
+<a href="/en-gb/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-gb/lifestyle/horoscopes">Horoscopes</a>
+</li>
+ <li >
+<a href="/en-gb/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-gb/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-gb/cars">Cars</a>
+</li>
+ <li >
+<a href="/en-gb/lifestyle/travel">Travel</a>
+</li>
+ <li >
+<a href="https://k.ilius.net/?mtcmk=832724&amp;fsid=103">Dating</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-gb/">&#169; 2019 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy &amp; Cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Terms of use</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-gb/msn-worldwide">MSN Worldwide</a>
+</div>
+</div>
+  <div>
+ <img src="https://web.vortex.data.msn.com/collect/v1/t.gif?name=&#39;Ms.Webi.PageView&#39;&amp;ver=&#39;2.1&#39;&amp;appId=&#39;JS:MSN&#39;&amp;ext-app-env=&#39;prod&#39;&amp;ext-javascript-libver=&#39;4.0.0-beta-10&#39;&amp;ext-user-localId=&#39;t:3491FC25184265762CB5F18C198964AC&#39;&amp;*baseType=&#39;Ms.Content.PageView&#39;&amp;*isJs=False&amp;*title=&#39;&#39;&amp;*isLoggedIn=False&amp;*isManual=True&amp;*serverImpressionGuid=&#39;f641545b-5cc9-4ccf-9b1e-e871b6f4fb5d&#39;&amp;-ver=&#39;1.0&#39;&amp;-impressionGuid=&#39;f641545b-5cc9-4ccf-9b1e-e871b6f4fb5d&#39;&amp;-pageName=&#39;articlevnext&#39;&amp;-uri=&#39;https%253A%252F%252Fwww.msn.com%252Fen-gb%252Fnews%252Fuknews%252Fbritains-youngest-terrorist-gets-lifelong-anonymity-after-lawyers-argue-he-may-become-isis-poster-boy%252Far-AAF0XFg&#39;&amp;-referrerUri=&#39;&#39;&amp;-pageTags=&#39;{&quot;pg.t&quot;:&quot;article&quot;%2C&quot;pg.p&quot;:&quot;prime&quot;%2C&quot;pg.c&quot;:&quot;&quot;%2C&quot;ex&quot;:&quot;&quot;%2C&quot;rid&quot;:&quot;f641545b-5cc9-4ccf-9b1e-e871b6f4fb5d&quot;%2C&quot;di&quot;:&quot;1381&quot;%2C&quot;partner&quot;:&quot;The%2BTelegraph&quot;%2C&quot;publcat&quot;:&quot;Telegraph%2BMedia%2BGroup%2BLimited&quot;%2C&quot;cvs&quot;:&quot;Browser&quot;%2C&quot;subcvs&quot;:&quot;news&quot;%2C&quot;entityId&quot;:&quot;AAF0XFg&quot;%2C&quot;entitySrc&quot;:&quot;ar&quot;%2C&quot;provid&quot;:&quot;AA2eaY&quot;%2C&quot;dpt&quot;:&quot;newsuk&quot;%2C&quot;sdpt&quot;:&quot;&quot;%2C&quot;ar&quot;:&quot;0&quot;%2C&quot;dgk&quot;:&quot;downlevel.pc&quot;%2C&quot;imd&quot;:&quot;0&quot;%2C&quot;parentId&quot;:&quot;&quot;%2C&quot;pgIdx&quot;:&quot;&quot;%2C&quot;pgTot&quot;:&quot;&quot;%2C&quot;anoncknm&quot;:&quot;&quot;%2C&quot;issso&quot;:&quot;0&quot;%2C&quot;aadState&quot;:&quot;0&quot;}&#39;&amp;-behavior=0&amp;-market=&#39;en-gb&#39;" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+ 
+ 
+</body>
+ <!--MSNAvailToken--></html>

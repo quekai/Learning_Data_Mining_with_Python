@@ -1,0 +1,1748 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.theepochtimes.com/assets/themes/eet/images/etfavicon.ico" sizes="16x16" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="fb:pages" content="1615635982023706" />
+	<meta name="date" content="2019-07-28 6:28:34 AM" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html">
+<title>Amnesty International Condemns Police Aggression in Hong Kong Protests</title>
+<meta name="robots" content="noodp,noydir"/>
+<meta name="description" content="Violence again erupted in Hong Kong’s Yuen Long on the evening of July 27 after hundreds of thousands of protesters gathered for a peaceful march in the afternoon to oppose an attack a week earlier by suspected triad members at the local metro station."/>
+<meta name="keywords" content="carrie lam,extradition bill,Hong Kong,Yuen Long,THE EPOCH TIMES"/>
+<link rel="canonical" href="https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Amnesty International Condemns Police Aggression in Hong Kong Protests" />
+<meta property="og:description" content="Violence again erupted in Hong Kong’s Yuen Long on the evening of July 27 after hundreds of thousands of protesters gathered for a peaceful march in the afternoon to oppose an attack a week earlier by suspected triad members at the local metro station." />
+<meta property="og:url" content="https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" />
+<meta property="og:site_name" content="www.theepochtimes.com" />
+<meta property="article:tag" content="Hong Kong,extradition bill,carrie lam,Yuen Long" />
+<meta property="article:section" content="Asia &amp; Pacific" />
+<meta property="article:published_time" content="2019-07-28T06:28:34-04:00" />
+<meta property="article:modified_time" content="2019-07-29T10:12:28-04:00" />
+<meta property="og:updated_time" content="2019-07-29T10:12:28-04:00" />
+<meta property="fb:admins" content="10205921529470972" />
+<meta property="og:image" content="https://www.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-005.jpg" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="Violence again erupted in Hong Kong’s Yuen Long on the evening of July 27 after hundreds of thousands of protesters gathered for a peaceful march in the afternoon to oppose an attack a week earlier by suspected triad members at the local metro station."/>
+<meta name="twitter:title" content="Amnesty International Condemns Police Aggression in Hong Kong Protests"/>
+<meta name="twitter:site" content="@EpochTimes"/>
+<meta name="twitter:domain" content="www.theepochtimes.com"/>
+<meta name="twitter:image:src" content="https://www.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-005.jpg"/>
+<meta name="twitter:creator" content="@EpochTimes"/>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='eet-style-css'  href='https://www.theepochtimes.com/assets/themes/eet/style.css?ver=20170224' type='text/css' media='all' />
+<link rel='stylesheet' id='eet-global-css'  href='https://www.theepochtimes.com/assets/themes/eet/css/global.css?ver=20180612' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://www.theepochtimes.com/assets/themes/eet/css/genericons/genericons.css?ver=20171027' type='text/css' media='all' />
+<link rel='stylesheet' id='eet-article-page-css'  href='https://www.theepochtimes.com/assets/themes/eet/css/single.css?ver=20190223' type='text/css' media='all' />
+<link rel='stylesheet' id='eet-print-css'  href='https://www.theepochtimes.com/assets/themes/eet/css/print.css?ver=20160303' type='text/css' media='print' />
+
+	<script>
+		var eet_primary_category, eet_cat_ids, eet_term_ids, eet_all_term_ids, eet_cat_names, eet_no_ads, eet_ads_term_ids;
+		var eet_post_id, eet_author_nicename, eet_author_name, eet_primary_category_name, eet_tags, eet_tags_slugs, eet_publish_date, eet_last_updated_date, eet_word_count;
+		var eet_segment_url = 'https://www.theepochtimes.com/assets/uploads/segment';
+		var featured_img_thumbnail;
+		var eet_is_premium_article;
+	featured_img_thumbnail = 'https://img.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-005-100x60.jpg';
+eet_primary_category = '64132';
+eet_cat_ids = 'asia-pacific-17;china-6;regime-7;hongkong-current-affairs-64132;hong-kong-98924;world-89904';
+eet_term_ids = 'canada-lead-story-110519;canada-top-news-100342;category-headlines-98889;human-rights-119829;coverage-stories-98888;top-stories-98893';
+eet_all_term_ids = 'asia-pacific-17;china-6;regime-7;hongkong-current-affairs-64132;hong-kong-98924;world-89904;canada-lead-story-110519;canada-top-news-100342;category-headlines-98889;human-rights-119829;coverage-stories-98888;top-stories-98893';
+eet_cat_names = 'Asia &amp; Pacific;China;Chinese Regime;HK Current Affairs;Hong Kong;World';
+eet_ads_term_ids = 'eet_asia-pacific-17,eet_china-6,eet_regime-7,eet_hongkong-current-affairs-64132,eet_hong-kong-98924,eet_world-89904,eet_canada-lead-story-110519,eet_canada-top-news-100342,eet_category-headlines-98889,eet_human-rights-119829,eet_coverage-stories-98888,eet_top-stories-98893';
+eet_post_id = '3019771';
+eet_author_nicename = 'frank-fang';
+eet_author_name = 'Frank Fang';
+eet_primary_category_name = 'HK Current Affairs';
+eet_tags = 'Hong Kong;extradition bill;carrie lam;Yuen Long';
+eet_tags_slugs = 'hong-kong;extradition-bill;carrie-lam;yuen-long';
+eet_publish_date = '20190728';
+eet_last_updated_date = '20190729';
+eet_word_count = '849';
+eet_page_type = 'post';
+eet_is_premium_article = 'false';
+	</script>
+	<link rel="amphtml" href="https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html/amp" /><script id="apstag-js" type="text/javascript" async src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script id="prebid-js" type="text/javascript" async src="/assets/themes/eet/js/prebid.js"></script><!--[if lt IE 9]>
+     <script type="text/javascript" src="/assets/themes/eet/js/html5.js"></script>
+     <link href="/assets/themes/eet/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class="post-template-default single single-post postid-3019771 single-format-standard">
+	<script>
+    	// We want persisten UUID
+    	function epochuser () {
+			this.getUUID = function getUUID () {
+				if (localStorage && "_epochUUID" in localStorage) {
+					euid = localStorage._epochUUID;
+				} else {
+					euid = this.euid();
+					localStorage.setItem("_epochUUID",this.euid());
+				}
+				return euid;
+			}
+			this.euid = function () {
+				return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+					var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+					return v.toString(16);
+				});
+			}
+		}
+		var epoch = {}
+		var user = new epochuser();
+	</script>
+
+	<!-- Optimize Page Hiding Snippet -->
+	<style>.async-hide { opacity: 0 !important} </style>
+	<script>
+		var settings_obj = {};
+		
+		(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+		h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+		(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+		})(window,document.documentElement,'async-hide','dataLayer',500,settings_obj);
+
+		var eet_ga_id = 'UA-10465455-30';
+		var eet_domain = 'theepochtimes.com';
+
+	  	<!-- Analytics-Optimize Snippet -->
+	  	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  	ga('create', eet_ga_id, 'auto', {'allowLinker': true});
+	  	ga('require', 'linker');
+	  	ga('linker:autoLink', ['subscribe.epochtimes.com']);
+	 </script>
+
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5Z8H4H"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+	j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5Z8H4H');
+	</script>
+
+
+	<header id="header" class="single">
+    <div class="container">
+        <div class="top_wrapper">
+            <div class="left_col">
+                <a class="toggle" href="javascript:void(0);"></a>
+                <a class="about_us" href="https://www.theepochtimes.com/about-us">ABOUT US</a>
+            </div>
+            <div class="logo"><a href="https://www.theepochtimes.com/"><img src="/assets/themes/eet/images/logo_eet.svg"></a></div>
+            <div class="right_col">
+                <span id="login_wrapper">
+                    <div class="anonymous">
+                        <span class="my_subscription"><a target="_blank" href="https://service.theepochtimes.com">MY SUBSCRIPTION</a></span>
+                        <span class="subscribe"><a href="https://subscribe.theepochtimes.com/?utm_source=theepochtimes.com&utm_medium=static_link&utm_campaign=page_link&utm_content=front_header_menu_subscribe_link&utm_term=/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html">SUBSCRIBE</a></span>
+                        <span class="login"><a id="login-button" href="javascript:void(0)">Login</a></span>
+                    </div>
+                </span>
+                <span id="user_wrapper" class="hidden">
+                    <div class="user_name">MY ACCOUNT</div>
+                    <ul>
+                        <li><a href="https://www.theepochtimes.com/myaccount" id="myaccount" class="account">SETTINGS</a></li>
+                        <li><a href="#" id="logout-button" class="logout">LOGOUT</a></li>
+                    </ul>
+                </span>
+                <a class="search" href="javascript:void(0);"></a>
+            </div>
+        </div>
+        <div id="hidden_menu" class="hidden">
+            <div class="close_icon"><a href="javascript:void(0);">CLOSE</a></div>
+            <div class="icon_wrapper">
+                <a class="subscribe" href="https://subscribe.theepochtimes.com/?utm_source=theepochtimes.com&utm_medium=static_link&utm_campaign=page_link&utm_content=header_menu_subscribe_link&utm_term=/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html"><span>subscribe</span></a>
+                <a class="newsletter" href="https://www.theepochtimes.com/newsletter"><span>newsletter</span></a>
+                <a class="newsstands" href="https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper"><span>Newsstands</span></a>
+            </div>
+            <div class="full_menu_items">
+                <span class="first_col">
+                    <div class="menu-feature-menu-container"><ul id="menu-feature-menu" class="nav-menu"><li id="menu-item-2635427" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-editors-picks menu-item-2635427"><a href="https://www.theepochtimes.com/editors-picks">Editor&#8217;s Picks</a></li>
+<li id="menu-item-2635433" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-special-series menu-item-2635433"><a href="https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world">SPECIAL SERIES</a></li>
+<li id="menu-item-2635480" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-special-coverage menu-item-2635480"><a href="https://www.theepochtimes.com/c-shen-yun">Special Coverage</a></li>
+</ul></div>                    <div class="menu-front-main-column1-container"><ul id="menu-front-main-column1" class="nav-menu"><li id="menu-item-2298344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-us menu-item-2298344"><a href="https://www.theepochtimes.com/c-us">US</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-news menu-item-2298345"><a href="https://www.theepochtimes.com/c-us-news">US News</a></li>
+	<li id="menu-item-2298346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-features menu-item-2298346"><a href="https://www.theepochtimes.com/c-us-features">US Features</a></li>
+	<li id="menu-item-2298348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298348"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+	<li id="menu-item-2880426" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-trump-presidency menu-item-2880426"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></li>
+	<li id="menu-item-2638693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-crime-and-incidents menu-item-2638693"><a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a></li>
+	<li id="menu-item-2638696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-new-york menu-item-2638696"><a href="https://www.theepochtimes.com/c-nyc">New York</a></li>
+	<li id="menu-item-2654668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-san-francisco menu-item-2654668"><a href="https://www.theepochtimes.com/c-nor-cal-san-francisco">San Francisco</a></li>
+	<li id="menu-item-2654669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-los-angeles menu-item-2654669"><a href="https://www.theepochtimes.com/c-so-cal-los-angeles">Los Angeles</a></li>
+</ul>
+</li>
+<li id="menu-item-2638699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-opinion menu-item-2638699"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-thinking-about-china menu-item-2638700"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></li>
+	<li id="menu-item-2638701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-viewpoints menu-item-2638701"><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></li>
+	<li id="menu-item-2833178" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-declassified menu-item-2833178"><a href="https://www.theepochtimes.com/c-declassified">Declassified</a></li>
+	<li id="menu-item-2833181" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-american-thought-leaders menu-item-2833181"><a href="https://www.theepochtimes.com/c-american-thought-leaders">American Thought Leaders</a></li>
+</ul>
+</li>
+</ul></div>                </span>
+                <span class="second_col"><div class="menu-front-main-column2-container"><ul id="menu-front-main-column2" class="nav-menu"><li id="menu-item-2638657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-china menu-item-2638657"><a href="https://www.theepochtimes.com/c-china">China</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-us-news menu-item-2638661"><a href="https://www.theepochtimes.com/c-china-us-news">China-US News</a></li>
+	<li id="menu-item-2638685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-regime menu-item-2638685"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></li>
+	<li id="menu-item-2638658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business-economy menu-item-2638658"><a href="https://www.theepochtimes.com/c-business-economy">Business &#038; Economy</a></li>
+	<li id="menu-item-2638663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-culture menu-item-2638663"><a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a></li>
+	<li id="menu-item-2638659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-human-rights menu-item-2638659"><a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a></li>
+	<li id="menu-item-2638660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-society menu-item-2638660"><a href="https://www.theepochtimes.com/c-society">China Society</a></li>
+	<li id="menu-item-2638667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-organ-harvesting-in-china menu-item-2638667"><a href="https://www.theepochtimes.com/c-organ-harvesting-in-china">Organ Harvesting in China</a></li>
+</ul>
+</li>
+<li id="menu-item-2638669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-world menu-item-2638669"><a href="https://www.theepochtimes.com/c-world">World</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-africa menu-item-2638670"><a href="https://www.theepochtimes.com/c-africa">Africa</a></li>
+	<li id="menu-item-2638671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-americas menu-item-2638671"><a href="https://www.theepochtimes.com/c-americas">Americas</a></li>
+	<li id="menu-item-2638672" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-asia-pacific menu-item-2638672"><a href="https://www.theepochtimes.com/c-asia-pacific">Asia &#038; Pacific</a></li>
+	<li id="menu-item-2638673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-canada menu-item-2638673"><a href="https://www.theepochtimes.com/c-canada">Canada</a></li>
+	<li id="menu-item-2638674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-europe menu-item-2638674"><a href="https://www.theepochtimes.com/c-europe">Europe</a></li>
+	<li id="menu-item-2654636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-uk menu-item-2654636"><a href="https://www.theepochtimes.com/c-uk">UK</a></li>
+	<li id="menu-item-2654635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-australia menu-item-2654635"><a href="https://www.theepochtimes.com/c-australia">Australia</a></li>
+	<li id="menu-item-2638677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-international menu-item-2638677"><a href="https://www.theepochtimes.com/c-international">International</a></li>
+	<li id="menu-item-2638679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-middle-east menu-item-2638679"><a href="https://www.theepochtimes.com/c-middle-east">Middle East</a></li>
+</ul>
+</li>
+<li id="menu-item-2298376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-business menu-item-2298376"><a href="https://www.theepochtimes.com/c-business">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-companies menu-item-2298377"><a href="https://www.theepochtimes.com/c-companies">Companies</a></li>
+	<li id="menu-item-2298378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-economies menu-item-2298378"><a href="https://www.theepochtimes.com/c-economies">Economies</a></li>
+	<li id="menu-item-2298379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-markets menu-item-2298379"><a href="https://www.theepochtimes.com/c-markets">Markets</a></li>
+	<li id="menu-item-2298380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-real-estate menu-item-2298380"><a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a></li>
+</ul>
+</li>
+</ul></div></span>
+                <span class="third_col"><div class="menu-front-main-column3-container"><ul id="menu-front-main-column3" class="nav-menu"><li id="menu-item-2298402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-arts menu-item-2298402"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298404" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-shen-yun-special-coverage menu-item-2298404"><a href="https://www.theepochtimes.com/c-shen-yun">Shen Yun Special Coverage</a></li>
+	<li id="menu-item-2298406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-performing-arts menu-item-2298406"><a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a></li>
+	<li id="menu-item-2298407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fine-arts menu-item-2298407"><a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts</a></li>
+	<li id="menu-item-2298408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-literature menu-item-2298408"><a href="https://www.theepochtimes.com/c-literature">Literature</a></li>
+</ul>
+</li>
+<li id="menu-item-2638641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-science menu-item-2638641"><a href="https://www.theepochtimes.com/c-science">Science</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638642"><a href="https://www.theepochtimes.com/c-science-news">News</a></li>
+	<li id="menu-item-2638645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-space menu-item-2638645"><a href="https://www.theepochtimes.com/c-space">Space</a></li>
+	<li id="menu-item-2638646" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-environment menu-item-2638646"><a href="https://www.theepochtimes.com/c-environment">Environment</a></li>
+</ul>
+</li>
+<li id="menu-item-2638648" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-title-tech menu-item-2638648"><a href="https://www.theepochtimes.com/c-tech">Tech</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638649" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-tech-news menu-item-2638649"><a href="https://www.theepochtimes.com/c-tech-news">Tech News</a></li>
+	<li id="menu-item-2638650" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-products-reviews menu-item-2638650"><a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &#038; Reviews</a></li>
+	<li id="menu-item-2638651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-social-media menu-item-2638651"><a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a></li>
+</ul>
+</li>
+<li id="menu-item-2638653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2638653"><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
+<li id="menu-item-2664345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2664345"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
+<li id="menu-item-2909260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-video menu-item-2909260"><a href="https://www.theepochtimes.com/c-video">Video</a>
+<ul class="sub-menu">
+	<li id="menu-item-2909265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-humanity menu-item-2909265"><a href="https://www.theepochtimes.com/c-humanity">Humanity</a></li>
+	<li id="menu-item-2909263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-amazing menu-item-2909263"><a href="https://www.theepochtimes.com/c-amazing">Amazing</a></li>
+	<li id="menu-item-2909262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-animal-videos menu-item-2909262"><a href="https://www.theepochtimes.com/c-animals-video">Animal videos</a></li>
+	<li id="menu-item-2909264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-funny menu-item-2909264"><a href="https://www.theepochtimes.com/c-funny">Funny</a></li>
+</ul>
+</li>
+</ul></div></span>
+                <span class="fourth_col"><div class="menu-front-main-column4-container"><ul id="menu-front-main-column4" class="nav-menu"><li id="menu-item-2298413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-life menu-item-2298413"><a href="https://www.theepochtimes.com/c-life">Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-slice-of-life menu-item-2298414"><a href="https://www.theepochtimes.com/c-slice-of-life">Slice of Life</a></li>
+	<li id="menu-item-2638610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-good-to-know menu-item-2638610"><a href="https://www.theepochtimes.com/c-good-to-know">Good to Know</a></li>
+	<li id="menu-item-2298416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-inspired menu-item-2298416"><a href="https://www.theepochtimes.com/c-inspired">Inspired</a></li>
+	<li id="menu-item-2298418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-careers menu-item-2298418"><a href="https://www.theepochtimes.com/c-careers">Careers</a></li>
+	<li id="menu-item-2298419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-family menu-item-2298419"><a href="https://www.theepochtimes.com/c-family-life-2">Family</a></li>
+	<li id="menu-item-2298421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-travel menu-item-2298421"><a href="https://www.theepochtimes.com/c-travel">Travel</a></li>
+	<li id="menu-item-2833173" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-better-life menu-item-2833173"><a href="https://www.theepochtimes.com/c-better-life">Better Life</a></li>
+	<li id="menu-item-2886462" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-autos menu-item-2886462"><a href="https://www.theepochtimes.com/c-autos">Autos</a></li>
+</ul>
+</li>
+<li id="menu-item-2638612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-entertainment menu-item-2638612"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-reviews menu-item-2638613"><a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a></li>
+	<li id="menu-item-2638614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-tv menu-item-2638614"><a href="https://www.theepochtimes.com/c-film-tv">Film &#038; TV</a></li>
+	<li id="menu-item-2638615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment-news menu-item-2638615"><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></li>
+</ul>
+</li>
+<li id="menu-item-2638618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-wellness menu-item-2638618"><a href="https://www.theepochtimes.com/c-health">Wellness</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638619"><a href="https://www.theepochtimes.com/c-health-news">News</a></li>
+	<li id="menu-item-2638622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fitness-nutrition menu-item-2638622"><a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &#038; Nutrition</a></li>
+	<li id="menu-item-2638623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-traditional-chinese-medicine menu-item-2638623"><a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Traditional Chinese Medicine</a></li>
+	<li id="menu-item-2638624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-alternative-health menu-item-2638624"><a href="https://www.theepochtimes.com/c-alternative-health">Alternative Health</a></li>
+	<li id="menu-item-2638626" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-treatments-and-techniques menu-item-2638626"><a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a></li>
+</ul>
+</li>
+</ul></div></span>
+            </div>
+        </div>
+        <div id="search_pannel" class="hidden">
+            <form action="https://www.theepochtimes.com/search/" class="search_form" method="get">
+                <input type="text" name="q">
+                <a class="search_icon" href="javascript:void(0);"></a>
+            </form>
+        </div>
+    </div>
+    <div class="center_container">
+        <div class="main_nav clear">
+            <div class="menu-front-page-primary-container"><ul id="menu-front-page-primary" class="nav-menu"><li id="menu-item-2298321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us menu-item-2298321"><a href="https://www.theepochtimes.com/c-us">US</a></li>
+<li id="menu-item-2298322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298322"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+<li id="menu-item-2298323" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-china menu-item-2298323"><a href="https://www.theepochtimes.com/c-china">China</a></li>
+<li id="menu-item-2298324" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-world menu-item-2298324"><a href="https://www.theepochtimes.com/c-world">World</a></li>
+<li id="menu-item-2298325" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-opinion menu-item-2298325"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a></li>
+<li id="menu-item-2298326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business menu-item-2298326"><a href="https://www.theepochtimes.com/c-business">Business</a></li>
+<li id="menu-item-2568658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech menu-item-2568658"><a href="https://www.theepochtimes.com/c-tech">Tech</a></li>
+<li id="menu-item-2568659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-science menu-item-2568659"><a href="https://www.theepochtimes.com/c-science">Science</a></li>
+<li id="menu-item-2298328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-wellness menu-item-2298328"><a href="https://www.theepochtimes.com/c-health">Wellness</a></li>
+<li id="menu-item-2458283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2458283"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
+<li id="menu-item-2298331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-arts menu-item-2298331"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a></li>
+<li id="menu-item-2298332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment menu-item-2298332"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a></li>
+<li id="menu-item-2909246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-video menu-item-2909246"><a href="https://www.theepochtimes.com/c-video">Video</a></li>
+<li id="menu-item-2636307" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-more menu-item-2636307"><a>More</a></li>
+</ul></div>        </div>
+    </div>
+</header>
+<div class="top_ad"></div>
+<main id="main" role="main">
+	<div class="main_content">
+		<div class="one_post active">
+		  <div class="left_col">
+			<div class="active upper_row">
+				<div class="featured_image">
+					<div class="featured_img"><a href="https://img.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-005.jpg"><img src="https://img.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-005-700x420.jpg" alt="A policeman fires tear gas to disperse protesters during a demonstration in the district of Yuen Long in Hong Kong on July 27, 2019. (Anthony Wallace/AFP/Getty Images)"></a></div><div class="featured_caption">A policeman fires tear gas to disperse protesters during a demonstration in the district of Yuen Long in Hong Kong on July 27, 2019. (Anthony Wallace/AFP/Getty Images)</div>				</div>
+                                <div class="pricat_name">
+                    <a href="https://www.theepochtimes.com/c-hongkong-current-affairs">
+                    HK Current Affairs                    </a>
+                </div>
+                				<div class="post_title"><h1><span class="">Amnesty International Condemns Police Aggression in Hong Kong Protests</span></h1></div>
+				<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-frank-fang">Frank Fang</a></span><span class="organization">, Epoch Times</span></div>				<div class="date_font">
+					<span class="publish">July 28, 2019</span>
+					<span class="update">Updated: July 29, 2019</span>
+					<span class="right_float social">
+						<div class="text">Share</div>
+						<div class="icons">
+							<span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank"></a></span><span class="flipboard"><a data-flip-widget="shareflip" href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;title=Amnesty International Condemns Police Aggression in Hong Kong Protests&amp;url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank"></a></span><span class="twitter"><a href="https://twitter.com/intent/tweet?text=Amnesty International Condemns Police Aggression in Hong Kong Protests&amp;url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html&amp;via=epochtimes" target="_blank"></a></span><span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank"></a></span><span class="email"><a href="mailto:?subject=Amnesty International Condemns Police Aggression in Hong Kong Protests&amp;body=Amnesty International Condemns Police Aggression in Hong Kong Protests https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank"></a></span>						</div>
+						<div class="extra">
+							<span class="more"><a href="javascript:void(0);">&nbsp;</a><ul><li><a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank">LINKEDIN</a></li><li><a class="pinterest" href="https://pinterest.com/pin/create/button/?url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html&amp;description=Amnesty International Condemns Police Aggression in Hong Kong Protests" target="_blank">PINTEREST</a></li><li><a class="reddit" href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank">REDDIT</a></li><li><a class="tumblr" href="http://www.tumblr.com/share/link?url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank">TUMBLR</a></li><li><a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank">STUMBLEUPON</a></li></ul></span><span class="printer"><a href="#Print" onclick="window.print(); return false;" target="_blank"></a></span><span id="font_up" class="font-bigger"><a href="javascript:void(0);">&nbsp;</a></span><span id="font_down" class="font-smaller"><a href="javascript:void(0);">&nbsp;</a></span>						</div>
+					</span>
+				</div>
+
+				<div class="post_content">
+					<p>Violence again erupted in <a href="https://www.theepochtimes.com/t-hong-kong">Hong Kong</a>’s <a href="https://www.theepochtimes.com/t-yuen-long">Yuen Long</a> on the evening of July 27 after hundreds of thousands of protesters gathered for a peaceful march in the afternoon to oppose an attack a week earlier by suspected triad members at the local metro station.</p>
+<p>Amnesty International issued a <a href="https://www.amnesty.org.uk/press-releases/hong-kong-police-attack-yuen-long-protesters-unacceptable">statement</a> following the violence, saying that the actions of the local police had been “unacceptable.”</p>
+<p>“The violent scenes in Yuen Long tonight were in part because Hong Kong police chose to inflame a tense situation rather than deescalate it,” Amnesty said. “For police to declare today’s protest unlawful was simply wrong under international law.”</p>
+<figure id="attachment_3019779" style="width: 600px" class="wp-caption alignnone"><a href="https://img.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-003.jpg"><img class="lazy size-medium wp-image-3019779" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-003-600x400.jpg" alt="Yuen Long Hong Kong" width="600" height="400" /><figcaption class="wp-caption-text"><noscript><img class="size-medium wp-image-3019779" src="https://img.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-003-600x400.jpg" alt="Yuen Long Hong Kong" width="600" height="400" /></noscript></a> Riot police fire tear gas towards protesters in the district of Yuen Long, Hong Kong, on July 27, 2019. (Laurel Chor/Getty Images)</figcaption></figure>
+<p>It added: “While police must be able to defend themselves, there were repeated instances today where police officers were the aggressors; beating retreating protesters, attacking civilians in the train station, and targeting journalists. Alarmingly, such a heavy-handed response now appears the modus operandi for Hong Kong police and we urge them to quickly change course.”</p>
+<p>On July 21, a group of men in white t-shirts, wielding wooden or metal poles, rushed into the Yuen Long metro station and began beating passengers, according to footage taken by commuters and journalists at the scene. Democratic party lawmaker Lam Cheuk-ting was among the at least 45 injured.</p>
+<p>The attackers targeted any passengers dressed in black because they were likely to have taken part in a peaceful march earlier in the day against the Hong Kong government’s <a href="https://www.theepochtimes.com/t-extradition-bill">extradition bill</a>. The march drew <a href="https://www.theepochtimes.com/430000-march-in-another-weekend-of-protests-in-hong-kong-police-fire-tear-gas-rubber-bullets-in-evening_3010562.html">430,000</a> people.</p>
+<p>A number of attackers have since been arrested by the police, who noted that some had triad backgrounds.</p>
+<p>The attacks triggered the UK government, the U.S. State Department, and multiple rights groups, including Amnesty International, to issue statements expressing <a href="https://www.theepochtimes.com/governments-and-rights-groups-condemn-violent-attack-in-hong-kong-metro-station_3012901.html">concerns</a> about the violence.</p>
+<h2>Reclaiming Yuen Long</h2>
+<figure id="attachment_3019774" style="width: 600px" class="wp-caption alignnone"><a href="https://img.theepochtimes.com/assets/uploads/2019/07/28/hong-kong-yuen-long-727-002-1200x799.jpg"><img class="lazy size-medium wp-image-3019774" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/28/hong-kong-yuen-long-727-002-600x399.jpg" alt="Hong Kong protests" width="600" height="399" /><figcaption class="wp-caption-text"><noscript><img class="size-medium wp-image-3019774" src="https://img.theepochtimes.com/assets/uploads/2019/07/28/hong-kong-yuen-long-727-002-600x399.jpg" alt="Hong Kong protests" width="600" height="399" /></noscript></a> Protesters hold up signs saying how police had colluded with local gangs in a march on Yuen Long, Hong Kong, on July 27, 2019. (Song Bilong/The Epoch Times)</figcaption></figure>
+<p>The march on July 27, named “Reclaiming Yuen Long,” was organized by Hong Kong resident Max Chung to call on the government to meet seven demands, including the withdrawal of the extradition bill and an independent investigation into the violent civilian clashes on July 21.</p>
+<p>The police did not grant Chung the approval for the march, and the Hong Kong’s Appeal Board on Public Meetings and Processions turned down his <a href="https://www.facebook.com/hkcolumn/posts/2399989640218421">appeal</a> of the decision on the grounds that such a march could pose threats to public safety given the events on July 21.</p>
+<p>Despite the police objection, the march still proceeded, with participants marching from Shui Pin Tsuen Playground to Yuen Long’s metro station.</p>
+<p>Pro-democracy lawmaker Eddie Chu and Leonard Cheng, President of Lingnan University of Hong Kong, were among the participants.</p>
+<p>About 288,000 people took part in the march, according to Chung’s estimate.</p>
+<figure id="attachment_3019772" style="width: 600px" class="wp-caption alignnone"><a href="https://img.theepochtimes.com/assets/uploads/2019/07/28/hong-kong-yuen-long-727-001-1200x799.jpg"><img class="lazy size-medium wp-image-3019772" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/28/hong-kong-yuen-long-727-001-600x399.jpg" alt="Yuen Long HK protests" width="600" height="399" /><figcaption class="wp-caption-text"><noscript><img class="size-medium wp-image-3019772" src="https://img.theepochtimes.com/assets/uploads/2019/07/28/hong-kong-yuen-long-727-001-600x399.jpg" alt="Yuen Long HK protests" width="600" height="399" /></noscript></a> Protesters join a march in Yuen Long, Hong Kong, on July 27, 2019. (Song Bilong/The Epoch Times)</figcaption></figure>
+<p>But the peaceful march quickly descended into <a href="https://www.facebook.com/KongPollster/photos/pcb.366314777619835/366314300953216/?type=3&amp;theater">clashes</a> when police began firing tear gas, rubber bullets, and sponge grenades to disperse the crowds. Protesters were reportedly throwing rocks and bottles at police.</p>
+<p>Hong Kong media reported that several reporters were hit by the police’s rubber bullets. Some protesters eventually retreated into Yuen Long metro station. Then, at around 10 p.m. local time, violence escalated as police moved in on protesters inside the station. According to Hong Kong media HKFP, baton-wielding police cornered protesters and some of them fell to the ground as people tried to flee. Bloodstains could be seen spattered on the floor.</p>
+<figure id="attachment_3019780" style="width: 600px" class="wp-caption alignnone"><a href="https://img.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-004.jpg"><img class="lazy size-medium wp-image-3019780" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-004-600x400.jpg" alt="Yuen Long HK protests" width="600" height="400" /><figcaption class="wp-caption-text"><noscript><img class="size-medium wp-image-3019780" src="https://img.theepochtimes.com/assets/uploads/2019/07/28/Getty-hong-kong-yuen-long-727-004-600x400.jpg" alt="Yuen Long HK protests" width="600" height="400" /></noscript></a> An officer uses pepper spray to disperse protesters inside a metro station in the district of Yuen Long, Hong Kong, on July 27, 2019. (Laurel Chor/Getty Images)</figcaption></figure>
+<p>At around 1 a.m. on July 28, the Hong Kong Hospital Authority announced that 24 people had been injured, with 2 in serious condition.</p>
+<p>Hong Kong media The Stand News reported that 11 men aged between 18 and 68, had been arrested on charges including unlawful assembly, assaulting police officers, and possession of offensive weapons.</p>
+<p>The Hong Kong government has since issued a statement, calling the Yuen Long march “illegal” and condemning “radical protesters” for deliberately breaking the law by charging at police cordon lines and blocking roads. It also stated that police would take serious follow-up actions with arrested protesters.</p>
+<p>Pro-democracy lawmaker Claudia Mo in a <a href="https://www.youtube.com/watch?v=0Y2Tv9LSNZc">press conference</a> at noon on July 28 condemned the police again for use of excessive force on citizens, social workers, and journalists. She added that the police’s ban on the march, in contradiction to Hong Kong’s Basic Law that guarantees the freedom of assembly, had created a “vicious cycle” provoking more people to come out and protest.</p>
+<p>At around 3 p.m. local time on July 28, Hong Kong media <a href="https://www.hk01.com/%E7%AA%81%E7%99%BC/357190/%E5%85%83%E6%9C%97%E9%81%8A%E8%A1%8C-%E9%81%8A%E8%A1%8C%E7%99%BC%E8%B5%B7%E4%BA%BA%E9%8D%BE%E5%81%A5%E5%B9%B3%E6%B6%89%E7%85%BD%E6%83%91%E9%9D%9E%E6%B3%95%E9%9B%86%E7%B5%90-%E8%AD%A6%E5%B8%B6%E8%B5%B0%E5%8A%A9%E6%9F%A5">HK01</a> reported that Max Chung had been taken away by police on the charge of inciting unlawful assembly. Local police have since confirmed the arrest.</p>
+<span class="author_twitter">Follow Frank on Twitter: <a class="author_twitter_link" href="https://twitter.com/HwaiDer" target="_blank">@HwaiDer</a></span>				</div>
+
+				<div class="social_email">
+					<span class="social">
+						<div class="text">Share this article</div>
+						<div class="icons">
+						<span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank"></a></span><span class="flipboard"><a data-flip-widget="shareflip" href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;title=Amnesty International Condemns Police Aggression in Hong Kong Protests&amp;url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank"></a></span><span class="twitter"><a href="https://twitter.com/intent/tweet?text=Amnesty International Condemns Police Aggression in Hong Kong Protests&amp;url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html&amp;via=epochtimes" target="_blank"></a></span><span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank"></a></span><span class="email"><a href="mailto:?subject=Amnesty International Condemns Police Aggression in Hong Kong Protests&amp;body=Amnesty International Condemns Police Aggression in Hong Kong Protests https://www.theepochtimes.com/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html" target="_blank"></a></span>						</div>
+					</span>
+				</div>
+				<div id="show_discussion"><a href="javascript:void(0)" class="button">Show Discussion</a></div>
+			</div>
+
+			<div class="recom_title">RECOMMENDED</div>
+			<div class="lower_row">
+				<div class="lower_container">
+					<span class="featured_videos" id="featured_videos">
+						<div class="block_title">TOP VIDEOS</div>
+						<ul>
+												<li>
+								<span class="image"><a href="https://www.theepochtimes.com/focus-on-the-familys-jim-daly-on-the-importance-of-family-marriage-and-having-children-wcs-special_3019526.html">
+								<img alt="Focus on the Family’s Jim Daly on the Importance of Family, Marriage, and Having Children [WCS Special]" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/27/Jim-Daly-205x123.png"><noscript><img alt="Focus on the Family’s Jim Daly on the Importance of Family, Marriage, and Having Children [WCS Special]" src="https://img.theepochtimes.com/assets/uploads/2019/07/27/Jim-Daly-205x123.png"></noscript><span class="eet_video_icon"></span></a>
+								</span>
+								<span class="title_author_date">
+									<div class="title"><a class="" href="https://www.theepochtimes.com/focus-on-the-familys-jim-daly-on-the-importance-of-family-marriage-and-having-children-wcs-special_3019526.html">Focus on the Family’s Jim Daly on the Importance of Family, Marriage, and Having Children [WCS Special]</a></div>
+									<div class="author_date">
+										<span class="date"><span class="time_diff">13hr</span></span>
+									<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jan-jekielek">Jan Jekielek</a></span></span>									</div>
+								</span>
+							</li>
+												<li>
+								<span class="image"><a href="https://www.theepochtimes.com/unwavering-spirit-falun-gong-perseveres-in-china-despite-20-years-of-persecution-peter-erping-zhang_3017389.html">
+								<img alt="Unwavering Spirit: Falun Gong Perseveres in China Despite 20 Years of Persecution—Peter Erping Zhang" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/25/Zhang-Erping-205x123.png"><noscript><img alt="Unwavering Spirit: Falun Gong Perseveres in China Despite 20 Years of Persecution—Peter Erping Zhang" src="https://img.theepochtimes.com/assets/uploads/2019/07/25/Zhang-Erping-205x123.png"></noscript><span class="eet_video_icon"></span></a>
+								</span>
+								<span class="title_author_date">
+									<div class="title"><a class="" href="https://www.theepochtimes.com/unwavering-spirit-falun-gong-perseveres-in-china-despite-20-years-of-persecution-peter-erping-zhang_3017389.html">Unwavering Spirit: Falun Gong Perseveres in China Despite 20 Years of Persecution—Peter Erping Zhang</a></div>
+									<div class="author_date">
+										<span class="date"><span class="time_diff">4d</span></span>
+									<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jan-jekielek">Jan Jekielek</a></span></span>									</div>
+								</span>
+							</li>
+												<li>
+								<span class="image"><a href="https://www.theepochtimes.com/wcs-special-on-marxism-identity-politics-the-lefts-ideology-of-resentment-rep-dan-crenshaw_3017334.html">
+								<img alt="[WCS Special] On Marxism, Identity Politics, &#038; the Left’s &#8216;Ideology of Resentment&#8217;—Rep. Dan Crenshaw" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/25/Dan-Crenshaw-205x123.png"><noscript><img alt="[WCS Special] On Marxism, Identity Politics, &#038; the Left’s &#8216;Ideology of Resentment&#8217;—Rep. Dan Crenshaw" src="https://img.theepochtimes.com/assets/uploads/2019/07/25/Dan-Crenshaw-205x123.png"></noscript><span class="eet_video_icon"></span></a>
+								</span>
+								<span class="title_author_date">
+									<div class="title"><a class="" href="https://www.theepochtimes.com/wcs-special-on-marxism-identity-politics-the-lefts-ideology-of-resentment-rep-dan-crenshaw_3017334.html">[WCS Special] On Marxism, Identity Politics, &#038; the Left’s &#8216;Ideology of Resentment&#8217;—Rep. Dan Crenshaw</a></div>
+									<div class="author_date">
+										<span class="date"><span class="time_diff">4d</span></span>
+									<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jan-jekielek">Jan Jekielek</a></span></span>									</div>
+								</span>
+							</li>
+											</ul>
+					</span>
+					<span class="more_content">
+						<div id="recommended_load_next_page" class="more_recposts">
+														<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(/assets/themes/eet/images/eet_cat_icon_default.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs">HK Current Affairs</a></div>
+										<div class="date">July 23, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/hong-kong-gangsters-attack-protesters-as-tension-escalates_3013421.html">
+										<h2><span class=" premium_icon">Hong Kong Gangsters Attack Protesters as Tension Escalates</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/hong-kong-gangsters-attack-protesters-as-tension-escalates_3013421.html">
+										<img alt="Hong Kong Gangsters Attack Protesters as Tension Escalates" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/23/Hong-Kong-Pan-democratic-councilors-July-2019-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-epoch-times-hong-kong-staff">Epoch Times Hong Kong Staff</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/hong-kong-gangsters-attack-protesters-as-tension-escalates_3013421.html">On the same night as former Chief Executive Leung Chun-ying criticized Hong Kong students for “lacking family discipline,” a mob of individuals with white T-shirts armed with ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/hong-kong-gangsters-attack-protesters-as-tension-escalates_3013421.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Hong Kong Gangsters Attack Protesters as Tension Escalates&amp;url=https://www.theepochtimes.com/hong-kong-gangsters-attack-protesters-as-tension-escalates_3013421.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/hong-kong-gangsters-attack-protesters-as-tension-escalates_3013421.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(/assets/themes/eet/images/eet_cat_icon_default.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs">HK Current Affairs</a></div>
+										<div class="date">July 26, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/amid-backlash-over-violent-mob-attack-hong-kong-public-servants-trade-professionals-join-chorus-of-protest-against-extradition-bill_3018539.html">
+										<h2><span class="">Amid Backlash Over Violent Mob Attack, Hong Kong Public Servants, Trade Professionals Join Chorus of Protest Against Extradition Bill</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/amid-backlash-over-violent-mob-attack-hong-kong-public-servants-trade-professionals-join-chorus-of-protest-against-extradition-bill_3018539.html">
+										<img alt="Amid Backlash Over Violent Mob Attack, Hong Kong Public Servants, Trade Professionals Join Chorus of Protest Against Extradition Bill" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/26/rally-july-26-hong-kong-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-eva-fu">Eva Fu</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/amid-backlash-over-violent-mob-attack-hong-kong-public-servants-trade-professionals-join-chorus-of-protest-against-extradition-bill_3018539.html">Following a July 21 violent mob attack that targeted protesters who opposed a local extradition bill, a growing chorus of support for the protesters have emerged from ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/amid-backlash-over-violent-mob-attack-hong-kong-public-servants-trade-professionals-join-chorus-of-protest-against-extradition-bill_3018539.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Amid Backlash Over Violent Mob Attack, Hong Kong Public Servants, Trade Professionals Join Chorus of Protest Against Extradition Bill&amp;url=https://www.theepochtimes.com/amid-backlash-over-violent-mob-attack-hong-kong-public-servants-trade-professionals-join-chorus-of-protest-against-extradition-bill_3018539.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/amid-backlash-over-violent-mob-attack-hong-kong-public-servants-trade-professionals-join-chorus-of-protest-against-extradition-bill_3018539.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Opinion.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-thinking-about-china"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></div>
+										<div class="date">July 27, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/hong-kong-turbulence-presents-a-major-turning-point-for-beijing_3019321.html">
+										<h2><span class=" premium_icon">Hong Kong Turbulence Presents a Major Turning Point for Beijing</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/hong-kong-turbulence-presents-a-major-turning-point-for-beijing_3019321.html">
+										<img alt="Hong Kong Turbulence Presents a Major Turning Point for Beijing" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/27/GettyImages-1157943697-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-cang-shan">Cang Shan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/hong-kong-turbulence-presents-a-major-turning-point-for-beijing_3019321.html">Commentary As gangsters beat up residents in Yuen Long and the protests against the extradition bill escalate, the situation in Hong Kong has entered a new phase. ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/hong-kong-turbulence-presents-a-major-turning-point-for-beijing_3019321.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Hong Kong Turbulence Presents a Major Turning Point for Beijing&amp;url=https://www.theepochtimes.com/hong-kong-turbulence-presents-a-major-turning-point-for-beijing_3019321.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/hong-kong-turbulence-presents-a-major-turning-point-for-beijing_3019321.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(/assets/themes/eet/images/eet_cat_icon_default.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs">HK Current Affairs</a></div>
+										<div class="date">July 28, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/hongkongers-defy-local-authorities-with-public-protests-to-condemn-police-violence_3020072.html">
+										<h2><span class="">Hongkongers Defy Local Authorities With Protests to Condemn Police Violence</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/hongkongers-defy-local-authorities-with-public-protests-to-condemn-police-violence_3020072.html">
+										<img alt="Hongkongers Defy Local Authorities With Protests to Condemn Police Violence" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/28/7.28-protest-hong-kong-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-eva-fu">Eva Fu</a></span> and <span class="author_name"><a href="https://www.theepochtimes.com/author-frank-fang">Frank Fang</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/hongkongers-defy-local-authorities-with-public-protests-to-condemn-police-violence_3020072.html">Hongkongers took to the streets on July 28 for the second consecutive day of protests in defiance of police objections. Clashes between protesters and police once again ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/hongkongers-defy-local-authorities-with-public-protests-to-condemn-police-violence_3020072.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Hongkongers Defy Local Authorities With Protests to Condemn Police Violence&amp;url=https://www.theepochtimes.com/hongkongers-defy-local-authorities-with-public-protests-to-condemn-police-violence_3020072.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/hongkongers-defy-local-authorities-with-public-protests-to-condemn-police-violence_3020072.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/China.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-regime"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/beijing-office-reiterates-resolute-support-for-hong-kong-government-after-police-violence_3021585.html">
+										<h2><span class="">Beijing Office Reiterates ‘Resolute Support’ for Hong Kong Government After Police Violence</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/beijing-office-reiterates-resolute-support-for-hong-kong-government-after-police-violence_3021585.html">
+										<img alt="Beijing Office Reiterates ‘Resolute Support’ for Hong Kong Government After Police Violence" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/yang-guang-hk-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-eva-fu">Eva Fu</a></span> and <span class="author_name"><a href="https://www.theepochtimes.com/author-frank-fang">Frank Fang</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/beijing-office-reiterates-resolute-support-for-hong-kong-government-after-police-violence_3021585.html">At a rare press conference on July 29, Beijing’s highest-level agency for managing Hong Kong affairs reiterated its support for the city’s top leadership in its handling ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/beijing-office-reiterates-resolute-support-for-hong-kong-government-after-police-violence_3021585.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Beijing Office Reiterates ‘Resolute Support’ for Hong Kong Government After Police Violence&amp;url=https://www.theepochtimes.com/beijing-office-reiterates-resolute-support-for-hong-kong-government-after-police-violence_3021585.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/beijing-office-reiterates-resolute-support-for-hong-kong-government-after-police-violence_3021585.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/China.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-regime"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></div>
+										<div class="date">July 28, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/protesters-mass-in-hong-kong-amid-fears-of-growing-cycle-of-violence_3019786.html">
+										<h2><span class="">Protesters Mass in Hong Kong Amid Fears of Growing Cycle of Violence</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/protesters-mass-in-hong-kong-amid-fears-of-growing-cycle-of-violence_3019786.html">
+										<img alt="Protesters Mass in Hong Kong Amid Fears of Growing Cycle of Violence" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/28/reuters-july-28-march-01-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-reuters">Reuters</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/protesters-mass-in-hong-kong-amid-fears-of-growing-cycle-of-violence_3019786.html">HONG KONG—Hong Kong authorities stepped up security around the city&#039;s main China representative office on July 28 as people began gathering for another protest, with anger simmering ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/protesters-mass-in-hong-kong-amid-fears-of-growing-cycle-of-violence_3019786.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Protesters Mass in Hong Kong Amid Fears of Growing Cycle of Violence&amp;url=https://www.theepochtimes.com/protesters-mass-in-hong-kong-amid-fears-of-growing-cycle-of-violence_3019786.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/protesters-mass-in-hong-kong-amid-fears-of-growing-cycle-of-violence_3019786.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(/assets/themes/eet/images/eet_cat_icon_default.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs">HK Current Affairs</a></div>
+										<div class="date">July 27, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/police-fire-tear-gas-in-clash-with-hong-kong-protesters-over-banned-march_3019272.html">
+										<h2><span class="">Police Fire Tear Gas in Clash With Hong Kong Protesters Over Banned March</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/police-fire-tear-gas-in-clash-with-hong-kong-protesters-over-banned-march_3019272.html">
+										<img alt="Police Fire Tear Gas in Clash With Hong Kong Protesters Over Banned March" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/27/Hong-Kong-protests-1-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-reuters">Reuters</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/police-fire-tear-gas-in-clash-with-hong-kong-protesters-over-banned-march_3019272.html">Police fired tear gas during clashes in a rural Hong Kong town on Saturday as several thousand activists gathered to protest.</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/police-fire-tear-gas-in-clash-with-hong-kong-protesters-over-banned-march_3019272.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Police Fire Tear Gas in Clash With Hong Kong Protesters Over Banned March&amp;url=https://www.theepochtimes.com/police-fire-tear-gas-in-clash-with-hong-kong-protesters-over-banned-march_3019272.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/police-fire-tear-gas-in-clash-with-hong-kong-protesters-over-banned-march_3019272.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(/assets/themes/eet/images/eet_cat_icon_default.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs">HK Current Affairs</a></div>
+										<div class="date">July 26, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/images-of-defiance-and-hope-cartoonist-uses-brush-to-support-hong-kong-protesters_3012275.html">
+										<h2><span class=" premium_icon">&#8216;Hong Kong Withstand&#8217;: Comic Artist Uses Brush to Support Hong Kong Protesters</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/images-of-defiance-and-hope-cartoonist-uses-brush-to-support-hong-kong-protesters_3012275.html">
+										<img alt="&#8216;Hong Kong Withstand&#8217;: Comic Artist Uses Brush to Support Hong Kong Protesters" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/22/hong-kong-keep-up-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-eva-fu">Eva Fu</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/images-of-defiance-and-hope-cartoonist-uses-brush-to-support-hong-kong-protesters_3012275.html">The image has become an emblem of the Hong Kong protests. A young woman wielding a yellow umbrella shields a girl from a torrent of tear gas ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/images-of-defiance-and-hope-cartoonist-uses-brush-to-support-hong-kong-protesters_3012275.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=&#8216;Hong Kong Withstand&#8217;: Comic Artist Uses Brush to Support Hong Kong Protesters&amp;url=https://www.theepochtimes.com/images-of-defiance-and-hope-cartoonist-uses-brush-to-support-hong-kong-protesters_3012275.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/images-of-defiance-and-hope-cartoonist-uses-brush-to-support-hong-kong-protesters_3012275.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/China.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-regime"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></div>
+										<div class="date">July 26, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/chinese-army-holds-anti-riot-drill-near-hong-kong_3015820.html">
+										<h2><span class="">Chinese Army Holds Anti-Riot Drill Near Hong Kong</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/chinese-army-holds-anti-riot-drill-near-hong-kong_3015820.html">
+										<img alt="Chinese Army Holds Anti-Riot Drill Near Hong Kong" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2015/01/19/454317326-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-epoch-times-staff">Epoch Times Staff</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/chinese-army-holds-anti-riot-drill-near-hong-kong_3015820.html">In mid-June, the commander of China&#039;s People’s Liberation Army (PLA) garrison in Hong Kong assured a Pentagon official that Chinese troops will not intervene with Hong Kong’s ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/chinese-army-holds-anti-riot-drill-near-hong-kong_3015820.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Chinese Army Holds Anti-Riot Drill Near Hong Kong&amp;url=https://www.theepochtimes.com/chinese-army-holds-anti-riot-drill-near-hong-kong_3015820.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/chinese-army-holds-anti-riot-drill-near-hong-kong_3015820.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/China.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-regime"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></div>
+										<div class="date">July 26, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/protesters-calling-for-free-hong-kong-converge-on-airport_3017879.html">
+										<h2><span class="">Protesters Calling for &#8216;Free Hong Kong&#8217; Converge on Airport</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/protesters-calling-for-free-hong-kong-converge-on-airport_3017879.html">
+										<img alt="Protesters Calling for &#8216;Free Hong Kong&#8217; Converge on Airport" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/26/hong-kong-airport-protest-on-july-26-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-reuters">Reuters</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/protesters-calling-for-free-hong-kong-converge-on-airport_3017879.html">HONG KONG—Several hundred protesters calling for democracy and some chanting &quot;free Hong Kong&quot; converged on the Chinese-ruled city&#039;s airport on July 26 as neighboring Singapore advised its ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/protesters-calling-for-free-hong-kong-converge-on-airport_3017879.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Protesters Calling for &#8216;Free Hong Kong&#8217; Converge on Airport&amp;url=https://www.theepochtimes.com/protesters-calling-for-free-hong-kong-converge-on-airport_3017879.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/protesters-calling-for-free-hong-kong-converge-on-airport_3017879.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/USNews.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-news"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-news">US News</a></div>
+										<div class="date">July 25, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/us-state-department-concerned-over-chinese-threats-to-quell-hong-kong-protests-using-military_3017587.html">
+										<h2><span class=" premium_icon">US State Department Concerned Over Chinese Threats to Quell Hong Kong Protests Using Military</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/us-state-department-concerned-over-chinese-threats-to-quell-hong-kong-protests-using-military_3017587.html">
+										<img alt="US State Department Concerned Over Chinese Threats to Quell Hong Kong Protests Using Military" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/22/2019-07-22T013449Z_1_LYNXNPEF6L01U_RTROPTP_4_HONGKONG-EXTRADITION-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-iris-tao">Iris Tao</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/us-state-department-concerned-over-chinese-threats-to-quell-hong-kong-protests-using-military_3017587.html">The U.S. State Department has expressed concern about recent statements from the Chinese regime that it could deploy its military to intervene in Hong Kong against protests ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/us-state-department-concerned-over-chinese-threats-to-quell-hong-kong-protests-using-military_3017587.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=US State Department Concerned Over Chinese Threats to Quell Hong Kong Protests Using Military&amp;url=https://www.theepochtimes.com/us-state-department-concerned-over-chinese-threats-to-quell-hong-kong-protests-using-military_3017587.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/us-state-department-concerned-over-chinese-threats-to-quell-hong-kong-protests-using-military_3017587.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(/assets/themes/eet/images/eet_cat_icon_default.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-hongkong-current-affairs">HK Current Affairs</a></div>
+										<div class="date">July 25, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/chinas-social-media-troll-army-diba-disbanded-following-hong-kong-protesters-doxing_3016919.html">
+										<h2><span class="">China’s Social Media Troll Army ‘Diba’ Disbanded Following Hong Kong Protesters’ Doxing</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/chinas-social-media-troll-army-diba-disbanded-following-hong-kong-protesters-doxing_3016919.html">
+										<img alt="China’s Social Media Troll Army ‘Diba’ Disbanded Following Hong Kong Protesters’ Doxing" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/25/hong-kong-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-eva-fu">Eva Fu</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/chinas-social-media-troll-army-diba-disbanded-following-hong-kong-protesters-doxing_3016919.html">A major Chinese nationalist internet troll group has disbanded amid backlash over their planned online attacks directed at Hong Kong pro-democracy protesters. Diba Central Army, also known ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/chinas-social-media-troll-army-diba-disbanded-following-hong-kong-protesters-doxing_3016919.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=China’s Social Media Troll Army ‘Diba’ Disbanded Following Hong Kong Protesters’ Doxing&amp;url=https://www.theepochtimes.com/chinas-social-media-troll-army-diba-disbanded-following-hong-kong-protesters-doxing_3016919.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/chinas-social-media-troll-army-diba-disbanded-following-hong-kong-protesters-doxing_3016919.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/TrumpPresidency.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-trump-presidency"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html">
+										<h2><span class="">Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html">
+										<img alt="Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/22/2019-07-22T165546Z_2_LYNXNPEF6L1D4_RTROPTP_4_USA-TRUMP-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-mimi-nguyen-ly">Mimi Nguyen Ly</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html">President Donald Trump’s recent vetoes have held up after votes in the U.S. Senate on July 29 showed the Senate majority will now allow the administration to ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto&amp;url=https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/BUSINESS.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-companies"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-companies">Companies</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html">
+										<h2><span class="">Capital One Target of Massive Data Breach</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html">
+										<img alt="Capital One Target of Massive Data Breach" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/30/capital-one-mailin-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-associated-press">The Associated Press</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html">SEATTLE—A hacker gained access to personal information from more than 100 million Capital One credit applications, the bank said on Monday, July 29, as federal authorities arrested ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Capital One Target of Massive Data Breach&amp;url=https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/Crime-and-Incidents.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-crime-us"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html">
+										<h2><span class="">2 Children Among Dead in Attack at California Festival</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html">
+										<img alt="2 Children Among Dead in Attack at California Festival" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/Gilroy-Garlic-Festival--550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-bowen-xiao">Bowen Xiao</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html">A man opened fire on a crowd at a popular food festival in California on July 28, killing three people and injuring about 15 others before law ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=2 Children Among Dead in Attack at California Festival&amp;url=https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/USNews.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-2020-election"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-2020-election">2020 Election</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html">
+										<h2><span class="">Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html">
+										<img alt="Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/GettyImages-1157547767-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-ivan-pentchoukov">Ivan Pentchoukov</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html">Democratic presidential hopeful Sen. Kamala Harris (D-Calif.) proposed a health care plan that would transition to a socialist &quot;Medicare for All&quot; system over the course of 10 ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years&amp;url=https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/TrumpPresidency.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-trump-presidency"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html">
+										<h2><span class="">President Trump Grants Pardons or Sentence Commutations to 7 People</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html">
+										<img alt="President Trump Grants Pardons or Sentence Commutations to 7 People" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9713-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-janita-kan">Janita Kan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html">President Donald Trump has commuted the sentences of two individuals and granted full pardons to five others who had already served sentences for non-violent crimes, the White ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=President Trump Grants Pardons or Sentence Commutations to 7 People&amp;url=https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/TrumpPresidency.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-trump-presidency"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html">
+										<h2><span class="">White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html">
+										<img alt="White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9594-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-zachary-stieber">Zachary Stieber</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html">No Democratic members of Congress attended the event featuring President Donald Trump signing a bill on July 29 to extend the compensation fund for the Sept. 11, ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend&amp;url=https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/USNews.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-news"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-news">US News</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html">
+										<h2><span class="">US Representative Warns Against Climate Change ‘Hysteria’</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html">
+										<img alt="US Representative Warns Against Climate Change ‘Hysteria’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/McClintock-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-matthew-vadum">Matthew Vadum</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html">WASHINGTON—Rep. Tom McClintock (R-Calif.) criticized the claim by Rep. Alexandria Ocasio-Cortez (D-N.Y.) that the earth has only 12 years left if nothing is done about the so-called ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=US Representative Warns Against Climate Change ‘Hysteria’&amp;url=https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/World.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-americas"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-americas">Americas</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html">
+										<h2><span class="">16 Prisoners Decapitated, 57 Dead in Prison Uprising in Brazil</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html">
+										<img alt="16 Prisoners Decapitated, 57 Dead in Prison Uprising in Brazil" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2017/01/02/GettyImages-584559812-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jack-phillips">Jack Phillips</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html">At least 16 prisoners were decapitated and dozens more were killed during a prison riot in Brazil. At least 57 inmates died in the riots that involved ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=16 Prisoners Decapitated, 57 Dead in Prison Uprising in Brazil&amp;url=https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Politics.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-politics"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html">
+										<h2><span class="">Papadopoulos to Bring Back Mystery $10,000 From Greece</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html">
+										<img alt="Papadopoulos to Bring Back Mystery $10,000 From Greece" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/GettyImages-1138504069-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-ivan-pentchoukov">Ivan Pentchoukov</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html">Former Trump 2016 presidential campaign associate George Papadopoulos intends to travel to Greece to retrieve $10,000 in cash that he believes consists of marked bills used by ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Papadopoulos to Bring Back Mystery $10,000 From Greece&amp;url=https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Politics.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-politics"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html">
+										<h2><span class="">Business Groups Press Every ‘US Senator and Representative’ to Pass USMCA</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html">
+										<img alt="Business Groups Press Every ‘US Senator and Representative’ to Pass USMCA" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/Dairy-US-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-emel-akan">Emel Akan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html">WASHINGTON—As Congress heads to a long recess, lobbying efforts for the new U.S.–Mexico–Canada (USMCA) trade agreement are kicking into high gear in Washington. More than 600 national ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Business Groups Press Every ‘US Senator and Representative’ to Pass USMCA&amp;url=https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Politics.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-politics"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html">
+										<h2><span class="">Bernie Sanders Previously Called Baltimore a &#8216;Disgrace,&#8217; Compared to &#8216;Third World Country&#8217;</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html">
+										<img alt="Bernie Sanders Previously Called Baltimore a &#8216;Disgrace,&#8217; Compared to &#8216;Third World Country&#8217;" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/01/31/Bernie-Sanders-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-samuel-allegri">Samuel Allegri</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html">President Donald Trump has received backlash from political opponents who called him &quot;racist&quot; for criticizing Rep. Elijah Cummings (D-Md.) and his district of Baltimore, which he called a ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Bernie Sanders Previously Called Baltimore a &#8216;Disgrace,&#8217; Compared to &#8216;Third World Country&#8217;&amp;url=https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Politics.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-politics"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html">
+										<h2><span class="">Trump on Gilroy Shooting: We Will Work to &#8216;Stop Evil, Prevent Violence, and Protect the Safety of All Americans&#8217;</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html">
+										<img alt="Trump on Gilroy Shooting: We Will Work to &#8216;Stop Evil, Prevent Violence, and Protect the Safety of All Americans&#8217;" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9754-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-janita-kan">Janita Kan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html">President Donald Trump sent his condolences to victims of the deadly shooting in Gilroy, California, on Monday, July 29, saying that the communities and citizens will work ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Trump on Gilroy Shooting: We Will Work to &#8216;Stop Evil, Prevent Violence, and Protect the Safety of All Americans&#8217;&amp;url=https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Health.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-health-news"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-health-news">Health News</a></div>
+										<div class="date">July 30, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html">
+										<h2><span class="">Big Question in Opioid Suits: How to Divide Any Settlement</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html">
+										<img alt="Big Question in Opioid Suits: How to Divide Any Settlement" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/AP19207064596976-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-associated-press">The Associated Press</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html">The roughly 2,000 state and local governments suing the drug industry over the deadly opioid crisis have yet to see any verdicts or reach any big national ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Big Question in Opioid Suits: How to Divide Any Settlement&amp;url=https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Health.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-health"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-health">Health</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html">
+										<h2><span class="">8 Incredible Baking Soda Life-Hacks, It Can Do Much More Than Just Baking Cakes</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html">
+										<img alt="8 Incredible Baking Soda Life-Hacks, It Can Do Much More Than Just Baking Cakes" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/baking-soda-fb-1d-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-louise-bevan">Louise Bevan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html">If you or anybody you know likes to bake cakes, then you&#039;ll have heard of baking soda. It&#039;s a wonderful ingredient and a kitchen cupboard staple, but ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=8 Incredible Baking Soda Life-Hacks, It Can Do Much More Than Just Baking Cakes&amp;url=https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/ARTS-Culture.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-performing-arts"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html">
+										<h2><span class="">Theater Review: ‘Two’s a Crowd’</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html">
+										<img alt="Theater Review: ‘Two’s a Crowd’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/8_6_older-couple-at-a-cafe-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-judd-hollander">Judd Hollander</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html">NEW YORK—It’s not what you&#039;ve done in life that matters, but what you haven&#039;t done. And thinking about the “if onlys” won&#039;t do anything to change them. These ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Theater Review: ‘Two’s a Crowd’&amp;url=https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/ARTS-Culture.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-history"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-history">History</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html">
+										<h2><span class="">Up From Slavery: A 400-Year Journey</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html">
+										<img alt="Up From Slavery: A 400-Year Journey" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/26/8_6_Winslow_Homer_-_The_Cotton_Pickers-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jeff-minick">Jeff Minick</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html">In August 1619, a privateer docked at Point Comfort near Jamestown, Virginia. In exchange for food and supplies, the privateer left behind “20 and odd” of the ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Up From Slavery: A 400-Year Journey&amp;url=https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/UK.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-uk"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-uk">UK</a></div>
+										<div class="date">July 30, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html">
+										<h2><span class="">Coronation Street Actress Paula Williamson Found Dead in Midlands</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html">
+										<img alt="Coronation Street Actress Paula Williamson Found Dead in Midlands" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/30/Coronation-Street-Actress-Paula-Williamson-with-husband-Charles-Bronson-June-6-2017-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-richard-szabo">Richard Szabo</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html">One of the nation&#039;s longest-running soap operas lost one of its cast members on July 29. Authorities discovered the body of Stoke-on-Trent Actress Paula Williamson at a house ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Coronation Street Actress Paula Williamson Found Dead in Midlands&amp;url=https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Entertainment.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-entertainment-news"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html">
+										<h2><span class="">Ariana Grande Apologizes for Instagram Joke About JonBenet Ramsey</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html">
+										<img alt="Ariana Grande Apologizes for Instagram Joke About JonBenet Ramsey" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/02/05/Ariana-Grande-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jack-phillips">Jack Phillips</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html">Ariana Grande apologized for a joke she made about former child model JonBenet Ramsey, who was killed in 1996 and became the subject of national headlines for ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Ariana Grande Apologizes for Instagram Joke About JonBenet Ramsey&amp;url=https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/USNews.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-news"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-news">US News</a></div>
+										<div class="date">July 30, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html">
+										<h2><span class="">Health Hazard Warning for More than a Dozen Types of Recalled Shahjalal Fish</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html">
+										<img alt="Health Hazard Warning for More than a Dozen Types of Recalled Shahjalal Fish" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/30/Shahjalal-recalled-fish-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-richard-szabo">Richard Szabo</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html">A New York food importer recalled dozens of different kinds of fish because they were not re-inspected before being distributed across the nation on July 27. Premium ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Health Hazard Warning for More than a Dozen Types of Recalled Shahjalal Fish&amp;url=https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Life.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-life"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-life">Life</a></div>
+										<div class="date">July 28, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html">
+										<h2><span class="">The Original Gerber Baby Is 92 Years Old, See What She Looks Like Today</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html">
+										<img alt="The Original Gerber Baby Is 92 Years Old, See What She Looks Like Today" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/05/17/Gerber-Baby-fb-1-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-louise-bevan">Louise Bevan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html">Whether you realize it or not, you know Ann Turner Cook. Or at least you know her face, albeit from 1927! Cook was the very first, the ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=The Original Gerber Baby Is 92 Years Old, See What She Looks Like Today&amp;url=https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Travel.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-destinations"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-destinations">Destinations</a></div>
+										<div class="date">July 27, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html">
+										<h2><span class="">Traveling Back in Time in Switzerland</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html">
+										<img alt="Traveling Back in Time in Switzerland" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/27/kronenhof-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-tim-johnson">Tim Johnson</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html">Together with nearby St. Moritz, the Grand Kronenhof Pontresina is one of Switzerland’s most stylish destinations.</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Traveling Back in Time in Switzerland&amp;url=https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Travel.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-destinations"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-destinations">Destinations</a></div>
+										<div class="date">July 25, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html">
+										<h2><span class="">6 Under-the-Radar Destinations in Europe</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html">
+										<img alt="6 Under-the-Radar Destinations in Europe" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/25/Ascona-12-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-skye-sherman">Skye Sherman</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html">Lesser-known destinations in Europe offer fewer crowds and more authentic, concentrated experiences. </a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=6 Under-the-Radar Destinations in Europe&amp;url=https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Life.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-life"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-life">Life</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html">
+										<h2><span class="">Ultrasound Shows Baby Blowing Bubble. When Mom Learns the Sad Truth She’s Shattered</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html">
+										<img alt="Ultrasound Shows Baby Blowing Bubble. When Mom Learns the Sad Truth She’s Shattered" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/Ultrasound-Baby-Blow-fb-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-li-yen">Li Yen</a></span><span class="organization">, Epoch Times</span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html">When this mother learned that the peculiar bubble blowing out of her 17-week-old fetus’s mouth was actually a rare and fatal tumor, she thought “there has to ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Ultrasound Shows Baby Blowing Bubble. When Mom Learns the Sad Truth She’s Shattered&amp;url=https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Life.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-life"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-life">Life</a></div>
+										<div class="date">July 28, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html">
+										<h2><span class="">Baby ‘Almost Killed’ by Dad Had Her Half Brain Removed in 2012, Here’s How She Is Now</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html">
+										<img alt="Baby ‘Almost Killed’ by Dad Had Her Half Brain Removed in 2012, Here’s How She Is Now" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/05/14/ET-Toddler-brain-fb-2-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-li-yen">Li Yen</a></span><span class="organization">, Epoch Times</span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html">On Aug. 17, 2012, this young baby was almost killed by her father when she was 8 months old. Half of her brain had to be removed. ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Baby ‘Almost Killed’ by Dad Had Her Half Brain Removed in 2012, Here’s How She Is Now&amp;url=https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+												</div>
+					</span>
+				</div>
+			</div>
+		  </div>
+
+		  <div class="right_col">
+			<div class="sidebar_top"></div>
+<div class="side_ad_top"></div>
+<div class="sidebar_bottom"></div>
+<div class="side_ad_top2"></div>
+<div class="top_news">
+	<div class="block_title"><a href="https://www.theepochtimes.com/top-news">TOP NEWS</a></div>
+	<ul>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html">Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">4hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-mimi-nguyen-ly">Mimi Nguyen Ly</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html">
+			<img alt="Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/22/2019-07-22T165546Z_2_LYNXNPEF6L1D4_RTROPTP_4_USA-TRUMP-205x123.jpg"><noscript><img alt="Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto" src="https://img.theepochtimes.com/assets/uploads/2019/07/22/2019-07-22T165546Z_2_LYNXNPEF6L1D4_RTROPTP_4_USA-TRUMP-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html">Capital One Target of Massive Data Breach</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">5hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-associated-press">The Associated Press</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html">
+			<img alt="Capital One Target of Massive Data Breach" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/30/capital-one-mailin-205x123.jpg"><noscript><img alt="Capital One Target of Massive Data Breach" src="https://img.theepochtimes.com/assets/uploads/2019/07/30/capital-one-mailin-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html">2 Children Among Dead in Attack at California Festival</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">11hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-bowen-xiao">Bowen Xiao</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html">
+			<img alt="2 Children Among Dead in Attack at California Festival" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/Gilroy-Garlic-Festival--205x123.jpg"><noscript><img alt="2 Children Among Dead in Attack at California Festival" src="https://img.theepochtimes.com/assets/uploads/2019/07/29/Gilroy-Garlic-Festival--205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html">Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">11hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-ivan-pentchoukov">Ivan Pentchoukov</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html">
+			<img alt="Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/GettyImages-1157547767-205x123.jpg"><noscript><img alt="Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years" src="https://img.theepochtimes.com/assets/uploads/2019/07/29/GettyImages-1157547767-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html">President Trump Grants Pardons or Sentence Commutations to 7 People</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">12hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-janita-kan">Janita Kan</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html">
+			<img alt="President Trump Grants Pardons or Sentence Commutations to 7 People" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9713-205x123.jpg"><noscript><img alt="President Trump Grants Pardons or Sentence Commutations to 7 People" src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9713-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html">White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">13hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-zachary-stieber">Zachary Stieber</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html">
+			<img alt="White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9594-205x123.jpg"><noscript><img alt="White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend" src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9594-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html">US Representative Warns Against Climate Change ‘Hysteria’</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">13hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-matthew-vadum">Matthew Vadum</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html">
+			<img alt="US Representative Warns Against Climate Change ‘Hysteria’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/McClintock-205x123.jpg"><noscript><img alt="US Representative Warns Against Climate Change ‘Hysteria’" src="https://img.theepochtimes.com/assets/uploads/2019/07/29/McClintock-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+	</ul>
+</div>
+<div id="sticky_ad"></div><div id="side_ad_middle"></div>		  </div>
+		</div>
+
+	</div>
+
+</main>
+<footer id="footer">
+    <div class="container">
+        <div class="toprow">
+            <div class="logo">
+                <a href="https://www.theepochtimes.com">
+                    <img src="https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg">
+                </a>
+            </div>
+            <div class="icon_wrapper">
+                <a class="subscribe" href="https://subscribe.theepochtimes.com/?utm_source=theepochtimes.com&utm_medium=static_link&utm_campaign=page_link&utm_content=footer_subscribe_link&utm_term=/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html">
+                    <span>subscribe</span>
+                </a>
+                <a class="newsletter" href="https://www.theepochtimes.com/newsletter">
+                    <span>newsletter</span>
+                </a>
+	            <a class="newsstands" href="https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper">
+		            <span>Newsstands</span>
+	            </a>
+            </div>
+        </div>
+        <div class="menu-feature-menu-container"><ul id="menu-feature-menu" class="nav-menu"><li id="menu-item-2635427" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-editors-picks menu-item-2635427"><a href="https://www.theepochtimes.com/editors-picks">Editor&#8217;s Picks</a></li>
+<li id="menu-item-2635433" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-special-series menu-item-2635433"><a href="https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world">SPECIAL SERIES</a></li>
+<li id="menu-item-2635480" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-special-coverage menu-item-2635480"><a href="https://www.theepochtimes.com/c-shen-yun">Special Coverage</a></li>
+</ul></div>        <div class="link_menu">
+            <ul class="others">
+                <li><a href="https://subscribe.theepochtimes.com/?utm_source=theepochtimes.com&utm_medium=static_link&utm_campaign=page_link&utm_content=footer_subscribe_link&utm_term=/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html">Subscribe</a></li>
+                <li><a href="https://www.theepochtimes.com/advertise">Advertise</a></li>
+                <li><a href="https://www.theepochtimes.com/about-us">About Us</a></li>
+                <li><a href="https://www.theepochtimes.com/contact-us">Contact Us</a></li>
+                <li><a href="https://subscribe.theepochtimes.com/?utm_source=theepochtimes.com&utm_medium=static_link&utm_campaign=page_link&utm_content=footer_subscribe_link&utm_term=/amnesty-international-condemns-police-aggression-in-yuen-long-protests_3019771.html">Newspaper Subscription</a></li>
+                <li><a href="https://www.theepochtimes.com/rssfeeds">RSS Feeds</a></li>
+                <li><a href="https://www.theepochtimes.com/terms-of-service">Terms of Services</a></li>
+                <li><a href="https://www.theepochtimes.com/privacy-notice">Privacy Policy</a></li>
+                <li><a href="https://www.theepochtimes.com/copyright-infringement-notification">Copyright Policy</a></li>
+                <li><a href="https://reader.epoch.cloud/" target="_blank">Digital Newspaper</a></li>
+            </ul>
+            <div class="block_title">35 COUNTRIES, 21 LANGUAGES</div>
+            <ul class="languages clear">
+                <li><a href="https://www.theepochtimes.com/">English</a></li><li><a href="https://www.epochtimes.com/">Chinese</a></li><li><a href="https://www.lagranepoca.com/">Spanish</a></li><li><a href="http://www.epochtimes.co.il/">Hebrew</a></li><li><a href="https://www.epochtimes.jp/">Japanese</a></li><li><a href="http://www.epochtimes.co.kr/">Korean</a></li><li><a href="http://www.erabaru.net/">Indonesian</a></li><li><a href="https://www.epochtimes.fr/">French</a></li><li><a href="https://www.epochtimes.de/">German</a></li><li><a href="https://www.epochtimes.it/">Italian</a></li><li><a href="https://www.epochtimes.com.br/">Portuguese</a></li><li><a href="https://www.epochtimes.se/">Swedish</a></li><li><a href="https://www.epochtimes.nl/">Dutch</a></li><li><a href="https://www.epochtimes.ru/">Russian</a></li><li><a href="https://www.epochtimes.com.ua/">Ukrainian</a></li><li><a href="https://www.epochtimes-romania.com/">Romanian</a></li><li><a href="http://www.velkaepocha.cz/">Czech</a></li><li><a href="http://www.epochtimes.cz/">Slovak</a></li><li><a href="https://epochtimes.pl/">Polish</a></li><li><a href="http://epochtimestr.com/">Turkish</a></li><li><a href="http://persian.epochtimes.com/">Persian</a></li>            </ul>
+        </div>
+        <div class="full_menu_items">
+            <span class="first_col"><div class="menu-front-main-column1-container"><ul id="menu-front-main-column1" class="nav-menu"><li id="menu-item-2298344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-us menu-item-2298344"><a href="https://www.theepochtimes.com/c-us">US</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-news menu-item-2298345"><a href="https://www.theepochtimes.com/c-us-news">US News</a></li>
+	<li id="menu-item-2298346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-features menu-item-2298346"><a href="https://www.theepochtimes.com/c-us-features">US Features</a></li>
+	<li id="menu-item-2298348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298348"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+	<li id="menu-item-2880426" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-trump-presidency menu-item-2880426"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></li>
+	<li id="menu-item-2638693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-crime-and-incidents menu-item-2638693"><a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a></li>
+	<li id="menu-item-2638696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-new-york menu-item-2638696"><a href="https://www.theepochtimes.com/c-nyc">New York</a></li>
+	<li id="menu-item-2654668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-san-francisco menu-item-2654668"><a href="https://www.theepochtimes.com/c-nor-cal-san-francisco">San Francisco</a></li>
+	<li id="menu-item-2654669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-los-angeles menu-item-2654669"><a href="https://www.theepochtimes.com/c-so-cal-los-angeles">Los Angeles</a></li>
+</ul>
+</li>
+<li id="menu-item-2638699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-opinion menu-item-2638699"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-thinking-about-china menu-item-2638700"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></li>
+	<li id="menu-item-2638701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-viewpoints menu-item-2638701"><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></li>
+	<li id="menu-item-2833178" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-declassified menu-item-2833178"><a href="https://www.theepochtimes.com/c-declassified">Declassified</a></li>
+	<li id="menu-item-2833181" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-american-thought-leaders menu-item-2833181"><a href="https://www.theepochtimes.com/c-american-thought-leaders">American Thought Leaders</a></li>
+</ul>
+</li>
+</ul></div></span>
+            <span class="second_col"><div class="menu-front-main-column2-container"><ul id="menu-front-main-column2" class="nav-menu"><li id="menu-item-2638657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-china menu-item-2638657"><a href="https://www.theepochtimes.com/c-china">China</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-us-news menu-item-2638661"><a href="https://www.theepochtimes.com/c-china-us-news">China-US News</a></li>
+	<li id="menu-item-2638685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-regime menu-item-2638685"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></li>
+	<li id="menu-item-2638658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business-economy menu-item-2638658"><a href="https://www.theepochtimes.com/c-business-economy">Business &#038; Economy</a></li>
+	<li id="menu-item-2638663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-culture menu-item-2638663"><a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a></li>
+	<li id="menu-item-2638659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-human-rights menu-item-2638659"><a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a></li>
+	<li id="menu-item-2638660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-society menu-item-2638660"><a href="https://www.theepochtimes.com/c-society">China Society</a></li>
+	<li id="menu-item-2638667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-organ-harvesting-in-china menu-item-2638667"><a href="https://www.theepochtimes.com/c-organ-harvesting-in-china">Organ Harvesting in China</a></li>
+</ul>
+</li>
+<li id="menu-item-2638669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-world menu-item-2638669"><a href="https://www.theepochtimes.com/c-world">World</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-africa menu-item-2638670"><a href="https://www.theepochtimes.com/c-africa">Africa</a></li>
+	<li id="menu-item-2638671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-americas menu-item-2638671"><a href="https://www.theepochtimes.com/c-americas">Americas</a></li>
+	<li id="menu-item-2638672" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-asia-pacific menu-item-2638672"><a href="https://www.theepochtimes.com/c-asia-pacific">Asia &#038; Pacific</a></li>
+	<li id="menu-item-2638673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-canada menu-item-2638673"><a href="https://www.theepochtimes.com/c-canada">Canada</a></li>
+	<li id="menu-item-2638674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-europe menu-item-2638674"><a href="https://www.theepochtimes.com/c-europe">Europe</a></li>
+	<li id="menu-item-2654636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-uk menu-item-2654636"><a href="https://www.theepochtimes.com/c-uk">UK</a></li>
+	<li id="menu-item-2654635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-australia menu-item-2654635"><a href="https://www.theepochtimes.com/c-australia">Australia</a></li>
+	<li id="menu-item-2638677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-international menu-item-2638677"><a href="https://www.theepochtimes.com/c-international">International</a></li>
+	<li id="menu-item-2638679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-middle-east menu-item-2638679"><a href="https://www.theepochtimes.com/c-middle-east">Middle East</a></li>
+</ul>
+</li>
+<li id="menu-item-2298376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-business menu-item-2298376"><a href="https://www.theepochtimes.com/c-business">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-companies menu-item-2298377"><a href="https://www.theepochtimes.com/c-companies">Companies</a></li>
+	<li id="menu-item-2298378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-economies menu-item-2298378"><a href="https://www.theepochtimes.com/c-economies">Economies</a></li>
+	<li id="menu-item-2298379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-markets menu-item-2298379"><a href="https://www.theepochtimes.com/c-markets">Markets</a></li>
+	<li id="menu-item-2298380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-real-estate menu-item-2298380"><a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a></li>
+</ul>
+</li>
+</ul></div></span>
+            <span class="third_col"><div class="menu-front-main-column3-container"><ul id="menu-front-main-column3" class="nav-menu"><li id="menu-item-2298402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-arts menu-item-2298402"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298404" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-shen-yun-special-coverage menu-item-2298404"><a href="https://www.theepochtimes.com/c-shen-yun">Shen Yun Special Coverage</a></li>
+	<li id="menu-item-2298406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-performing-arts menu-item-2298406"><a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a></li>
+	<li id="menu-item-2298407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fine-arts menu-item-2298407"><a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts</a></li>
+	<li id="menu-item-2298408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-literature menu-item-2298408"><a href="https://www.theepochtimes.com/c-literature">Literature</a></li>
+</ul>
+</li>
+<li id="menu-item-2638641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-science menu-item-2638641"><a href="https://www.theepochtimes.com/c-science">Science</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638642"><a href="https://www.theepochtimes.com/c-science-news">News</a></li>
+	<li id="menu-item-2638645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-space menu-item-2638645"><a href="https://www.theepochtimes.com/c-space">Space</a></li>
+	<li id="menu-item-2638646" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-environment menu-item-2638646"><a href="https://www.theepochtimes.com/c-environment">Environment</a></li>
+</ul>
+</li>
+<li id="menu-item-2638648" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-title-tech menu-item-2638648"><a href="https://www.theepochtimes.com/c-tech">Tech</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638649" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-tech-news menu-item-2638649"><a href="https://www.theepochtimes.com/c-tech-news">Tech News</a></li>
+	<li id="menu-item-2638650" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-products-reviews menu-item-2638650"><a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &#038; Reviews</a></li>
+	<li id="menu-item-2638651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-social-media menu-item-2638651"><a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a></li>
+</ul>
+</li>
+<li id="menu-item-2638653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2638653"><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
+<li id="menu-item-2664345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2664345"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
+<li id="menu-item-2909260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-video menu-item-2909260"><a href="https://www.theepochtimes.com/c-video">Video</a>
+<ul class="sub-menu">
+	<li id="menu-item-2909265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-humanity menu-item-2909265"><a href="https://www.theepochtimes.com/c-humanity">Humanity</a></li>
+	<li id="menu-item-2909263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-amazing menu-item-2909263"><a href="https://www.theepochtimes.com/c-amazing">Amazing</a></li>
+	<li id="menu-item-2909262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-animal-videos menu-item-2909262"><a href="https://www.theepochtimes.com/c-animals-video">Animal videos</a></li>
+	<li id="menu-item-2909264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-funny menu-item-2909264"><a href="https://www.theepochtimes.com/c-funny">Funny</a></li>
+</ul>
+</li>
+</ul></div></span>
+            <span class="fourth_col"><div class="menu-front-main-column4-container"><ul id="menu-front-main-column4" class="nav-menu"><li id="menu-item-2298413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-life menu-item-2298413"><a href="https://www.theepochtimes.com/c-life">Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-slice-of-life menu-item-2298414"><a href="https://www.theepochtimes.com/c-slice-of-life">Slice of Life</a></li>
+	<li id="menu-item-2638610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-good-to-know menu-item-2638610"><a href="https://www.theepochtimes.com/c-good-to-know">Good to Know</a></li>
+	<li id="menu-item-2298416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-inspired menu-item-2298416"><a href="https://www.theepochtimes.com/c-inspired">Inspired</a></li>
+	<li id="menu-item-2298418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-careers menu-item-2298418"><a href="https://www.theepochtimes.com/c-careers">Careers</a></li>
+	<li id="menu-item-2298419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-family menu-item-2298419"><a href="https://www.theepochtimes.com/c-family-life-2">Family</a></li>
+	<li id="menu-item-2298421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-travel menu-item-2298421"><a href="https://www.theepochtimes.com/c-travel">Travel</a></li>
+	<li id="menu-item-2833173" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-better-life menu-item-2833173"><a href="https://www.theepochtimes.com/c-better-life">Better Life</a></li>
+	<li id="menu-item-2886462" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-autos menu-item-2886462"><a href="https://www.theepochtimes.com/c-autos">Autos</a></li>
+</ul>
+</li>
+<li id="menu-item-2638612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-entertainment menu-item-2638612"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-reviews menu-item-2638613"><a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a></li>
+	<li id="menu-item-2638614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-tv menu-item-2638614"><a href="https://www.theepochtimes.com/c-film-tv">Film &#038; TV</a></li>
+	<li id="menu-item-2638615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment-news menu-item-2638615"><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></li>
+</ul>
+</li>
+<li id="menu-item-2638618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-wellness menu-item-2638618"><a href="https://www.theepochtimes.com/c-health">Wellness</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638619"><a href="https://www.theepochtimes.com/c-health-news">News</a></li>
+	<li id="menu-item-2638622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fitness-nutrition menu-item-2638622"><a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &#038; Nutrition</a></li>
+	<li id="menu-item-2638623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-traditional-chinese-medicine menu-item-2638623"><a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Traditional Chinese Medicine</a></li>
+	<li id="menu-item-2638624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-alternative-health menu-item-2638624"><a href="https://www.theepochtimes.com/c-alternative-health">Alternative Health</a></li>
+	<li id="menu-item-2638626" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-treatments-and-techniques menu-item-2638626"><a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a></li>
+</ul>
+</li>
+</ul></div></span>
+        </div>
+        <div class="copyright clear">Copyright @ 2000 - 2019</div>
+    </div>
+    <div id="backtotop">
+        <a title="back to top" href="javascript:void(0);" class="totop"></a>
+    </div>
+    <div class="cookie-bar">
+            <span class="warning-text">We use cookies to understand how you use our site and to improve your experience. This includes personalizing content and advertising. By continuing to use our site, you accept our use of cookies, revised Privacy Policy and Terms of Use.</span>
+            <span class="read-more"><a href="https://www.theepochtimes.com/privacy-notice">More information</a></span><span class="accept-btn"><a href="#">I accept</a></span><span id="top_close"><a href="javascript:void(0)" id="x_close">&#215;</a></span>
+		</div></footer>
+	<script type='text/javascript' src='//vs.youmaker.com/js/jwplayer/jwplayer8-all.js'></script>
+	<link rel='stylesheet' target="_blank" href='//vs.youmaker.com/css/api2.css' type='text/css' media='all' />
+	<script>
+	  if ( typeof(eet_primary_category) != "undefined" && eet_primary_category !== null ) {
+		  ga('set', 'dimension1', eet_primary_category);
+	  }
+	  if ( typeof(eet_cat_ids) != "undefined" && eet_cat_ids !== null ) {
+		  ga('set', 'dimension3', ";" + eet_cat_ids + ";");
+	  }
+	  if ( typeof(eet_term_ids) != "undefined" && eet_term_ids !== null ) {
+		  ga('set', 'dimension4', ";" + eet_term_ids + ";");
+	  }
+	  if ( typeof(eet_all_term_ids) != "undefined" && eet_all_term_ids !== null ) {
+		  ga('set', 'dimension5', ";" + eet_all_term_ids + ";");
+	  }
+	  if ( typeof(eet_post_id) != "undefined" && eet_post_id !== null ) {
+		  ga('set', 'dimension21', eet_post_id);
+	  }
+	  if ( typeof(eet_author_nicename) != "undefined" && eet_author_nicename !== null ) {
+		  ga('set', 'dimension22', eet_author_nicename);
+	  }
+	  if ( typeof(eet_author_name) != "undefined" && eet_author_name !== null ) {
+		  ga('set', 'dimension23', eet_author_name);
+	  }
+	  if ( typeof(eet_primary_category_name) != "undefined" && eet_primary_category_name !== null ) {
+		  ga('set', 'dimension26', eet_primary_category_name);
+	  }
+	  if ( typeof(eet_cat_names) != "undefined" && eet_cat_names !== null ) {
+		  ga('set', 'dimension28', ";" + eet_cat_names + ";");
+	  }
+	  if ( typeof(eet_tags) != "undefined" && eet_tags !== null ) {
+		  ga('set', 'dimension29', ";" + eet_tags + ";");
+	  }
+	  if ( typeof(eet_publish_date) != "undefined" && eet_publish_date !== null ) {
+		  ga('set', 'dimension30', eet_publish_date);
+	  }
+	  if ( typeof(eet_last_updated_date) != "undefined" && eet_last_updated_date !== null ) {
+		  ga('set', 'dimension31', eet_last_updated_date);
+	  }
+	  if ( typeof(eet_word_count) != "undefined" && eet_word_count !== null ) {
+		  ga('set', 'dimension33', eet_word_count);
+	  }
+
+	  if ( typeof(epoch.uuid) != "undefined" && epoch.uuid !== null ) {
+		  ga('set', 'dimension38', epoch.uuid);
+	  }
+
+	  if ( typeof(eet_tags_slugs) != "undefined" && eet_tags_slugs !== null ) {
+		  ga('set', 'dimension42', ";" + eet_tags_slugs + ";");
+	  }
+	  if ( typeof(eet_page_type) != "undefined" && eet_page_type !== null ) {
+		  ga('set', 'dimension43', eet_page_type);
+	  }
+
+	  // load parameters from URL and save them into custom dimension
+	  var eet_ref = getUrlParameter('ref');
+	  var eet_refcat = getUrlParameter('refcat');
+	  var eet_refname = getUrlParameter('refname');
+	  var eet_refpos = getUrlParameter('refpos');
+	  if (eet_ref) {
+		  ga('set', 'dimension34', eet_ref);
+	  }
+	  if (eet_refcat) {
+		  ga('set', 'dimension35', eet_refcat);
+	  }
+	  if (eet_refname) {
+		  ga('set', 'dimension36', eet_refname);
+	  }
+	  if (eet_refpos) {
+		  ga('set', 'dimension37', eet_refpos);
+	  }
+	  var url_path = window.location.pathname;
+	  if (url_path.indexOf('theepochtimes.com') > 0) {
+		  var arr_path = url_path.split('theepochtimes.com');
+		  if (arr_path.length == 2) {
+			  url_path = arr_path[1];
+		  }
+	  }
+	  ga('send', 'pageview', url_path);
+
+	  function getUrlParameter(name) {
+		  name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+		  var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+		  var results = regex.exec(location.search);
+		  return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+	  };
+
+	</script>
+
+	<script type='text/javascript' src='https://www.theepochtimes.com/assets/themes/eet/js/jquery-all.min.js?ver=20170224'></script>
+<script type='text/javascript' src='https://www.theepochtimes.com/assets/themes/eet/js/bottom.js?ver=20190223'></script>
+<script type='text/javascript' src='https://www.theepochtimes.com/assets/themes/eet/js/article_ads_entry.js?ver=20190626'></script>
+</body>
+</html>

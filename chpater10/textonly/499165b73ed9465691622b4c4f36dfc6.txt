@@ -1,0 +1,4 @@
+MalwareTech, the Security Researcher Who Stopped WannaCry Ransomware, Gets No Prison Time for Hacking Crimes
+Marcus Hutchins, the 25-year-old researcher who helped stop the dangerous malware WannaCry on its tracks, gets a sentence of served time and will not go to prison. 
+ The two counts of hacking crimes Hutchins pleaded guilty to each carried a maximum sentence of 5 years in prison, $250,000 in fines, and up to 1 year of supervised release. The judge weighed his role in stopping WannaCry, as well as the prosecutorâs failure to show how much damage Kronos actually made, in giving Hutchins a lower sentence. 
+With his sentence of time served, Hutchins will not spend any time in prison; he has spent the majority of his time since being arrested in Los Angeles with an ankle monitor.

@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ffffff">
+<meta name="theme-color" content="#ffffff">
+  <meta charset="utf-8" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed.png" />
+<meta name="keywords" content="Glen Greenwald, Brazil, Latin America, Jair Bolsonaro, Bolsonaro" />
+<link rel="image_src" href="https://morningstaronline.co.uk/sites/default/files/Untitled_51.jpg" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://morningstaronline.co.uk/article/w/greenwald-vows-to-stay-in-brazil-despite-threats-from-bolsonaro" />
+<link rel="shortlink" href="https://morningstaronline.co.uk/node/74076" />
+<meta property="og:site_name" content="Morning Star" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Greenwald vows to stay in Brazil despite threats from Bolsonaro" />
+<meta property="og:url" content="https://morningstaronline.co.uk/article/w/greenwald-vows-to-stay-in-brazil-despite-threats-from-bolsonaro" />
+<meta property="og:updated_time" content="2019-07-28T18:11:05+01:00" />
+<meta property="og:image" content="https://morningstaronline.co.uk/sites/default/files/Untitled_51.jpg" />
+<meta property="og:image" content="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://morningstaronline.co.uk/article/w/greenwald-vows-to-stay-in-brazil-despite-threats-from-bolsonaro" />
+<meta name="twitter:title" content="Greenwald vows to stay in Brazil despite threats from Bolsonaro" />
+<meta name="twitter:image" content="https://morningstaronline.co.uk/sites/default/files/Untitled_51.jpg" />
+<meta property="article:published_time" content="2019-07-28T16:27:18+01:00" />
+<meta property="article:modified_time" content="2019-07-28T18:11:05+01:00" />
+  <title>Greenwald vows to stay in Brazil despite threats from Bolsonaro | Morning Star</title>
+  <link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_ntAxQjrPfR8aE__bwUKA9XjTIXJKlPkTVlgb1i183qc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_daOLLOhOspZycTnC6NZIyiME-g82a2alx52QN30a9QA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_qDSNyEbrvMQC95nyObMRpDbOyccg-FfpwMGIW4OK9HA.css" media="all" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")</script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_ALflW1qsV-wPL6o1rSDEQRU4nUcXy95j4wWybir5MUc.js"></script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_TVTqjz8JHRb2KK9hlzuk0YsjzD013dKyYX_OTz-2VXU.js"></script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_KTYhJPQGKyRIWTpR0MLx3ZOt5sO0Zed3rPhdZQArkeU.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-119559268-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_Z9P0lQN2K9izckKF0BCwZ7k6QKWG6DiV8U_xIHZ66Hk.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"facetapi":{"view_args":{"byline:block_1":["74076","74076","74076","74076","74076","74076","74076","74076","74076","74076","74076","74076"],"media_slideshow_on_node:block_2":["74076","74076","74076","74076","74076","74076","74076","74076","74076","74076","74076"],"others_liked:attachment_1":["74076","74076","74076","74076","74076","74076","74076","74076","74076","74076"],"others_liked:block_1":["74076","74076","74076","74076","74076","74076","74076","74076","74076"],"frontpage_views:panel_pane_17":[],"frontpage_views:panel_pane_18":[],"frontpage_views:panel_pane_19":[],"frontpage_views:panel_pane_4":[],"others_liked:panel_pane_1":[],"editorial_in_menu:block":[],"editorial_in_menu:block-1":[],"top_promotions:block_1":[]},"exposed_input":{"byline:block_1":[],"media_slideshow_on_node:block_2":[],"others_liked:attachment_1":[],"others_liked:block_1":[],"frontpage_views:panel_pane_17":[],"frontpage_views:panel_pane_18":[],"frontpage_views:panel_pane_19":[],"frontpage_views:panel_pane_4":[],"others_liked:panel_pane_1":[],"editorial_in_menu:block":[],"editorial_in_menu:block-1":[],"top_promotions:block_1":[]},"view_path":{"byline:block_1":null,"media_slideshow_on_node:block_2":null,"others_liked:attachment_1":null,"others_liked:block_1":null,"frontpage_views:panel_pane_17":null,"frontpage_views:panel_pane_18":null,"frontpage_views:panel_pane_19":null,"frontpage_views:panel_pane_4":null,"others_liked:panel_pane_1":null,"editorial_in_menu:block":null,"editorial_in_menu:block-1":null,"top_promotions:block_1":null},"view_dom_id":{"byline:block_1":"8847244788203437fc24aeef8813d3a5","media_slideshow_on_node:block_2":"13cbaf9726482465320109c6a5b9c7f9","others_liked:attachment_1":"851d58fada01f5fcb37ae63198370c2d","others_liked:block_1":"851d58fada01f5fcb37ae63198370c2d","frontpage_views:panel_pane_17":"f04e9ca56c59e266a3e1785a7f97e9f8","frontpage_views:panel_pane_18":"cdc1328a35a7c69b8c17b4ce4c800021","frontpage_views:panel_pane_19":"b8cfe5bb8efb2199a1a92fe3642a309d","frontpage_views:panel_pane_4":"dfce25e0344af6455f2a007df6ea244e","others_liked:panel_pane_1":"9e5b20d90e451261d23e83bb92d71423","editorial_in_menu:block":"fc92594b2b71901a22149e826728a035","editorial_in_menu:block-1":"16a09cb88a1d5f5453789472dbf05a70","top_promotions:block_1":"556f7b1a7a4566d92a0ec5cffa1893d5"}},"owlcarousel":{"owl-carousel-block_25":{"settings":{"items":1,"itemsDesktop":[null,0],"itemsDesktopSmall":[null,0],"itemsTablet":[null,0],"itemsTabletSmall":[null,0],"itemsMobile":[null,0],"singleItem":false,"itemsScaleUp":false,"slideSpeed":200,"paginationSpeed":800,"rewindSpeed":1000,"autoPlay":5000,"stopOnHover":false,"navigation":true,"navigationText":["prev","next"],"rewindNav":true,"scrollPerPage":false,"pagination":true,"paginationNumbers":false,"responsive":true,"responsiveRefreshRate":200,"baseClass":"owl-carousel","theme":"owl-theme","lazyLoad":true,"lazyFollow":true,"lazyEffect":"fadeIn","autoHeight":false,"jsonPath":false,"jsonSuccess":false,"dragBeforeAnimFinish":true,"mouseDrag":true,"touchDrag":true,"addClassActive":false,"transitionStyle":false},"views":{"ajax_pagination":null}}},"responsive_menus":[{"selectors":["#nav ul.menu"],"trigger_txt":"\u003Cdiv id=\u0022nav-icon\u0022\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n\u003C\/div\u003E","side":"left","speed":"200","media_size":"5000","displace":"0","renaming":1,"onOpen":"","onClose":"","responsive_menus_style":"sidr"}],"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOK, I agree\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":1,"popup_height":"auto","popup_width":0,"popup_delay":1000,"popup_link":"\/page\/privacy-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/article\/w\/greenwald-vows-to-stay-in-brazil-despite-threats-from-bolsonaro":true,"\/article\/w\/greenwald-vows-to-stay-in-brazil-despite-threats-from-bolsonaro?destination=node\/74076":true}});</script>
+  <script src="https://use.typekit.net/nsh3nks.js"></script>
+  <script type="text/javascript">try{Typekit.load({active:function(){main()}});}catch(e){}</script>
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,700" rel="stylesheet">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-104426970-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-8487906312964002",
+    enable_page_level_ads: true
+  });
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-74076 node-type-article   section-article">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <header id="header">
+	<div class="branding" id="branding">
+		<div class="branding-inner"><div class="panel-pane pane-page-logo">
+            <a href="/" rel="home" id="logo" title="Home"><img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/logo.svg" alt="Home" /></a>    </div>
+<div class="panel-pane pane-custom pane-2 search">
+            <p><button id="search-top"><img src="/sites/all/themes/custom/morningstar_online/images/search.svg" /></button></p>
+    </div>
+<div class="panel-pane pane-block pane-system-user-menu user-menu">
+            <ul class="menu"><li class="first last leaf modal"><a href="/user/login?current=node/74076">Log in</a></li>
+</ul>    </div>
+<div class="panel-pane pane-block pane-menu-menu-cta">
+            <ul class="menu"><li class="first leaf"><a href="/subscribe">Subscribe</a></li>
+<li class="leaf"><a href="/page/support-us">Support Us</a></li>
+<li class="leaf"><a href="https://shop.morningstaronline.co.uk/">Shop</a></li>
+<li class="leaf"><a href="/page/campaign-week">Campaign of the Week</a></li>
+<li class="leaf"><a href="https://morningstaronline.co.uk/page/contact-us">Contact Us</a></li>
+<li class="last leaf"><a href="https://morningstaronline.us19.list-manage.com/subscribe/post?u=896177e8893bb5ec9b3f0d8d7&amp;id=5fa846e5af">Newsletters</a></li>
+</ul>    </div>
+			<nav id="nav"><ul class="menu"><li class="first leaf"><a href="/categories/britain" title="Britain">Britain</a></li>
+<li class="leaf"><a href="/categories/world" title="World">World</a></li>
+<li class="leaf"><a href="/categories/features" title="Features">Features</a></li>
+<li class="leaf"><a href="/categories/editorial" title="Editorial">Editorial</a></li>
+<li class="leaf"><a href="/categories/arts" title="Culture">Culture</a></li>
+<li class="leaf"><a href="/categories/sport" title="Sport">Sport</a></li>
+<li class="leaf"><a href="/letters">Letters</a></li>
+<li class="leaf"><div class="menu-attach-block-wrapper">
+	<div id="block-views-editorial-in-menu-block--2" class="block block--views block--views-editorial-in-menu-block--2">
+        <h2 class="block__title">LATEST EDITORIAL</h2>
+      <div class="block__content">
+      
+          <a href="/article/e/high-court-judgment-on-mass-surveillance-makes-legal-what-the-secret-state-already-does" class="menu-editorial">Editorial:  High Court judgment on mass surveillance makes legal what the secret state already does</a>    </div>
+</div>
+</div>
+</li>
+<li class="last leaf" id="backtotop"><span class="nolink">BACK TO TOP</span></li>
+</ul></nav>
+		</div>
+	</div>
+	<div id="search"><div class="panel-pane pane-block pane-search-api-page-search-results">
+            <form class="search-api-page-search-form-search-results" action="/article/w/greenwald-vows-to-stay-in-brazil-despite-threats-from-bolsonaro" method="post" id="search-api-page-search-form-search-results" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-1">
+  <label class="element-invisible" for="edit-keys-1">Enter your keywords </label>
+ <input placeholder="Enter your keywords" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="1" />
+<input type="submit" id="edit-submit-1" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-UoZORM-vPgjfN6vCl1RESfQzGUxEGHLA82wDp-h_lzY" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_search_results" />
+</div></form>    </div>
+<div class="clearfix"></div></div>
+	</header>
+<div class="contents"><div id="node-content">
+	<article about="/article/w/greenwald-vows-to-stay-in-brazil-despite-threats-from-bolsonaro" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--full node--article--full">
+<div class="pre-headline">
+	<div class="byline">
+		              
+          <div class="author"><a href="/author/6"> Steve Sweeney</a></div><time><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-07-28T00:00:00+01:00">Sunday, July 28, 2019</span></time>    	</div>
+
+
+
+	<div class="addthis_inline_share_toolbox desktop"></div>
+	<div class="clearfix"></div>
+</div>
+<h1 class="article-headline">Greenwald vows to stay in Brazil despite threats from Bolsonaro</h1>
+<h2></h2>
+<div class="view view-media-slideshow-on-node view-id-media_slideshow_on_node view-display-id-block_2 view-dom-id-13cbaf9726482465320109c6a5b9c7f9">
+        
+  
+  
+      <div class="view-content">
+      <div class="owl-carousel-block_25 disabled"><div class="item-0 item-odd">  
+          
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/article_full/public/Untitled_51.jpg?itok=Kf92IQPl&amp;c=d9c61f030301345d3842efcda85806a8" alt="" />	<figcaption>
+		<div class="credit-logo"><img src="/sites/all/themes/custom/morningstar_online/images/logo_mark_neg.svg"/></div>
+		<div class="caption">
+  US journalist Glen Greenwald<span class="credits"></span></div>
+		<div class="clearfix"></div>
+	</figcaption>  </div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="article-content aside">
+
+	
+	
+	<style>
+	/* The Modal (background) */
+	.modal-pay-wall {
+		/* display: none; Hidden by default */
+		position: fixed; /* Stay in place */
+		z-index: 1; /* Sit on top */
+		left: 0;
+		top: 0;
+		width: 100%; /* Full width */
+		height: 100%; /* Full height */
+		overflow: auto; /* Enable scroll if needed */
+		background-color: rgb(0,0,0); /* Fallback color */
+		background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+		-webkit-animation-name: fadeIn; /* Fade in the background */
+		-webkit-animation-duration: 0.4s;
+		animation-name: fadeIn;
+		animation-duration: 0.4s
+	}
+
+	/* Modal Content */
+	.modal-pay-wall-content {
+		position: fixed;
+		bottom: 0;
+		background-color: #f2c71c;
+		width: 100%;
+		-webkit-animation-name: slideIn;
+		-webkit-animation-duration: 0.4s;
+		animation-name: slideIn;
+		animation-duration: 0.4s
+	}
+
+	/* The Close Button */
+	.close {
+		color: white;
+		float: right;
+		font-size: 28px;
+		font-weight: bold;
+	}
+
+	.close:hover,
+	.close:focus {
+		color: #000;
+		text-decoration: none;
+		cursor: pointer;
+	}
+
+	.modal-pay-wall-body {padding: 2px 16px;}
+
+	/* Add Animation */
+	@-webkit-keyframes slideIn {
+		from {bottom: -300px; opacity: 0} 
+		to {bottom: 0; opacity: 1}
+	}
+
+	@keyframes slideIn {
+		from {bottom: -300px; opacity: 0}
+		to {bottom: 0; opacity: 1}
+	}
+
+	@-webkit-keyframes fadeIn {
+		from {opacity: 0} 
+		to {opacity: 1}
+	}
+
+	@keyframes fadeIn {
+		from {opacity: 0} 
+		to {opacity: 1}
+	}
+</style>
+
+
+<!-- The Modal -->
+<div id="myModal" class="modal-pay-wall">
+
+  <!-- Modal content -->
+  <div class="modal-pay-wall-content">
+      <span class="close">&times;</span>
+    <div class="modal-pay-wall-body">
+		<h2 align="center">You can read 9 more articles this month</h2>		<h2 align="center" style="margin-top:6px;"><a href="https://morningstaronline.co.uk/subscribe" style="color: #f44336; background-color: white; padding: 6px 50px; text-align: center; text-decoration: none; display: inline-block;">Please help support the <em>Morning Star</em> by subscribing here</a></h2>
+		</div>
+  </div>
+</div>
+
+	
+  <div class="field--body">
+    <p>JOURNALIST Glenn Greenwald has vowed to stay in Brazil despite threats from far-right President Jair Bolsonaro to jail him for claiming that Justice Minister Sergio Moro is corrupt.</p>
+<p>Mr Bolsonaro warned that the Rio-based US journalist “may be imprisoned” for publishing information on news website The Intercept that alleged Mr Moro had been part of a plot to keep left-wing former president Luiz Inacio “Lula” da Silva in prison.</p>
+<p>But Mr Greenwald hit back, saying the President “does not have the power to order people to prison."</p>
+<p>“Contrary to Bolsonaro's wishes, he is not (yet) a dictator. He has no power to order people to be arrested.</p>
+<p>“There are still courts in operation. To arrest someone, you have to present evidence to a court that they have committed a crime. This evidence does not exist.”</p>
+<p>He said that he would not be intimidated by the threats and would remain in the country.</p>
+<p>“I have the power to leave Brazil voluntarily — and I had that power all the time. But I did not and will not, despite these threats. Because? Because I know there’s nothing against me. I will defend the democracy of my children’s country,” he said.</p>
+<p>The row erupted after The Intercept published articles that included evidence of phone and Telegram app messages between Mr Moro, then the judge in charge of the Car Wash corruption cases, and Deltan Dallagnol, the main state prosecutor.</p>
+<p>It is alleged that the pair colluded to keep Lula in prison on corruption charges despite a lack of evidence, preventing the popular politician, who was leading in the polls, from running in last year’s presidential election. Mr Bolsonaro won the election and handed Mr Moro his Justice Ministry post soon after.</p>
+<p>A new law was introduced by Mr Moro on Friday allowing “dangerous” foreigners to be removed from the country. Mr Greenwald is married to Brazilian MP David Miranda and the pair have two adopted children. Mr Bolsonaro accused him of plotting the marriage in order to avoid being deported from Brazil.</p>
+<p>“He would not apply to the new rules because he is married to another man and they have adopted children in Brazil. Scoundrel, scoundrel … to avoid a problem he marries another scoundrel and adopts a child in Brazil.</p>
+<p>“You can remain calm [Greenwald], you will not leave,” Mr Bolsonaro raged.</p>
+<p>The Brazilian Association of Investigative Journalism warned: “Without free journalism, the other freedoms will also die. Enough persecution.”</p>
+  </div>
+
+	
+	
+
+	<aside class="right">
+													<div class="infobox related"><h3 class="info-title">Others liked</h3>  	<article about="/article/f/remain-and-regret" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related node--article--related"><a href="/article/f/remain-and-regret">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-43992380.jpg?itok=-6_n8UHp&amp;c=7c11cb798acf6564cabb60f815e4c4f2" alt="" /><time>Sunday 28th Jul 2019</time>
+<div class="title">Remain and Regret</div>
+</a></article>
+<div class="clearfix"></div>    	<article about="/article/beatty-orwell-fighting-good-fight-over-century" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/beatty-orwell-fighting-good-fight-over-century">
+<time>Friday 02nd Nov 2018</time>
+<div class="title">
+  <span class="field--trumpet">
+    Interview  </span>
+ Beatty Orwell, fighting the good fight for over a century</div>
+</a>
+</article>
+<div class="clearfix"></div>	<article about="/articleb/chomsky-told-me-teach-troops-soas-professor-hits-back" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/articleb/chomsky-told-me-teach-troops-soas-professor-hits-back">
+<time>Monday 29th Jul 2019</time>
+<div class="title">‘Chomsky told me to teach troops,’ Soas professor hits back</div>
+</a>
+</article>
+<div class="clearfix"></div>	<article about="/article/f/rebuffing-pretences-alliance-workers-liberty" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/f/rebuffing-pretences-alliance-workers-liberty">
+<time>Monday 29th Jul 2019</time>
+<div class="title">Rebuffing the pretences of the Alliance for Workers’ Liberty</div>
+</a>
+</article>
+<div class="clearfix"></div>	<article about="/article/f/socialism-fools-anti-semitism-labour-party" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/f/socialism-fools-anti-semitism-labour-party">
+<time>Monday 29th Jul 2019</time>
+<div class="title">The socialism of fools: anti-semitism in the Labour Party?</div>
+</a>
+</article>
+<div class="clearfix"></div></div>			</aside>
+	<div class="addthis_inline_share_toolbox mobile"></div>
+<div id="cta-wrapper">
+	<div class="cta">
+		<a href="/page/support-us">
+			<div class="cta-head">Join the 501 Club</div>
+			<div class="left"><p><strong>You can’t buy a revolution, but you can help the only daily paper in
+			Britain that’s fighting for one by joining the 501 club.</strong></p>
+			<p>Just £5 a month gives you the opportunity to win one of 17 prizes, from
+			£25 to the £501 jackpot.</p></div>
+
+			<div class="right"><p>By becoming a 501 Club member you are helping the Morning Star cover its
+			printing, distribution and staff costs — help keep our paper thriving by
+			joining!</p></div>
+			<div class="act-now">Join here »</div>
+			<div class="clearfix"></div>
+		</a>
+	</div>
+
+	<div class="cta">
+		<a href="/page/support-us">
+			<div class="cta-head">Buy Shares</div>
+			<div class="left"><p><strong>You can’t buy a revolution, but you can help the only daily paper in
+			Britain that’s fighting for one by become a member of the People’s
+			Printing Press Society.</strong></p>
+			<p>The Morning Star is a readers’ co-operative, which means you can become
+			an owner of the paper too by buying shares in the society.</p></div>
+			<div class="right"><p>Shares are £1 each — though unlike capitalist firms, each shareholder
+			has an equal say. Money from shares contributes directly to keep our
+			paper thriving.</p>
+			<p>Some union branches have taken out shares of over £500 and individuals
+			over £100.</p></div>
+			<div class="act-now">Buy here »</div>
+			<div class="clearfix"></div>
+		</a>
+	</div>
+	<div class="cta">
+		<a href="/page/support-us">
+			<div class="cta-head">Donate to the Fighting Fund</div>
+
+			<div class="left"><p><strong>You can’t buy a revolution, but you can help the only daily paper in
+			Britain that’s fighting for one by donating to the Fighting Fund.</strong></p>
+
+			<p>The Morning Star is unique, as a lone socialist voice in a sea of
+			corporate media. We offer a platform for those who would otherwise never
+			be listened to, coverage of stories that would otherwise be buried.</p></div>
+
+			<div class="right"><p>The rich don’t like us, and they don’t advertise with us, so we rely on
+			you, our readers and friends. With a regular donation to our monthly
+			Fighting Fund, we can continue to thumb our noses at the fat cats and
+			tell truth to power.</p>
+
+			<p>Donate today and make a regular contribution.</p></div>
+			<div class="act-now">Donate here »</div>
+			<div class="clearfix"></div>
+		</a>
+	</div>
+</div>
+
+</div>
+
+
+</article>
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+
+<script>
+var elems = jQuery("#cta-wrapper .cta");
+if (elems.length) {
+  var keep = Math.floor(Math.random() * elems.length);
+  for (var i = 0; i < elems.length; ++i) {
+    if (i !== keep) {
+      jQuery(elems[i]).hide();
+    }
+  }
+}
+</script>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+<section id="from-front" class="row article">
+	<div class="left"><div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-17 small">
+                  <article about="/article/b/ex-ukip-candidate-employed-foreign-office-censor-diplomatic-telegrams" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-small node--article--teaser-small">
+  <a href="/article/b/ex-ukip-candidate-employed-foreign-office-censor-diplomatic-telegrams">
+    
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/FCO%20%26%20Ukip%20muppet%20_0.jpg?itok=1DuHBLX0&amp;c=d9c61f030301345d3842efcda85806a8" alt="" />    <header>
+            <h1>
+  <span class="field--trumpet">
+    Exclusive:   </span>
+ Ex-UKIP candidate employed by Foreign Office to censor diplomatic telegrams</h1>
+              <h2>
+     </h2>
+          </header>
+  </a>
+  <div class="related"></div>
+
+  </article>
+<div class="clearfix"></div>
+    </div>
+<div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-18 x-small">
+                  <article about="/article/e/high-court-judgment-on-mass-surveillance-makes-legal-what-the-secret-state-already-does" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small">
+  <a href="/article/e/high-court-judgment-on-mass-surveillance-makes-legal-what-the-secret-state-already-does">
+    
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-19564825.jpg?itok=TSX5UBal&amp;c=8af546ef02d8625f7cef6945d227c9df" alt="" />    <header>
+      <div class="category">
+                <span class="cat">
+          
+  Editorial&nbsp;|
+        </span>
+        <time>
+                      Monday 29th Jul 2019                  </time>
+      </div>
+      <h1>
+                  
+  <span class="field--trumpet">
+    Editorial:   </span>
+                High Court judgment on mass surveillance makes legal what the secret state already does      </h1>
+          </header>
+  </a>
+  <div class="clearfix">
+  </div>
+</article>
+    <article about="/article/b/veterans-affairs-office-will-not-help-working-class-troops-ex-soldier-warns" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small">
+  <a href="/article/b/veterans-affairs-office-will-not-help-working-class-troops-ex-soldier-warns">
+    
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-43936748.jpg?itok=uklWz2V0&amp;c=12c10f3987dd8acfe993aff770801ba0" alt="" />    <header>
+      <div class="category">
+                <span class="cat">
+          
+  Britain&nbsp;|
+        </span>
+        <time>
+                      Monday 29th Jul 2019                  </time>
+      </div>
+      <h1>
+                Veterans&#039; Affairs Office will not help working class troops, ex-soldier warns      </h1>
+          </header>
+  </a>
+  <div class="clearfix">
+  </div>
+</article>
+    <article about="/article/b/human-rights-group-liberty-loses-legal-fight-against-snoopers-charter" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small">
+  <a href="/article/b/human-rights-group-liberty-loses-legal-fight-against-snoopers-charter">
+    
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/cctv_security_camera_security_camera_privacy_surveillance_security_systems_guard-661440.jpg?itok=klvuvRDs&amp;c=9a22e9974578f1b94da63ee8cc42d7e4" alt="" />    <header>
+      <div class="category">
+                <span class="cat">
+          
+  Britain&nbsp;|
+        </span>
+        <time>
+                      Monday 29th Jul 2019                  </time>
+      </div>
+      <h1>
+                Human rights group Liberty loses legal fight against snoopers&#039; charter      </h1>
+          </header>
+  </a>
+  <div class="clearfix">
+  </div>
+</article>
+    </div>
+<div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-19 small small-right">
+                  <article about="/article/w/venezuelan-and-cuban-presidents-issue-call-for-regional-unity-against-us-imperialism" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-small-narrow node--article--teaser-small-narrow"><a href="/article/w/venezuelan-and-cuban-presidents-issue-call-for-regional-unity-against-us-imperialism">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/AP_19210015857020.jpg?itok=HpbYQEXc&amp;c=87016503937bf583423d98e960a49029" alt="" /><header>
+<h1>Venezuelan and Cuban presidents issue call for regional unity against US imperialism</h1>
+	<h2><div class="category">
+  World</div>
+  <div class="field--body">
+    <p>VENEZUELAN President Nicolas Maduro was joined by his Cuban counterpart Miguel Diaz-Canel yesterday as they issued a rallying cry for regional unit</p>  </div>
+</h2>
+</header>
+</a></article>
+<div class="clearfix"></div>    </div>
+</div>
+	<div class="right"><div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-4 fp-list">
+          <h2 class="pane-title">Latest stories</h2>
+              <article about="/article/b/government-ignoring-calls-for-legal-aid-funding-at-inquests" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/b/government-ignoring-calls-for-legal-aid-funding-at-inquests">
+<time>Tuesday 30th Jul 2019</time>
+<h1>Government ‘ignoring’ calls for legal aid funding at inquests</h1>
+</a>
+</article>    <article about="/article/b/burning-grenfell-tower-effigy-was-a-mocking-joke-court-hears" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/b/burning-grenfell-tower-effigy-was-a-mocking-joke-court-hears">
+<time>Monday 29th Jul 2019</time>
+<h1>Burning Grenfell Tower effigy was a ‘mocking joke,’ court hears</h1>
+</a>
+</article>    <article about="/article/w/afghan-suicide-bomb-and-gun-attack-kills-20-hours-after-election-campaign-launched" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/w/afghan-suicide-bomb-and-gun-attack-kills-20-hours-after-election-campaign-launched">
+<time>Monday 29th Jul 2019</time>
+<h1>Afghan suicide bomb and gun attack kills 20, hours after election campaign launched</h1>
+</a>
+</article>    <article about="/article/low-pay-teaching" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/low-pay-teaching">
+<time>Monday 29th Jul 2019</time>
+<h1>Low pay teaching</h1>
+</a>
+</article>    <article about="/article/s/ben-stokes-proud-be-renamed-vice-captain" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/s/ben-stokes-proud-be-renamed-vice-captain">
+<time>Monday 29th Jul 2019</time>
+<h1>Ben Stokes proud to be renamed vice-captain</h1>
+</a>
+</article>    <article about="/article/w/chinese-academics-accuse-us-of-human-rights-propaganda-war" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/w/chinese-academics-accuse-us-of-human-rights-propaganda-war">
+<time>Monday 29th Jul 2019</time>
+<h1>Chinese academics accuse US of human rights ‘propaganda war’</h1>
+</a>
+</article>    <article about="/article/b/former-students-of-farages-school-form-campaign-against-him" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/b/former-students-of-farages-school-form-campaign-against-him">
+<time>Monday 29th Jul 2019</time>
+<h1>Former students of Farage&#039;s school form campaign against him </h1>
+</a>
+</article>    </div>
+</div>
+</section>
+<div class="clearfix"></div>
+<section id="most-read" class="row article">
+	<div class="panel-pane pane-views-panes pane-others-liked-panel-pane-1">
+          <h2 class="pane-title">Others liked</h2>
+          	<article about="/article/f/remain-and-regret" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small">
+  <a href="/article/f/remain-and-regret">
+    
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-43992380.jpg?itok=-6_n8UHp&amp;c=7c11cb798acf6564cabb60f815e4c4f2" alt="" />    <header>
+      <div class="category">
+                <span class="cat">
+          
+  Features&nbsp;|
+        </span>
+        <time>
+                      Sunday 28th Jul 2019                  </time>
+      </div>
+      <h1>
+                Remain and Regret      </h1>
+          </header>
+  </a>
+  <div class="clearfix">
+  </div>
+</article>
+	<article about="/article/beatty-orwell-fighting-good-fight-over-century" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small">
+  <a href="/article/beatty-orwell-fighting-good-fight-over-century">
+    
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/Untitled_11.jpg?itok=WaqWJWdP&amp;c=d9c61f030301345d3842efcda85806a8" alt="" />    <header>
+      <div class="category">
+                <span class="cat">
+          
+  Features&nbsp;|
+        </span>
+        <time>
+                      Friday 02nd Nov 2018                  </time>
+      </div>
+      <h1>
+                  
+  <span class="field--trumpet">
+    Interview  </span>
+                Beatty Orwell, fighting the good fight for over a century      </h1>
+          </header>
+  </a>
+  <div class="clearfix">
+  </div>
+</article>
+	<article about="/articleb/chomsky-told-me-teach-troops-soas-professor-hits-back" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small">
+  <a href="/articleb/chomsky-told-me-teach-troops-soas-professor-hits-back">
+    
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/SOAS-12.png?itok=X2_AHgN5&amp;c=96802654e14ee4c6b2813bf256eeaac3" alt="" />    <header>
+      <div class="category">
+                <span class="cat">
+          
+  Britain&nbsp;|
+        </span>
+        <time>
+                      Sunday 28th Jul 2019                  </time>
+      </div>
+      <h1>
+                ‘Chomsky told me to teach troops,’ Soas professor hits back      </h1>
+          </header>
+  </a>
+  <div class="clearfix">
+  </div>
+</article>
+	<article about="/article/f/rebuffing-pretences-alliance-workers-liberty" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small">
+  <a href="/article/f/rebuffing-pretences-alliance-workers-liberty">
+    
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-31330789.jpg?itok=-5pm1VO0&amp;c=4ad2f678c1045bf98f5d36ee15c72716" alt="" />    <header>
+      <div class="category">
+                <span class="cat">
+          
+  Features&nbsp;|
+        </span>
+        <time>
+                      Thursday 25th Jul 2019                  </time>
+      </div>
+      <h1>
+                Rebuffing the pretences of the Alliance for Workers’ Liberty      </h1>
+          </header>
+  </a>
+  <div class="clearfix">
+  </div>
+</article>
+    </div>
+</section>
+<div class="clearfix"></div>
+<section class="row regular seventh">
+	<div class="left">
+		<div class="panel-pane pane-node">
+            <div class="ff-wrapper">
+	<div class="ff-left">
+		<img src="/sites/all/themes/custom/morningstar_online/logo.svg" />
+		
+  <h3>OWNED BY OUR READERS</h3>
+<p>We're a reader-owned co-operative, which means you can become part of the paper too by buying shares in the People’s Press Printing Society.</p>
+		<a href="/page/support-us" class="ff-donate">Become a supporter</a>
+	</div>
+	<div class="ff-right">
+		<div class="ff-header">
+			<img src="/sites/all/themes/custom/morningstar_online/images/ff-logo.png" />
+			<h3>Fighting fund</h3>
+		</div>
+		<div class="raised"><span>You've Raised:</span><span class="digit yellow">£
+  14,532</span></div>
+		<div class="needed"><span>We need:</span><span class="digit">£
+  3,468</span></div>
+		<div class="remaining">
+  1 Days remaining</div>
+		<a href="/page/support-us" class="ff-donate">Donate today</a>
+	</div>
+</div>
+    </div>
+	</div>
+	<div class="right">
+		<div class="panel-pane pane-custom pane-1">
+            <div class="twitter"><a class="twitter-timeline" data-height="509" data-chrome="nofooter" data-link-color="#ca422c" href="https://twitter.com/m_star_online">Tweets by Morning Star</a> 
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+    </div>
+	</div>
+	<div class="clearfix"></div>
+</section>
+<div class="clearfix"></div></div>
+<div class="clearfix"></div>
+<footer id="footer">
+	<div class="first"><div class="panel-pane pane-block pane-system-main-menu">
+            <ul class="menu"><li class="first leaf"><a href="/categories/britain" title="Britain">Britain</a></li>
+<li class="leaf"><a href="/categories/world" title="World">World</a></li>
+<li class="leaf"><a href="/categories/features" title="Features">Features</a></li>
+<li class="leaf"><a href="/categories/editorial" title="Editorial">Editorial</a></li>
+<li class="leaf"><a href="/categories/arts" title="Culture">Culture</a></li>
+<li class="leaf"><a href="/categories/sport" title="Sport">Sport</a></li>
+<li class="leaf"><a href="/letters">Letters</a></li>
+<li class="leaf"><div class="menu-attach-block-wrapper">
+	<div id="block-views-editorial-in-menu-block" class="block block--views block--views-editorial-in-menu-block">
+        <h2 class="block__title">LATEST EDITORIAL</h2>
+      <div class="block__content">
+      
+          <a href="/article/e/high-court-judgment-on-mass-surveillance-makes-legal-what-the-secret-state-already-does" class="menu-editorial">Editorial:  High Court judgment on mass surveillance makes legal what the secret state already does</a>    </div>
+</div>
+</div>
+</li>
+<li class="last leaf" id="backtotop"><span class="nolink">BACK TO TOP</span></li>
+</ul>    </div>
+</div>
+	<div class="second"><div class="inner"><div class="panel-pane pane-custom pane-3 ppps-support">
+            <table><tr><td><img src="/sites/all/themes/custom/morningstar_online/images/logo_mark.svg" /></td>
+<td>
+<h3>Owned by Our Readers</h3>
+<p> We're a reader-owned co-operative, which means you can become part of the paper too by buying shares in the People’s Press Printing Society.</p></td>
+<td><a href="https://morningstaronline.co.uk/page/support-us" class="support">BECOME A SUPPORTER</a></td>
+</tr></table>    </div>
+<div class="panel-pane pane-block pane-menu-menu-terms-and-conditions">
+            <ul class="menu"><li class="first leaf"><a href="/page/privacy-policy">Privacy policy</a></li>
+<li class="leaf"><a href="/page/returns-policy">Returns policy</a></li>
+<li class="last leaf"><a href="/page/terms-use">Terms of use</a></li>
+</ul>    </div>
+</div></div>
+	<div class="third"></div>
+	<div class="fourth"></div>
+</footer>  <script src="https://morningstaronline.co.uk/sites/default/files/js/js_2KlXA4Z5El1IQFVPxDN1aX5mIoMSFWGv3vwsP77K9yk.js"></script>
+<script>jQuery.post(Drupal.settings.basePath + 'jstats.php', {"path":"node\/74076","nid":"74076"});</script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_PsUZFECBunCwJ4mX_UxRXM-OtkUIKjLHPU55njOvc2o.js"></script>
+<script>function euCookieComplianceLoadScripts() {}</script>
+<script>var eu_cookie_compliance_cookie_name = "";</script>
+<script>function euCookieComplianceLoadScripts() {}</script>
+<script>var eu_cookie_compliance_cookie_name = "";</script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_4MRGjqSerJEQxet46pdKTifSYprPwyhoaSNKNoRsFw4.js"></script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58ac43298dec22f7"></script>
+  <script src="/sites/all/themes/custom/morningstar_online/js/js_cookie.js"></script>
+  <div class="query"></div>
+  <!--<div id="newsletter-pop"><div class="inner"><div class="text"><h3>Sign up for our newsletter</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div><div class="cta"><a href="#">Subscribe now</a></div><button id="nl-close">x</button></div></div>
+  <script>
+    jQuery(document).ready(function() {
+      if (Cookies.get('newsletter') == 'dismissed') {
+        jQuery('#newsletter-pop').hide();
+      }
+
+      jQuery('#nl-close').click(function() {
+          jQuery('#newsletter-pop').hide();
+          Cookies.set('newsletter', 'dismissed', {expires: 7 });
+          return false;
+      });
+
+      if (jQuery('#sliding-popup').length) {
+          jQuery("#newsletter-pop").css({'bottom':(jQuery("#sliding-popup").height()+'px')});
+      } else {
+        jQuery("#newsletter-pop").addClass('noeu');
+      }
+
+      jQuery(window).scroll(function () {
+         if (jQuery(window).scrollTop() >= jQuery(document).height() - jQuery(window).height() - 300) {
+            jQuery('#newsletter-pop').addClass('bottom');
+         } else {
+            jQuery('#newsletter-pop').removeClass('bottom');
+         }
+      });
+      jQuery('#sliding-popup .agree-button').click(function() {
+        jQuery("#newsletter-pop").css('bottom', '0');
+        jQuery("#newsletter-pop").addClass('noeu');
+      })
+    });
+  </script>-->
+  <script src="/sites/all/themes/custom/morningstar_online/js/custom.js"></script>
+</body>
+</html>

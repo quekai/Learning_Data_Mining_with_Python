@@ -1,0 +1,645 @@
+<!doctype html><html class="no-js" lang="en"><head><script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Trump Signs Deal To Limit Asylum Claims From Guatemala : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2019-07-26" /><link rel="canonical" href="https://www.npr.org/2019/07/26/745727128/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers" /><meta name="description" content="The agreement comes after Trump threatened to take &quot;very severe&quot; action against Guatemala, possibly including tariffs and a travel ban." /><link rel="alternate" type="application/rss+xml" title="Politics" href="/rss/rss.php?id=1014" /><link rel="alternate" type="application/json" title="Politics" href="https://www.npr.org/feeds/1014/feed.json" /><link rel="apple-touch-icon" sizes="180x180" href="https://media.npr.org/templates/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://media.npr.org/templates/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://media.npr.org/templates/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://media.npr.org/templates/favicon/favicon-16x16.png" /><meta property="og:title" content="Trump Signs Agreement With Guatemala To Limit Asylum Seekers" /><meta property="og:url" content="https://www.npr.org/2019/07/26/745727128/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers" /><meta property="og:type" content="article" /><meta property="og:description" content="The agreement comes after Trump threatened to take &quot;very severe&quot; action against Guatemala, possibly including tariffs and a travel ban." /><meta property="og:image" content="https://media.npr.org/assets/img/2019/07/26/ap_19207735646765_wide-e0458159c833b52d1f6398b8ff43c79ae0cadd0c.jpg?s=1400" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Trump Signs Agreement With Guatemala To Limit Asylum Seekers" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="https://media.npr.org/assets/img/2019/07/26/ap_19207735646765_wide-e0458159c833b52d1f6398b8ff43c79ae0cadd0c.jpg?s=1400" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"readingServiceHostname":"https:\/\/reading.api.npr.org"};
+NPR.serverVars = {"storyId":"745727128","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"c5469f5af21a0a91815a995b0695d99a","isBuildOut":true,"topicIds":["P1014","1001","1002","1003","1004","1070","1127"],"primaryTopic":"Politics","topics":["Politics","News","Home Page Top Stories","National","World","Law","Latin America"],"theme":"1014","aggIds":["1001","1002","1003","1004","1014","1070","1127","434975886"],"byline":["Brian Naylor"],"pubDate":"2019072616","pageTypeId":"1","title":"Trump Signs Agreement With Guatemala To Limit Asylum Seekers","publisherOrgId":"1","rocketfuelCode":20501671};
+</script>
+<script type="text/javascript" src="https://cdn.optimizely.com/js/11107397707.js">
+   </script>
+<script type="text/javascript" src="https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script>
+   !function(a){function e(c){if(f[c])return f[c].exports;var d=f[c]={exports:{},id:c,loaded:!1};return a[c].call(d.exports,d,d.exports,e),d.loaded=!0,d.exports}var c=window.webpackJsonp;window.webpackJsonp=function(b,t){for(var n,r,o=0,i=[];o<b.length;o++)r=b[o],d[r]&&i.push.apply(i,d[r]),d[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":a[n]=function(e){var c=e.slice(1),f=e[0];return function(e,d,b){a[f].apply(this,[e,d,b].concat(c))}}(s);break;case"function":a[n]=s;break;default:a[n]=a[s]}}for(c&&c(b,t);i.length;)i.shift().call(null,e);if(t[0])return f[0]=0,e(0)};var f={},d={25:0};e.e=function(a,c){if(0===d[a])return c.call(null,e);if(void 0!==d[a])d[a].push(c);else{d[a]=[c];var f=document.getElementsByTagName("head")[0],b=document.createElement("script");b.type="text/javascript",b.charset="utf-8",b.async=!0,b.src=e.p+""+a+"."+{0:"98460a2f8b482636dae1",1:"76afd4acd0665f45c34e",2:"926d70bcd3dc9fe7eaec",3:"48ba72a9198377765920",4:"bc6e64a5998bb85b7964",5:"a2b088a1056b8522de9c",6:"3dff306ad336578b4afc",7:"eb9db59b735d3e2b67bc",8:"7e4601fc25848216fc63",9:"2f04fc19cab5c9ecca4c",10:"5a2666db167cfe9afbb8",11:"8570dbedf0e48b8b1fa6",12:"cc1333f5712f25d58289",13:"8ab58fbbfd114448915e",14:"ffd976ac59232bedfa6e",15:"409ff597a92a26988d51",16:"6e2d25407a23e3714040",17:"8063390ec8d39b1fda1c",18:"52692ca5ed2fd9d95412",19:"57afa8b974881726ef6d",20:"990e76b592d35575d327",21:"fcb1760be6722b68cf8c",22:"10dc4865ae2c1b5cbb50",23:"28539013aaecd5bf5491",24:"3a2accd46f984db0397d",26:"1e79db83aa5cae6a273b",27:"89fcdc7515e967a29304",28:"844c5c55648268875089",29:"ed2dd58790d98a9e341d",30:"1ccc9f9eb411b3714fed",31:"9edc89972627c3aa824a",32:"66d600fa8af2ed7b80a4",33:"98a85a2015d5d1da13b2",34:"332356c3462ede49fdc3",35:"b8aedd9580c82b654818",36:"719151635f84ad4f3d1a",37:"6e4612d810b09467594b",38:"d0e270cf87a3d8d23c39",39:"176d9f0688e3977d0720",40:"f9db1daaf5f52eb8ea20",41:"db8c0f3e8d0191b63bde",42:"8bff0dbdd7e672279762",43:"83e67b44f37baa1083f0",44:"9c54c281d0370ef1cc33",45:"43885405840f8a15b9f3",46:"7a7d07a0a61715806dcd",47:"0f67f0f9a2648922e23b",48:"1f78d5f1e53a5bfccfdc",49:"49c6a90429ae47c93f12",50:"fb051afd23c3a9555c4e",51:"e169249c1dbd3d93f496",52:"42158cb15f746b5275e7",53:"7327d028fd39dda3b1ef",54:"333f4325f11d14cc2416",55:"ea607402a72ea48af3db",56:"b6fe4c5c04bf78d40092",57:"c4968b1ebe10a3c844aa",58:"6a7c4ae2f77e5e8ef4d4",59:"e8f53685884b3615c752",60:"12192cd74746693c33d1",61:"585fd321cef96b413556",62:"792bb47125b594e84b7e",63:"97d4af4ea84e5a2a5d39",64:"7175f456294cb57584ba",65:"6ace03a0ef6ea41c7f15",66:"be8a472b0b6d12f580aa",67:"2fc50f53942a38b9ba67",68:"11bec652648b8ad4ce3d",69:"6161005d5299e9982898",70:"e49cc238fad92e2a867b",71:"cfae195ecdcaed21a614",72:"9e1de54cf5afea3195cd",73:"1bb7d78b5402853f0d37",74:"e8bf44532647384128c1",75:"e72a80de3c9403399720",76:"66336dc17620b25d062b",77:"c30a7470f2c39219d20e",78:"f6612a808b56a6000ac5",79:"a0207c0a8987f6f088c7",80:"f24884a37bc8f8f55300",81:"e103bf6365fb0dbcd8df",82:"1a3a4d6bf0f60d789284",83:"51c6f7bddd7affbc6736",84:"329e11e581c99a605a8c",85:"7597fe98fdbb9b9c0da4"}[a]+".chunk.js",f.appendChild(b)}},e.m=a,e.c=f,e.p="/templates/javascript/dist/bundles/"}(function(a){for(var e in a)if(Object.prototype.hasOwnProperty.call(a,e))switch(typeof a[e]){case"function":break;case"object":a[e]=function(e){var c=e.slice(1),f=a[e[0]];return function(a,e,d){f.apply(this,[a,e,d].concat(c))}}(a[e]);break;default:a[e]=a[a[e]]}return a}([]));
+</script>
+<script type="text/javascript" src="https://s.npr.org/templates/javascript/dist/bundles/globalNavigationDropdowns-89fcdc7515e967a29304.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/persistent-css-2915725a5f3970a4cc75.css" /><link rel="stylesheet" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/newsStory-css-2915725a5f3970a4cc75.css" /><link rel="stylesheet" media="screen" href="https://s.npr.org/branding/sections/politics/branding.css" /><link rel="stylesheet" media="screen" href="https://s.npr.org/include/overridecss/theme1014.css" /><script type="text/javascript">
+   document.domain="npr.org";
+</script>
+</head><body id="news" class="news tmplNewsStory  story-layout is-buildout no-transcript has-no-branding id745727128 " data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen nielsenDCR rocketfuel copyright auto-refresh navigation/global-navigation fitvids dfp globalfooter persistent-audio player/more-options what-input metrics/doubleclickFloodlight metrics/facebookTracking story/replace-centerstage ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement swfbuilder contentfooter story/sticky-header story/date-tooltip callout/end-of-story-callout social/sharepop podcast-cards search/faceting-param local/newsletter/callout social/recaptcha"><div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/customer/en/portal/articles/2535181-what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player-" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header class="npr-header" id="globalheader" aria-label="NPR header"><nav class="navigation" aria-label="main navigation">
+    <div class="navigation__top-level-wrap" data-metrics-all data-metrics-category="global navigation">
+        <ul class="navigation__top-level">
+            <li class="navigation__home">
+                <a href="/" data-metrics-action="click npr logo">
+                    <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+                </a>
+            </li>
+
+            <li id="navigation__station-mount"></li>
+
+            <li id="user-account-dropdown-mount" class="navigation__account"></li>
+
+            <li class="navigation__shop">
+                <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+            </li>
+
+            <li id="navigation__station-donate-mount"></li>
+
+            <li class="navigation__toggle-wrap">
+                <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-action="open navigation menu">
+                    Open Navigation Menu
+                </button>
+            </li>
+        </ul>
+    </div>
+    <section id="main-menu" class="menu menu--main" data-metrics-all data-metrics-category="global navigation">
+        <div class="menu__inner">
+            <header class="menu__header">
+                <button id="navigation__toggle--close" class="navigation__toggle navigation__toggle--close" aria-haspopup="true" aria-expanded="true" data-metrics-action="close navigation menu">
+                    Close <span>Navigation Menu</span>
+                </button>
+            </header>
+            <ul class="menu__list">
+                <li class="menu__item menu__item--home">
+                    <div class="menu__item-inner"><a href="/" data-metrics-action="click npr logo">Home</a></div>
+                </li>
+                <li class="menu__item menu__item--news menu__item--has-submenu" data-metrics-hover="toggle news drawer">
+                    <div class="menu__item-inner">
+                        <a href="/sections/news/" data-metrics-action="click news">News</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle news drawer">Expand/collapse submenu for News</button>
+                    </div>
+
+                    <ul class="submenu submenu--news">
+                        <li class="submenu__item"><a href="/sections/national/" data-metrics-action="click national">National</a></li>
+                        <li class="submenu__item"><a href="/sections/world/" data-metrics-action="click world">World</a></li>
+                        <li class="submenu__item"><a href="/sections/politics/" data-metrics-action="click politics">Politics</a></li>
+                        <li class="submenu__item"><a href="/sections/business/" data-metrics-action="click business">Business</a></li>
+                        <li class="submenu__item"><a href="/sections/health/" data-metrics-action="click health">Health</a></li>
+                        <li class="submenu__item"><a href="/sections/science/" data-metrics-action="click science">Science</a></li>
+                        <li class="submenu__item"><a href="/sections/technology/" data-metrics-action="click technology">Technology</a></li>
+                        <li class="submenu__item"><a href="/sections/codeswitch/" data-metrics-action="click race & culture">Race &amp; Culture</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--arts-life menu__item--has-submenu" data-metrics-hover="toggle arts drawer">
+                    <div class="menu__item-inner">
+                        <a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle arts drawer">Expand/collapse submenu for Arts &amp; Life</button>
+                    </div>
+
+                    <ul class="submenu submenu--arts-life">
+                        <li class="submenu__item"><a href="/books/" data-metrics-action="click books">Books</a></li>
+                        <li class="submenu__item"><a href="/sections/movies/" data-metrics-action="click movies">Movies</a></li>
+                        <li class="submenu__item"><a href="/sections/television/" data-metrics-action="click television">Television</a></li>
+                        <li class="submenu__item"><a href="/sections/pop-culture/" data-metrics-action="click pop culture">Pop Culture</a></li>
+                        <li class="submenu__item"><a href="/sections/food/" data-metrics-action="click food">Food</a></li>
+                        <li class="submenu__item"><a href="/sections/art-design/" data-metrics-action="click art & design">Art &amp; Design</a> </li>
+                        <li class="submenu__item"><a href="/sections/performing-arts/" data-metrics-action="click performing arts">Performing Arts</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--music menu__item--has-submenu" data-metrics-hover="toggle music drawer">
+                    <div class="menu__item-inner">
+                        <a href="/music/" data-metrics-action="click music">Music</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle music drawer">Expand/collapse submenu for Music</button>
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/new-music/" data-metrics-action="click new music">
+        New Music
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/689345495/best-music-of-2019" data-metrics-action="click best music of 2019">
+        Best Music Of 2019
+    </a>
+</li></ul>
+
+                </li>
+                <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu" data-metrics-hover="toggle programs &amp; podcasts drawer">
+                    <div class="menu__item-inner">
+                        <a href="/programs/" data-metrics-action="click shows & podcasts">Shows &amp; Podcasts</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle programs &amp; podcasts drawer">Expand/collapse submenu for Shows &amp; Podcasts</button>
+                    </div>
+
+                    <div class="submenu submenu--shows-podcasts">
+                        <span class="submenu__category submenu__category--daily">Daily</span>
+                        <ul class="submenu__list submenu__list--daily">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+                                <a href="/programs/morning-edition/" data-metrics-action="click morning edition">
+                                    <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" alt="" />
+                                    Morning Edition
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden" >
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png" alt="" />
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png" alt="" />
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>  
+                            <li class="submenu__item">
+                                <a href="/programs/all-things-considered/" data-metrics-action="click all things considered">
+                                    <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" alt="" />
+                                    All Things Considered
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/fresh-air/" data-metrics-action="click fresh air">
+                                    <img src="https://media.npr.org/chrome/programs/logos/fresh-air.png" alt="" />
+                                    Fresh Air
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/podcasts/510318/up-first" data-metrics-action="click up first">
+                                    <img src="https://media.npr.org/chrome/programs/logos/up-first.jpg" alt="" />
+                                    Up First
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510313/how-i-built-this" data-metrics-action="click how i built this with guy raz">
+        <img src="https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f.jpg?s=100" alt="" />
+        How I Built This with Guy Raz
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me" data-metrics-action="click wait wait...don't tell me!">
+        <img src="https://media.npr.org/assets/img/2019/05/23/screen-shot-2019-05-23-at-8.46.21-am_sq-7dcea391e7a87ca3569fe3d2047dda0144e5d86f.png?s=100" alt="" />
+        Wait Wait...Don't Tell Me!
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510289/planet-money" data-metrics-action="click planet money">
+        <img src="https://media.npr.org/assets/img/2018/08/02/npr_planetmoney_podcasttile_sq-7b7fab0b52fd72826936c3dbe51cff94889797a0.jpg?s=100" alt="" />
+        Planet Money
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510308/hidden-brain" data-metrics-action="click hidden brain">
+        <img src="https://media.npr.org/assets/img/2018/08/03/npr_hiddenbrain_podcasttile_sq-270ab642de6948802f485c6ad1f087239ef6e324.jpg?s=100" alt="" />
+        Hidden Brain
+    </a>
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
+                            <li class="submenu__item"><a href="/programs/" data-metrics-action="click all programs">More Shows &amp; Podcasts</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--search">
+                    <div class="menu__item-inner">
+                        <a href="/search" id="navigation_dropdown-search" data-metrics-action="click search">Search</a>
+                    </div>
+                </li>
+                <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
+                <li class="menu__item menu__item--shop">
+                    <div class="menu__item-inner">
+                        <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--music" data-metrics-all data-metrics-category="music ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--music">
+                <li class="menu__item menu__item--music-home">
+                    <a href="/music/" data-metrics-action="click npr music logo">
+                        <img src="https://media.npr.org/chrome_svg/music-logo-dark.svg" class="music-logo"  alt="NPR Music" />
+                        <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music" />
+                    </a>
+                </li>
+                
+                <li class="menu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/new-music/" data-metrics-action="click new music">
+        New Music
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/689345495/best-music-of-2019" data-metrics-action="click best music of 2019">
+        Best Music Of 2019
+    </a>
+</li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--about" data-metrics-all data-metrics-category="about ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--about">
+                <li class="menu__item menu__item--about-home"><a href="/about/" data-metrics-action="click about npr">About NPR</a></li>
+                <li class="menu__item menu__item--about-overview"><a href="/overview/" data-metrics-action="click overview">Overview</a></li>
+                <li class="menu__item menu__item--about-support"><a href="/support/" data-metrics-action="click support">Support</a></li>
+                <li class="menu__item menu__item--about-careers"><a href="/careers/" data-metrics-action="click careers">Careers</a></li>
+                <li class="menu__item menu__item--about-connect"><a href="/connect/" data-metrics-action="click connect">Connect</a></li>
+                <li class="menu__item menu__item--about-press"><a href="/press/" data-metrics-action="click press">Press</a></li>
+                <li class="menu__item menu__item--about-ethics"><a href="/ethics/" data-metrics-action="click ethics">Ethics</a></li>
+            </ul>
+        </div>
+    </section>
+</nav></header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>Trump Signs Deal To Limit Asylum Claims From Guatemala</b>   <b data-is-speakable>The agreement comes after Trump threatened to take "very severe" action against Guatemala, possibly including tariffs and a travel ban.</b>
+</div>
+<div id="wrapper">
+      <header class="contentheader contentheader--one" data-metrics='{"category":"Politics"}' ></header>   <div class="story-sticky-header">
+    <div class="story-sticky-header-inner">
+        <a href="/" class="nprhome nprhome-news"  data-metrics='{&quot;category&quot;:&quot;global navigation&quot;,&quot;action&quot;:&quot;click npr logo&quot;,&quot;label&quot;:&quot;\/&quot;}' >
+            <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+        </a>
+
+        
+
+        <a href="#" class="title">
+          <b>Trump Signs Agreement With Guatemala To Limit Asylum Seekers</b>
+          
+        </a>
+    </div>
+</div>   <section id="main-section"><article class="story"><a id="mainContent"></a><ul class="podcast-tools podcast-tools--510310">
+    <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-74cda2ee6f52058df740bd8beb4bd2197c98cbf6-s800-c15.jpg" data-original="https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-74cda2ee6f52058df740bd8beb4bd2197c98cbf6-s800.jpg" class="img lazyOnLoad"  alt="The NPR Politics Podcast" />
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+        </div>
+
+
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        NPR
+        
+    </span>
+</div>
+
+    <li class="subscribe" data-sharepop data-selector=".sharepop.subscribe">
+      <button  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;toggle subscribe menu&quot;}' >subscribe
+        <span class="subscribe-more-info"> to 
+          <span class="channel-title">The NPR Politics Podcast</span>
+          <span class="generic-title">podcast</span>
+        </span>
+      </button>
+    </li>
+
+    <li class="podcast-tools__subscribe-links">
+      <div class="sharepop-four">
+          <div class="sharepop">
+              <ul>
+                  <li>
+                  <svg width="17" class="subscribe__tooltip">
+                      <g id="Canvas" fill="none">
+                        <g id="tooltip-point">
+                          <path d="M 10.7679 3C 11.5377 1.66667 13.4623 1.66667 14.2321 3L 21.5933 15.75C 22.3631 17.0833 21.4008 18.75 19.8612 18.75L 5.13878 18.75C 3.59918 18.75 2.63693 17.0833 3.40673 15.75L 10.7679 3Z" transform="matrix(0 -1 1 0 -2 22)" fill="#1D3261"/>
+                        </g>
+                      </g>
+                    </svg>
+                    <a href="https://rpb3r.app.goo.gl/XDGl" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click npr one universal&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >NPR One</a></li>
+                  <li>
+                    <a href="https://podcasts.apple.com/podcast/id1057255460?mt=2&amp;at=11l79Y&amp;ct=nprdirectory" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click itunes&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >Apple Podcasts</a></li>
+                  <li>
+                    <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cubnByLm9yZy9yc3MvcG9kY2FzdC5waHA_aWQ9NTEwMzEw" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click google podcasts&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >Google Podcasts</a></li>
+                  <li>
+                      <a href="https://pca.st/npr-politics" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click Pocket Casts&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >Pocket Casts</a></li>
+                  <li>
+                      <a href="https://open.spotify.com/show/2PnWnDNwU3wKesCHCpy252" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click Spotify&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >Spotify</a></li>
+                  
+                  
+                  <li>
+                    <a target="_blank" href="https://www.npr.org/rss/podcast.php?id=510310" data-analytics-allow-facebook="data-analytics-allow-facebook"  data-metrics='{&quot;category&quot;:&quot;podcast directory&quot;,&quot;action&quot;:&quot;click rss&quot;,&quot;label&quot;:&quot;the npr politics podcast&quot;}' >RSS link</a></li>
+              </ul>
+          </div>
+      </div>
+    </li>
+</ul><div class="slug-wrap">
+
+    <h3 class="slug">
+        <a href="https://www.npr.org/sections/politics/">Politics</a>
+    </h3>
+</div>
+<div class="storytitle">
+      <h1>Trump Signs Agreement With Guatemala To Limit Asylum Seekers</h1>
+   <input type="hidden" id="title745727128" value="Trump Signs Agreement With Guatemala To Limit Asylum Seekers" />
+   <input type="hidden" id="shortTitle745727128" value="Trump Signs Agreement With Guatemala To Limit Asylum Seekers" />
+   <input type="hidden" id="modelShortUrl745727128" value="https://n.pr/2ZckIjL" />
+   <input type="hidden" id="modelFullUrl745727128" value="https://www.npr.org/2019/07/26/745727128/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers" />
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-tools">
+      <div class="share-tools share-tools--primary" aria-label="Share tools">
+            <ul>
+                  <li class="share-tools__service share-tools__service--facebook"><button class="fbStory745727128" data-share-facebook='{"storyId": 745727128 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/26\/745727128\/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+         <li class="share-tools__service share-tools__service--twitter"><button class="story745727128" data-share-twitter='{"storyId": 745727128 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/26\/745727128\/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+         <li class="share-tools__service share-tools__service--flipboard"><button class="story745727128" data-share-flipboard='{"storyId": 745727128 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/26\/745727128\/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+         <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='745727128'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/26\/745727128\/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers"}' ><b class="share-tools__service-name">Email</b></button></li>
+      </ul>
+   </div>
+   
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--PRIMARY" ARIA-LABEL="SHARE TOOLS" -->
+</div>
+
+<!-- END CLASS="STORY-TOOLS" -->
+<div id="story-meta" class="story-meta has-byline">
+      <div class="story-meta__one">
+            <div class="dateblock">
+    <time datetime="2019-07-26T16:47:05-04:00">
+            <span class="date">July 26, 2019</span><span class="time">4:47 PM ET</span>
+    </time>
+</div>
+   </div>
+   
+<!-- END CLASS="STORY-META__ONE" -->
+   <div class="story-meta__two">
+            <div id="storybyline" class="storybyline-wrap linkLocation">
+                  <div class="bucketwrap byline" id="res745727171" previewTitle="bylines">
+                        <div class="byline-container--block">
+                              <div class="byline byline--block byline--has-link" aria-label="Byline">
+    <div class="byline__photo">
+      <a href="https://www.npr.org/people/2100941/brian-naylor" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+        <img src="https://media.npr.org/assets/img/2018/04/17/npr_17902709_full_sq-175355e74f5d022df210269cdcef9074060ae5b9-s100-c85.jpg" class="img"  alt="Brian Naylor in 2018." />
+      </a>
+    </div>
+
+  <p class="byline__name byline__name--block">
+    <a href="https://www.npr.org/people/2100941/brian-naylor" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+      Brian Naylor
+    </a>
+  </p>
+
+    <a class="byline__social-handle byline__social-handle--5" href="https://www.twitter.com/brinaylor"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Twitter
+    </a>
+</div>
+            </div>
+         </div>
+         
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES745727171" PREVIEWTITLE="BYLINES" -->
+      </div>
+   </div>
+   
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res745740821" class="bucketwrap image large">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2019/07/26/ap_19207735646765_wide-e0458159c833b52d1f6398b8ff43c79ae0cadd0c-s1100-c15.jpg" data-original="https://media.npr.org/assets/img/2019/07/26/ap_19207735646765_wide-e0458159c833b52d1f6398b8ff43c79ae0cadd0c-s1100.jpg" class="img lazyOnLoad"  alt="" />
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2019/07/26/ap_19207735646765_wide-e0458159c833b52d1f6398b8ff43c79ae0cadd0c-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                President Trump announced that Guatemala is signing an agreement to restrict asylum applications to the U.S. from Central America.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Carolyn Kaster/AP
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Carolyn Kaster/AP
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <img data-original="https://media.npr.org/assets/img/2019/07/26/ap_19207735646765_wide-e0458159c833b52d1f6398b8ff43c79ae0cadd0c-s1200.jpg" alt="" />
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">President Trump announced that Guatemala is signing an agreement to restrict asylum applications to the U.S. from Central America.</p>
+        <span class="credit" aria-label="Image credit">
+            
+            Carolyn Kaster/AP
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p><strong>Updated at 5:22 p.m. ET</strong></p>   <p>President Trump announced Friday that Guatemala has agreed to sign a so-called "<a href="https://twitter.com/WhiteHouse/status/1154861528539160576?s=20">safe third country asylum agreement</a>" as part of Trump's strategy for reducing the flow of migrants to the U.S. </p>   <p>Trump made the announcement before reporters in the Oval Office as Guatemalan interior minister Enrique Degenhart  signed the agreement.</p>   <p>He called it "a very important" signing. "It's going to be terrific for them and terrific for the United States," Trump said, adding the agreement "will usher in a new era and investment and growth for Guatemala."</p>   <div id="res745742441" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage745132775" href="https://www.npr.org/2019/07/25/745132775/trump-administration-considering-travel-ban-on-guatemalans-after-asylum-snub"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2019\/07\/25\/745132775\/trump-administration-considering-travel-ban-on-guatemalans-after-asylum-snub"}' ><img src="https://media.npr.org/assets/img/2019/07/25/gettyimages-1157207397_sq-3ee945bf0790b39b777b3826c84a2a2228e0e4f3-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2019/07/25/gettyimages-1157207397_sq-3ee945bf0790b39b777b3826c84a2a2228e0e4f3-s100.jpg" class="img lazyOnLoad"  alt="Trump Administration Considering 'Travel Ban' On Guatemalans After Asylum Snub" /></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/sections/politics/">Politics </a></h3>
+            <h3><a href="https://www.npr.org/2019/07/25/745132775/trump-administration-considering-travel-ban-on-guatemalans-after-asylum-snub"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2019\/07\/25\/745132775\/trump-administration-considering-travel-ban-on-guatemalans-after-asylum-snub"}' >Trump Administration Considering 'Travel Ban' On Guatemalans After Asylum Snub</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES745742441" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>The agreement comes after days of threats by Trump to Guatemala that included potential tariffs on Guatemalan goods, taxes on remittances sent home by Guatemalans living in the U.S. and, <a href="https://www.npr.org/2019/07/25/745132775/trump-administration-considering-travel-ban-on-guatemalans-after-asylum-snub">a potential travel ban on Guatemalan nationals to the U.S. </a></p>   <p>Under the agreement, migrants traveling through Guatemala from countries such as Honduras and El Salvador would have to claim asylum in Guatemala instead of the U.S.  Getting Guatemala to sign the agreement was a key component of Trump's strategy for reducing illegal migration to the U.S.</p>   <p>Earlier this month, Guatemala's high court blocked its government from signing the deal with the United States, which led to Trump's threats. </p>   <p>And it's not clear whether the agreement is legal or how it will be implemented.  The Guatemalan Congress is supposed to ratify such treaties.</p>   <aside id="ad-backstage-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-backstage-News_Politics" class="ad-backstage" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_Politics","targets":{"testserver":"false","storyId":"745727128","agg":["434975886"]},"location":"backstage","deferred":false,"isBetweenContent":true,"isAggSponsorship":false,"borderClass":""}'></div>
+
+</aside>   <div id="res745765494" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage723694656" href="https://www.npr.org/2019/05/17/723694656/tracking-trump-on-immigration-despite-focus-many-ideas-are-stalled-or-blocked"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2019\/05\/17\/723694656\/tracking-trump-on-immigration-despite-focus-many-ideas-are-stalled-or-blocked"}' ><img src="https://media.npr.org/assets/img/2019/05/16/ap_19136689198302_sq-556e101c6ad1c3ad3808ae31dec61628137183c1-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2019/05/16/ap_19136689198302_sq-556e101c6ad1c3ad3808ae31dec61628137183c1-s100.jpg" class="img lazyOnLoad"  alt="Tracking Trump On Immigration: Despite Focus, Many Ideas Are Stalled Or Blocked" /></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/sections/national/">National </a></h3>
+            <h3><a href="https://www.npr.org/2019/05/17/723694656/tracking-trump-on-immigration-despite-focus-many-ideas-are-stalled-or-blocked"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2019\/05\/17\/723694656\/tracking-trump-on-immigration-despite-focus-many-ideas-are-stalled-or-blocked"}' >Tracking Trump On Immigration: Despite Focus, Many Ideas Are Stalled Or Blocked</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES745765494" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>But Guatemalan business leaders had pressured the government of President Jimmy Morales to make a deal with Trump.  The U.S. is Guatemala's top  trading partner and tariffs on Guatemalan goods coming into the U.S. could devastate the country.</p>   <p>Trump said another component of the deal will make it easier for Guatemalans to legally come to the U.S. as farm workers. He said other countries would also soon be signing similar asylum agreements with the U.S. </p>   <p>Refugees International President Eric Schwartz said Guatemala is "in no way safe for refugees and asylum seekers." He said the agreement "also violates U.S. law and will put some of the most vulnerable people in Central America in grave danger. At the moment, it is not clear exactly what arrangement has been reached in light of the Guatemalan Constitutional Court's provisional decision against a third country agreement."</p>   <p class="contributors-text"><em>NPR's Brett Neely contributed to this report.</em></p>
+</div>
+<div class="share-tools share-tools--secondary" aria-label="Share tools">
+      <ul>
+            <li class="share-tools__service share-tools__service--facebook"><button class="fbStory745727128" data-share-facebook='{"storyId": 745727128 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/26\/745727128\/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+      <li class="share-tools__service share-tools__service--twitter"><button class="story745727128" data-share-twitter='{"storyId": 745727128 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/26\/745727128\/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+      <li class="share-tools__service share-tools__service--flipboard"><button class="story745727128" data-share-flipboard='{"storyId": 745727128 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/26\/745727128\/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+      <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='745727128'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/26\/745727128\/trump-signs-agreement-with-guatemala-to-limit-asylum-seekers"}' ><b class="share-tools__service-name">Email</b></button></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;politics&quot;,&quot;title&quot;:&quot;Politics&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For The NPR Politics Newsletter&quot;,&quot;frequency&quot;:&quot;every week&quot;,&quot;shortDescription&quot;:&quot;From the White House to your home \u2014 political news and analysis that matter, sent weekly.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2018\/08\/03\/newsletters\/politics.png&quot;,&quot;staticMarkupDir&quot;:&quot; &quot;,&quot;brandingDir&quot;:&quot;\/branding\/sections\/politics\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/sections\/politics\/&quot;,&quot;organizationId&quot;:1,&quot;recaptchaSiteKey&quot;:&quot;6LfD6CYUAAAAAIBeUekwZ9KCjF4UyLFtu7NWNaEK&quot;}">
+   </div>
+
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;POLITICS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;POLITICS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NPR POLITICS NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY WEEK&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;FROM THE WHITE HOUSE TO YOUR HOME \U2014 POLITICAL NEWS AND ANALYSIS THAT MATTER, SENT WEEKLY.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2018\/08\/03\/NEWSLETTERS\/POLITICS.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT; &QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/POLITICS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/POLITICS\/&QUOT;,&QUOT;ORGANIZATIONID&QUOT;:1,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LFD6CYUAAAAAIBEUEKWZ9KCJF4UYLFTU7NWNAEK&QUOT;}" -->
+<div id="podcast-callout-data" data-podcast="{&quot;name&quot;:&quot;The NPR Politics Podcast&quot;,&quot;itunesUrl&quot;:&quot;https:\/\/podcasts.apple.com\/podcast\/id1057255460?mt=2&amp;at=11l79Y&amp;ct=nprdirectory&quot;,&quot;googlePodcastsUrl&quot;:&quot;https:\/\/www.google.com\/podcasts?feed=aHR0cHM6Ly93d3cubnByLm9yZy9yc3MvcG9kY2FzdC5waHA_aWQ9NTEwMzEw&quot;,&quot;rssUrl&quot;:&quot;https:\/\/www.npr.org\/rss\/podcast.php?id=510310&quot;,&quot;jsonFeedUrl&quot;:&quot;https:\/\/www.npr.org\/feeds\/745727128\/feed.json&quot;,&quot;nprOneUniversalUrl&quot;:&quot;https:\/\/rpb3r.app.goo.gl\/XDGl&quot;,&quot;amazonAlexaUrl&quot;:null,&quot;pocketCastsUrl&quot;:&quot;https:\/\/pca.st\/npr-politics&quot;,&quot;spotifyUrl&quot;:&quot;https:\/\/open.spotify.com\/show\/2PnWnDNwU3wKesCHCpy252&quot;}">
+   </div>
+
+<!-- END ID="PODCAST-CALLOUT-DATA" DATA-PODCAST="{&QUOT;NAME&QUOT;:&QUOT;THE NPR POLITICS PODCAST&QUOT;,&QUOT;ITUNESURL&QUOT;:&QUOT;HTTPS:\/\/PODCASTS.APPLE.COM\/PODCAST\/ID1057255460?MT=2&AMP;AT=11L79Y&AMP;CT=NPRDIRECTORY&QUOT;,&QUOT;GOOGLEPODCASTSURL&QUOT;:&QUOT;HTTPS:\/\/WWW.GOOGLE.COM\/PODCASTS?FEED=AHR0CHM6LY93D3CUBNBYLM9YZY9YC3MVCG9KY2FZDC5WAHA_AWQ9NTEWMZEW&QUOT;,&QUOT;RSSURL&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/RSS\/PODCAST.PHP?ID=510310&QUOT;,&QUOT;JSONFEEDURL&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/FEEDS\/745727128\/FEED.JSON&QUOT;,&QUOT;NPRONEUNIVERSALURL&QUOT;:&QUOT;HTTPS:\/\/RPB3R.APP.GOO.GL\/XDGL&QUOT;,&QUOT;AMAZONALEXAURL&QUOT;:NULL,&QUOT;POCKETCASTSURL&QUOT;:&QUOT;HTTPS:\/\/PCA.ST\/NPR-POLITICS&QUOT;,&QUOT;SPOTIFYURL&QUOT;:&QUOT;HTTPS:\/\/OPEN.SPOTIFY.COM\/SHOW\/2PNWNDNWU3WKESCHCPY252&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+   </div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<aside id="end-of-story-recommendations-mount" class="recommended-stories" aria-label="recommended stories"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two" data-metrics='{"category":"Politics"}' ></header><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/arts/" data-metrics-action="Click Arts &amp; Life">Arts &amp; Life</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts/" data-metrics-action="Click Podcasts">Podcasts</a></li>
+                <li class="npr-footer__item"><a href="/programs/" data-metrics-action="Click Programs">Programs</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/newsletters/" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="https://www.npr.org/contact" data-metrics-action="Click Contact">Contact</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org" data-metrics-action="Click Help">Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/179803822/people-at-npr" data-metrics-action="Click People">People</a></li>
+                <li class="npr-footer__item"><a href="/press/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="/sections/publiceditor/" data-metrics-action="Click Public Editor">Public Editor</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/support/" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shop.npr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/177066727/visit-npr" data-metrics-action="Click Visit NPR">Visit NPR</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices" data-metrics-action="Click Your Privacy Choices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div></footer></section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-News_Politics" class="ad-standard" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_Politics","targets":{"testserver":"false","storyId":"745727128","agg":["434975886"]},"location":"standard","deferred":false,"isBetweenContent":false,"isAggSponsorship":false,"borderClass":""}'></div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { webpackJsonp([82,25],{0:function(n,t,c){n.exports=c(1823)},1823:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(46),c(2232),c(364),c(371),c(262),c(795),c(406),c(2237),c(405),c(2236),c(2235),c(1402),c(588),c(2229),c(1563),c(2222),c(353)}(c)}.bind(this);c.e(0,t),c.e(4,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main><noscript><iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe></noscript><noscript><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe></noscript><script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            // Wait until the metric for chartbeat have been setup
+            // in templates/javascript/metrics/chartbeat.js
+            if( !!NPR.ChartbeatLoaded) {
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            } else {
+                setTimeout(loadChartbeat, 1000);
+            }
+        }
+
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            window._sf_endpt = (new Date()).getTime();
+            loadChartbeat();
+        };
+    })();
+</script></body></html>

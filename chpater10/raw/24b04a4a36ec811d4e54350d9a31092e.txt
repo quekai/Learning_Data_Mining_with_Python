@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-XL" dir="ltr">
+
+<head>
+ <!-- data-info:v:20190721_17159710;a:d51bbb39-5a1b-4751-a0db-4f023f736f04;cn:21;az:{did:31698b0d0d144cf79ad26d9e51691b83, rid: 21, sn: easia-prod-entertainment, dt: 2019-07-29T21:10:04.2220325Z, bt: 2019-07-22T00:14:08.6141625Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:gray;PageName:articlePage;m:en-xl;cb:;l:en-xl;mu:en-xl;ud:{cid:AAF2Ymw,vk:middleeast,n:ar,l:en-xl,ck:middleeast-top-stories};xd:;ovc:f;al:;f:msnallexpusers,muidflt9cf,muidflt14cf,muidflt20cf,adflt-gal1sec,muidflt57cf,muidflt58cf,muidflt259cf,muidflt298cf,staticfloor,complianceedge1cf,audexhp1cf,moneyhz3cf,compliancehz1cf,artgly3cf,artgly5cf;userOptOut:false;userOptOutOptions: -->
+ <meta name="application-name" content="Iranian women are warned they face up to ten years in prison if they post photos of themselves without a hijab to US activist behind White Wednesday 'empowerment' campaign"/><meta name="cq" content="passed"/><meta name="robots" content="index, follow"/>
+ <link rel="canonical" href="https://www.dailymail.co.uk/news/article-7297861/Iranian-women-face-ten-years-prison-post-photos-without-hijab.html" />
+ 
+
+ <title>Iranian women are warned they face up to ten years in prison if they post photos of themselves without a hijab to US activist behind White Wednesday &#39;empowerment&#39; campaign</title>
+ <meta name="description" content="Masih Alinejad, founded the &#39;White Wednesdays&#39; campaign in Iran to encourage women to post photographs of themselves without headscarves online,"/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-entertainment-eas-s-msn-com.akamaized.net/en-xl/middleeast/_sc/css/b443689a-/direction=ltr.locales=en-xl.themes=gray.dpi=resolution1x/42-b8ee35-71ecad1c/13-bfc664-b12c00e0/18-5f471f-ce9d7e1e/17-3f3702-68ddb2ab/2a-1f1669-16c6af35/9b-ba6b1f-f94d3276/ab-52fe22-a648eab2?ver=20190721_17159710&amp;fdhead=msnallexpusers,muidflt9cf,muidflt14cf,muidflt20cf,adflt-gal1sec,muidflt57cf,muidflt58cf,muidflt259cf,muidflt298cf,staticfloor,complianceedge1cf,audexhp1cf,moneyhz3cf,compliancehz1cf,artgly3cf,artgly5cf&amp;csopd=20180321085501&amp;csopdb=20190722165254" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-entertainment-eas-s-msn-com.akamaized.net/en-xl/entertainment/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>.storyimage.smallfullwidth .image,.storyimage.smallfullwidth img{background:#000;margin:0 auto}#toast-container{display:none}iframe.instagram-media{position:relative !important}#maincontent #main .morefromprovider{display:none}#maincontent #main .morefromproviderrr{display:none}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}@media screen and (max-width:52.303em){#irisbanner .irisbanner header>a{max-width:33rem}}</style>
+</head>
+
+<body class="ap content center-content gray">
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-xl">Home</a>
+</li>
+ <li >
+<a href="/en-xl/africa">Africa</a>
+</li>
+ <li >
+<a href="/en-xl/asia">Asia</a>
+</li>
+ <li >
+<a href="/en-xl/australasia">Australasia</a>
+</li>
+ <li >
+<a href="/en-xl/europe">Europe</a>
+</li>
+ <li >
+<a href="/en-xl/latinamerica">Latin America</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li  class="current">
+<a href="/en-xl/middleeast">Middle East</a>
+</li>
+ <li >
+<a href="/en-xl/northamerica">North America</a>
+</li>
+ <li >
+<a href="/en-xl/sport">Sport</a>
+</li>
+ <li >
+<a href="/en-xl/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-xl" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-entertainment-eas-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-xl/middleeast" tabindex="2">middle east</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-entertainment-eas-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRW1ME" />
+ <input type="hidden" name="mkt" value="en-us" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="d51bbb395a1b4751a0db4f023f736f04">
+<input type="submit" class="text" value="web search" title="web search"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-gb">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+ 
+
+ <div class="articlecontent">
+<h1>Iranian women are warned they face up to ten years in prison if they post photos of themselves without a hijab to US activist behind White Wednesday &#39;empowerment&#39; campaign</h1>
+<div>
+<div>
+ <span class="partner">
+ <a  href="http://www.dailymail.co.uk/"  title="daily mail logo"><img alt="Daily Mail logo" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAvcPpT.img?h=17&amp;w=0&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" title="Daily Mail logo" /> Daily Mail</a>
+ </span>
+ <span>
+ <span class="time">5 hrs ago</span>
+         <span class="authorname-txt" 
+              
+              
+              >
+                <span class="truncate" >Bridie Pearson-jones For Mailonline</span>
+        </span>
+
+                </span>
+            </div>
+        </div>
+
+ <div class="richtext"  data-aop="articlebody">
+ <p class="mol-para-with-font">Iranians sending images to a US-based activist over an anti-headscarf campaign could now face up to 10 years in prison, it has emerged. </p><p class="mol-para-with-font">Masih Alinejad founded the 'White Wednesdays' campaign in Iran to encourage women to post photographs of themselves without headscarves online as a way of opposing the compulsory hijab.</p><p class="mol-para-with-font">The semi-official Fars news agency on Monday quoted the head of the Tehran Revolutionary Court, Mousa Ghazanfarabadi, as saying that 'those who film themselves or others while removing the hijab and send photos to this woman ... will be sentenced to between one and 10 years in prison.'</p><p>
+ <div class="inline-slideshow nonfullscreen clean ">
+ <div class="content">
+<h1></h1>
+
+
+<img alt="a group of people standing on a beach: Iranians sending images to a US activist over an anti-headscarf campaign could face up to 10 years in prison. Pictured: Women walk on the shore of the Persian Gulf Martyrs&#39; Lake in Tehran, Iran" height="373" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAF1JNR.img?h=373&amp;w=624&amp;m=6&amp;q=60&amp;o=t&amp;l=f" title="Iranians sending images to a US activist over an anti-headscarf campaign could face up to 10 years i... - Provided by Associated Newspapers Limited" width="624" /> <div class="navigation">
+ <span class="prev disabled">
+<a href="#">&lt; PREVIOUS SLIDE</a>
+</span>
+ <span class="slidetext">SLIDE 1 of 7</span>
+ <span class="next">
+<a href="https://www.msn.com:443/en-xl/middleeast/middleeast-top-stories/iranian-women-are-warned-they-face-up-to-ten-years-in-prison-if-they-post-photos-of-themselves-without-a-hijab-to-us-activist-behind-white-wednesday-empowerment-campaign/ar-AAF2Ymw?li=AAB4N9r&amp;index=1">NEXT SLIDE &gt;</a>
+</span>
+
+</div>
+ <h2></h2>
+ <div class="richtext">
+Iranians sending images to a US activist over an anti-headscarf campaign could face up to 10 years in prison. Pictured: Women walk on the shore of the Persian Gulf Martyrs' Lake in Tehran, Iran  </div>
+ <span class="attribution">&copy;&nbsp;Provided by Associated Newspapers Limited</span>
+
+</div>
+ </div>
+</p><p class="mol-para-with-font">The Islamic headscarf is mandatory in public for all women in Iran. </p><p class="mol-para-with-font">Those who violate the rule are usually sentenced to two months in prison or less, and fined around £20.  </p><p class="mol-para-with-font">Lately, a  few daring women in Iran's capital have been taking off their mandatory headscarves in public, risking arrest and drawing the ire of hardliners.</p><ul><li><h4><strong><a href="https://t.me/MicrosoftNewsMiddleEast">Subscribe</a><a href="https://t.me/MicrosoftNewsMiddleEast"> on Telegram to get latest news from Middle East</a></strong></h4></li></ul><p class="mol-para-with-font">The simple act of walking has become a display of defiance for one young Iranian woman who often moves in Tehran's streets without a hijab.</p><p><strong><em>Related slideshow: The veil and its relationship with women  (Provided by StarsInsider)</em></strong></p>
+ <div class="storyimage fullwidth ">
+<span class="image"  data-aop="inlinegallery">
+<a class="inline-slide" href="/en-xl/middleeast/top-stories/the-veil-and-its-relationship-with-women/ss-AAEE6jv?li=AAB4N9r&amp;parent-title=iranian-women-are-warned-they-face-up-to-ten-years-in-prison-if-they-post-photos-of-themselves-without-a-hijab-to-us-activist-behind-white-wednesday-empowerment-campaign&amp;parent-ns=ar&amp;parent-content-id=AAF2Ymw"  >
+ <img alt="a person posing for the camera: In its simplest form, a veil is an article of clothing that is intended to cover some part of the head or face. Especially associated with women, veiling has been prominent in different forms in Judaism, Christianity, and Islam, and the practice has a long history in European, Asian, and African societies.A veil can be worn in many different ways and for many different reasons. In some cultures it&#39;s used to cover parts of the body that are considered private. It can also be worn as part of a bridal ensemble, or designed as a fashion or ceremonial accessory. Click through the gallery and take a look at how women wear the veil. " height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAEzwzl.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=926&amp;y=551" width="300" />
+</a>
+</span>
+ </div>
+<p class="mol-para-with-font">With every step, she risks harassment or even arrest by Iran's morality police, whose job is to enforce the strict dress code imposed after the 1979 Islamic Revolution.</p><p class="mol-para-with-font">'I have to confess it is really, really scary,' the 30-year-old fire safety consultant said, speaking on condition of anonymity for fear of repercussions.</p><p class="mol-para-with-font">But she is also hopeful, saying she believes the authorities find it increasingly difficult to suppress protests as more women join in.</p><p class="mol-para-with-font">'They are running after us, but cannot catch us,' she said.</p><p><strong><em>Related slideshow: Daily life in Iran (Provided by Photo services)</em></strong></p>
+ <div class="storyimage fullwidth ">
+<span class="image"  data-aop="inlinegallery">
+<a class="inline-slide" href="/en-xl/middleeast/top-stories/photos-daily-life-in-iran/ss-AAETy9l?li=AAB4N9r&amp;parent-title=iranian-women-are-warned-they-face-up-to-ten-years-in-prison-if-they-post-photos-of-themselves-without-a-hijab-to-us-activist-behind-white-wednesday-empowerment-campaign&amp;parent-ns=ar&amp;parent-content-id=AAF2Ymw"  >
+ <img alt="Iranian girls pose for a selfie at the historical Naqsh-e Jahan Square in Isfahan on April 12, 2018. / AFP PHOTO / ATTA KENARE (Photo credit should read ATTA KENARE/AFP/Getty Images)" height="200" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAEJMZ8.img?h=200&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=2075&amp;y=1192" width="300" />
+</a>
+</span>
+ </div>
+<p class="mol-para-with-font">'This is why we believe change is going to be made.'</p><p class="mol-para-with-font">The hijab debate has further polarised Iranians at a time when the country is buckling under unprecedented US sanctions imposed since the Trump administration pulled out of a 2015 nuclear deal between Iran and world powers last year.</p><p class="mol-para-with-font">It is unclear to what extent the government can enforce hijab compliance amid an economic malaise, including a currency collapse and rising housing prices.</p><p class="mol-para-with-font">There is anecdotal evidence that more women are pushing back against the dress code, trying to redefine red lines as they test the response of the ruling Shiite Muslim clergy and their security agencies.</p><p class="mol-para-with-font">The struggle against compulsory headscarves first made headlines in December 2017 when a woman climbed on a utility box in Tehran's Revolution Street, waving her hijab on a stick.</p><p class="mol-para-with-font">More than three dozen protesters have been detained since, including nine who are currently in detention, said Alinejad.</p><p class="mol-para-with-font">Despite attempts to silence protesters, public debate has intensified, amplified by social media.</p><p class="mol-para-with-font">Last month, a widely watched online video showed a security agent grab an unveiled teenage girl and violently push her into the back of a police car, prompting widespread criticism.</p><p class="mol-para-with-font">President Hassan Rouhani and Iran's supreme leader, Ayatollah Ali Khamenei, have supported a softer attitude towards women who do not comply with the official dress code.</p><p class="mol-para-with-font">However, hardliners opposed to such easing have become more influential as the nuclear deal is faltering.</p><p class="mol-para-with-font">They have called for harsh punishment, even lashes, arguing that allowing women to show their hair leads to moral decay and the disintegration of families.</p><p class="mol-para-with-font">The judiciary recently urged Iranians to inform on women without hijabs by sending photos and videos to designated social media accounts. </p><p></p><p></p>
+</div>
+ </div>
+
+ 
+
+<div class="back-msn-home"  data-aop="back-to-home">
+<a href="/en-xl"  role="button"><span>Go to MSN Home</span></a>
+</div>
+
+ 
+ 
+
+</div>
+<div id="aside"  data-region="aside">
+ 
+     <div  class="ad"  id="rectangle1_article_01a9342c-87c5-4496-948f-2cdcde32dc50">
+        <div>
+            <div  id="rectangle1_article_container_01a9342c-87c5-4496-948f-2cdcde32dc50">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=MIDXLEN12&amp;PVGUID=d51bbb395a1b4751a0db4f023f736f04&amp;PROVIDERID=B4PQM52EV", 300, 600, "rectangle1_article_container_01a9342c-87c5-4496-948f-2cdcde32dc50");
+                    </script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+ <div  class="nativeadserversidecontentmodule"  data-nativead-position="0"
+  data-nativead-placements="article-rightrail:1" data-usemock="false" data-module-id="articlevnext||aside|arsponsoredcontent|NativeAdPlacement"
+ >
+ </div>
+    <div  class="ad"  id="rectangle2_article_dbf2dd26-d803-42d4-8f72-c8a2bd9cc878">
+        <div>
+            <div  id="rectangle2_article_container_dbf2dd26-d803-42d4-8f72-c8a2bd9cc878">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=MIDXLEN13&amp;PVGUID=d51bbb395a1b4751a0db4f023f736f04&amp;PROVIDERID=B4PQM52EV", 300, 250, "rectangle2_article_container_dbf2dd26-d803-42d4-8f72-c8a2bd9cc878");
+                    </script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+ <section class="morefromproviderrr"  data-aop="morefromprovidervnext_morefromprovidervnext" >
+ 
+<h3> <h2>
+ <span>More From Daily Mail</span>
+ </h2>
+</h3>
+ 
+<ul>
+ <li   >
+<a href="https://www.dailymail.co.uk/femail/article-7296583/Princess-Eugenie-NOT-pregnant-Sarah-Ferguson-confirms.html"  target="_blank">
+ <img alt="WINDSOR, ENGLAND - OCTOBER 12:  Princess Eugenie of York attends the wedding of Princess Eugenie of York to Jack Brooksbank at St. George&#39;s Chapel on October 12, 2018 in Windsor, England. (Photo by  (Photo by Mark Large - WPA Pool/Getty Images)" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAF10ry.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=295&amp;y=142" title="Princess Eugenie Of York Marries Mr. Jack Brooksbank - Getty" width="88" />
+<div class="headline-container">
+  <span class="truncate">Sarah Ferguson says Princess Eugenie is not pregnant</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Daily Mail Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAvcS6D.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Daily Mail
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="https://www.dailymail.co.uk/news/article-7295539/Convicted-torturer-gets-feet-Prince-George-Princess-Charlotte-Prince-Louis.html"  target="_blank">
+ <img alt="Horse Racing - Royal Ascot - Ascot Racecourse, Ascot, Britain - June 18, 2019   Britain&#39;s Catherine, Duchess of Cambridge and Prince William, Duke of Cambridge at Ascot   Action Images via Reuters/Matthew Childs" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAEZpr3.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1093&amp;y=699" title="Royal Ascot - Thomson Reuters" width="88" />
+<div class="headline-container">
+  <span class="truncate">Security review launched as felon gets close to royal children</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Daily Mail Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAvcS6D.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Daily Mail
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="https://www.dailymail.co.uk/news/article-7295713/What-blue-min-shame-unlikely-blue-rose.html"  target="_blank">
+ <img alt="Roses have been cultivated for more than 5,000 years, with 30,000 differently hued hybrids created from the 150 or so species provided by Mother Nature" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAEZR8U.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=322&amp;y=204" title="Roses have been cultivated for more than 5,000 years, with 30,000 differently hued hybrids created f... - Provided by Associated Newspapers Limited" width="88" />
+<div class="headline-container">
+  <span class="truncate">Why we are unlikely ever to see a blue rose</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Daily Mail Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAvcS6D.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Daily Mail
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ </ul>
+         <div class="promotionalcontent">
+            <span class="promoimage">
+                <a target="_blank" href="http://www.dailymail.co.uk/"  data-aop="provider_logo_secondary" >
+                   <img alt="Daily Mail" height="100" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAvcPpT.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;u=t&amp;o=f&amp;l=f" width="100" />
+                </a>
+            </span>
+            <span class="promotext">
+                <div class="providername">
+                    Daily Mail
+                </div>
+                <div class="readmore">
+                    <a target="_blank" href="http://www.dailymail.co.uk/"  data-aop="provider_promotext" >
+                       View Full Site
+                    </a>
+                </div>
+            </span>
+        </div>
+
+ 
+</section>
+
+
+
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-xl">Home</a>
+</li>
+ <li >
+<a href="/en-xl/africa">Africa</a>
+</li>
+ <li >
+<a href="/en-xl/asia">Asia</a>
+</li>
+ <li >
+<a href="/en-xl/australasia">Australasia</a>
+</li>
+ <li >
+<a href="/en-xl/europe">Europe</a>
+</li>
+ <li >
+<a href="/en-xl/latinamerica">Latin America</a>
+</li>
+ <li  class="current">
+<a href="/en-xl/middleeast">Middle East</a>
+</li>
+ <li >
+<a href="/en-xl/northamerica">North America</a>
+</li>
+ <li >
+<a href="/en-xl/sport">Sport</a>
+</li>
+ <li >
+<a href="/en-xl/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="">&#169; 2019 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy &amp; Cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Terms of use</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-xl/msn-worldwide">MSN Worldwide</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=d51bbb395a1b4751a0db4f023f736f04&amp;rnd=637000695738480758&amp;rf=&amp;tp=https%253A%252F%252Fwww.msn.com%252Fen-xl%252Fmiddleeast%252Fmiddleeast-top-stories%252Firanian-women-are-warned-they-face-up-to-ten-years-in-prison-if-they-post-photos-of-themselves-without-a-hijab-to-us-activist-behind-white-wednesday-empowerment-campaign%252Far-AAF2Ymw%253Fli%253DAAB4N9r&amp;di=19796&amp;lng=en-xl&amp;activityId=d51bbb395a1b4751a0db4f023f736f04&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=middleeast-top-stories&amp;st.sdpt=&amp;subcvs=middleeast&amp;pg.n=articlevnext&amp;pg.t=article&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;aadState=0" alt="image beacon" width="1" height="1" /><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;cs_ucfr=1&amp;rn=637000695738480758&amp;c7=https%253A%252F%252Fwww.msn.com%252Fen-xl%252Fmiddleeast%252Fmiddleeast-top-stories%252Firanian-women-are-warned-they-face-up-to-ten-years-in-prison-if-they-post-photos-of-themselves-without-a-hijab-to-us-activist-behind-white-wednesday-empowerment-campaign%252Far-AAF2Ymw%253Fli%253DAAB4N9r&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=19796&amp;pi=&amp;ps=&amp;su=https%253A%252F%252Fwww.msn.com%252Fen-xl%252Fmiddleeast%252Fmiddleeast-top-stories%252Firanian-women-are-warned-they-face-up-to-ten-years-in-prison-if-they-post-photos-of-themselves-without-a-hijab-to-us-activist-behind-white-wednesday-empowerment-campaign%252Far-AAF2Ymw%253Fli%253DAAB4N9r&amp;mkt=en-xl&amp;pp=False&amp;cv.partner=Daily%2BMail&amp;cv.publcat=Associated%2BNewspapers%2BLimited&amp;st.dpt=middleeast-top-stories&amp;st.sdpt=&amp;dv.Title1=&amp;cts=637000695738480758&amp;rf=&amp;rid=d51bbb395a1b4751a0db4f023f736f04&amp;cvs=Browser&amp;subcvs=middleeast&amp;cv.entityId=AAF2Ymw&amp;cv.entitySrc=ar&amp;provid=AAuyR5X&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=AAB4N9r&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=d51bbb395a1b4751a0db4f023f736f04&amp;pm=&amp;pg.n=articlevnext&amp;pg.t=article&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;ex=&amp;aadState=0" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>

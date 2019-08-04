@@ -1,0 +1,784 @@
+<!doctype html><html class="no-js" lang="en"><head><script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Despite 'Loss Of Faith' In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2019-07-29" /><link rel="canonical" href="https://www.npr.org/2019/07/29/746060429/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal" /><meta name="description" content="After multiple frustrations, U.S. strategists are asking if the North Korean leader is capable of making the nuclear deal the Trump administration wants." /><link rel="alternate" type="application/rss+xml" title="World" href="/rss/rss.php?id=1004" /><link rel="alternate" type="application/json" title="World" href="https://www.npr.org/feeds/1004/feed.json" /><link rel="apple-touch-icon" sizes="180x180" href="https://media.npr.org/templates/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://media.npr.org/templates/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://media.npr.org/templates/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://media.npr.org/templates/favicon/favicon-16x16.png" /><meta property="og:title" content="Despite 'Loss Of Faith' In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal" /><meta property="og:url" content="https://www.npr.org/2019/07/29/746060429/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal" /><meta property="og:type" content="article" /><meta property="og:description" content="After multiple frustrations, U.S. strategists are asking if the North Korean leader is capable of making the nuclear deal the Trump administration wants." /><meta property="og:image" content="https://media.npr.org/assets/img/2019/07/28/gettyimages-1159168545_wide-8b9664c10b292c2910a20869460344eedcb31c76.jpg?s=1400" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Despite 'Loss Of Faith' In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="https://media.npr.org/assets/img/2019/07/28/gettyimages-1159168545_wide-8b9664c10b292c2910a20869460344eedcb31c76.jpg?s=1400" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"readingServiceHostname":"https:\/\/reading.api.npr.org"};
+NPR.serverVars = {"storyId":"746060429","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"c5469f5af21a0a91815a995b0695d99a","isBuildOut":true,"topicIds":["P1004","1001","1002","1125"],"primaryTopic":"World","topics":["World","News","Home Page Top Stories","Asia"],"theme":"1004","programId":"Morning Edition","program":"3","aggIds":["3","1001","1002","1004","1125","191676894","300659419","434975886","465650722","746139854"],"byline":["Steve Inskeep"],"pubDate":"2019072905","pageTypeId":"1","title":"Despite \u0027Loss Of Faith\u0027 In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal","publisherOrgId":"1","rocketfuelCode":20501671};
+</script>
+<script type="text/javascript" src="https://cdn.optimizely.com/js/11107397707.js">
+   </script>
+<script type="text/javascript" src="https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script>
+   !function(a){function e(c){if(f[c])return f[c].exports;var d=f[c]={exports:{},id:c,loaded:!1};return a[c].call(d.exports,d,d.exports,e),d.loaded=!0,d.exports}var c=window.webpackJsonp;window.webpackJsonp=function(b,t){for(var n,r,o=0,i=[];o<b.length;o++)r=b[o],d[r]&&i.push.apply(i,d[r]),d[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":a[n]=function(e){var c=e.slice(1),f=e[0];return function(e,d,b){a[f].apply(this,[e,d,b].concat(c))}}(s);break;case"function":a[n]=s;break;default:a[n]=a[s]}}for(c&&c(b,t);i.length;)i.shift().call(null,e);if(t[0])return f[0]=0,e(0)};var f={},d={25:0};e.e=function(a,c){if(0===d[a])return c.call(null,e);if(void 0!==d[a])d[a].push(c);else{d[a]=[c];var f=document.getElementsByTagName("head")[0],b=document.createElement("script");b.type="text/javascript",b.charset="utf-8",b.async=!0,b.src=e.p+""+a+"."+{0:"98460a2f8b482636dae1",1:"76afd4acd0665f45c34e",2:"926d70bcd3dc9fe7eaec",3:"48ba72a9198377765920",4:"bc6e64a5998bb85b7964",5:"a2b088a1056b8522de9c",6:"3dff306ad336578b4afc",7:"eb9db59b735d3e2b67bc",8:"7e4601fc25848216fc63",9:"2f04fc19cab5c9ecca4c",10:"5a2666db167cfe9afbb8",11:"8570dbedf0e48b8b1fa6",12:"cc1333f5712f25d58289",13:"8ab58fbbfd114448915e",14:"ffd976ac59232bedfa6e",15:"409ff597a92a26988d51",16:"6e2d25407a23e3714040",17:"8063390ec8d39b1fda1c",18:"52692ca5ed2fd9d95412",19:"57afa8b974881726ef6d",20:"990e76b592d35575d327",21:"fcb1760be6722b68cf8c",22:"10dc4865ae2c1b5cbb50",23:"28539013aaecd5bf5491",24:"3a2accd46f984db0397d",26:"1e79db83aa5cae6a273b",27:"89fcdc7515e967a29304",28:"844c5c55648268875089",29:"ed2dd58790d98a9e341d",30:"1ccc9f9eb411b3714fed",31:"9edc89972627c3aa824a",32:"66d600fa8af2ed7b80a4",33:"98a85a2015d5d1da13b2",34:"332356c3462ede49fdc3",35:"b8aedd9580c82b654818",36:"719151635f84ad4f3d1a",37:"6e4612d810b09467594b",38:"d0e270cf87a3d8d23c39",39:"176d9f0688e3977d0720",40:"f9db1daaf5f52eb8ea20",41:"db8c0f3e8d0191b63bde",42:"8bff0dbdd7e672279762",43:"83e67b44f37baa1083f0",44:"9c54c281d0370ef1cc33",45:"43885405840f8a15b9f3",46:"7a7d07a0a61715806dcd",47:"0f67f0f9a2648922e23b",48:"1f78d5f1e53a5bfccfdc",49:"49c6a90429ae47c93f12",50:"fb051afd23c3a9555c4e",51:"e169249c1dbd3d93f496",52:"42158cb15f746b5275e7",53:"7327d028fd39dda3b1ef",54:"333f4325f11d14cc2416",55:"ea607402a72ea48af3db",56:"b6fe4c5c04bf78d40092",57:"c4968b1ebe10a3c844aa",58:"6a7c4ae2f77e5e8ef4d4",59:"e8f53685884b3615c752",60:"12192cd74746693c33d1",61:"585fd321cef96b413556",62:"792bb47125b594e84b7e",63:"97d4af4ea84e5a2a5d39",64:"7175f456294cb57584ba",65:"6ace03a0ef6ea41c7f15",66:"be8a472b0b6d12f580aa",67:"2fc50f53942a38b9ba67",68:"11bec652648b8ad4ce3d",69:"6161005d5299e9982898",70:"e49cc238fad92e2a867b",71:"cfae195ecdcaed21a614",72:"9e1de54cf5afea3195cd",73:"1bb7d78b5402853f0d37",74:"e8bf44532647384128c1",75:"e72a80de3c9403399720",76:"66336dc17620b25d062b",77:"c30a7470f2c39219d20e",78:"f6612a808b56a6000ac5",79:"a0207c0a8987f6f088c7",80:"f24884a37bc8f8f55300",81:"e103bf6365fb0dbcd8df",82:"1a3a4d6bf0f60d789284",83:"51c6f7bddd7affbc6736",84:"329e11e581c99a605a8c",85:"7597fe98fdbb9b9c0da4"}[a]+".chunk.js",f.appendChild(b)}},e.m=a,e.c=f,e.p="/templates/javascript/dist/bundles/"}(function(a){for(var e in a)if(Object.prototype.hasOwnProperty.call(a,e))switch(typeof a[e]){case"function":break;case"object":a[e]=function(e){var c=e.slice(1),f=a[e[0]];return function(a,e,d){f.apply(this,[a,e,d].concat(c))}}(a[e]);break;default:a[e]=a[a[e]]}return a}([]));
+</script>
+<script type="text/javascript" src="https://s.npr.org/templates/javascript/dist/bundles/globalNavigationDropdowns-89fcdc7515e967a29304.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/persistent-css-2915725a5f3970a4cc75.css" /><link rel="stylesheet" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/newsStory-css-2915725a5f3970a4cc75.css" /><link rel="stylesheet" media="screen" href="https://s.npr.org/branding/sections/world/branding.css" /><script type="text/javascript">
+   document.domain="npr.org";
+</script>
+</head><body id="news" class="news tmplNewsStory  story-layout is-buildout no-transcript has-no-branding id746060429 " data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen nielsenDCR rocketfuel copyright auto-refresh navigation/global-navigation fitvids dfp globalfooter persistent-audio player/more-options what-input metrics/doubleclickFloodlight metrics/facebookTracking story/replace-centerstage ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement swfbuilder contentfooter story/sticky-header story/date-tooltip callout/end-of-story-callout social/sharepop podcast-cards search/faceting-param local/newsletter/callout social/recaptcha"><div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/customer/en/portal/articles/2535181-what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player-" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header class="npr-header" id="globalheader" aria-label="NPR header"><nav class="navigation" aria-label="main navigation">
+    <div class="navigation__top-level-wrap" data-metrics-all data-metrics-category="global navigation">
+        <ul class="navigation__top-level">
+            <li class="navigation__home">
+                <a href="/" data-metrics-action="click npr logo">
+                    <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+                </a>
+            </li>
+
+            <li id="navigation__station-mount"></li>
+
+            <li id="user-account-dropdown-mount" class="navigation__account"></li>
+
+            <li class="navigation__shop">
+                <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+            </li>
+
+            <li id="navigation__station-donate-mount"></li>
+
+            <li class="navigation__toggle-wrap">
+                <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-action="open navigation menu">
+                    Open Navigation Menu
+                </button>
+            </li>
+        </ul>
+    </div>
+    <section id="main-menu" class="menu menu--main" data-metrics-all data-metrics-category="global navigation">
+        <div class="menu__inner">
+            <header class="menu__header">
+                <button id="navigation__toggle--close" class="navigation__toggle navigation__toggle--close" aria-haspopup="true" aria-expanded="true" data-metrics-action="close navigation menu">
+                    Close <span>Navigation Menu</span>
+                </button>
+            </header>
+            <ul class="menu__list">
+                <li class="menu__item menu__item--home">
+                    <div class="menu__item-inner"><a href="/" data-metrics-action="click npr logo">Home</a></div>
+                </li>
+                <li class="menu__item menu__item--news menu__item--has-submenu" data-metrics-hover="toggle news drawer">
+                    <div class="menu__item-inner">
+                        <a href="/sections/news/" data-metrics-action="click news">News</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle news drawer">Expand/collapse submenu for News</button>
+                    </div>
+
+                    <ul class="submenu submenu--news">
+                        <li class="submenu__item"><a href="/sections/national/" data-metrics-action="click national">National</a></li>
+                        <li class="submenu__item"><a href="/sections/world/" data-metrics-action="click world">World</a></li>
+                        <li class="submenu__item"><a href="/sections/politics/" data-metrics-action="click politics">Politics</a></li>
+                        <li class="submenu__item"><a href="/sections/business/" data-metrics-action="click business">Business</a></li>
+                        <li class="submenu__item"><a href="/sections/health/" data-metrics-action="click health">Health</a></li>
+                        <li class="submenu__item"><a href="/sections/science/" data-metrics-action="click science">Science</a></li>
+                        <li class="submenu__item"><a href="/sections/technology/" data-metrics-action="click technology">Technology</a></li>
+                        <li class="submenu__item"><a href="/sections/codeswitch/" data-metrics-action="click race & culture">Race &amp; Culture</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--arts-life menu__item--has-submenu" data-metrics-hover="toggle arts drawer">
+                    <div class="menu__item-inner">
+                        <a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle arts drawer">Expand/collapse submenu for Arts &amp; Life</button>
+                    </div>
+
+                    <ul class="submenu submenu--arts-life">
+                        <li class="submenu__item"><a href="/books/" data-metrics-action="click books">Books</a></li>
+                        <li class="submenu__item"><a href="/sections/movies/" data-metrics-action="click movies">Movies</a></li>
+                        <li class="submenu__item"><a href="/sections/television/" data-metrics-action="click television">Television</a></li>
+                        <li class="submenu__item"><a href="/sections/pop-culture/" data-metrics-action="click pop culture">Pop Culture</a></li>
+                        <li class="submenu__item"><a href="/sections/food/" data-metrics-action="click food">Food</a></li>
+                        <li class="submenu__item"><a href="/sections/art-design/" data-metrics-action="click art & design">Art &amp; Design</a> </li>
+                        <li class="submenu__item"><a href="/sections/performing-arts/" data-metrics-action="click performing arts">Performing Arts</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--music menu__item--has-submenu" data-metrics-hover="toggle music drawer">
+                    <div class="menu__item-inner">
+                        <a href="/music/" data-metrics-action="click music">Music</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle music drawer">Expand/collapse submenu for Music</button>
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/new-music/" data-metrics-action="click new music">
+        New Music
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/689345495/best-music-of-2019" data-metrics-action="click best music of 2019">
+        Best Music Of 2019
+    </a>
+</li></ul>
+
+                </li>
+                <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu" data-metrics-hover="toggle programs &amp; podcasts drawer">
+                    <div class="menu__item-inner">
+                        <a href="/programs/" data-metrics-action="click shows & podcasts">Shows &amp; Podcasts</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle programs &amp; podcasts drawer">Expand/collapse submenu for Shows &amp; Podcasts</button>
+                    </div>
+
+                    <div class="submenu submenu--shows-podcasts">
+                        <span class="submenu__category submenu__category--daily">Daily</span>
+                        <ul class="submenu__list submenu__list--daily">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+                                <a href="/programs/morning-edition/" data-metrics-action="click morning edition">
+                                    <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" alt="" />
+                                    Morning Edition
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden" >
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png" alt="" />
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png" alt="" />
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>  
+                            <li class="submenu__item">
+                                <a href="/programs/all-things-considered/" data-metrics-action="click all things considered">
+                                    <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" alt="" />
+                                    All Things Considered
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/fresh-air/" data-metrics-action="click fresh air">
+                                    <img src="https://media.npr.org/chrome/programs/logos/fresh-air.png" alt="" />
+                                    Fresh Air
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/podcasts/510318/up-first" data-metrics-action="click up first">
+                                    <img src="https://media.npr.org/chrome/programs/logos/up-first.jpg" alt="" />
+                                    Up First
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510313/how-i-built-this" data-metrics-action="click how i built this with guy raz">
+        <img src="https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f.jpg?s=100" alt="" />
+        How I Built This with Guy Raz
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me" data-metrics-action="click wait wait...don't tell me!">
+        <img src="https://media.npr.org/assets/img/2019/05/23/screen-shot-2019-05-23-at-8.46.21-am_sq-7dcea391e7a87ca3569fe3d2047dda0144e5d86f.png?s=100" alt="" />
+        Wait Wait...Don't Tell Me!
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510289/planet-money" data-metrics-action="click planet money">
+        <img src="https://media.npr.org/assets/img/2018/08/02/npr_planetmoney_podcasttile_sq-7b7fab0b52fd72826936c3dbe51cff94889797a0.jpg?s=100" alt="" />
+        Planet Money
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510308/hidden-brain" data-metrics-action="click hidden brain">
+        <img src="https://media.npr.org/assets/img/2018/08/03/npr_hiddenbrain_podcasttile_sq-270ab642de6948802f485c6ad1f087239ef6e324.jpg?s=100" alt="" />
+        Hidden Brain
+    </a>
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
+                            <li class="submenu__item"><a href="/programs/" data-metrics-action="click all programs">More Shows &amp; Podcasts</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--search">
+                    <div class="menu__item-inner">
+                        <a href="/search" id="navigation_dropdown-search" data-metrics-action="click search">Search</a>
+                    </div>
+                </li>
+                <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
+                <li class="menu__item menu__item--shop">
+                    <div class="menu__item-inner">
+                        <a href="https://shop.npr.org" data-metrics-action="click npr shop">NPR Shop</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--music" data-metrics-all data-metrics-category="music ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--music">
+                <li class="menu__item menu__item--music-home">
+                    <a href="/music/" data-metrics-action="click npr music logo">
+                        <img src="https://media.npr.org/chrome_svg/music-logo-dark.svg" class="music-logo"  alt="NPR Music" />
+                        <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music" />
+                    </a>
+                </li>
+                
+                <li class="menu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-news/" data-metrics-action="click music news">
+        Music News
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/new-music/" data-metrics-action="click new music">
+        New Music
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/689345495/best-music-of-2019" data-metrics-action="click best music of 2019">
+        Best Music Of 2019
+    </a>
+</li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--about" data-metrics-all data-metrics-category="about ecosystem navigation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--about">
+                <li class="menu__item menu__item--about-home"><a href="/about/" data-metrics-action="click about npr">About NPR</a></li>
+                <li class="menu__item menu__item--about-overview"><a href="/overview/" data-metrics-action="click overview">Overview</a></li>
+                <li class="menu__item menu__item--about-support"><a href="/support/" data-metrics-action="click support">Support</a></li>
+                <li class="menu__item menu__item--about-careers"><a href="/careers/" data-metrics-action="click careers">Careers</a></li>
+                <li class="menu__item menu__item--about-connect"><a href="/connect/" data-metrics-action="click connect">Connect</a></li>
+                <li class="menu__item menu__item--about-press"><a href="/press/" data-metrics-action="click press">Press</a></li>
+                <li class="menu__item menu__item--about-ethics"><a href="/ethics/" data-metrics-action="click ethics">Ethics</a></li>
+            </ul>
+        </div>
+    </section>
+</nav></header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>Despite 'Loss Of Faith' In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal</b>   <b data-is-speakable>After multiple frustrations, U.S. strategists are asking if the North Korean leader is capable of making the nuclear deal the Trump administration wants.</b>
+</div>
+<div id="wrapper">
+      <header class="contentheader contentheader--one" data-metrics='{"category":"World"}' ></header>   <div class="story-sticky-header">
+    <div class="story-sticky-header-inner">
+        <a href="/" class="nprhome nprhome-news"  data-metrics='{&quot;category&quot;:&quot;global navigation&quot;,&quot;action&quot;:&quot;click npr logo&quot;,&quot;label&quot;:&quot;\/&quot;}' >
+            <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+        </a>
+
+        <article id="res746158305" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Despite 'Loss Of Faith' In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"746060429:746158305","available":true,"duration":413,"title":"Despite \u0027Loss Of Faith\u0027 In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/me\/2019\/07\/20190729_me_despite_loss_of_faith_in_kim_jong_un_the_us_tries_again_for_a_nuclear_deal.mp3?orgId=1&topicId=1004&d=413&p=3&story=746060429&siteplayer=true&size=6601527","storyUrl":"https:\/\/www.npr.org\/2019\/07\/29\/746060429\/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal","slug":"World","program":"morning edition","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='{"playedFrom":"from sticky header"}'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2019/07/20190729_me_despite_loss_of_faith_in_kim_jong_un_the_us_tries_again_for_a_nuclear_deal.mp3?orgId=1&amp;topicId=1004&amp;d=413&amp;p=3&amp;story=746060429&amp;siteplayer=true&amp;size=6601527&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>6:53</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P6M,53S">6:53</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2019/07/20190729_me_despite_loss_of_faith_in_kim_jong_un_the_us_tries_again_for_a_nuclear_deal.mp3?orgId=1&amp;topicId=1004&amp;d=413&amp;p=3&amp;story=746060429&amp;siteplayer=true&amp;size=6601527&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;746060429&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/746060429/746158305"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;746060429&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/746060429/746158305&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/746060429/746158305" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=746060429"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;746060429&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+
+        <a href="#" class="title">
+          <b>Despite 'Loss Of Faith' In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal</b>
+          <time datetime="P6M,53S">6:53</time>
+        </a>
+    </div>
+</div>   <section id="main-section"><article class="story"><a id="mainContent"></a><div class="slug-wrap">
+
+    <h3 class="slug">
+        <a href="https://www.npr.org/sections/world/">World</a>
+    </h3>
+</div>
+<div class="storytitle">
+      <h1>Despite 'Loss Of Faith' In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal</h1>
+   <input type="hidden" id="title746060429" value="Despite 'Loss Of Faith' In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal" />
+   <input type="hidden" id="shortTitle746060429" value="Despite 'Loss Of Faith' In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal" />
+   <input type="hidden" id="modelShortUrl746060429" value="https://n.pr/2Zhwglx" />
+   <input type="hidden" id="modelFullUrl746060429" value="https://www.npr.org/2019/07/29/746060429/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal" />
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-tools">
+      <div id="primaryaudio" class="storylocation linkLocation">
+            <article id="res746158305" class="bucketwrap resaudio primaryaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">Despite 'Loss Of Faith' In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"746060429:746158305","available":true,"duration":413,"title":"Despite \u0027Loss Of Faith\u0027 In Kim Jong Un, The U.S. Tries Again For A Nuclear Deal","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/me\/2019\/07\/20190729_me_despite_loss_of_faith_in_kim_jong_un_the_us_tries_again_for_a_nuclear_deal.mp3?orgId=1&topicId=1004&d=413&p=3&story=746060429&siteplayer=true&size=6601527","storyUrl":"https:\/\/www.npr.org\/2019\/07\/29\/746060429\/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal","slug":"World","program":"morning edition","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2019/07/20190729_me_despite_loss_of_faith_in_kim_jong_un_the_us_tries_again_for_a_nuclear_deal.mp3?orgId=1&amp;topicId=1004&amp;d=413&amp;p=3&amp;story=746060429&amp;siteplayer=true&amp;size=6601527&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>6:53</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P6M,53S">6:53</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2019/07/20190729_me_despite_loss_of_faith_in_kim_jong_un_the_us_tries_again_for_a_nuclear_deal.mp3?orgId=1&amp;topicId=1004&amp;d=413&amp;p=3&amp;story=746060429&amp;siteplayer=true&amp;size=6601527&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;746060429&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/746060429/746158305"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;746060429&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/746060429/746158305&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/746060429/746158305" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=746060429"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;746060429&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+   </div>
+   <div class="share-tools share-tools--primary" aria-label="Share tools">
+            <ul>
+                  <li class="share-tools__service share-tools__service--facebook"><button class="fbStory746060429" data-share-facebook='{"storyId": 746060429 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/29\/746060429\/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+         <li class="share-tools__service share-tools__service--twitter"><button class="story746060429" data-share-twitter='{"storyId": 746060429 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/29\/746060429\/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+         <li class="share-tools__service share-tools__service--flipboard"><button class="story746060429" data-share-flipboard='{"storyId": 746060429 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/29\/746060429\/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+         <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='746060429'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/29\/746060429\/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal"}' ><b class="share-tools__service-name">Email</b></button></li>
+      </ul>
+   </div>
+   
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--PRIMARY" ARIA-LABEL="SHARE TOOLS" -->
+</div>
+
+<!-- END CLASS="STORY-TOOLS" -->
+<div id="story-meta" class="story-meta has-byline">
+      <div class="story-meta__one">
+            <div class="dateblock">
+    <time datetime="2019-07-29T05:18:00-04:00">
+            <span class="date">July 29, 2019</span><span class="time">5:18 AM ET</span>
+    </time>
+</div>      <div class="program-block">
+                  Heard on          <a href="https://www.npr.org/programs/morning-edition/2019/07/29/746139854/morning-edition-for-july-29-2019">Morning Edition</a>
+      </div>
+      
+<!-- END CLASS="PROGRAM-BLOCK" -->
+   </div>
+   
+<!-- END CLASS="STORY-META__ONE" -->
+   <div class="story-meta__two">
+            <div id="storybyline" class="storybyline-wrap linkLocation">
+                  <div class="bucketwrap byline" id="res746060440" previewTitle="bylines">
+                        <div class="byline-container--block">
+                              <div class="byline byline--block byline--has-link" aria-label="Byline">
+    <div class="byline__photo">
+      <a href="https://www.npr.org/people/4080709/steve-inskeep" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+        <img src="https://media.npr.org/assets/img/2019/06/13/npr_66397756_sq-bd8cecdd0623810459d25d70a4ad3e871bb7f7d7-s100-c85.jpg" class="img"  alt="Steve Inskeep, photographed for NPR, 13 May 2019, in Washington DC." />
+      </a>
+    </div>
+
+  <p class="byline__name byline__name--block">
+    <a href="https://www.npr.org/people/4080709/steve-inskeep" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+      Steve Inskeep
+    </a>
+  </p>
+
+    <a class="byline__social-handle byline__social-handle--5" href="https://www.twitter.com/NPRinskeep"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Twitter
+    </a>
+</div>
+            </div>
+         </div>
+         
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES746060440" PREVIEWTITLE="BYLINES" -->
+      </div>
+   </div>
+   
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res746061126" class="bucketwrap image large">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2019/07/28/gettyimages-1159168545-e562745fc223a873f6e56d4cae316d8edce06400-s1100-c15.jpg" data-original="https://media.npr.org/assets/img/2019/07/28/gettyimages-1159168545-e562745fc223a873f6e56d4cae316d8edce06400-s1100.jpg" class="img lazyOnLoad"  alt="" />
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2019/07/28/gettyimages-1159168545-e562745fc223a873f6e56d4cae316d8edce06400-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                A handout photo provided by Dong-A Ilbo of North Korean leader Kim Jong Un and President Trump inside the demilitarized zone separating South and North Korea on June 30.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Dong-A Ilbo via Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Dong-A Ilbo via Getty Images
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <img data-original="https://media.npr.org/assets/img/2019/07/28/gettyimages-1159168545-e562745fc223a873f6e56d4cae316d8edce06400-s1200.jpg" alt="" />
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">A handout photo provided by Dong-A Ilbo of North Korean leader Kim Jong Un and President Trump inside the demilitarized zone separating South and North Korea on June 30.</p>
+        <span class="credit" aria-label="Image credit">
+            
+            Dong-A Ilbo via Getty Images
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p>The United States is trying again to persuade North Korea to end its nuclear weapons program.</p>   <p>A senior U.S. official tells NPR that U.S. diplomats are communicating with the reclusive regime. They are passing messages through North Korea's mission to the United Nations in New York.</p>   <p>The goal is a new round of "working-level" talks between experts from the two nations. President Trump and North Korean leader Kim Jong Un agreed to make such an effort during <a href="https://www.npr.org/2019/06/30/737365074/trump-to-meet-kim-jong-un-at-dmz">their dramatic meeting in June</a> at the fortified boundary between North and South Korea.</p>   <p>But the effort has begun slowly, and a question hangs over the initiative. After multiple frustrations, U.S. strategists are asking if Kim Jong Un is capable of making the nuclear deal the Trump administration wants.</p>   <p>It's significant if the U.S. concludes Kim can't make a deal, since the U.S. has tried so hard to appeal directly to him. President Trump has now met Kim three times, exchanged letters with him and even declared that they "fell in love." Secretary of State Mike Pompeo has visited the North Korean leader in Pyongyang.</p>   <aside id="ad-backstage-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-backstage-News_World" class="ad-backstage" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_World","targets":{"testserver":"false","storyId":"746060429","program":"Morning_Edition","agg":["300659419","465650722","191676894","434975886"]},"location":"backstage","deferred":false,"isBetweenContent":true,"isAggSponsorship":false,"borderClass":""}'></div>
+
+</aside>   <p>"The president still has faith" that Kim can be an effective negotiating partner, said one person closely familiar with U.S. deliberations. The person asked not to be identified, citing the sensitivity of the matter.</p>   <p>But elsewhere within the U.S. government, there is a widespread "loss of faith." The source said U.S. strategists are baffled that the North Korean ruler has seemed unable to spur his country to keep what they see as his commitments.</p>   <p>At a summit in Singapore in June 2018, Trump and Kim committed to "work toward" denuclearization of the Korean Peninsula. But U.S. diplomats grew frustrated as they tried to realize that goal. <a href="https://www.state.gov/secretary-pompeos-meetings-in-pyongyang-democratic-peoples-republic-of-korea/">Pompeo left an October 2018 meeting with Kim</a> believing he would allow inspectors to see a North Korean nuclear test site. But months passed and the inspectors never entered.</p>   <div id="res746100960" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage737365074" href="https://www.npr.org/2019/06/30/737365074/trump-to-meet-kim-jong-un-at-dmz"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2019\/06\/30\/737365074\/trump-to-meet-kim-jong-un-at-dmz"}' ><img src="https://media.npr.org/assets/img/2019/06/30/gettyimages-1152906866_sq-20909706e3fdce7bd74253d5d6da2f85dd14c153-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2019/06/30/gettyimages-1152906866_sq-20909706e3fdce7bd74253d5d6da2f85dd14c153-s100.jpg" class="img lazyOnLoad"  alt="Trump Meets North Korea's Kim Jong Un And Says Nuclear Negotiations Will Resume" /></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/sections/world/">World </a></h3>
+            <h3><a href="https://www.npr.org/2019/06/30/737365074/trump-to-meet-kim-jong-un-at-dmz"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2019\/06\/30\/737365074\/trump-to-meet-kim-jong-un-at-dmz"}' >Trump Meets North Korea's Kim Jong Un And Says Nuclear Negotiations Will Resume</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES746100960" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <div id="res746101147" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage742129952" href="https://www.npr.org/2019/07/16/742129952/irate-over-military-exercises-north-korea-threatens-to-resume-nuclear-missile-te"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2019\/07\/16\/742129952\/irate-over-military-exercises-north-korea-threatens-to-resume-nuclear-missile-te"}' ><img src="https://media.npr.org/assets/img/2019/07/16/gettyimages-1152948843_sq-c983fe2a5fa1bb9745f6bef99354b9b0891dfcb7-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2019/07/16/gettyimages-1152948843_sq-c983fe2a5fa1bb9745f6bef99354b9b0891dfcb7-s100.jpg" class="img lazyOnLoad"  alt="Irate Over Military Exercises, North Korea Threatens To Resume Nuclear, Missile Tests" /></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/sections/world/">World </a></h3>
+            <h3><a href="https://www.npr.org/2019/07/16/742129952/irate-over-military-exercises-north-korea-threatens-to-resume-nuclear-missile-te"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2019\/07\/16\/742129952\/irate-over-military-exercises-north-korea-threatens-to-resume-nuclear-missile-te"}' >Irate Over Military Exercises, North Korea Threatens To Resume Nuclear, Missile Tests</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES746101147" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>A second summit in Hanoi in early 2019 fell apart after Kim advanced a proposal to close one of North Korea's nuclear facilities, but resisted broader U.S. demands.</p>   <p>The third meeting between the two leaders, at the fortified border between North and South Korea last month, produced a promise to start working-level negotiations within two to three weeks. But four weeks have passed, and talks have not begun. A senior U.S. official says North Korea has yet to name a lead negotiator.</p>   <p>Although the workings of North Korea's government are unusually opaque, three analysts told NPR that Kim does face certain political limits. While he has no meaningful political opposition, he does want to ensure the stability of his regime.</p>   <p>Kim Jong Un "is the decision-maker," said Jenny Town of the journal <em>38 North</em>, which analyzed North Korea for the Stimson Center, a nonpartisan policy research center in Washington. "He is able to make" decisions about the nuclear program, said Town, "but it doesn't come without consequences. And I think this is a bit underappreciated that there are different constituencies within North Korea that he does also have to answer to at some point."</p>   <div id="res746102867" class="bucketwrap internallink mediapromo primary">
+            <h4 class="internallink__slug">Books</h4>
+      <h2 class="internallink__title">'The Great Successor' Ventures Inside Kim Jong Un's North Korea</h2>
+      <article id="res731760603" class="bucketwrap resaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">'The Great Successor' Ventures Inside Kim Jong Un's North Korea</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"731602037:731760603","available":true,"duration":2240,"title":"\u0027The Great Successor\u0027 Ventures Inside Kim Jong Un\u0027s North Korea","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/fa\/2019\/06\/20190611_fa_01.mp3?orgId=427869011&topicId=1032&d=2240&p=13&story=731602037&siteplayer=true&size=35761503","storyUrl":"https:\/\/www.npr.org\/2019\/06\/11\/731602037\/the-great-successor-ventures-inside-kim-jong-un-s-north-korea","slug":"Books","program":"fresh air","affiliation":"Fresh Air","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2019/06/20190611_fa_01.mp3?orgId=427869011&amp;topicId=1032&amp;d=2240&amp;p=13&amp;story=731602037&amp;siteplayer=true&amp;size=35761503&amp;dl=1">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">Listen</b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>37:20</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P37M,20S">37:20</time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/fa/2019/06/20190611_fa_01.mp3?orgId=427869011&amp;topicId=1032&amp;d=2240&amp;p=13&amp;story=731602037&amp;siteplayer=true&amp;size=35761503&amp;dl=1"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;731602037&quot;,&quot;noninteraction&quot;:true}'  ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/731602037/731760603"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;731602037&quot;,&quot;noninteraction&quot;:true}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/731602037/731760603&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/731602037/731760603" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+                <li class="audio-tool audio-tool-transcript">
+                  <a href="https://www.npr.org/templates/transcript/transcript.php?storyId=731602037"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;click transcript&quot;,&quot;label&quot;:&quot;731602037&quot;,&quot;noninteraction&quot;:true}' >
+                    <b class="icn-transcript"></b>
+                    <b class="audio-tool-label">Transcript</b>
+                  </a>
+                </li>
+        </ul>
+    </div>
+</div>
+</article>
+   </div>
+   
+<!-- END ID="RES746102867" CLASS="BUCKETWRAP INTERNALLINK MEDIAPROMO PRIMARY" -->
+   <p>Kim has purged the ranks of both the ruling Communist Party and the North Korean military since taking power in 2011. Yet the elites around Kim and in the military may have their own views. In recent months, North Korea's state-run press has revealed signs of disagreement with nuclear diplomacy.</p>   <p>"There seems to be a very subtle debate going on," said Town, <a href="https://www.38north.org/2019/06/rcarlin062019/">citing</a> <a href="https://www.38north.org/2019/06/rcarlin061019/">articles</a> in North Korean press "that are really questioning the value of why are we giving away our nuclear deterrent, why are we working with these capitalists?" Other articles have pushed back, stressing "the value of diplomacy."</p>   <p>Kim has expressed skepticism. In a speech in April, he said President Trump "continuously observes" that the two leaders are friendly. But Kim added that the U.S. is making one-sided demands and using the wrong "political calculations."</p>   <p>Analysts say Kim's own political calculations have made it hard to give up nuclear weapons.</p>   <p>Jean Lee, a former Associated Press correspondent who spent much time in Pyongyang, said North Korea's propaganda described the nuclear program as "the one thing that he has told his people is protecting them from a foreign invasion."</p>   <p>Giving up the nuclear program would undermine Kim's legitimacy as a ruler, said Ken Gause, who studies the North Korean leadership for CNA, a research group based in Arlington, Va.</p>   <p>"I think he can dismantle parts of the program," Gause said, but only in ways that are "not verifiable and not irreversible," and "probably not near as much as we would want."</p>   <p>To accept even a partial dismantling, Kim would need concessions from the United States, such as the lifting of economic sanctions against North Korea. "Kim is not moving an iota unless the U.S. put stuff on the table," said Gause, "which means money going into the pockets of the elite because that's the people he has to satisfy."</p>   <p>The U.S. has held out the possibility of sanctions relief, but says North Korea must irreversibly give up its weapons program first.</p>   <p>Gause is among those who think a step-by-step agreement is still possible: First one side gives a little, then the other does. But the Trump administration opposes that incremental approach, fearing North Korea would never finish. This leaves diplomats still searching for a formula that gives the U.S. what it wants — while giving North Korea's power structure what it needs.</p>
+</div>
+<div class="share-tools share-tools--secondary" aria-label="Share tools">
+      <ul>
+            <li class="share-tools__service share-tools__service--facebook"><button class="fbStory746060429" data-share-facebook='{"storyId": 746060429 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/29\/746060429\/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+      <li class="share-tools__service share-tools__service--twitter"><button class="story746060429" data-share-twitter='{"storyId": 746060429 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/29\/746060429\/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+      <li class="share-tools__service share-tools__service--flipboard"><button class="story746060429" data-share-flipboard='{"storyId": 746060429 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/29\/746060429\/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+      <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='746060429'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2019\/07\/29\/746060429\/despite-loss-of-faith-in-kim-jong-un-the-u-s-tries-again-for-a-nuclear-deal"}' ><b class="share-tools__service-name">Email</b></button></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;news&quot;,&quot;title&quot;:&quot;Daily News&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For The NPR Daily Newsletter&quot;,&quot;frequency&quot;:&quot;each weekday&quot;,&quot;shortDescription&quot;:&quot;Catch up on the latest headlines and unique NPR stories, sent every weekday.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2018\/07\/18\/dailynews-june27-screencap-cropped-small_custom.png&quot;,&quot;staticMarkupDir&quot;:&quot;\/buckets\/topics\/header1001.html&quot;,&quot;brandingDir&quot;:&quot;\/branding\/sections\/news\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/sections\/news\/&quot;,&quot;organizationId&quot;:1,&quot;recaptchaSiteKey&quot;:&quot;6LfD6CYUAAAAAIBeUekwZ9KCjF4UyLFtu7NWNaEK&quot;}">
+   </div>
+
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;NEWS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;DAILY NEWS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NPR DAILY NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EACH WEEKDAY&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;CATCH UP ON THE LATEST HEADLINES AND UNIQUE NPR STORIES, SENT EVERY WEEKDAY.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2018\/07\/18\/DAILYNEWS-JUNE27-SCREENCAP-CROPPED-SMALL_CUSTOM.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/TOPICS\/HEADER1001.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/NEWS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/NEWS\/&QUOT;,&QUOT;ORGANIZATIONID&QUOT;:1,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LFD6CYUAAAAAIBEUEKWZ9KCJF4UYLFTU7NWNAEK&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+   </div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<aside id="end-of-story-recommendations-mount" class="recommended-stories" aria-label="recommended stories"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two" data-metrics='{"category":"World"}' ></header><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/arts/" data-metrics-action="Click Arts &amp; Life">Arts &amp; Life</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts/" data-metrics-action="Click Podcasts">Podcasts</a></li>
+                <li class="npr-footer__item"><a href="/programs/" data-metrics-action="Click Programs">Programs</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/newsletters/" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="https://www.npr.org/contact" data-metrics-action="Click Contact">Contact</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org" data-metrics-action="Click Help">Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/179803822/people-at-npr" data-metrics-action="Click People">People</a></li>
+                <li class="npr-footer__item"><a href="/press/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="/sections/publiceditor/" data-metrics-action="Click Public Editor">Public Editor</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/support/" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shop.npr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/177066727/visit-npr" data-metrics-action="Click Visit NPR">Visit NPR</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices" data-metrics-action="Click Your Privacy Choices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div></footer></section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-News_World" class="ad-standard" data-ad-config='{"network":"\/6735\/","site":{"default":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_World","targets":{"testserver":"false","storyId":"746060429","program":"Morning_Edition","agg":["300659419","465650722","191676894","434975886"]},"location":"standard","deferred":false,"isBetweenContent":false,"isAggSponsorship":false,"borderClass":""}'></div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { webpackJsonp([82,25],{0:function(n,t,c){n.exports=c(1823)},1823:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(46),c(2232),c(364),c(371),c(262),c(795),c(406),c(2237),c(405),c(2236),c(2235),c(1402),c(588),c(2229),c(1563),c(2222),c(353)}(c)}.bind(this);c.e(0,t),c.e(4,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main><noscript><iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe></noscript><noscript><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe></noscript><script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            // Wait until the metric for chartbeat have been setup
+            // in templates/javascript/metrics/chartbeat.js
+            if( !!NPR.ChartbeatLoaded) {
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            } else {
+                setTimeout(loadChartbeat, 1000);
+            }
+        }
+
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            window._sf_endpt = (new Date()).getTime();
+            loadChartbeat();
+        };
+    })();
+</script></body></html>

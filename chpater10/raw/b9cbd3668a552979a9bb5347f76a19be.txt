@@ -1,0 +1,2864 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]> <html lang="en" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]> <html lang="en" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <html lang="en"> <!--<![endif]-->
+  <head>
+    <title>Hong Kong&#039;s top Government office in Beijing hits out at protesters, calling them &#039;evil&#039; and &#039;criminal&#039; - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="amphtml" href="http://amp.abc.net.au/article/11363738"/>
+<link rel="canonical" data-abc-platform="standard" href="https://www.abc.net.au/news/2019-07-29/hong-kong-protest-statement-affairs-office-state-council/11363738"/>
+<meta name="title" content="Hong Kong&#039;s top Beijing office condemns &#039;evil&#039; protesters, urging them to &#039;resist violence&#039;"/>
+                <meta name="description" content="The Chinese Government department that oversees Hong Kong lashes out at protesters, calling their actions evil and criminal and saying they should get over the political contentions."/>
+                <meta name="keywords" content="hong kong, china, protest, extradition bill, democracy, carrie lam"/>
+                <meta name="ICBM" content="22.25,114.166666"/>
+                <meta name="geo.position" content="22.25;114.166666"/>
+                <meta name="ContentId" content="11363738"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC.editorialGenre" content="News &amp; Current Affairs"/>
+                <meta name="ABC.tags" content="law-crime-and-justice;politics-and-government;foreign-affairs;demonstration"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="true"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="ABC.productionUnit" content="World"/>
+                <meta name="ABC.ContentType" content="CMArticle"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="https://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.rightsHolder" content="AP"/>
+                <meta name="DC.rightsHolder" content="ABC"/>
+                <meta name="DC.rightsHolder" content="Reuters"/>
+                <meta name="DC.type" content="Text"/>
+                <meta name="DC.type" scheme="iptc-genre" content="Current"/>
+        <meta name="DC.title" content="Hong Kong&#039;s top Beijing office condemns &#039;evil&#039; protesters, urging them to &#039;resist violence&#039;"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2019-07-29T18:55:55+1000"/>
+        <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="https://www.abc.net.au/news/2019-07-29/hong-kong-protest-statement-affairs-office-state-council/11363738"/>
+          <meta name="DC.language" scheme="DCTERMS.RFC3066" content="en-AU"/>
+        <meta name="DC.subject" scheme="ABCTERMS.subject" content="Law, Crime and Justice;Government and Politics:Foreign Aid:Politics and Government;Government and Politics:Foreign Affairs;Unrest, Conflict and War:Demonstration"/>
+        <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2019-07-29T18:55:55+1000"/>
+        <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2019-07-30T15:12:10+1000"/>
+        <meta name="DCTERMS.spatial" content="Hong Kong;China"/>
+                <meta name="DCTERMS.spatial" scheme="DCTERMS.DCMIPoint" content="east=114.166666;north=22.25"/>
+        <meta property="og:title" content="Hong Kong&#039;s top Beijing office condemns &#039;evil&#039; protesters, urging them to &#039;resist violence&#039;"/>
+                <meta property="og:description" content="The Chinese Government department that oversees Hong Kong lashes out at protesters, calling their actions evil and criminal."/>
+                <meta property="og:url" content="https://www.abc.net.au/news/2019-07-29/hong-kong-protest-statement-affairs-office-state-council/11363738"/>
+                <meta property="og:image" content="https://www.abc.net.au/news/image/11363842-16x9-700x394.jpg"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="700"/>
+                <meta property="og:image:height" content="394"/>
+                <meta name="twitter:image" content="https://www.abc.net.au/news/image/11363842-16x9-700x394.jpg"/>
+                <meta property="og:type" content="Article"/>
+                <meta property="og:updated_time" content="2019-07-30T15:12:10+1000"/>
+                <meta property="article:published_time" content="2019-07-29T18:55:55+1000"/>
+                <meta property="article:modified_time" content="2019-07-30T15:12:10+1000"/>
+                <meta property="article:publisher" content="https://www.facebook.com/abcnews.au"/>
+                <meta property="article:tag" content="hong kong"/>
+                <meta property="article:tag" content="china"/>
+                <meta property="article:tag" content="protest"/>
+                <meta property="article:tag" content="extradition bill"/>
+                <meta property="article:tag" content="democracy"/>
+                <meta property="article:tag" content="carrie lam"/>
+                <meta property="article:tag" content="Hong Kong"/>
+                <meta property="article:tag" content="China"/>
+                <meta property="article:tag" content="Law, Crime and Justice"/>
+                <meta property="article:tag" content="Politics and Government"/>
+                <meta property="article:tag" content="Foreign Aid"/>
+                <meta property="article:tag" content="Government and Politics"/>
+                <meta property="article:tag" content="Foreign Affairs"/>
+                <meta property="article:tag" content="Demonstration"/>
+                <meta property="article:tag" content="Unrest, Conflict and War"/>
+                <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@ABCNews"/>
+                <meta name="apple-mobile-web-app-title" content="ABC News"/>
+                <meta property="fb:pages" content="72924719987"/>
+                <link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="https://mobile.abc.net.au/news/2019-07-29/hong-kong-protest-statement-affairs-office-state-council/11363738"/>
+  <link media="all" rel="stylesheet" type="text/css"
+                                                                              href="https://res.abc.net.au/bundles/2.5.0/styles/abc.bundle.2.5.0.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="https://www.abc.net.au/res/sites/news-projects/news-core/1.24.1/desktop.css"/>
+    <link rel="alternate" type="application/rss+xml" title="Just In" href="/news/feed/51120/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.abc.net.au/cm/cb/8413658/News+iOS+120x120+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png"/>
+    <script type="text/javascript" src="/news/ajax/45902/managed.js"></script>
+<script type="text/javascript" src="https://www.abc.net.au/res/libraries/jquery/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/sites/news-projects/news-core/1.24.1/desktop.js"></script>
+        <script type="text/javascript" src="/cm/code/8724582/abc.news.config-2018-07-11.js" async></script>
+        <script>
+    window.dataLayer = window.dataLayer || [];
+  </script>
+
+  <script>
+    window.dataLayer.push({
+      'debug': {
+         'schemaVersion': '20180315',
+      },
+
+       'document': {
+        'language': 'en',
+         'canonicalUrl':'https://www.abc.net.au/news/2019-07-29/hong-kong-protest-statement-affairs-office-state-council/11363738',
+         'contentType': 'article',
+         'uri':'coremedia://article/11363738',
+         'contentSource':'coremedia',
+         'id':'11363738',
+         
+         'pageTitle':'Hong Kong\'s top Government office in Beijing hits out at protesters, calling them \'evil\' and \'criminal\'',
+         
+         'title':{
+           
+           'title':'Hong Kong\'s top Government office in Beijing hits out at protesters, calling them \'evil\' and \'criminal\'',
+           
+           'teaser':'Hong Kong\'s top Beijing office condemns \'evil\' protesters, urging them to \'resist violence\'',
+           
+           'short':'Hong Kong protesters \'evil\'',
+           
+         },
+         
+         'productionUnit':'World',
+         
+         'siteRoot':{
+           
+              'segment':'news',
+           
+              'title':'ABC News',
+           
+         },
+         
+         'lastModified':' Tue 30 Jul 2019, 15:12PM EST',
+         
+       },
+    })
+  </script>
+
+  <script>
+    window.dataLayer.push({
+        'application': {
+          'generatorName': 'WCMS JSP',
+          'generatorVersion': '18.10.8.8.0',
+          
+          'environment':'production',
+          
+          'wcmsTheme':'phase1-news',
+        }
+    })
+  </script>
+
+</head>
+  <body
+          class="platform-standard news story_page">
+  <!-- Start ABC Bundle Header 2.5.0 (customised - p1) -->
+<!--noindex-->
+<nav id="abcHeader" class="global" aria-label="ABC Network Navigation" data-resourcebase="https://res.abc.net.au/bundles/2.5.0/" data-scriptsbase="https://res.abc.net.au/bundles/2.5.0/scripts/" data-version="2.5.0">
+ <a class="home" href="https://www.abc.net.au/" data-mobile="https://mobile.abc.net.au/"><img src="https://res.abc.net.au/bundles/2.5.0/images/logo-abc@2x.png" width="65" height="16" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="https://res.abc.net.au/bundles/2.5.0/images/icon-menu-grey@1x.gif" data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li><a role="menuitem" href="https://www.abc.net.au/" data-mobile="https://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/news/" data-mobile="https://mobile.abc.net.au/news/">News</a></li>
+    <li><a role="menuitem" href="https://iview.abc.net.au" data-mobile="https://iview.abc.net.au">iview</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/tv/" data-mobile="https://www.abc.net.au/tv/">TV</a></li>
+    <li><a role="menuitem" href="https://radio.abc.net.au/" data-mobile="https://radio.abc.net.au/">Radio</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/children/" data-mobile="https://mobile.abc.net.au/children/">Kids</a></li>
+    <li><a role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a role="menuitem" class="more" href="https://www.abc.net.au/more/" data-mobile="https://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="search" href="https://search.abc.net.au/" data-mobile="https://search.abc.net.au/"><span>Search</span>
+  <img src="https://res.abc.net.au/bundles/2.5.0/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.5.0 (p1) -->
+<!--noindex-->
+  <div class="page_margins">
+    <div id="header" class="header">
+    <div class="brand">
+        <a href="/news/"><img class="print" src="/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" alt="ABC News" width="387" height="100" />
+                <img class="noprint" src="/cm/lb/8212704/data/news-logo2017-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/news/australia/" class="location-widget">Australia</a><a href="/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-justin" class=""><a href="/news/justin/">Just In</a></li><li id="n-politics" class=""><a href="/news/politics/">Politics</a></li><li id="n-world" class=""><a href="/news/world/">World</a></li><li id="n-business" class=""><a href="/news/business/">Business</a></li><li id="n-analysis-and-opinion" class=""><a href="/news/analysis-and-opinion/">Analysis</a></li><li id="n-sport" class=""><a href="/news/sport/">Sport</a></li><li id="n-science" class=""><a href="/news/science/">Science</a></li><li id="n-health" class=""><a href="/news/health/">Health</a></li><li id="n-arts-culture" class=""><a href="/news/arts-culture/">Arts</a></li><li id="n-factcheck" class=""><a href="/news/factcheck/">Fact Check</a></li><li id="n-more" class=""><a href="/news/more/">Other</a></li></ul>
+  </div>
+<!-- A modules - start -->
+  <!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="article section">
+  
+
+<div class="tools">
+  
+    
+  
+  <a class="button"
+     href="https://www2b.abc.net.au/EAF/View/MailToQuery.aspx?https://www.abc.net.au/news/2019-07-29/hong-kong-protest-statement-affairs-office-state-council/11363738"><span>Email</span></a>
+</div><!--endnoindex-->
+  <h1>Hong Kong&#039;s top Government office in Beijing hits out at protesters, calling them &#039;evil&#039; and &#039;criminal&#039;</h1>
+
+
+
+  
+    <p class="published">
+      Updated 
+    <span class="timestamp">
+      July 30, 2019 15:12:10
+    </span>
+    </p>
+  
+  
+
+<div class="inline-content photo full">
+    <a href="/news/2019-07-29/demonstrators-throwing-items-while-in-smoke-1/11364114">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11363842-3x2-700x467.jpg" alt=" blurry image of protestors hearing hard hats or under umbrellas hurling items" title="Demonstrators throwing items while in smoke" width="700" height="467"/>
+</a><a href="/news/2019-07-29/demonstrators-throwing-items-while-in-smoke-1/11364114" class="inline-caption"><strong>
+        Photo:</strong>
+       Protesters and police exchanged fire on Sunday for the second night in a row. <span class="source">(AP: Ring Yu)</span>
+      </a></div>
+<div class="attached-content">
+      <div class="inline-content story left">
+    <a href="/news/2019-07-28/tens-of-thousands-march-in-hong-kong-in-defiance-of-police-ban/11354734"><strong>Related Story:</strong>
+       Beijing to respond to Hong Kong&#039;s escalating unrest after riot police clash with protesters</a></div>
+<div class="inline-content story left">
+    <a href="/news/2019-07-27/hong-kong-police-fire-tear-gas-after-protesters-defy-ban/11353716"><strong>Related Story:</strong>
+       Hong Kong police fire tear gas after protesters defy marching ban</a></div>
+<div class="inline-content story left">
+    <a href="/news/2019-07-27/hong-kong-extradition-bill-is-dead-but-when-will-protests-stop/11349380"><strong>Related Story:</strong>
+       Hong Kong&#039;s controversial extradition bill is &#039;dead&#039; but protesters show no signs of stopping</a></div>
+<div class="inline-content map left">
+      <div class="story-map"></div>
+      <a class="inline-caption" href="http://maps.google.com/?q=22.25,114.166666(Hong%20Kong)&amp;z=5">
+        <strong>Map: </strong>
+        Hong Kong</a>
+    </div>
+  </div>
+  <p>The embattled Chinese Government department that oversees Hong Kong has lashed out at protesters who have rocked the country in recent months, calling their actions "evil" and "criminal" while throwing its support behind leader Carrie Lam.</p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2>Key points:</h2><ul><li>Protests started in March over concerns about what activists say is Beijing's increasing influence on Hong Kong</li><li>The statement called on protesters to focus on the economy and increasing citizen's livelihoods instead</li><li>It also blamed "some individuals and media organisations" on stoking public unrest</li></ul></div>
+</div><p> </p><p>"We call on people from all walks of life in Hong Kong to unequivocally oppose and resist violence," a statement read.</p><blockquote class="quote--pullquote"><p>"No civilised sociality under the rule of law would ever allow acts of violence to take place."</p></blockquote><p>The Hong Kong and Macao Affairs Office of the State Council had planned a live press conference to respond to the months of protests — which reportedly would have been the first time the Beijing-based section addressed such a matter since Hong Kong's handover in 1997 — but changed plans at the last minute. </p><p>Instead, they issued a strongly-worded statement at a press briefing, condemning the hundreds of thousands of people who have taken part in protests and demonstrations since March over the now-withdrawn <a href="https://www.abc.net.au/news/2019-07-09/hong-kong-leaders-says-extradition-bill-dead-after-mass-protests/11291836">extradition bill with China,</a> which many feared would have allowed Beijing to silence dissidents.</p><p>The <a href="/news/2019-07-28/tens-of-thousands-march-in-hong-kong-in-defiance-of-police-ban/11354734" target="_self" title="">protests have continued, however, in anger over China's increasing involvement</a> in Hong Kong affairs, and have <a href="/news/2019-07-03/hong-kong-protest-china-carrie-lam-leadership-uncertain/11271902" target="_self" title="">demanded that pro-Beijing Hong Kong leader Carrie Lam step down</a> amid escalating unrest throughout the city.</p><div class="inline-content full">
+    <a href="https://twitter.com/tomgrundy/status/1155749969099255813"><span><strong>External Link:</strong>
+
+Video footage from Hong Kong media conference.</span>
+        </a></div><p> </p><p>China's top office for Hong Kong interests however praised Ms Lam, saying it "firmly supports" her administration in its handling of the crisis that the top office said has "caused serious damage to the rule of law, public order, economy and the people's lives in Hong Kong and its international image".</p><p>"We call on the general public of Hong Kong to be aware of the grave nature of the current situation and to jointly condemn the evil and criminal acts committed by the radical elements and prevent them from causing trouble in Hong Kong," the statement added.</p><blockquote class="quote--pullquote"><p>"We hope that Hong Kong will get over the political contentions as soon as possible and instead concentrate on developing its economy and improving people's livelihood."</p></blockquote><p>The statement was made after a weekend of protests where <a href="/news/2019-07-27/hong-kong-police-fire-tear-gas-after-protesters-defy-ban/11353716" target="_self" title="">police made heavy use of tear gas, rubber bullets and sponge grenades</a>.</p><div class="inline-content photo right">
+    <a href="/news/2019-07-29/hong-kongs-chief-executive-carrie-lam-1/11364302">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11364300-3x2-340x227.jpg" alt="A woman with black hair and black-rimmed glasses is seen through a red gradient. " title="Hong Kong&#039;s chief executive Carrie Lam" width="340" height="227"/>
+</a><a href="/news/2019-07-29/hong-kongs-chief-executive-carrie-lam-1/11364302" class="inline-caption"><strong>
+        Photo:</strong>
+       The Chinese government has backed Hong Kong leader Carrie Lam despite protesters demanding she step down. <span class="source">(AP: Vincent Yu, File)</span>
+      </a></div><p> </p><h2>Beijing refuses to condemn police attacking of protesters</h2><p>On Sunday, a <a href="/news/2019-07-28/tens-of-thousands-march-in-hong-kong-in-defiance-of-police-ban/11354734" target="_self" title="">large group of protesters took over a major street in a Hong Kong shopping district</a>, setting up barricades to block off the area and defend it against police.</p><p>A spokesperson for the Government's Hong Kong office, Yang Guang, blamed "some individuals and media organisations" on stoking public panic over amendments to the extradition bill, whom he said had "ulterior motives" and had been "scaremongering".</p><p>"As quite a few Hong Kong residents know little about the situation on the mainland and its legal and judicial systems, they may have doubts about the proposed amendments," he said. </p><p>"Some individuals and media organisations with ulterior motives have been scaremongering based on these doubts to stoke public panic and obstruct the adoption of the bill."</p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2><a href="/news/2019-06-18/hong-kong-fighting-for-democracy-british-past-chinese-future/11216400" target="_self" title="">Hong Kong's 2047 deadline</a></h2><h2><a href="/news/2019-06-18/hong-kong-fighting-for-democracy-british-past-chinese-future/11216400" target="_self" title=""><img alt="Hong Kong's 2047 deadline" class="float--none" src="/cm/lb/11220184/data/protester-with-umbrellas-in-hong-kong-data.jpg"/> </a> </h2><a href="/news/2019-06-18/hong-kong-fighting-for-democracy-british-past-chinese-future/11216400" target="_self" title="">Hong Kong is torn between a British past and a Chinese future as it fights for democracy, write Tasha Wibawa and Sean Mantesso.</a><h2> </h2></div>
+</div><p> </p><p>Hong Kong has been wracked by protests for seven weeks, as opposition to an extradition bill has morphed into <a href="/news/2019-06-16/hong-kong-protesters-carrie-lam-steps-down-extradition-bill/11214860" target="_self" title="">demands for the resignation of the city's leader and an investigation into whether police</a> have used excessive force in quelling the protests.</p><p>Police sought to defend China's main representative office in Hong Kong from protesters on Sunday for the second consecutive weekend, with the building near the heart of the city fortified with barricades.</p><p>Police said they had arrested at least 49 people over Sunday's protests for offences including unauthorised assembly and possession of offensive weapons.</p><p>As the officials left the stage, journalists in the crowd asked why Beijing had not condemned the police's attacking of protesters, which reportedly went unanswered, prompting scenes of chaos.</p><p>Hong Kong authorities have raised the prospect of a state of emergency being declared and the Chinese military getting involved if the high-profile protests continue.</p><div class="inline-content photo full">
+    <a href="/news/2019-07-29/soldiers-1/11364312">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11364310-3x2-700x467.jpg" alt="Soldiers of China&#039;s People&#039;s Liberation Army (PLA) get ready for the military parade." title="Soldiers" width="700" height="467"/>
+</a><a href="/news/2019-07-29/soldiers-1/11364312" class="inline-caption"><strong>
+        Photo:</strong>
+       <span>The People's Liberation Army has had a presence in Hong Kong since the city's return to Chinese sovereignty.</span> <span class="source">(Reuters)</span>
+      </a></div><p> </p><p>Asked under what conditions the People's Liberation Army could intervene, Mr Yang referred to Hong Kong's mini constitution, known as the Basic Law, which states that the Hong Kong government can ask the PLA garrison in the city to help maintain order.</p><p>Legal scholars have described that as a high threshold.</p><p>Human rights group Amnesty International called the police response heavy-handed and unacceptable.</p><p>Underlying the movement is a broader push for full democracy in the territory. The city's leader is chosen by a committee dominated by a pro-Beijing establishment, rather than by direct elections.</p><p>"While police must be able to defend themselves, there were repeated instances today where police officers were the aggressors," Man-kei Tam, the director of Amnesty International Hong Kong, said in a statement.</p><p><strong>ABC/Wires</strong></p>
+
+
+<p class="topics">
+	<strong>Topics:</strong>
+	
+	<a href="/news/topic/law-crime-and-justice">law-crime-and-justice</a>,
+
+
+	
+	<a href="/news/topic/politics-and-government">politics-and-government</a>,
+
+
+	
+	<a href="/news/topic/foreign-affairs">foreign-affairs</a>,
+
+
+	
+	<a href="/news/topic/demonstration">demonstration</a>,
+
+
+	
+	<a href="/news/topic/hong-kong">hong-kong</a>,
+
+
+	
+	<a href="/news/topic/china">china</a>
+	
+</p>
+
+
+  <p class="published">
+    First posted 
+    <span class="timestamp">
+      July 29, 2019 18:55:55
+    </span>
+  </p>
+<!--noindex-->
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <div class="inline-content uberlist uberlist-features boxed boxed-titles show-image-icon-doctypes copyfit exclude-current sidebar">
+
+  <div class="section module-heading">
+      <h2>Hong Kong unrest</h2>
+        </div>
+  <div class="section module-body">
+    <ol data-cmid="11213930" data-cmjson="https://www.abc.net.au/news/ajax/11213930/json"
+>
+      <li class="doctype-article" data-image-cmid="11218212" data-cmid="11216400" data-importance="4" data-first-published="2019-06-18T05:00+1000" data-last-published="2019-06-18T09:34+1000"
+>
+    <h3>
+        <a href="/news/2019-06-18/hong-kong-fighting-for-democracy-british-past-chinese-future/11216400">Hong Kong: Torn between a British past and a Chinese future as it fights for democracy</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11336500" data-cmid="11340800" data-importance="4" data-first-published="2019-07-24T08:25+1000" data-last-published="2019-07-24T08:46+1000"
+>
+    <h3>
+        <a href="/news/2019-07-24/hong-kong-arrests-men-with-triad-links-over-mob-attacks/11340800">Hong Kong police arrest men with &#039;triad backgrounds&#039; over subway station attack</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11213956" data-cmid="11213770" data-importance="4" data-first-published="2019-06-15T17:31+1000" data-last-published="2019-06-16T00:34+1000"
+>
+    <h3>
+        <a href="/news/2019-06-15/hong-kong-to-suspend-controversial-extradition-bill/11213770">Hong Kong to suspend controversial extradition bill after mass protests</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11191342" data-cmid="11197844" data-importance="4" data-first-published="2019-06-11T13:57+1000" data-last-published="2019-06-11T13:57+1000"
+>
+    <h3>
+        <a href="/news/2019-06-11/what-will-hong-kongs-extradition-law-mean-for-foreigners/11197844">What could Hong Kong&#039;s extradition law mean for foreigners?</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11191372" data-cmid="11187374" data-importance="4" data-first-published="2019-06-09T05:17+1000" data-last-published="2019-06-09T05:17+1000"
+>
+    <h3>
+        <a href="/news/2019-06-09/hong-kong-extradition-law-changes-spark-mass-protests/11187374">Why is Hong Kong&#039;s proposed extradition law sparking global protests?</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="11202416" data-cmid="11212832" data-importance="4" data-first-published="2019-06-15T00:29+1000" data-last-published="2019-06-15T00:29+1000"
+>
+    <h3>
+        <a href="/news/2019-06-15/hong-kong-police-say-they-are-trapped-in-the-middle/11212832">Police &#039;trapped in the middle&#039; by polarising extradition bill</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="5774984" data-cmid="9918508" data-importance="4" data-first-published="2018-07-01T06:01+1000" data-last-published="2018-07-01T06:01+1000"
+>
+    <h3>
+        <a href="/news/2018-07-01/21-years-on-after-hong-kong-handover-to-china/9918508">&#039;Everyone is feeling more despair&#039;: A look back at Hong Kong&#039;s handover to China 21 years later</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="5824534" data-cmid="6802388" data-importance="4" data-first-published="2015-09-28T05:25+1000" data-last-published="2019-06-15T18:36+1000"
+>
+    <h3>
+        <a href="/news/2015-09-28/timeline-hong-kong-umbrella-movement-one-year-on/6802388">Key moments in Hong Kong&#039;s pro-democracy fight</a></h3>
+    </li>
+<li class="doctype-article" data-image-cmid="4295788" data-cmid="5778050" data-importance="5" data-first-published="2014-09-30T09:24+1000" data-last-published="2014-09-30T10:22+1000"
+>
+    <h3>
+        <a href="/news/2014-09-30/brown-long-road-to-democracy-for-hong-kong/5778050">Long road to democracy for Hong Kong</a></h3>
+    </li>
+</ol>
+  </div>
+
+  </div>
+  <div class="section localised-top-stories">
+        <div class="inner">
+          <h2>Top Stories</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/bill-shorten-breaks-election-loss-silence-for-robodebt-concern/11366148">Shorten on grieving the election that would have made him Prime Minister</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/working-mothers-more-stressed-than-fathers-report-finds/11365632">Working mothers more stressed than fathers, while cost of child care doubles</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/antarctica-china-code-of-conduct-dome-a/11318646">&#039;Australia would be alarmed&#039;: Concern over Chinese plan for Antarctic</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/more-australian-borrowers-falling-into-mortgage-arrears/11365288">&#039;Probably the biggest mistake of my life&#039;: More Australians struggling to repay their mortgage</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/canadian-town-in-lockdown-after-potential-fugitive-sighting/11365448">&#039;Everyone&#039;s on lockdown&#039;: Remote Canadian community fears fugitives are near</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/paladinamber-claps-back-at-trolls-in-her-twitch-stream/11364982">Trolls harassed Amber for foot play. Instead she roasted them in front of millions</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/the-women-behind-bars-breaching-domestic-violence-order/11330408">Annie called police for help 19 times before she stabbed her husband. Now she&#039;s facing jail</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/brisbane-man-drifting-at-sea-for-three-days-rescued/11367028">Brisbane man rescued after drifting in Solomon Sea for three days</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/frankston-graffiti-message-to-chris-goes-viral/11366622">&#039;Talk 2 me b4 baby is born&#039;: Graffiti removed after messages scrawled across suburb</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/home-affairs-deal-crown-casinos-to-fast-track-chinese-visitors/11365068">Integrity investigation ordered into Crown Casino allegations</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/siham-carollisen-defends-charges-of-stealing-from-ill-mother/11365882">Charity founder tearfully tells court she did not steal $140,000 from her ill mother</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/presentation-college-windsor-catholic-girls-school-to-close/11364188">&#039;What does she do for Year 12?&#039;: Students in limbo as Melbourne Catholic girls school shuts</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/garden-island-wa-naval-base-hidden-history/11351430">Garden Island is home to Australia&#039;s largest naval base, but where&#039;s the garden?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/northern-territory-liquor-licensing-affecting-household-product/11365674">Retailers warned selling sauces could violate NT liquor laws</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/dairy-workers-pay-claim-hit-by-surprise-counterclaim-for-rent/11365628">Dairy workers claiming underpayment hit with surprise rent bill ahead of Federal Court hearing</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/indonesia-cracks-down-on-overweight-male-police-officers/11364876">&#039;How will they serve vigilantly?&#039;: Indonesia cracks down on overweight police officers</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/history-of-amazon-acres-nsw-community-female-only/11095974">Naked, wild and free: The women who set out to build utopia on a remote mountaintop</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/dental-clinic-temporarily-closed-cairns-hiv-hepatitis-c-risk/11367286">HIV and hepatitis C risk to dental patients at Far North Queensland clinic</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/missile-launcher-in-us-mans-luggage-at-airport/11367026">Missile launcher confiscated from US man&#039;s luggage</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/commuting-times-soar-with-house-prices-population-boom-blamed/11346258">These are the jobs and cities with the longest commute times. Where are you?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/superannation-young-women-fear-retirement-canberra-ywca-report/11365120">She&#039;s 29 — but Zoya is already worried about how she&#039;ll fund her retirement</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2019-07-30/overconfidence-study-help-hindrance/11365430">Think you&#039;re better than the average person? That could be your overconfidence talking</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/baby-killer-committal-hearing/11366216">Baby who died from head injury had &#039;unsafe sleeping arrangements&#039; at home, court told</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/shayna-jack-instagram-post-promotes-supplement-drug-test-result/11364344"><em>SPORT</em>
+      Shayna Jack promoted a sports supplement on social media last year</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="section graphic">
+  <a href="http://m.me/abcnews.au?ref=welcomefromABCNewshomepage">
+  <img src="/cm/lb/10757972/data/messenger-data.png" alt="Get the headlines to your mobile. NEWS on Messenger." title="Get the headlines to your mobile. NEWS on Messenger." height="70" width="220" />
+  </a>
+</div>
+<div class="connect-with-abc section promo">
+<h2>Connect with ABC News</h2>
+<ul>
+    <li><a href="http://www.facebook.com/abcnews.au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388890/data/facebook-data.png" alt="ABC News on Facebook" title="ABC News on Facebook" width="30" height="30" />
+    </a></li>
+    <li><a href="http://instagram.com/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389068/data/instagram-data.png" alt="ABC News on Instagram" title="ABC News on Instagram" width="32" height="31" />
+    </a></li>
+    <li><a href="http://www.twitter.com/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388894/data/twitter-data.png" alt="ABC News on Twitter" title="ABC News on Twitter" width="32" height="27" />
+    </a></li>
+    <li><a href="http://www.youtube.com/newsonabc" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389052/data/youtube-data.png" alt="ABC News on YouTube" title="ABC News on YouTube" width="50" height="22" />
+    </a></li>
+
+    <li><a href="https://apple.news/TsieN9U-WQ0SZbtP1VTI4uQ" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8458084/data/applenews-data.png" alt="ABC News on Apple News" title="ABC News on Apple News" width="32" height="32" />
+    </a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="section graphic">
+  <a href="/news/feeds/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/4745996/thumbnail/news-podcasts-sidebar-graphic-promo-thumbnail.jpg" alt="News Podcasts" title="News Podcasts" class="" width="220" />
+</a></div><div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/tip-off/"
+    >
+  
+
+  
+    
+        <span>Got a news tip?</span>
+    
+    
+  
+
+  </a>
+</h2><p>If you have inside knowledge of a topic in the news, <a href="/news/contact/tip-off/" target="_self" title="">contact the ABC</a>.</p></div>
+  </div>
+<div class="related">
+<div class="newsmail-signup card">
+<h2>News in your inbox</h2>
+<span class="spiel">Top headlines, analysis, breaking&nbsp;alerts</span>
+
+<div class="form main">
+</div>
+<a href="/news/alerts/subscribe/">More info</a>
+</div>
+</div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/news/about/backstory/"
+    >
+  
+
+  
+    
+        <span>ABC Backstory</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="https://www.abc.net.au/news/about/backstory/" target="_self" title="">ABC teams share the story behind the story and insights into the making of digital, TV and radio content.</a></p></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/"
+    >
+  
+
+  
+    
+        <span>Editorial Policies</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Read about our editorial guiding principles and the enforceable standard our journalists follow.</a></p></div>
+  </div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <div class="page section featured-scroller featured-scroller-4 dark">
+<div class="section">
+  <h2>Features</h2>
+  </div>
+<div class="inner">
+  <ol class="subcolumns">
+    <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-30/hilda-survey-shows-why-australians-dont-feel-better-off/11365200" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/8411712-16x9-220x124.jpg" alt="A child holds its parents hands." title="Child holds hands of mum and dad parenting generic" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  This is why you feel no better off</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>The latest Household, Income and Labour Dynamics Survey explains why people feel they are going backwards despite official statistics.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-29/shayna-jack-case-a-reminder-of-dangers-of-sports-supplements/11363376" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11353654-16x9-220x124.jpg" alt="Shayna Jack shouts as she watches relay teammates race in the pool" title="Shayna Jack yells from the sidelines" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Jack case a warning on supplements</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By senior national sport reporter <a href="/news/david-mark/167166" target="_self" title="">David Mark</a></p>
+		<p>Shayna Jack is the not the first athlete to point to a secondary source after a positive drug test, but experts say the warnings are very clear when it comes to athletes taking sports supplements.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-30/republicans-first-black-congresswoman-on-donald-trump/11363218" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/10558250-16x9-220x124.jpg" alt="A close up shot of US representative Mia Love talking into a microphone." title="Congresswoman Mia Love slams Trump " width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Opinion: Trump should apologise for racist tweets</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Most Republicans do not believe Mr Trump is a racist. This is why his recent remarks are so troubling to me, to people of colour and to many Trump supporters throughout the country.</p>
+	 </div>
+    </li>
+         <li class="c25r">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-29/trump-administration-after-assange-and-it-serves-as-a-warning/11350854" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/10995530-16x9-220x124.jpg" alt="Julian Assange gestures as he arrives at Westminster Magistrates&#039; Court in London." title="Julian Assange in police van" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  The end of the Trump-WikiLeaks love story</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By <a href="/news/michael-brissenden/166894" target="_self" title="">Michael Brissenden</a></p>
+		<p>The WikiLeaks founder's detractors say that despite their dislike for the man, we need to separate him from the charges against him as his prosecution could have grave implications for us all.</p>
+	 </div>
+    </li>
+         </ol>
+</div></div><div id="footer-stories" class="page section">
+    <div class="subcolumns">
+    <div class="c25l">
+        <div class="section">
+          <h2>Top Stories</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/bill-shorten-breaks-election-loss-silence-for-robodebt-concern/11366148">Shorten on grieving the election that would have made him Prime Minister</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/working-mothers-more-stressed-than-fathers-report-finds/11365632">Working mothers more stressed than fathers, while cost of child care doubles</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/antarctica-china-code-of-conduct-dome-a/11318646">&#039;Australia would be alarmed&#039;: Concern over Chinese plan for Antarctic</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/more-australian-borrowers-falling-into-mortgage-arrears/11365288">&#039;Probably the biggest mistake of my life&#039;: More Australians struggling to repay their mortgage</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/canadian-town-in-lockdown-after-potential-fugitive-sighting/11365448">&#039;Everyone&#039;s on lockdown&#039;: Remote Canadian community fears fugitives are near</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/paladinamber-claps-back-at-trolls-in-her-twitch-stream/11364982">Trolls harassed Amber for foot play. Instead she roasted them in front of millions</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/the-women-behind-bars-breaching-domestic-violence-order/11330408">Annie called police for help 19 times before she stabbed her husband. Now she&#039;s facing jail</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/brisbane-man-drifting-at-sea-for-three-days-rescued/11367028">Brisbane man rescued after drifting in Solomon Sea for three days</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/frankston-graffiti-message-to-chris-goes-viral/11366622">&#039;Talk 2 me b4 baby is born&#039;: Graffiti removed after messages scrawled across suburb</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/home-affairs-deal-crown-casinos-to-fast-track-chinese-visitors/11365068">Integrity investigation ordered into Crown Casino allegations</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Just In</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/tenterfield-rural-aid-desalination-plant-delivered/11367702">Town turning on a new tap thanks to donations from across Australia</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/canadian-town-in-lockdown-after-potential-fugitive-sighting/11365448">&#039;Everyone&#039;s on lockdown&#039;: Remote Canadian community fears fugitives are near</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/siham-carollisen-defends-charges-of-stealing-from-ill-mother/11365882">Charity founder tearfully tells court she did not steal $140,000 from her ill mother</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/working-mothers-more-stressed-than-fathers-report-finds/11365632">Working mothers more stressed than fathers, while cost of child care doubles</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/de-belin-federal-court-arlc-response/11367644">A scandal every 22 days: NRL&#039;s &#039;Summer of Hell&#039; invoked in response to de Belin appeal</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/wests-tigers-great-robbie-farah-to-retire-from-nrl/11365130">&#039;Now the time is right&#039;: Wests Tigers great Robbie Farah announces retirement</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/frankston-graffiti-message-to-chris-goes-viral/11366622">&#039;Talk 2 me b4 baby is born&#039;: Graffiti removed after messages scrawled across suburb</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/victorian-public-housing-rental-increase/11365740">Public housing residents overwhelmed with rent increase</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/more-australian-borrowers-falling-into-mortgage-arrears/11365288">&#039;Probably the biggest mistake of my life&#039;: More Australians struggling to repay their mortgage</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/indonesia-cracks-down-on-overweight-male-police-officers/11364876">&#039;How will they serve vigilantly?&#039;: Indonesia cracks down on overweight police officers</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Most Popular</h2><ul class="headlines">
+  <li>
+    <a href="/news/2019-07-30/history-of-amazon-acres-nsw-community-female-only/11095974">Naked, wild and free: The women who set out to build utopia on a remote mountaintop</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/commuting-times-soar-with-house-prices-population-boom-blamed/11346258">These are the jobs and cities with the longest commute times. Where are you?</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/shayna-jack-instagram-post-promotes-supplement-drug-test-result/11364344">Shayna Jack promoted a sports supplement on social media last year</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/canada-murder-suspects-believed-spotted-scavenging-for-food/11365144">Bear Clan Patrol spots fugitive Canadian teens &#039;scavenging for food&#039; in remote dump</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/man-pushes-boy-in-front-of-train-in-germany-killing-him/11364662">Man pushes boy in front of train in Germany, killing him</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-29/ato-lists-weirdest-tax-claims-that-got-rejected/11362492">A $58k wedding, $20k for &#039;raising twins&#039;, beer and a Lego set among &#039;weirdest&#039; claims ATO rejected</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-29/humpback-whale-appears-to-swallow-sea-lion-by-mistake/11363370">A humpback whale appearing to swallow a sea lion is caught on camera</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/home-affairs-deal-crown-casinos-to-fast-track-chinese-visitors/11365068">Integrity investigation ordered into Crown Casino allegations</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/scotland-greets-boris-johnson-with-boos-and-a-frosty-handshake/11364790">Boris Johnson greeted with loud boos and a frosty handshake in Scotland</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/the-women-behind-bars-breaching-domestic-violence-order/11330408">Annie called police for help 19 times before she stabbed her husband. Now she&#039;s facing jail</a>
+
+</li>
+</ul></div>
+      </div>
+    <div class="c25r">
+        <div class="section">
+          <h2>Analysis &amp; Opinion</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/hilda-survey-shows-why-australians-dont-feel-better-off/11365200">Feeling worse off despite changing gender roles and less reliance on welfare? You&#039;re not alone </a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/dockers-and-eagles-keen-to-snare-tim-kelly/11363844">The race is on to lure Tim Kelly back to WA, but have West Coast priced themselves out of the contest?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/republicans-first-black-congresswoman-on-donald-trump/11363218">I was the first black Republican congresswoman. This is what I think of Trump&#039;s tweets</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/asx-200-finally-makes-it-back-to-its-record-high/11313140">ASX finally makes it back to its record high — why has it taken so long?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/australian-women-ashes-team-beating-england-without-difficulty/11356398">Australians don&#039;t even need something special to beat England</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/fremantle-dockers-slump-west-coast-eagles-soar-into-afl-finals/11355342">It&#039;s a rerun of the same &#039;bad movie&#039; — a Dockers season fade out as the Eagles soar to the finals</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/government-wants-to-prevent-senate-inquiry-into-angus-taylor/11355388">It&#039;s D-Day for Angus Taylor. Here&#039;s why One Nation holds the key to his fate</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/inflation-may-be-low-but-our-cost-of-living-is-rising/11350530">You can&#039;t always get what you need, but you can afford what you want</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/lawyer-x-royal-commission-hearings-risk-straying-into-farce/11355076">Lawyer X inquiry hearings risk resembling Abbott and Costello comedy skit</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/will-australia-dare-to-win-edgbaston-ashes-test/11354864">Will Australia dare to win at Edgbaston? Or try not to lose?</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+<!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
+        </div>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/"
+    >
+  
+
+  
+    
+        <span>ABC News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/world/"
+    >
+  
+
+  
+    
+        <span>World</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/business/"
+    >
+  
+
+  
+    
+        <span>Business</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/health/"
+    >
+  
+
+  
+    
+        <span>Health</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/entertainment/"
+    >
+  
+
+  
+    
+        <span>Entertainment</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sport/"
+    >
+  
+
+  
+    
+        <span>Sport</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Analysis &amp; Opinion</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/weather/"
+    >
+  
+
+  
+    
+        <span>Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/topics/"
+    >
+  
+
+  
+    
+        <span>Topics</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/archive/"
+    >
+  
+
+  
+    
+        <span>Archive</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local Weather</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/sydney/weather/"
+    >
+  
+
+  
+    
+        <span>Sydney Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/melbourne/weather/"
+    >
+  
+
+  
+    
+        <span>Melbourne Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/adelaide/weather/"
+    >
+  
+
+  
+    
+        <span>Adelaide Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/brisbane/weather/"
+    >
+  
+
+  
+    
+        <span>Brisbane Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/perth/weather/"
+    >
+  
+
+  
+    
+        <span>Perth Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/hobart/weather/"
+    >
+  
+
+  
+    
+        <span>Hobart Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/darwin/weather/"
+    >
+  
+
+  
+    
+        <span>Darwin Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/canberra/weather/"
+    >
+  
+
+  
+    
+        <span>Canberra Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local News</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/sydney/news/"
+    >
+  
+
+  
+    
+        <span>Sydney News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/melbourne/news/"
+    >
+  
+
+  
+    
+        <span>Melbourne News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/adelaide/news/"
+    >
+  
+
+  
+    
+        <span>Adelaide News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/brisbane/news/"
+    >
+  
+
+  
+    
+        <span>Brisbane News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/perth/news/"
+    >
+  
+
+  
+    
+        <span>Perth News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/hobart/news/"
+    >
+  
+
+  
+    
+        <span>Hobart News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/darwin/news/"
+    >
+  
+
+  
+    
+        <span>Darwin News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/canberra/news/"
+    >
+  
+
+  
+    
+        <span>Canberra News</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/news/subscribe"
+    >
+  
+
+  
+    
+        <span>Newsletters</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="https://mobile.abc.net.au/news/2019-07-29/hong-kong-protest-statement-affairs-office-state-council/11363738?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+  <!-- Start Webtrends -->
+  <div class="hide">
+    </div>
+  <!-- End Webtrends -->
+  <!--endnoindex--><!--Global footer-->
+  <!-- Start ABC Bundle Footer 2.5.0 (customised - p1) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.5.0">
+ <ul>
+  <li><a href="https://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+  <li><a href="https://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a href="https://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+  <li><a href="https://about.abc.net.au/talk-to-the-abc/">Contact the ABC</a></li>
+  <li><a href="https://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2019</time> ABC</a></li>
+ </ul>
+</nav>
+
+<!-- ABC.Bundle Scripts -->
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.5.0/scripts/abc.bundle.2.5.0.min.js"></script>
+<!-- End ABC.Bundle Scripts -->
+
+<!-- Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=abc-aust&cg=0&cc=1&ts=noscript" width="1" height="1" alt=""></div></noscript>
+<!-- End Nielsen Online SiteCensus V6.0 -->
+
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+ // <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+<!-- ABC MyLogin -->
+<script type="text/javascript" src="https://mylogin.abc.net.au/js/abc.mylogin.embedded.js"></script>
+<script type="text/javascript">ABC.MyLoginEmbedded.init();</script>
+<!-- End ABC MyLogin -->
+
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.5.0 (p1) -->
+<!--end global footer-->
+  </body>
+  </html>

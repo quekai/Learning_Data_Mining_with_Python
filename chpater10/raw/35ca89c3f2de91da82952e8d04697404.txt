@@ -1,0 +1,2858 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]> <html lang="en" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]> <html lang="en" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]> <html lang="en" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <html lang="en"> <!--<![endif]-->
+  <head>
+    <title>Canada murders: Fresh CCTV footage of suspects in Lucas Fowler killing released - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="amphtml" href="http://amp.abc.net.au/article/11352894"/>
+<link rel="canonical" data-abc-platform="standard" href="https://www.abc.net.au/news/2019-07-27/canada-murders-cctv-bryer-schmegelsky-kam-mcleod-lucas-fowler/11352894"/>
+<meta name="title" content="Military joins hunt for Canadian fugitives as new CCTV footage released"/>
+                <meta name="description" content="New surveillance footage shows Bryer Schmegelsky and Kam McLeod in a store six days after the murders of Sydney man Lucas Fowler and his American girlfriend Chynna Deese."/>
+                <meta name="keywords" content="lucas fowler, chynna desse, kam mcleod, bryer schmegelsky, canada murders"/>
+                <meta name="ICBM" content="-33.8631,151.2043"/>
+                <meta name="geo.position" content="-33.8631;151.2043"/>
+                <meta name="ContentId" content="11352894"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC.editorialGenre" content="News &amp; Current Affairs"/>
+                <meta name="ABC.tags" content="murder-and-manslaughter;police"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="true"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="ABC.productionUnit" content="States - Sydney digital"/>
+                <meta name="ABC.ContentType" content="CMArticle"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="https://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.rightsHolder" content="ABC"/>
+                <meta name="DC.type" content="Text"/>
+                <meta name="DC.type" scheme="iptc-genre" content="Current"/>
+        <meta name="DC.title" content="Military joins hunt for Canadian fugitives as new CCTV footage released"/>
+                <meta name="DC.coverage.postcode" content="2000"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2019-07-27T09:49:33+1000"/>
+        <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="https://www.abc.net.au/news/2019-07-27/canada-murders-cctv-bryer-schmegelsky-kam-mcleod-lucas-fowler/11352894"/>
+          <meta name="DC.language" scheme="DCTERMS.RFC3066" content="en-AU"/>
+        <meta name="DC.subject" scheme="ABCTERMS.subject" content="Law, Crime and Justice:Crime:Murder and Manslaughter;Law, Crime and Justice:Police"/>
+        <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2019-07-27T09:49:33+1000"/>
+        <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2019-07-27T13:16:06+1000"/>
+        <meta name="DCTERMS.spatial" content="Sydney"/>
+                <meta name="DCTERMS.spatial" scheme="DCTERMS.DCMIPoint" content="east=151.2043;north=-33.8631"/>
+        <meta property="og:title" content="Military joins hunt for Canadian fugitives as new CCTV footage released"/>
+                <meta property="og:description" content="Surveillance footage of Bryer Schmegelsky and Kam McLeod, wanted in connection with the murders of Sydney man Lucas Fowler and his girlfriend in Canada, is released."/>
+                <meta property="og:url" content="https://www.abc.net.au/news/2019-07-27/canada-murders-cctv-bryer-schmegelsky-kam-mcleod-lucas-fowler/11352894"/>
+                <meta property="og:image" content="https://www.abc.net.au/news/image/11353192-16x9-700x394.jpg"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="700"/>
+                <meta property="og:image:height" content="394"/>
+                <meta name="twitter:image" content="https://www.abc.net.au/news/image/11353192-16x9-700x394.jpg"/>
+                <meta property="og:type" content="Article"/>
+                <meta property="og:updated_time" content="2019-07-27T13:16:06+1000"/>
+                <meta property="article:published_time" content="2019-07-27T09:49:33+1000"/>
+                <meta property="article:modified_time" content="2019-07-27T13:16:06+1000"/>
+                <meta property="article:publisher" content="https://www.facebook.com/abcnews.au"/>
+                <meta property="article:author" content="https://www.abc.net.au/news/sarah-thomas/11326482"/>
+                <meta property="article:tag" content="lucas fowler"/>
+                <meta property="article:tag" content="chynna desse"/>
+                <meta property="article:tag" content="kam mcleod"/>
+                <meta property="article:tag" content="bryer schmegelsky"/>
+                <meta property="article:tag" content="canada murders"/>
+                <meta property="article:tag" content="Sydney"/>
+                <meta property="article:tag" content="NSW"/>
+                <meta property="article:tag" content="Australia"/>
+                <meta property="article:tag" content="Murder and Manslaughter"/>
+                <meta property="article:tag" content="Crime"/>
+                <meta property="article:tag" content="Law, Crime and Justice"/>
+                <meta property="article:tag" content="Police"/>
+                <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@ABCNews"/>
+                <meta name="apple-mobile-web-app-title" content="ABC News"/>
+                <meta property="fb:pages" content="72924719987"/>
+                <meta name="DCSext.LocalRegion" content="sydney"/><link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="https://mobile.abc.net.au/news/2019-07-27/canada-murders-cctv-bryer-schmegelsky-kam-mcleod-lucas-fowler/11352894"/>
+  <link media="all" rel="stylesheet" type="text/css"
+                                                                              href="https://res.abc.net.au/bundles/2.5.0/styles/abc.bundle.2.5.0.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="https://www.abc.net.au/res/sites/news-projects/news-core/1.24.1/desktop.css"/>
+    <link rel="alternate" type="application/rss+xml" title="Just In" href="/news/feed/51120/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.abc.net.au/cm/cb/8413658/News+iOS+120x120+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png"/>
+    <script type="text/javascript" src="/news/ajax/45902/managed.js"></script>
+<script type="text/javascript" src="https://www.abc.net.au/res/libraries/jquery/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+        <script type="text/javascript" src="https://www.abc.net.au/res/sites/news-projects/news-core/1.24.1/desktop.js"></script>
+        <script type="text/javascript" src="/cm/code/8724582/abc.news.config-2018-07-11.js" async></script>
+        <script>
+    window.dataLayer = window.dataLayer || [];
+  </script>
+
+  <script>
+    window.dataLayer.push({
+      'debug': {
+         'schemaVersion': '20180315',
+      },
+
+       'document': {
+        'language': 'en',
+         'canonicalUrl':'https://www.abc.net.au/news/2019-07-27/canada-murders-cctv-bryer-schmegelsky-kam-mcleod-lucas-fowler/11352894',
+         'contentType': 'article',
+         'uri':'coremedia://article/11352894',
+         'contentSource':'coremedia',
+         'id':'11352894',
+         
+         'pageTitle':'Canada murders: Fresh CCTV footage of suspects in Lucas Fowler killing released',
+         
+         'title':{
+           
+           'title':'Canada murders: Fresh CCTV footage of suspects in Lucas Fowler killing released',
+           
+           'teaser':'Military joins hunt for Canadian fugitives as new CCTV footage released',
+           
+           'short':'New CCTV of Canada murder suspects',
+           
+         },
+         
+         'productionUnit':'States - Sydney digital',
+         
+         'siteRoot':{
+           
+              'segment':'news',
+           
+              'title':'ABC News',
+           
+         },
+         
+         'lastModified':' Sat 27 Jul 2019, 13:16PM EST',
+         
+       },
+    })
+  </script>
+
+  <script>
+    window.dataLayer.push({
+        'application': {
+          'generatorName': 'WCMS JSP',
+          'generatorVersion': '18.10.8.8.0',
+          
+          'environment':'production',
+          
+          'wcmsTheme':'phase1-news',
+        }
+    })
+  </script>
+
+</head>
+  <body
+          class="platform-standard news story_page">
+  <!-- Start ABC Bundle Header 2.5.0 (customised - p1) -->
+<!--noindex-->
+<nav id="abcHeader" class="global" aria-label="ABC Network Navigation" data-resourcebase="https://res.abc.net.au/bundles/2.5.0/" data-scriptsbase="https://res.abc.net.au/bundles/2.5.0/scripts/" data-version="2.5.0">
+ <a class="home" href="https://www.abc.net.au/" data-mobile="https://mobile.abc.net.au/"><img src="https://res.abc.net.au/bundles/2.5.0/images/logo-abc@2x.png" width="65" height="16" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="https://res.abc.net.au/bundles/2.5.0/images/icon-menu-grey@1x.gif" data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li><a role="menuitem" href="https://www.abc.net.au/" data-mobile="https://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/news/" data-mobile="https://mobile.abc.net.au/news/">News</a></li>
+    <li><a role="menuitem" href="https://iview.abc.net.au" data-mobile="https://iview.abc.net.au">iview</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/tv/" data-mobile="https://www.abc.net.au/tv/">TV</a></li>
+    <li><a role="menuitem" href="https://radio.abc.net.au/" data-mobile="https://radio.abc.net.au/">Radio</a></li>
+    <li><a role="menuitem" href="https://www.abc.net.au/children/" data-mobile="https://mobile.abc.net.au/children/">Kids</a></li>
+    <li><a role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a role="menuitem" class="more" href="https://www.abc.net.au/more/" data-mobile="https://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="search" href="https://search.abc.net.au/" data-mobile="https://search.abc.net.au/"><span>Search</span>
+  <img src="https://res.abc.net.au/bundles/2.5.0/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.5.0 (p1) -->
+<!--noindex-->
+  <div class="page_margins">
+    <div id="header" class="header">
+    <div class="brand">
+        <a href="/news/"><img class="print" src="/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" alt="ABC News" width="387" height="100" />
+                <img class="noprint" src="/cm/lb/8212704/data/news-logo2017-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/news/australia/" class="location-widget">Australia</a><a href="/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-justin" class=""><a href="/news/justin/">Just In</a></li><li id="n-politics" class=""><a href="/news/politics/">Politics</a></li><li id="n-world" class=""><a href="/news/world/">World</a></li><li id="n-business" class=""><a href="/news/business/">Business</a></li><li id="n-analysis-and-opinion" class=""><a href="/news/analysis-and-opinion/">Analysis</a></li><li id="n-sport" class=""><a href="/news/sport/">Sport</a></li><li id="n-science" class=""><a href="/news/science/">Science</a></li><li id="n-health" class=""><a href="/news/health/">Health</a></li><li id="n-arts-culture" class=""><a href="/news/arts-culture/">Arts</a></li><li id="n-factcheck" class=""><a href="/news/factcheck/">Fact Check</a></li><li id="n-more" class=""><a href="/news/more/">Other</a></li></ul>
+  </div>
+<!-- A modules - start -->
+  <!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="article section">
+  
+
+<div class="tools">
+  
+    
+  
+  <a class="button"
+     href="https://www2b.abc.net.au/EAF/View/MailToQuery.aspx?https://www.abc.net.au/news/2019-07-27/canada-murders-cctv-bryer-schmegelsky-kam-mcleod-lucas-fowler/11352894"><span>Email</span></a>
+</div><!--endnoindex-->
+  <h1>Canada murders: Fresh CCTV footage of suspects in Lucas Fowler killing released</h1><div class="byline">
+      By <a href="/news/sarah-thomas/11326482" target="_self" title="">Sarah Thomas</a></div>
+  
+
+
+
+  
+    <p class="published">
+      Updated 
+    <span class="timestamp">
+      July 27, 2019 13:16:06
+    </span>
+    </p>
+  
+  
+
+<div class="media-wrapper-dl inline-content video full" data-uri="coremedia://video/11353010">
+    <script type="text/javascript" charset="utf-8">
+          if (typeof inlineVideoData == 'undefined') var inlineVideoData = new Array();
+          inlineVideoData.push([
+          
+              {'url': 'https://abcmedia.akamaized.net/news/video/201907/NOLs_CanadaTeens_2707_256k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '189', 'width': '320', 'height': '180', 'filesize': '468180'}
+            ,
+              {'url': 'https://abcmedia.akamaized.net/news/video/201907/NOLs_CanadaTeens_2707_1000k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '986', 'width': '1024', 'height': '576', 'filesize': '2128708'}
+            ,
+              {'url': 'https://abcmedia.akamaized.net/news/video/201907/NOLs_CanadaTeens_2707_512k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '449', 'width': '512', 'height': '288', 'filesize': '1010794'}
+            
+            ]);
+            </script>
+        <a href="/news/2019-07-27/cctv-footage-of-teens-on-run/11353010" class="inline-video"><script>
+    window.dataLayer.push({
+      'document':{
+        'embedded':{
+          'coremedia://video/11353010':{
+            'contentSource':'coremedia',
+            'contentType':'video',
+            'id':'11353010',
+            'uri':'coremedia://video/11353010',
+            'title':{
+              
+              'title':'Canadian police released this video of McLeod and Schmegelsky',
+              
+              'teaser':'The teens were sighted in Meadow Lake',
+              
+              'short':'CCTV footage of teens',
+              
+            },
+            'mediaDuration':'16',
+            
+            'transcriptAvailable':'false',
+            
+            'streamType':'ondemand',
+            
+            'classification':'none',
+            
+          },
+        },
+      },
+    })
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11353192-16x9-700x394.jpg" alt="New CCTV footage shows Bryer Schmegelsky and Kam McLeod on the run in the wake of the murders in British Columbia." title="Composite of Bryer Schmegelsky and Kam McLeod" width="700" height="394"/>
+</a><a href="/news/2019-07-27/cctv-footage-of-teens-on-run/11353010" class="inline-caption"><strong>Video:</strong> New CCTV footage shows Bryer Schmegelsky and Kam McLeod on the run in the wake of the murders in British Columbia.
+
+<span class="source">(ABC News)</span>
+      </a></div>
+<div class="attached-content">
+      <div class="inline-content story left">
+    <a href="/news/2019-07-27/lucas-fowler-murder-suspects-potential-for-violence-increasing/11352424"><strong>Related Story:</strong>
+       Canadian murder suspects&#039; potential for more violence increasing, expert warns</a></div>
+<div class="inline-content story left">
+    <a href="/news/2019-07-24/canada-murder-lucas-fowler-chynna-deese-kam-mcleod-bryer-suspect/11340858"><strong>Related Story:</strong>
+       What we know about Canada&#039;s teen triple-murder suspects</a></div>
+<div class="inline-content story left">
+    <a href="/news/2019-07-25/canada-teens-kam-mcleod-bryer-schmegelsky-lucas-fowler-murder/11341654"><strong>Related Story:</strong>
+       Teens suspected of murdering Lucas Fowler in Canada &#039;at the end of the road&#039;</a></div>
+<div class="inline-content story left">
+    <a href="/news/2019-07-23/cctv-footage-murdered-lucas-fowler-chynna-deese/11337192"><strong>Related Story:</strong>
+       &#039;Worst-ever love story&#039;: Dad&#039;s emotional plea as police hunt Australian&#039;s killer</a></div>
+<div class="inline-content map left">
+      <div class="story-map"></div>
+      <a class="inline-caption" href="http://maps.google.com/?q=-33.8631,151.2043(Sydney%202000)&amp;z=5">
+        <strong>Map: </strong>
+        Sydney 2000</a>
+    </div>
+  </div>
+  <p>Canadian police have released new CCTV footage of Bryer Schmegelsky and Kam McLeod, the two teenagers wanted in connection with three murders, including that of Australian man Lucas Fowler.</p><div class="inline-content wysiwyg right">
+<div class="inner">
+  <h2>Key points: </h2><ul><li>In the footage, Bryer Schmegelsky and Kam McLeod are seen casually walking around a store in Meadow Lake, Saskatchewan</li><li>Canadian police are going door-to-door in a search for the two, centred around the town of Gillam in Manitoba</li><li> The bodies of Lucas Fowler, 23, and Chynna Deese, 24, were discovered on a highway in British Columbia on July 15</li></ul></div>
+</div><p> </p><p>In the footage released by police on Friday (local time), the two are seen casually walking around a store in Meadow Lake, in the Canadian province of Saskatchewan.</p><p>The Royal Canadian Mounted Police, known colloquially as Mounties, said the footage was shot on July 21, six days after the bodies of Sydney man Mr Fowler, 23, and his American girlfriend Chynna Deese, 24, were discovered on a highway in British Columbia.</p><p>The Mounties are using helicopters and tracker dogs to search for Mr Schmegelsky and Mr McLeod, and have also called in air support from the Canadian military.</p><p>The hunt for the accused murderers has since shifted 1,300 kilometres east to the remote rural town of Gillam in the province of Manitoba.</p><div class="inline-content photo full">
+    <a href="/news/2019-07-27/canadian-police-head-towards-a-helicopter-1/11353060">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11353054-3x2-700x467.jpg" alt="Canadian police officers walk towards a yellow helicopter on a forest road." title="Canadian police head towards a helicopter" width="700" height="467"/>
+</a><a href="/news/2019-07-27/canadian-police-head-towards-a-helicopter-1/11353060" class="inline-caption"><strong>
+        Photo:</strong>
+       Police have received aircraft support from the Canadian military. <span class="source">(Reuters/RCMP Manitoba)</span>
+      </a></div><p> </p><p>The search has been centred on Gillam since the discovery nearby of a burnt-out vehicle in which Mr Schmegelsky and Mr McLeod had been travelling.</p><div class="inline-content right">
+    <a href="https://twitter.com/rcmpmb/status/1154851963474980865"><span><strong>External Link:</strong>
+
+canada tweet</span>
+        </a></div><p> </p><p>Police are now going door-to-door in the town and say they want to speak to any members of the public who may have unwittingly helped the pair.</p><p>Police said there had been two corroborated sightings of the suspects in the area.</p><p>"It is possible that someone may not have been aware of who they were providing assistance to and may now be hesitant to come forward," </p><p>About 80 tip-offs had been received over the past 48 hours, police said.</p><p>Mr Fowler was the son of NSW Police Chief Inspector Stephen Fowler.</p><p>Mr Schmegelsky, 18, and Mr McLeod, 19, have been charged with second-degree murder over the death of Leonard Dyck, 64, whose body was found two kilometres from the pair's burnt-out ute on July 19.</p><p>The pair are childhood friends from Port Alberni on Vancouver Island.</p><div class="inline-content photo full">
+    <a href="/news/2019-07-27/lucas-fowler/11352940">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11340744-3x2-700x467.jpg" alt="Lucas Fowler" title="Lucas Fowler" width="700" height="467"/>
+</a><a href="/news/2019-07-27/lucas-fowler/11352940" class="inline-caption"><strong>
+        Photo:</strong>
+       Lucas Fowler was found dead in Canada. <span class="source">(Supplied: NSW Police)</span>
+      </a></div><p> </p>
+
+
+<p class="topics">
+	<strong>Topics:</strong>
+	
+	<a href="/news/topic/murder-and-manslaughter">murder-and-manslaughter</a>,
+
+
+	
+	<a href="/news/topic/police">police</a>,
+
+
+	
+	<a href="/news/topic/sydney-2000">sydney-2000</a>
+	
+</p>
+
+
+  <p class="published">
+    First posted 
+    <span class="timestamp">
+      July 27, 2019 09:49:33
+    </span>
+  </p>
+<div class="authorpromo">
+      <p>
+        <a class="button" href="/news/contact/feedback.html?id=11326482">
+            <span>Contact Sarah Thomas</span>
+        </a>
+      </p>
+    </div>
+  <div class="statepromo">
+      <p>
+        
+
+
+
+
+
+<a href="/news/nsw/" class="button">
+<span><strong>
+  More
+</strong> stories from New South Wales</span></a>
+
+</p>
+    </div>
+  <!--noindex-->
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <div class="section localised-top-stories">
+        <div class="inner">
+          <h2>Top Stories</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/bill-shorten-breaks-election-loss-silence-for-robodebt-concern/11366148">Shorten on grieving the election that would have made him Prime Minister</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/working-mothers-more-stressed-than-fathers-report-finds/11365632">Working mothers more stressed than fathers, while cost of child care doubles</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/antarctica-china-code-of-conduct-dome-a/11318646">&#039;Australia would be alarmed&#039;: Concern over Chinese plan for Antarctic</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/more-australian-borrowers-falling-into-mortgage-arrears/11365288">&#039;Probably the biggest mistake of my life&#039;: More Australians struggling to repay their mortgage</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/canadian-town-in-lockdown-after-potential-fugitive-sighting/11365448">&#039;Everyone&#039;s on lockdown&#039;: Remote Canadian community fears fugitives are near</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/paladinamber-claps-back-at-trolls-in-her-twitch-stream/11364982">Trolls harassed Amber for foot play. Instead she roasted them in front of millions</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/the-women-behind-bars-breaching-domestic-violence-order/11330408">Annie called police for help 19 times before she stabbed her husband. Now she&#039;s facing jail</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/brisbane-man-drifting-at-sea-for-three-days-rescued/11367028">Brisbane man rescued after drifting in Solomon Sea for three days</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/frankston-graffiti-message-to-chris-goes-viral/11366622">&#039;Talk 2 me b4 baby is born&#039;: Graffiti removed after messages scrawled across suburb</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/home-affairs-deal-crown-casinos-to-fast-track-chinese-visitors/11365068">Integrity investigation ordered into Crown Casino allegations</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/siham-carollisen-defends-charges-of-stealing-from-ill-mother/11365882">Charity founder tearfully tells court she did not steal $140,000 from her ill mother</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/presentation-college-windsor-catholic-girls-school-to-close/11364188">&#039;What does she do for Year 12?&#039;: Students in limbo as Melbourne Catholic girls school shuts</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/garden-island-wa-naval-base-hidden-history/11351430">The hidden history behind one of Australia&#039;s most secretive naval bases</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/northern-territory-liquor-licensing-affecting-household-product/11365674">Retailers warned selling sauces could violate NT liquor laws</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/dairy-workers-pay-claim-hit-by-surprise-counterclaim-for-rent/11365628">Dairy workers claiming underpayment hit with surprise rent bill ahead of Federal Court hearing</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/indonesia-cracks-down-on-overweight-male-police-officers/11364876">&#039;How will they serve vigilantly?&#039;: Indonesia cracks down on overweight police officers</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/history-of-amazon-acres-nsw-community-female-only/11095974">Naked, wild and free: The women who set out to build utopia on a remote mountaintop</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/dental-clinic-temporarily-closed-cairns-hiv-hepatitis-c-risk/11367286">HIV and hepatitis C risk to dental patients at Far North Queensland clinic</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/missile-launcher-in-us-mans-luggage-at-airport/11367026">Missile launcher confiscated from US man&#039;s luggage</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/commuting-times-soar-with-house-prices-population-boom-blamed/11346258">These are the jobs and cities with the longest commute times. Where are you?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/superannation-young-women-fear-retirement-canberra-ywca-report/11365120">She&#039;s 29 — but Zoya is already worried about how she&#039;ll fund her retirement</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2019-07-30/overconfidence-study-help-hindrance/11365430">Think you&#039;re better than the average person? That could be your overconfidence talking</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/baby-killer-committal-hearing/11366216">Baby who died from head injury had &#039;unsafe sleeping arrangements&#039; at home, court told</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/shayna-jack-instagram-post-promotes-supplement-drug-test-result/11364344"><em>SPORT</em>
+      Shayna Jack promoted a sports supplement on social media last year</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="section graphic">
+  <a href="http://m.me/abcnews.au?ref=welcomefromABCNewshomepage">
+  <img src="/cm/lb/10757972/data/messenger-data.png" alt="Get the headlines to your mobile. NEWS on Messenger." title="Get the headlines to your mobile. NEWS on Messenger." height="70" width="220" />
+  </a>
+</div>
+<div class="connect-with-abc section promo">
+<h2>Connect with ABC News</h2>
+<ul>
+    <li><a href="http://www.facebook.com/abcnews.au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388890/data/facebook-data.png" alt="ABC News on Facebook" title="ABC News on Facebook" width="30" height="30" />
+    </a></li>
+    <li><a href="http://instagram.com/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389068/data/instagram-data.png" alt="ABC News on Instagram" title="ABC News on Instagram" width="32" height="31" />
+    </a></li>
+    <li><a href="http://www.twitter.com/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388894/data/twitter-data.png" alt="ABC News on Twitter" title="ABC News on Twitter" width="32" height="27" />
+    </a></li>
+    <li><a href="http://www.youtube.com/newsonabc" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389052/data/youtube-data.png" alt="ABC News on YouTube" title="ABC News on YouTube" width="50" height="22" />
+    </a></li>
+
+    <li><a href="https://apple.news/TsieN9U-WQ0SZbtP1VTI4uQ" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8458084/data/applenews-data.png" alt="ABC News on Apple News" title="ABC News on Apple News" width="32" height="32" />
+    </a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="section graphic">
+  <a href="/news/feeds/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/4745996/thumbnail/news-podcasts-sidebar-graphic-promo-thumbnail.jpg" alt="News Podcasts" title="News Podcasts" class="" width="220" />
+</a></div><div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/tip-off/"
+    >
+  
+
+  
+    
+        <span>Got a news tip?</span>
+    
+    
+  
+
+  </a>
+</h2><p>If you have inside knowledge of a topic in the news, <a href="/news/contact/tip-off/" target="_self" title="">contact the ABC</a>.</p></div>
+  </div>
+<div class="related">
+<div class="newsmail-signup card">
+<h2>News in your inbox</h2>
+<span class="spiel">Top headlines, analysis, breaking&nbsp;alerts</span>
+
+<div class="form main">
+</div>
+<a href="/news/alerts/subscribe/">More info</a>
+</div>
+</div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/news/about/backstory/"
+    >
+  
+
+  
+    
+        <span>ABC Backstory</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="https://www.abc.net.au/news/about/backstory/" target="_self" title="">ABC teams share the story behind the story and insights into the making of digital, TV and radio content.</a></p></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/"
+    >
+  
+
+  
+    
+        <span>Editorial Policies</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="https://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Read about our editorial guiding principles and the enforceable standard our journalists follow.</a></p></div>
+  </div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <div class="page section featured-scroller featured-scroller-4 dark">
+<div class="section">
+  <h2>Features</h2>
+  </div>
+<div class="inner">
+  <ol class="subcolumns">
+    <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/triplej/programs/hack/sydney-apartment-residents-at-risk/11364030" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11367946-16x9-220x124.jpg" alt="A test message saying asking for confirmation of an apartment address and the response saying yes." title="Text from Avani Dias father" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  A text from my dad was the first time I heard something was wrong with my apartment</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>About a year ago, I moved into a Sydney apartment with one of my friends. Turns out we've been at risk this entire time. And because we're renting this place, no one bothered to tell us, writes Avani Dias.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-30/hilda-survey-shows-why-australians-dont-feel-better-off/11365200" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/8411712-16x9-220x124.jpg" alt="A child holds its parents hands." title="Child holds hands of mum and dad parenting generic" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  This is why you feel no better off</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>The latest Household, Income and Labour Dynamics Survey explains why people feel they are going backwards despite official statistics.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-29/shayna-jack-case-a-reminder-of-dangers-of-sports-supplements/11363376" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/11353654-16x9-220x124.jpg" alt="Shayna Jack shouts as she watches relay teammates race in the pool" title="Shayna Jack yells from the sidelines" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Jack case a warning on supplements</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By senior national sport reporter <a href="/news/david-mark/167166" target="_self" title="">David Mark</a></p>
+		<p>Shayna Jack is the not the first athlete to point to a secondary source after a positive drug test, but experts say the warnings are very clear when it comes to athletes taking sports supplements.</p>
+	 </div>
+    </li>
+         <li class="c25r">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2019-07-30/republicans-first-black-congresswoman-on-donald-trump/11363218" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="https://www.abc.net.au/news/image/10558250-16x9-220x124.jpg" alt="A close up shot of US representative Mia Love talking into a microphone." title="Congresswoman Mia Love slams Trump " width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Opinion: Trump should apologise for racist tweets</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Most Republicans do not believe Mr Trump is a racist. This is why his recent remarks are so troubling to me, to people of colour and to many Trump supporters throughout the country.</p>
+	 </div>
+    </li>
+         </ol>
+</div></div><div id="footer-stories" class="page section">
+    <div class="subcolumns">
+    <div class="c25l">
+        <div class="section">
+          <h2>Top Stories</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/bill-shorten-breaks-election-loss-silence-for-robodebt-concern/11366148">Shorten on grieving the election that would have made him Prime Minister</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/working-mothers-more-stressed-than-fathers-report-finds/11365632">Working mothers more stressed than fathers, while cost of child care doubles</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/antarctica-china-code-of-conduct-dome-a/11318646">&#039;Australia would be alarmed&#039;: Concern over Chinese plan for Antarctic</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/more-australian-borrowers-falling-into-mortgage-arrears/11365288">&#039;Probably the biggest mistake of my life&#039;: More Australians struggling to repay their mortgage</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/canadian-town-in-lockdown-after-potential-fugitive-sighting/11365448">&#039;Everyone&#039;s on lockdown&#039;: Remote Canadian community fears fugitives are near</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/paladinamber-claps-back-at-trolls-in-her-twitch-stream/11364982">Trolls harassed Amber for foot play. Instead she roasted them in front of millions</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/the-women-behind-bars-breaching-domestic-violence-order/11330408">Annie called police for help 19 times before she stabbed her husband. Now she&#039;s facing jail</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/brisbane-man-drifting-at-sea-for-three-days-rescued/11367028">Brisbane man rescued after drifting in Solomon Sea for three days</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/frankston-graffiti-message-to-chris-goes-viral/11366622">&#039;Talk 2 me b4 baby is born&#039;: Graffiti removed after messages scrawled across suburb</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/home-affairs-deal-crown-casinos-to-fast-track-chinese-visitors/11365068">Integrity investigation ordered into Crown Casino allegations</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Just In</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/stephan-knoll-estimates-questions-over-renewal-ceo-john-hanlon/11367720">Minister reveals Renewal SA boss did not get contract renewed</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/pakistan-plane-crash-kills-at-least-18-people/11366522">At least 18 dead after Pakistani military plane crashes into homes</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/tenterfield-rural-aid-desalination-plant-delivered/11367702">Town turning on a new tap thanks to donations from across Australia</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/canadian-town-in-lockdown-after-potential-fugitive-sighting/11365448">&#039;Everyone&#039;s on lockdown&#039;: Remote Canadian community fears fugitives are near</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/siham-carollisen-defends-charges-of-stealing-from-ill-mother/11365882">Charity founder tearfully tells court she did not steal $140,000 from her ill mother</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/working-mothers-more-stressed-than-fathers-report-finds/11365632">Working mothers more stressed than fathers, while cost of child care doubles</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/de-belin-federal-court-arlc-response/11367644">A scandal every 22 days: NRL&#039;s &#039;Summer of Hell&#039; invoked in response to de Belin appeal</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/wests-tigers-great-robbie-farah-to-retire-from-nrl/11365130">&#039;Now the time is right&#039;: Wests Tigers great Robbie Farah announces retirement</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/frankston-graffiti-message-to-chris-goes-viral/11366622">&#039;Talk 2 me b4 baby is born&#039;: Graffiti removed after messages scrawled across suburb</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/victorian-public-housing-rental-increase/11365740">Public housing residents overwhelmed with rent increase</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Most Popular</h2><ul class="headlines">
+  <li>
+    <a href="/news/2019-07-30/history-of-amazon-acres-nsw-community-female-only/11095974">Naked, wild and free: The women who set out to build utopia on a remote mountaintop</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/commuting-times-soar-with-house-prices-population-boom-blamed/11346258">These are the jobs and cities with the longest commute times. Where are you?</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/shayna-jack-instagram-post-promotes-supplement-drug-test-result/11364344">Shayna Jack promoted a sports supplement on social media last year</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/canada-murder-suspects-believed-spotted-scavenging-for-food/11365144">Bear Clan Patrol spots fugitive Canadian teens &#039;scavenging for food&#039; in remote dump</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/man-pushes-boy-in-front-of-train-in-germany-killing-him/11364662">Man pushes boy in front of train in Germany, killing him</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-29/ato-lists-weirdest-tax-claims-that-got-rejected/11362492">A $58k wedding, $20k for &#039;raising twins&#039;, beer and a Lego set among &#039;weirdest&#039; claims ATO rejected</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-29/humpback-whale-appears-to-swallow-sea-lion-by-mistake/11363370">Sea lion ends up in humpback&#039;s mouth in remarkable feeding frenzy mix-up</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/the-women-behind-bars-breaching-domestic-violence-order/11330408">Annie called police for help 19 times before she stabbed her husband. Now she&#039;s facing jail</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/home-affairs-deal-crown-casinos-to-fast-track-chinese-visitors/11365068">Integrity investigation ordered into Crown Casino allegations</a>
+
+</li>
+<li>
+    <a href="/news/2019-07-30/scotland-greets-boris-johnson-with-boos-and-a-frosty-handshake/11364790">Boris Johnson greeted with loud boos and a frosty handshake in Scotland</a>
+
+</li>
+</ul></div>
+      </div>
+    <div class="c25r">
+        <div class="section">
+          <h2>Analysis &amp; Opinion</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/hilda-survey-shows-why-australians-dont-feel-better-off/11365200">Feeling worse off despite changing gender roles and less reliance on welfare? You&#039;re not alone </a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/dockers-and-eagles-keen-to-snare-tim-kelly/11363844">The race is on to lure Tim Kelly back to WA, but have West Coast priced themselves out of the contest?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-30/republicans-first-black-congresswoman-on-donald-trump/11363218">I was the first black Republican congresswoman. This is what I think of Trump&#039;s tweets</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/asx-200-finally-makes-it-back-to-its-record-high/11313140">ASX finally makes it back to its record high — why has it taken so long?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/australian-women-ashes-team-beating-england-without-difficulty/11356398">Australians don&#039;t even need something special to beat England</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/fremantle-dockers-slump-west-coast-eagles-soar-into-afl-finals/11355342">It&#039;s a rerun of the same &#039;bad movie&#039; — a Dockers season fade out as the Eagles soar to the finals</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/government-wants-to-prevent-senate-inquiry-into-angus-taylor/11355388">It&#039;s D-Day for Angus Taylor. Here&#039;s why One Nation holds the key to his fate</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/inflation-may-be-low-but-our-cost-of-living-is-rising/11350530">You can&#039;t always get what you need, but you can afford what you want</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/lawyer-x-royal-commission-hearings-risk-straying-into-farce/11355076">Lawyer X inquiry hearings risk resembling Abbott and Costello comedy skit</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2019-07-29/will-australia-dare-to-win-edgbaston-ashes-test/11354864">Will Australia dare to win at Edgbaston? Or try not to lose?</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+<!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
+        </div>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/"
+    >
+  
+
+  
+    
+        <span>ABC News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/world/"
+    >
+  
+
+  
+    
+        <span>World</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/business/"
+    >
+  
+
+  
+    
+        <span>Business</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/health/"
+    >
+  
+
+  
+    
+        <span>Health</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/entertainment/"
+    >
+  
+
+  
+    
+        <span>Entertainment</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sport/"
+    >
+  
+
+  
+    
+        <span>Sport</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Analysis &amp; Opinion</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/weather/"
+    >
+  
+
+  
+    
+        <span>Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/topics/"
+    >
+  
+
+  
+    
+        <span>Topics</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/archive/"
+    >
+  
+
+  
+    
+        <span>Archive</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local Weather</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/sydney/weather/"
+    >
+  
+
+  
+    
+        <span>Sydney Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/melbourne/weather/"
+    >
+  
+
+  
+    
+        <span>Melbourne Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/adelaide/weather/"
+    >
+  
+
+  
+    
+        <span>Adelaide Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/brisbane/weather/"
+    >
+  
+
+  
+    
+        <span>Brisbane Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/perth/weather/"
+    >
+  
+
+  
+    
+        <span>Perth Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/hobart/weather/"
+    >
+  
+
+  
+    
+        <span>Hobart Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/darwin/weather/"
+    >
+  
+
+  
+    
+        <span>Darwin Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/canberra/weather/"
+    >
+  
+
+  
+    
+        <span>Canberra Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local News</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/sydney/news/"
+    >
+  
+
+  
+    
+        <span>Sydney News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/melbourne/news/"
+    >
+  
+
+  
+    
+        <span>Melbourne News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/adelaide/news/"
+    >
+  
+
+  
+    
+        <span>Adelaide News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/brisbane/news/"
+    >
+  
+
+  
+    
+        <span>Brisbane News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/perth/news/"
+    >
+  
+
+  
+    
+        <span>Perth News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/hobart/news/"
+    >
+  
+
+  
+    
+        <span>Hobart News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/darwin/news/"
+    >
+  
+
+  
+    
+        <span>Darwin News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/canberra/news/"
+    >
+  
+
+  
+    
+        <span>Canberra News</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="https://www.abc.net.au/news/subscribe"
+    >
+  
+
+  
+    
+        <span>Newsletters</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEST = Australian Eastern Standard Time which is 10 hours ahead of GMT (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="https://mobile.abc.net.au/news/2019-07-27/canada-murders-cctv-bryer-schmegelsky-kam-mcleod-lucas-fowler/11352894?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+  <!-- Start Webtrends -->
+  <div class="hide">
+    </div>
+  <!-- End Webtrends -->
+  <!--endnoindex--><!--Global footer-->
+  <!-- Start ABC Bundle Footer 2.5.0 (customised - p1) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.5.0">
+ <ul>
+  <li><a href="https://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+  <li><a href="https://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a href="https://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+  <li><a href="https://about.abc.net.au/talk-to-the-abc/">Contact the ABC</a></li>
+  <li><a href="https://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2019</time> ABC</a></li>
+ </ul>
+</nav>
+
+<!-- ABC.Bundle Scripts -->
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.5.0/scripts/abc.bundle.2.5.0.min.js"></script>
+<!-- End ABC.Bundle Scripts -->
+
+<!-- Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<noscript><div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=abc-aust&cg=0&cc=1&ts=noscript" width="1" height="1" alt=""></div></noscript>
+<!-- End Nielsen Online SiteCensus V6.0 -->
+
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+ // <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+<!-- ABC MyLogin -->
+<script type="text/javascript" src="https://mylogin.abc.net.au/js/abc.mylogin.embedded.js"></script>
+<script type="text/javascript">ABC.MyLoginEmbedded.init();</script>
+<!-- End ABC MyLogin -->
+
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.5.0 (p1) -->
+<!--end global footer-->
+  </body>
+  </html>

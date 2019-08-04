@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="googlebot" content="noarchive">
+
+		<base src="https://www.themoscowtimes.com/" />
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="theme-color" content="#5882b5">
+		<link rel="shortcut icon" href="https://static.themoscowtimes.com/img/icons/favicon.ico">
+
+		<link rel="publisher" href="https://plus.google.com/114467228383524488842"/>
+
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon-precomposed" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-57x57.png">
+
+		<meta property="og:site_name" content="The Moscow Times"/>
+
+		<meta property="fb:admins" content="1190953093,691361317"/>
+		<meta property="fb:app_id" content="1446863628952411"/>
+
+		<meta name="twitter:site" content="@MoscowTimes">
+		<meta name="twitter:creator" content="@MoscowTimes">
+		<meta property="twitter:account_id" content="19527964">
+		<meta name="twitter:card" content="summary_large_image"> <!-- or summary -->
+
+		
+<title>'She Was Not Afraid to Tell The Truth': Russia Reacts to LGBT Activist's Gruesome Killing - The Moscow Times</title>
+
+	<link rel="canonical" href="https://www.themoscowtimes.com/2019/07/24/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551">
+
+	<meta name="keywords" content="LGBT">
+	<meta name="news_keywords" content="LGBT">
+	<meta name="description" content="Fellow activists lamented a system that failed to protect her, while anti-LGBT figures said her killing was justified.">
+	<meta name="thumbnail" content="https://static.themoscowtimes.com/image/320/54/67109857_1425611137590094_8105203814174294016_n.jpg">
+	<meta name="author" content="The Moscow Times">
+
+	<meta property="og:url" content="https://www.themoscowtimes.com/2019/07/24/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551">
+	<meta property="og:title" content="&#039;She Was Not Afraid to Tell The Truth&#039;: Russia Reacts to LGBT Activist&#039;s Gruesome Killing - The Moscow Times">
+	<meta property="og:description" content="Fellow activists lamented a system that failed to protect her, while anti-LGBT figures said her killing was justified.">
+	<meta property="og:image" content="https://static.themoscowtimes.com/image/1360/54/67109857_1425611137590094_8105203814174294016_n.jpg">
+	<meta property="og:image:width" content="1360">
+	<meta property="og:image:height" content="640">
+	<meta property="article:author" content="The Moscow Times">
+	<meta property="article:content_tier" content="free">
+	<meta property="article:modified_time" content="2019-07-30T09:58:39+02:00">
+	<meta property="article:published_time" content="2019-07-24T14:03:00+02:00">
+	<meta property="article:publisher" content="https://www.facebook.com/MoscowTimes">
+	<meta property="article:section" content="news">
+	<meta property="article:tag" content="LGBT">
+	<meta property="twitter:title" content="&#039;She Was Not Afraid to Tell The Truth&#039;: Russia Reacts to LGBT Activist&#039;s Gruesome Killing">
+	<meta property="twitter:description" content="Fellow activists lamented a system that failed to protect her, while anti-LGBT figures said her killing was justified.">
+	<meta property="twitter:image:src" content="https://static.themoscowtimes.com/image/1360/54/67109857_1425611137590094_8105203814174294016_n.jpg">
+
+
+<script type="application/ld+json" data-json-ld-for-pagemetadata>
+	{"@context":"http:\/\/schema.org\/","@type":"NewsArticle","dateCreated":"2019-07-24T11:27:56+02:00","datePublished":"2019-07-24T14:03:00+02:00","dateModified":"2019-07-30T09:58:39+02:00","name":"'She Was Not Afraid to Tell The Truth': Russia Reacts to LGBT Activist's Gruesome Killing","headline":"'She Was Not Afraid to Tell The Truth': Russia Reacts to LGBT Activist's Gruesome Killing","description":"Fellow activists lamented a system that failed to protect her, while anti-LGBT figures said her killing was justified.","keywords":"LGBT","articleSection":"news","isAccessibleForFree":true,"mainEntityOfPage":"https:\/\/www.themoscowtimes.com\/2019\/07\/24\/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551","url":"https:\/\/www.themoscowtimes.com\/2019\/07\/24\/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551","thumbnailUrl":"https:\/\/static.themoscowtimes.com\/image\/320\/54\/67109857_1425611137590094_8105203814174294016_n.jpg","image":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/image\/1360\/54\/67109857_1425611137590094_8105203814174294016_n.jpg","width":1360,"height":640},"publisher":{"@type":"Organization","name":"The Moscow Times","logo":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/img\/logo.png","width":50,"height":50}},"inLanguage":{"@type":"Language","name":"English","alternateName":"English"},"author":{"@type":"Organization","name":"The Moscow Times"}}</script>
+		<!-- load stylesheets -->
+		<link type="text/css" href="https://static.themoscowtimes.com/css/main.css?v=12" rel="stylesheet" media="screen" />
+		<!-- Other CSS assets -->
+		
+		<link rel="dns-prefetch" href="//www.google-analytics.com"/>
+
+		<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "NewsMediaOrganization",
+			"address": {
+				"@type": "PostalAddress",
+				"addressCountry": "RU",
+				"addressLocality": "Moscow",
+				"postalCode": "125167",
+				"streetAddress": "Leningradsky Prospekt 39"
+			},
+			"name": "The Moscow Times",
+			"email": "general@themoscowtimes.com",
+			"telephone": "+7 495 139 25 56",
+			"url": "https://themoscowtimes.com",
+			"logo": "https://static.themoscowtimes.com/img/logo_1280.png"
+		}
+		</script>
+
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TR8JKK');</script>
+<!-- End Google Tag Manager -->	</head>
+
+
+	<body class="article-item" y-use="Main">
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TR8JKK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Start GPT Async Tag -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+
+<!-- Yourbow adx -->
+<script  type="text/javascript" src="https://static.themoscowtimes.com/js/vendor/yourbow.js"></script>
+
+<script>
+var gptadslots = [];
+var googletag = googletag || {cmd:[]};
+
+googletag.cmd.push(function() {
+
+
+// Banner at the top of the page
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/billboard_top', [[728, 90], [970, 90], [980, 120], [970, 250]], 'ad-top')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([728, 0], [[728, 90]])
+.addSize([1024, 0], [[728, 90], [970, 90], [980, 120], [970, 250]])
+.build())
+.addService(googletag.pubads()));
+
+
+// first sidebar banner on the homepage (dont show 300x600)
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/sidebar_home', [[300,250],[336,280]], 'ad-aside-home')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([320, 0], [[300, 250], [336, 280]])
+.addSize([1024, 0], [[300, 250], [336, 280]])
+.build())
+.addService(googletag.pubads()));
+
+// Mobile banner above Highligts 
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/mobile_above_highlights_home', [[300,250],[336,280],[320, 100],[728, 90]], 'ad-above-highlights-home')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([320, 0], [[300, 250], [336, 280], [320, 100]])
+.addSize([728, 0], [[728, 90]])
+.addSize([1024, 0], [])
+.build())
+.addService(googletag.pubads()));
+
+// banner in the sidebars
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/sidebar_top', [[300,250],[336,280],[300,600]], 'ad-aside')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([320, 0], [[300, 250], [336, 280]])
+.addSize([1024, 0], [[300, 250], [336, 280],[300, 600]])
+.build())
+.addService(googletag.pubads()));
+
+// sitewide banner at the bottom
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/billboard_bottom', [[300, 250], [336, 280], [320, 100], [728, 90], [970, 90], [980, 120], [970, 250]], 'ad-bottom')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([320, 0], [[300, 250], [336, 280], [320, 100]])
+.addSize([728, 0], [[728, 90]])
+.addSize([1024, 0], [[728, 90], [970, 90], [980, 120], [970, 250]])
+.build())
+.addService(googletag.pubads()));
+
+// sitewide banner at the bottom used on homepage after meanwhile
+gptadslots.push(googletag.defineSlot('/21704504769/TMT/billboard_bottom_2', [[300, 250], [336, 280], [320, 100], [728, 90], [970, 90], [980, 120], [970, 250]], 'ad-bottom-2')
+.defineSizeMapping(googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([320, 0], [[300, 250], [336, 280], [320, 100]])
+.addSize([728, 0], [[728, 90]])
+.addSize([1024, 0], [[728, 90], [970, 90], [980, 120], [970, 250]])
+.build())
+.addService(googletag.pubads()));
+
+
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().setCentering(true);
+googletag.enableServices();
+});
+</script>
+
+		
+
+		<div class="container--full" y-name="banner">
+	<div class="preheader_advert py-2">
+						<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div id=\&quot;ad-top\&quot;&gt;&lt;\/div&gt;\n&lt;script&gt;\ngoogletag.cmd.push(function() { googletag.display(&#039;ad-top&#039;)});\n &lt;\/script&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+		</div>
+</div>
+	<div class="container">
+		<div class="site-header py-3 hidden-xs">
+	<a href="https://www.themoscowtimes.com/" class="site-header__logo" title="Home" >
+		<img src="https://static.themoscowtimes.com/img/logo_1280.png" />
+	</a>
+	
+		<div class="contribute-teaser hidden-xs">
+		<div class="contribute-teaser__cta mb-1">Support The Moscow Times!</div>
+		<a class="contribute-teaser__button" href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=internal-header" class="contribute-teaser__cta">Contribute today</a>
+	</div>
+
+
+</div>	</div>
+	<div class="container">
+		
+<div class="navigation" y-use="Navigation">
+
+	
+<div class="nav-expanded" style="display: none;" y-name="expanded">
+	<div class="nav-overlay"></div>
+	<div class="nav-container" y-name="container">
+		<div class="container">
+			<div class="nav-container__inner">
+				<div class="nav-expanded__header">
+					<div class="nav-expanded__close" y-name="close">&times;</div>
+				</div>
+				<nav class="">
+					<ul class="depth-0" >
+
+<li class="has-child" >
+<a href="#" >Sections</a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="/" >Home</a>
+</li>
+
+<li class="" >
+<a href="/news" >News</a>
+</li>
+
+<li class="" >
+<a href="/opinion" >Opinion</a>
+</li>
+
+<li class="" >
+<a href="/business" >Business</a>
+</li>
+
+<li class="" >
+<a href="/meanwhile" >Meanwhile</a>
+</li>
+
+<li class="" >
+<a href="/arts-and-life" >Arts and Life</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="has-child" >
+<a href="#" ></a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="" >
+<a href="/videos" >Videos</a>
+</li>
+
+<li class="" >
+<a href="/galleries" >Galleries</a>
+</li>
+
+<li class="" >
+<a href="/#newsletter"  target="_blank">Newsletter</a>
+</li>
+
+<li class="" >
+<a href="/in-print" >Print Editions</a>
+</li>
+
+<li class="" >
+<a href="https://offline.themoscowtimes.com/#/"  target="_blank">TMT Offline</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="has-child" >
+<a href="#" >Multimedia projects</a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="https://mothersanddaughters.themoscowtimes.com/" >Mothers &amp; Daughters</a>
+</li>
+
+<li class="" >
+<a href="https://generationp.themoscowtimes.com/" >Generation P</a>
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+	<nav class="nav-top">
+		<div class="menu-trigger" y-name="open"><i class="fa fa-reorder"></i></div>
+		<div class="nav-top__logo--xs hidden-sm-up">
+			<a href="https://www.themoscowtimes.com/" class="site-header__logo " title="Home" >
+				<img src="https://static.themoscowtimes.com/img/logo_1280.png" />
+			</a>
+		</div>
+		
+		<ul class="nav-top__list" >
+
+<li class="" >
+<a href="/news" >News</a>
+</li>
+
+<li class="" >
+<a href="/opinion" >Opinion</a>
+</li>
+
+<li class="" >
+<a href="/business" >Business</a>
+</li>
+
+<li class="" >
+<a href="/meanwhile" >Meanwhile</a>
+</li>
+
+<li class="" >
+<a href="/arts-and-life" >Arts and Life</a>
+</li>
+
+<li class="" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="" >
+<a href="/videos" >Videos</a>
+</li>
+
+</ul>
+		<div class="nav-top__search pull-right" y-use="Search" data-url="https://www.themoscowtimes.com/search/{{query}}">
+			<input type="text" y-name="query" placeholder="What are you searching for?" style="display:none" />
+			<span y-name="search" class="nav-top__search-trigger"><i class="fa fa-search"></i></span>
+		</div>
+	</nav>	
+</div>
+	</div>
+	<div class="container">
+		 	<div class="contribute-teaser-mobile hidden-sm-up">
+		<div class="contribute-teaser-mobile__cta">
+			<span>Support The Moscow Times!</span>
+		</div>
+		<div class="contribute-teaser-mobile__container">
+			<a class="contribute-teaser-mobile__container__button" href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=internal-header-mobile" class="contribute-teaser__cta">Contribute today</a>
+		</div>
+		
+	</div>
+
+
+
+ 	</div>
+	
+	<!--[[[article:66551]]]-->
+
+	<div class="gtm-section gtm-type" data-section="news" data-type="default">
+		<!-- Google Tag Manager places Streamads based on these classes -->
+	</div>
+
+			<div class="container">
+			
+
+			<div class="row-flex gutter-3">
+				<div class="col" >
+
+					<article class="article article--news">
+
+			
+						<header class="article__header ">
+														<h1>'She Was Not Afraid to Tell The Truth': Russia Reacts to LGBT Activist's Gruesome Killing</h1>
+							<h2></h2>
+						</header>
+						
+
+						<div class="article__byline ">
+							<div class="row-flex">
+								<div class="col">
+									<div class="article__byline__details">
+
+																															
+										<div class="byline__details__column">
+											<div class="article__author">
+																																			</div>
+											<time class="article__datetime timeago" datetime="2019-07-24T14:03:00+02:00" y-use="Timeago">
+												July 24, 2019											</time>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-auto" >
+									<div class="article__byline__social">
+									<div class="social">
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.themoscowtimes.com/2019/07/24/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551" class="social__icon social__icon--facebook" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+	<a href="https://twitter.com/intent/tweet/?url=https://www.themoscowtimes.com/2019/07/24/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551&text=&#039;She Was Not Afraid to Tell The Truth&#039;: Russia Reacts to LGBT Activist&#039;s Gruesome Killing" class="social__icon social__icon--twitter" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+	<a href="https://telegram.me/share/url?url=https://www.themoscowtimes.com/2019/07/24/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551" class="social__icon social__icon--telegram" target="_blank" title="Share on Telegram"><i class="fa fa-paper-plane"></i></a>
+	<a href="https://wa.me/?text=https://www.themoscowtimes.com/2019/07/24/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551" class="social__icon social__icon--whatsapp"><i class="fa fa-whatsapp" target="_blank" title="Share on WhatsApp"></i></a>
+</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						
+
+
+													<figure class="article__featured-image featured-image" >
+								<img src="https://static.themoscowtimes.com/image/article_1360/54/67109857_1425611137590094_8105203814174294016_n.jpg" />
+																	<figcaption class="">
+										<span class="article__featured-image__caption featured-image__caption">
+											Yelena Grigoryeva										</span>
+										<span class="article__featured-image__credits featured-image__credits">
+											Dinar Idrisov / Facebook											</span>
+									</figcaption>
+															</figure>
+						
+
+						<div class="article__content-container">
+							<div class="article__content">
+
+																											<div class="article__block article__block--html article__block--column ">
+											<p><span>The fatal stabbing of Russian LGBT activist Yelena Grigoriyeva in St. Petersburg has drawn strong reactions worldwide, with fellow activists lamenting a system that failed to protect her and anti-LGBT figures saying her killing was justified.</span></p>																					</div>
+																			<div class="article__block article__block--article article__block--column ">
+													<aside class="article__related-article">
+		<h6 class="label related-article__label label--default">news</h6>
+		<a class="related-article__inner" href="https://www.themoscowtimes.com/2019/07/30/russian-lgbt-activist-killed-after-being-listed-on-saw-inspired-gay-hunting-site" title="Russian LGBT Activist Killed After Being Listed on ‘Saw’-Inspired Gay Hunting Site">
+			<h3 class="related-article__title">
+				Russian LGBT Activist Killed After Being Listed on ‘Saw’-Inspired Gay Hunting Site			</h3>
+			<span class="related-article__cta">Read more</span>
+		</a>
+	</aside>
+
+
+
+																							   												   																					</div>
+																			<div class="article__block article__block--html article__block--column ">
+											 <p><span>Activists noted that a website that encourages visitors to &ldquo;hunt down&rdquo; people believed to be sexual minorities had <a href="https://vk.com/wall-497578_87811" title="added">added</a>&nbsp;</span><span>Grigoriyeva to a&nbsp;hit list in the weeks before her killing. The website, which took inspiration from the &ldquo;Saw&rdquo; horror film franchise, was </span><a href="https://www.nydailynews.com/news/world/ny-russia-chechnya-comeback-lgbtq-hunt-game-torture-20190718-nts5imix7rhqvioztxehnwaesu-story.html"><span>blocked</span></a><span> in Russia last week.&nbsp;</span></p>
+<h3><span>Here&rsquo;s a closer look at what happened and how Russia has reacted to the news:</span><span></span></h3>
+<p><strong></strong></p>
+<p><strong>What happened?</strong></p>
+<ul>
+<li><span>Grigoriyeva, 41, was found with eight stab wounds and signs of strangulation near her home&nbsp;in central St. Petersburg over the weekend.</span></li>
+<li><span>Grigoriyeva had </span><a href="https://www.facebook.com/permalink.php?story_fbid=368034237445194&amp;id=100027158615008&amp;__tn__=-R"><span>posted</span></a><span>&nbsp;on her Facebook page about the threats two days before she was found dead.</span></li>
+<li><span>On Thursday, Russia's Investigative Committee said it had<a href="https://sledcom.ru/news/item/1376526/"> detained</a> a 38-year-old native of Kyrgyzstan as the main suspect in Grigoriyeva's killing. Investigators said they had evidence to prove that her death was the result of a domestic dispute and that she had been familiar with the suspect.</span></li>
+</ul>
+<p><strong>What were the reactions?</strong></p>
+<ul>
+<li><span>The Russian anti-LGBT activist Timur Bulatov </span><a href="https://www.znak.com/2019-07-23/peterburgskiy_borec_s_geyami_nazval_ubiystvo_lgbt_aktivistki_nravstvennym_dzhihadom"><span>declared</span></a><span> Grigoriyeva&rsquo;s slaying to be an act of &ldquo;moral jihad.&rdquo; Bulatov told the Znak.com news website that &ldquo;this creature has been punished by the almighty&rdquo; and said he &ldquo;would have handled her on [his] own if the police were unable to.&rdquo;&nbsp;</span></li>
+<li><span>Seven LGBT activists listed on the blocked gay-hunting website have </span><a href="https://www.fontanka.ru/2019/07/24/018/"><span>called on</span></a><span> Russia&rsquo;s Investigative Committee to examine whether the website played a role in Grigoriyeva&rsquo;s killing.&nbsp;</span></li>
+<li><span>Supporters gathered in St. Petersburg on Tuesday evening to </span><a href="https://www.facebook.com/DinarSpbRu/posts/1426575217493686"><span>hold</span></a><span> single-person pickets in honor of Grigoriyeva&rsquo;s memory.</span></li>
+</ul>
+<p><strong>What are activists saying?</strong></p>
+<ul>
+<li><span>Fellow activists claim Grigoriyeva had regularly received death threats and reported them to the police, who did nothing to protect her before she was murdered.</span><span></span></li>
+<li><span>She &ldquo;encountered a system unprepared, unable and unwilling to defend her,&rdquo; </span><a href="https://www.svoboda.org/a/30071714.html"><span>said</span></a><span> rights campaigner and Grigoriyeva&rsquo;s friend Dinar Idrisov.</span></li>
+<li><span>&ldquo;This could be hatred on grounds of political convictions, homophobia or a domestic dispute. Every lead needs to be considered, and those guilty found and punished,&rdquo; said Maxim Olenichev, a lawyer for the Vykhod LGBT rights group.</span></li>
+<li><span>&ldquo;Yelena was killed because she was not afraid to tell the truth about the subjects that are traditionally silent in Russia and on the country&rsquo;s state television channels,&rdquo; demonstrator Marina Ken </span><a href="https://apnews.com/742c2630fc224c208a4be540ad9154d7"><span>told</span></a><span> The Associated Press.</span></li>
+<li><span>&ldquo;She never concealed her orientation, and she was told she&rsquo;d get killed for that,&rdquo; </span><a href="https://paperpaper.ru/chto-izvestno-ob-ubijstve-peterburgsk/"><span>recalled</span></a><span> Alexei Sergeyev, an activist with the Alliance of Heterosexuals and LGBT for Equal Rights.&nbsp;&nbsp;</span></li>
+</ul>
+<p><strong>What are the authorities saying?</strong></p>
+<ul>
+<li><span>The St. Petersburg branch of Russia&rsquo;s Investigative Committee has </span><a href="https://spb.sledcom.ru/Novosti/item/1375181/"><span>opened</span></a><span> a criminal case into murder.</span></li>
+<li><span>Grigoriyeva&rsquo;s death is being treated as the result of a domestic dispute and not a hate crime, an unnamed source familiar with the investigation </span><a href="http://www.rosbalt.ru/piter/2019/07/23/1793599.html"><span>told</span></a><span> the Rosbalt.ru news website.</span></li>
+<li>Police said they had examined &ldquo;multiple&rdquo; complaints from Grigoriyeva, but <a href="https://tass.ru/proisshestviya/6691205">maintained</a> that they all concerned domestic disputes &ldquo;and none of them concerned possible threats to the life of the victim.&rdquo;</li>
+</ul>
+<p><em>This story was updated on July 25, 2019, to add details about the detained suspect from the Investigative Committee's statement.</em></p> 																					</div>
+																								</div>
+
+							
+
+																						
+
+							<div class="article__bottom"></div>
+															<div class="article__tags">
+										Read more about:
+																												<a
+	href="https://www.themoscowtimes.com/tag/lgbt"
+	class="tag article__tags__tag"
+	title="LGBT"
+>
+	LGBT</a>
+																	</div>
+							
+							<div class="hidden-md-up">
+															</div>
+
+							 <div class="social">
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.themoscowtimes.com/2019/07/24/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551" class="social__icon social__icon--facebook" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+	<a href="https://twitter.com/intent/tweet/?url=https://www.themoscowtimes.com/2019/07/24/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551&text=&#039;She Was Not Afraid to Tell The Truth&#039;: Russia Reacts to LGBT Activist&#039;s Gruesome Killing" class="social__icon social__icon--twitter" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+	<a href="https://telegram.me/share/url?url=https://www.themoscowtimes.com/2019/07/24/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551" class="social__icon social__icon--telegram" target="_blank" title="Share on Telegram"><i class="fa fa-paper-plane"></i></a>
+	<a href="https://wa.me/?text=https://www.themoscowtimes.com/2019/07/24/she-was-not-afraid-to-tell-the-truth-russia-reacts-to-lgbt-activists-gruesome-killing-a66551" class="social__icon social__icon--whatsapp"><i class="fa fa-whatsapp" target="_blank" title="Share on WhatsApp"></i></a>
+</div>
+ 						</div>
+					</article>
+				</div>
+
+
+				<div class="col-auto hidden-sm-down">
+					<aside class="sidebar" style="">
+
+						
+
+						<!-- vaste breedte 336 -->
+						<section class="sidebar__section">
+							<section class="sidebar__section" y-name="banner">
+	<div class="banner" style="">
+		<div class="banner-inner">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div id=&#039;ad-aside&#039;&gt;&lt;\/div&gt;\n&lt;script&gt;\n    googletag.cmd.push(function() { googletag.display(&#039;ad-aside&#039;)});\n&lt;\/script&gt;\n\n\n&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false},{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;script&gt;(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src=&#039;https:\/\/embed.playbuzz.com\/sdk.js&#039;;fjs.parentNode.insertBefore(js,fjs);}(document,&#039;script&#039;,&#039;playbuzz-sdk&#039;));&lt;\/script&gt;\n&lt;div class=\&quot;playbuzz\&quot; data-id=\&quot;b1f94d8d-14a9-463e-adbd-55dbc5a24c8f\&quot; data-show-share=\&quot;false\&quot; data-show-info=\&quot;false\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+			</div>
+	</div>
+</section>						</section>
+						<div class="sidebar__sticky">
+
+							<div class="tabs" y-use="Tabs" data-active="tabs__tab--active">
+								<section class="sidebar__section">
+									<div class="sidebar__section__header">
+										<div class="tabs__tab" y-name="tab" data-content="mostread">
+											<h3 class="tab__header header--style-3">Most read</h3>
+										</div>
+
+										<div class="tabs__tab" y-name="tab" data-content="justin">
+											<h3 class="tab__header header--style-3" >Just in</h3>
+										</div>
+									</div>
+
+									<div class="tabs__content" y-name="content justin">
+										<ul class="listed-articles">
+			<li class="listed-articles__item">
+			
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2019/07/30/ukraine-to-launch-russian-language-tv-channel-in-battle-for-donbass-a66620" title="Ukraine to Launch Russian-Language TV Channel to Win Influence in Donbass">
+					<time class="article-excerpt-tiny__time  "  datetime="2019-07-30T09:03:42+02:00" y-use="Timeago" >
+				July 30, 2019			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Ukraine to Launch Russian-Language TV Channel to Win Influence in Donbass		</h5>
+	</a>
+</div>		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2019/07/30/21m-russians-live-in-poverty-official-data-says-a66618" title="21M Russians Live in Poverty, Official Data Says">
+					<time class="article-excerpt-tiny__time  "  datetime="2019-07-30T09:03:42+02:00" y-use="Timeago" >
+				July 30, 2019			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			21M Russians Live in Poverty, Official Data Says		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2019/07/30/kremlin-critic-navalny-returned-to-jail-from-hospital-despite-poisoning-fears-a66605" title="Kremlin Critic Navalny Says He May Have Been Poisoned">
+					<time class="article-excerpt-tiny__time  "  datetime="2019-07-30T08:40:00+02:00" y-use="Timeago" >
+				July 30, 2019			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Kremlin Critic Navalny Says He May Have Been Poisoned		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2019/07/29/vladimir-kara-murza-dies-at-59-a66615" title="Vladimir Kara-Murza Dies at 59">
+					<time class="article-excerpt-tiny__time  "  datetime="2019-07-29T16:11:18+02:00" y-use="Timeago" >
+				July 29, 2019			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Vladimir Kara-Murza Dies at 59		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2019/07/29/siberian-wildfires-swell-to-crimea-sized-area-authorities-say-extinguishing-them-is-pointless-a66608" title="Siberian Wildfires Swell to Crimea-Sized Area, Authorities Say Extinguishing Them Is ‘Pointless’">
+					<time class="article-excerpt-tiny__time  "  datetime="2019-07-29T15:45:48+02:00" y-use="Timeago" >
+				July 29, 2019			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Siberian Wildfires Swell to Crimea-Sized Area, Authorities Say Extinguishing Them Is ‘Pointless’		</h5>
+	</a>
+</div> 		</li>
+	</ul>									</div>
+
+									<div class="tabs__content" y-name="content mostread" style="display: none">
+										<ul class="ranked-articles">
+						<li class="ranked-articles__item">
+			
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2019/07/28/russian-opposition-leader-navalny-may-have-been-poisoned-says-doctor-a66601" title="Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor">
+		<div class="article-excerpt-ranked__rank">
+			1		</div>
+		<div class="article-excerpt-ranked__item">
+							
+
+
+
+
+<h6 class="label article-excerpt-ranked__label">
+	health scare</h6>									<h5 class="article-excerpt-ranked__headline">
+				Russian Opposition Leader Navalny May Have Been Poisoned, Says Doctor			</h5>
+		</div>
+	</a>
+</div>		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2019/07/29/siberian-wildfires-swell-to-crimea-sized-area-authorities-say-extinguishing-them-is-pointless-a66608" title="Siberian Wildfires Swell to Crimea-Sized Area, Authorities Say Extinguishing Them Is ‘Pointless’">
+		<div class="article-excerpt-ranked__rank">
+			2		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+
+
+
+<h6 class="label article-excerpt-ranked__label">
+	In flames</h6> 									<h5 class="article-excerpt-ranked__headline">
+				Siberian Wildfires Swell to Crimea-Sized Area, Authorities Say Extinguishing Them Is ‘Pointless’			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2019/07/29/the-political-regime-against-the-people-the-reactions-to-moscows-election-protest-and-crackdown-a66607" title="‘The Political Regime Against the People’: The Reactions to Moscow’s Election Protest and Crackdown">
+		<div class="article-excerpt-ranked__rank">
+			3		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+
+
+
+<h6 class="label article-excerpt-ranked__label">
+	Divisive rally</h6> 									<h5 class="article-excerpt-ranked__headline">
+				‘The Political Regime Against the People’: The Reactions to Moscow’s Election Protest and Crackdown			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2019/07/28/north-korea-releases-detained-russian-fishing-boat-a66600" title="North Korea Releases Detained Russian Fishing Boat">
+		<div class="article-excerpt-ranked__rank">
+			4		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+
+
+
+<h6 class="label article-excerpt-ranked__label">
+	Released fishers</h6> 									<h5 class="article-excerpt-ranked__headline">
+				North Korea Releases Detained Russian Fishing Boat			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2019/07/30/kremlin-critic-navalny-returned-to-jail-from-hospital-despite-poisoning-fears-a66605" title="Kremlin Critic Navalny Says He May Have Been Poisoned">
+		<div class="article-excerpt-ranked__rank">
+			5		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+
+
+
+<h6 class="label article-excerpt-ranked__label">
+	sudden illness</h6> 									<h5 class="article-excerpt-ranked__headline">
+				Kremlin Critic Navalny Says He May Have Been Poisoned			</h5>
+		</div>
+	</a>
+</div> 		</li>
+	</ul>									</div>
+								</section>
+							</div>
+						</div>
+					</aside>
+				</div>
+			</div>
+		</div>
+
+	
+
+	<div class="container container--full py-3 mb-4" style="background-color: #efefef;" y-name="banner">
+	<div class="align-center" style="line-height: 0">
+		<div style="max-width: 984px; margin: 0 auto;">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div style=\&quot;max-width:600px; margin: 0 auto\&quot;&gt;\n&lt;script&gt;\n\n  (function (d,s,n,id) {\n\n    var js, fjs = d.getElementsByTagName(s)[0];\n\n    if (d.getElementById(id)) return;\n\n    js = d.createElement(s);\n\n    js.id = id;\n\n    js.className = n;\n\n    js.src = \&quot;https:\/\/mcd-sdk.playbuzz.com\/embed\/sdk.js?embedId=4d6351a8-eae2-46e1-aff2-7e18184e7953\&quot;;\n\n    fjs.parentNode.insertBefore(js, fjs);\n\n  }(document,&#039;script&#039;,&#039;playbuzz-mcd-sdk&#039;,&#039;mcd-sdk-jssdk_themoscowtimes.com&#039;));\n\n&lt;\/script&gt;\n\n&lt;pb-mcd embed-id=\&quot;4d6351a8-eae2-46e1-aff2-7e18184e7953\&quot;&gt;&lt;\/pb-mcd&gt;\n&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;sm&quot;,&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+			</div>
+	</div>
+</div>	 <div class="container container--full py-3 mb-4" style="background-color: #efefef;" y-name="banner">
+	<div class="align-center" style="line-height: 0">
+		<div style="max-width: 984px; margin: 0 auto;">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div style=\&quot;max-width:600px; margin: 0 auto\&quot;&gt;\n&lt;script&gt;\n\n  (function (d,s,n,id) {\n\n    var js, fjs = d.getElementsByTagName(s)[0];\n\n    if (d.getElementById(id)) return;\n\n    js = d.createElement(s);\n\n    js.id = id;\n\n    js.className = n;\n\n    js.src = \&quot;https:\/\/mcd-sdk.playbuzz.com\/embed\/sdk.js?embedId=4d6351a8-eae2-46e1-aff2-7e18184e7953\&quot;;\n\n    fjs.parentNode.insertBefore(js, fjs);\n\n  }(document,&#039;script&#039;,&#039;playbuzz-mcd-sdk&#039;,&#039;mcd-sdk-jssdk_themoscowtimes.com&#039;));\n\n&lt;\/script&gt;\n\n&lt;pb-mcd embed-id=\&quot;4d6351a8-eae2-46e1-aff2-7e18184e7953\&quot;&gt;&lt;\/pb-mcd&gt;\n&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;xs&quot;]"></div>
+			</div>
+	</div>
+</div> 
+
+	<div class="container">
+		<section class="cluster">
+
+			<div class="cluster__header">
+				<h2 class="cluster__label header--style-3">
+											Read more									</h2>
+			</div>
+
+			<div class="row-flex">
+									<div class="col-3 col-6-sm">
+						
+
+<div class="article-excerpt-default article-excerpt-default--news ">
+
+	<a href="https://www.themoscowtimes.com/2018/11/27/european-court-rules-favor-russians-denied-right-to-gay-pride-events-a63614" class="article-excerpt-default__link" title="European Court Rules in Favor of Russians Denied Right to Gay Pride Events">
+		<div class=" article-excerpt-default__image-wrapper">
+			<figure>
+				
+
+	<img src="https://static.themoscowtimes.com/image/article_640/df/9aa3afc76c214c82ae4a6bf737f9fb82.jpg" />
+
+															</figure>
+		</div>
+
+		<div class="article-excerpt-default__content">
+							
+
+
+
+
+<h6 class="label article-excerpt-default__label">
+	LGBT</h6>						
+			<h3 class="article-excerpt-default__headline">European Court Rules in Favor of Russians Denied Right to Gay Pride Events</h3>
+
+			
+							<div class="article-excerpt-default__teaser">Russian courts have in the past decade either banned gay pride parades outright or backtracked on earlier promises to allow them.</div>
+					</div>
+	</a>
+</div>					</div>
+									<div class="col-3 col-6-sm">
+						 
+
+<div class="article-excerpt-default article-excerpt-default--news ">
+
+	<a href="https://www.themoscowtimes.com/2018/10/25/anti-gay-russian-lawmaker-disrupts-opening-of-lgbt-film-festival-a63304" class="article-excerpt-default__link" title="Anti-Gay Russian Lawmaker Disrupts Opening of LGBT Film Festival">
+		<div class=" article-excerpt-default__image-wrapper">
+			<figure>
+				 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/aa/17cb670c79484ffcb291739c82eff9e8.jpg" />
+ 
+															</figure>
+		</div>
+
+		<div class="article-excerpt-default__content">
+							 
+
+
+
+
+<h6 class="label article-excerpt-default__label">
+	LGBT</h6> 						
+			<h3 class="article-excerpt-default__headline">Anti-Gay Russian Lawmaker Disrupts Opening of LGBT Film Festival</h3>
+
+			
+							<div class="article-excerpt-default__teaser">“Dear citizens, you know yourselves that you are perverts; you need to disperse,” Milonov is heard saying.</div>
+					</div>
+	</a>
+</div> 					</div>
+									<div class="col-3 col-6-sm">
+						 
+
+<div class="article-excerpt-default article-excerpt-default--news ">
+
+	<a href="https://www.themoscowtimes.com/2018/08/29/russia-first-gay-married-couple-vows-never-to-come-home-a62663" class="article-excerpt-default__link" title="Russia’s First Gay Married Couple Vows Never to Come Home">
+		<div class=" article-excerpt-default__image-wrapper">
+			<figure>
+				 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/e2/d25be8065ca941608ca4ba0ea3a8f7de.jpg" />
+ 
+															</figure>
+		</div>
+
+		<div class="article-excerpt-default__content">
+							 
+
+
+
+
+<h6 class="label article-excerpt-default__label">
+	LGBT</h6> 						
+			<h3 class="article-excerpt-default__headline">Russia’s First Gay Married Couple Vows Never to Come Home</h3>
+
+			
+							<div class="article-excerpt-default__teaser">The two men have no plans to return to Russia, “even for a day.”</div>
+					</div>
+	</a>
+</div> 					</div>
+									<div class="col-3 col-6-sm">
+						 
+
+<div class="article-excerpt-default article-excerpt-default--worldcup ">
+
+	<a href="https://www.themoscowtimes.com/2018/06/25/a-temporary-thaw-a61982" class="article-excerpt-default__link" title="A Temporary Thaw for Russia&#039;s LGBT Community">
+		<div class=" article-excerpt-default__image-wrapper">
+			<figure>
+				 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/f1/335e7355d9364cd185b5ee61cfb2a6a8.jpg" />
+ 
+															</figure>
+		</div>
+
+		<div class="article-excerpt-default__content">
+							 
+
+
+
+
+<h6 class="label article-excerpt-default__label">
+	World Cup</h6> 						
+			<h3 class="article-excerpt-default__headline">A Temporary Thaw for Russia's LGBT Community</h3>
+
+			
+							<div class="article-excerpt-default__teaser">Russia’s LGBT community says strict laws have relaxed for the World Cup. Can it last?</div>
+					</div>
+	</a>
+</div> 					</div>
+							</div>
+		</section>
+	</div>
+
+	
+<div class="contribute-bar" y-use="contribute.Bar">
+	<div class="container">
+		<div class="row-flex">
+			<div class="col">
+				<div class="contribute-bar__content-container">
+					<div class="contribute-bar__content">
+						<header class="contribute-bar__header">
+							<h3 class="header--style-3">The need for honest and objective information on Russia is more relevant now than ever before!</h3>
+						</header>
+						<p>
+							To keep our newsroom in Moscow running, we need your support.  
+							<span class="hidden-xs">
+								With your help, we can continue with our mission to keep you informed with breaking news, business analysis, thought-provoking opinions, the best of culture and insights into everyday life.
+							</span>
+						</p>
+						<div class="">
+							<a href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=internal-footer-bar" class="button button--contribute">Contribute today</a>
+							<a class="button button--later" y-name="contributeLater">Maybe later</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-auto hidden-sm-down">
+				<aside class="sidebar">
+
+				</aside>
+			</div>
+		</div>
+	</div>
+</div>
+	<footer class="footer fancyfooter" y-name="footer">
+
+	<div class="container">
+		<div class="footer__inner">
+			<div class="footer__logo mb-3">
+				<a href="https://www.themoscowtimes.com/" class="" title="Home" >
+					<img src="https://static.themoscowtimes.com/img/logo_1280.png" />
+				</a>
+			</div>
+			<div class="footer__main">
+				<div class="footer__form" y-use="Newsletter" data-url="https://www.themoscowtimes.com/newsletter" id="newsletter">
+					<h3 class="header--style-3 footer__form__header">Sign up for our weekly newsletter</h3>
+					<input type="text" placeholder="Your email" y-name="email" />
+					<button class="button button--color-3" y-name="submit">Submit</button>
+					<div class="" y-name="error" style="display:none"></div>
+					<div class="" y-name="done" style="display:none">Thanks for signing up!</div>
+				</div>
+				<div class="footer__menu">
+					<ul class="row-flex depth-0" >
+
+<li class="col has-child" >
+<a href="#" >The Moscow Times</a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="/page/moscow-times" >About us</a>
+</li>
+
+<li class="col" >
+<a href="/page/jobs-at-tmt" >Jobs</a>
+</li>
+
+<li class="col" >
+<a href="/page/advertising" >Advertise with us</a>
+</li>
+
+<li class="col" >
+<a href="https://offline.themoscowtimes.com/#/"  target="_blank">TMT Offline</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" >  </a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="col" >
+<a href="/videos" >Videos</a>
+</li>
+
+<li class="col" >
+<a href="/galleries" >Galleries</a>
+</li>
+
+<li class="col" >
+<a href="/in-print" >Print Editions</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" >Follow us</a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="https://www.facebook.com/MoscowTimes/" target="_blank"><i class="fa fa-lg fa-facebook"></i></a>&nbsp;
+<a href="https://twitter.com/moscowtimes" target="_blank"><i class="fa fa-lg fa-twitter"></i></a>&nbsp;
+<a href="https://www.instagram.com/themoscowtimes/" target="_blank"><i class="fa fa-lg fa-instagram"></i></a>&nbsp;
+<a href="https://vk.com/themoscowtimes" target="_blank"><i class="fa fa-lg fa-vk"></i></a>&nbsp;
+<a href="/page/rss"><i class="fa fa-lg fa-rss"></i></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCRNPdAfK5Mp8ORtjUt3Q8UA" target="_blank"><i class="fa fa-lg fa-youtube"></i></a>
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+				</div>
+			</div>
+			 <div class="footer__bottom">
+				© copyrights:  Stichting 2 Oktober, All rights reserved.
+			</div>
+
+		</div>
+
+	</div>
+</footer>
+
+		<!-- jQuery -->
+		<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+		<script src="https://static.themoscowtimes.com/vendor/jquery/Timeago.js"></script>
+		<script src="https://static.themoscowtimes.com/vendor/jquery/Lightbox.js"></script>
+		<script src="https://static.themoscowtimes.com/vendor/jquery/fitvids.js"></script>
+
+		<!-- Other JS assets -->
+		
+		<div y-name="viewport" class="hidden-lg-down" data-viewport="xl"></div>
+		<div y-name="viewport" class="hidden-md-down hidden-xl" data-viewport="lg"></div>
+		<div y-name="viewport" class="hidden-lg-up hidden-sm-down" data-viewport="md"></div>
+		<div y-name="viewport" class="hidden-md-up hidden-xs" data-viewport="sm"></div>
+		<div y-name="viewport" class="hidden-sm-up" data-viewport="xs"></div>
+
+		<script
+			type="text/javascript"
+			src="https://static.themoscowtimes.com/vendor/yellow/Yellow.js"
+							data-main="https://static.themoscowtimes.com/js/main.js?v=12"
+				data-src="https://static.themoscowtimes.com/js/"
+						data-console="0"
+		></script>
+
+			</body>
+</html>

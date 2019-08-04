@@ -1,0 +1,2849 @@
+<!--
+Template: article.html
+
+Useage: The template for all article endpoint.
+
+-->
+<!--
+Template: layout.html
+
+Useage: All page on site will extend this template as base.
+
+Notes:
+  nav.html contains the mobile-nav.html template.
+-->
+
+<!DOCTYPE html>  
+<html lang="en">
+
+<head>
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+     
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="MOSCOW (Reuters) - Russian opposition leader Alexei Navalny was discharged from a Moscow hospital on Monday where he was being treated for an unexplained health problem and returned to prison under guard, Anastasia Vasilyeva, his doctor, said. ">
+
+<!-- Leave empty - for Open Calais -->
+<meta name="keywords" content="">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Russian opposition leader Navalny discharged from hospital | The Guardian" />
+<meta property="og:description" content="MOSCOW (Reuters) - Russian opposition leader Alexei Navalny was discharged from a Moscow hospital on Monday where he was being treated for an unexplained health problem and returned to prison under guard, Anastasia Vasilyeva, his doctor, said. " />
+<meta property="og:image" content="https://www.theguardian.pe.ca/media/photologue/photos/cache/russian-opposition-leader-navalny-discharged-from-hospital_medium" />
+<meta property="og:image:width" content="458" />
+<meta property="og:image:height" content="305" />
+
+<meta property="og:url" content="http://www.theguardian.pe.ca/news/world/russian-opposition-leader-navalny-discharged-from-hospital-337977/" />
+<meta property="og:type" content="article" />
+
+<!-- Twitter Summary Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Russian opposition leader Navalny discharged from hospital | The Guardian" />
+<meta name="twitter:image" content="https://www.theguardian.pe.ca/media/photologue/photos/cache/russian-opposition-leader-navalny-discharged-from-hospital_medium" />
+<meta name="twitter:image:alt" content="" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/static/overrides/theguardian/dist/favicon/apple-touch-icon.png?v=2">
+<link rel="icon" type="image/png" href="/static/overrides/theguardian/dist/favicon/favicon-32x32.png?v=2" sizes="32x32">
+<link rel="icon" type="image/png" href="/static/overrides/theguardian/dist/favicon/favicon-16x16.png?v=2" sizes="16x16">
+<link rel="manifest" href="/static/overrides/theguardian/dist/favicon/manifest.json">
+<link rel="mask-icon" href="/static/overrides/theguardian/dist/favicon/safari-pinned-tab.svg?v=2" color="#404040">
+<link rel="shortcut icon" href="/static/overrides/theguardian/dist/favicon/favicon.ico?v=2">
+<link rel="stylesheet" type="text/css" media="all" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/smoothness/jquery-ui.css"    />
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<meta name="msapplication-config" content="/static/overrides/theguardian/dist/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+
+
+<title>Russian opposition leader Navalny discharged from hospital | World | News | The Guardian</title>
+
+
+    <script src="/static/dist/js/header-scripts.min.js"></script>
+    
+
+    
+    <!-- Header Bidding script -->
+    <script src="//js-sec.indexww.com/ht/p/184000-87268934236037.js" async defer></script>
+    <!-- End of Header Bidding script -->
+    
+
+    
+<script type="text/javascript">
+function referNormalizer(refer)
+    {
+        refer = refer.replace(/http(s)*:\/\/(www\.)*/g,"");
+        refer = refer.replace(/\/.*/g,"");
+
+        if(refer == "t.co" || refer == "thech.ca")
+        {
+          return "twitter";
+        }
+        else if(refer.indexOf(".com") > -1 || refer.indexOf(".ca") > -1)
+        {
+          refer = refer.substring(0,refer.lastIndexOf("."));
+          if(refer.indexOf(".") > -1)
+          {
+            refer = refer.substring(refer.indexOf(".")+1,refer.length);
+          }
+        }
+        else if(refer.indexOf(".ly") > -1)
+        {
+          refer = refer.replace(".","");
+        }
+        return refer;
+    }
+    jsRefer = referNormalizer(document.referrer);
+
+    function getParameterByName(name, url) {
+        if (!url) {
+          url = window.location.href;
+        }
+        name = name.replace(/[\[\]]/g, "\\$&");
+        var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+
+    function getSearchParameters() {
+      var prmstr = window.location.search.substr(1);
+      return prmstr != null && prmstr != "" ? transformToAssocArray(prmstr) : null;
+}
+
+function getNewsletter() {
+
+    try {
+        newsletter = getSearchParameters('utm_campaign');
+        newsletter = newsletter['utm_campaign'].split("-", 2)[1];
+    }
+    catch {
+        newsletter = null;
+    }
+        return newsletter;
+    }
+
+var newsletter = getNewsletter();
+
+// https://stackoverflow.com/questions/5448545/how-to-retrieve-get-parameters-from-javascript
+function transformToAssocArray( prmstr ) {
+    var params = {};
+    var prmarr = prmstr.split("&");
+    for ( var i = 0; i < prmarr.length; i++) {
+        var tmparr = prmarr[i].split("=");
+        params[tmparr[0]] = tmparr[1];
+    }
+    return params;
+}
+
+var params = getSearchParameters();
+</script>
+<script type="text/javascript" src="https://tags.crwdcntrl.net/c/13722/cc.js?ns=_cc13722" id="LOTCC_13722"></script>
+<script type="text/javascript" language="javascript">_cc13722.bcp();</script>
+<script src="/static/js/lotame_kvs.js"></script>
+<script>if("all"!=window.adtechCCvals)var dfp_lotame=window.adtechCCvals.split(":");else dfp_lotame=window.adtechCCvals;</script>
+<script src="//rdc.m32.media/m32hb.min.js"></script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+    /*
+        Defined ad size mappings for DFP.
+        Breakpoint reference:
+        Desktop LG : 1200px - 1349px
+        Tablet MD  : 728px - 1199px
+        Phone SM   : <= 727px
+    */
+    //-------------------------------------------------------------------------
+    /*
+        If we need to add new sizes to a unit, we'll need to update it's mapping
+        with the appropriate size at the appropriate breakpoint.
+        https://support.google.com/dfp_premium/answer/3423562?hl=en
+        https://docs.google.com/spreadsheets/d/1tgYOFnQPDZJ7Jj5VofGZniXwyWEeiWex2DUhrzLQXtI/edit#gid=1800689519
+    */
+
+    var leaderboard = googletag.sizeMapping()
+    .addSize([1200, 0], ['fluid', [728, 90]]) //Desktop LG
+    .addSize([728, 0], ['fluid', [728, 90]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var billboard = googletag.sizeMapping()
+    .addSize([1200, 0], ['fluid', [970, 250], [975, 100]]) //Desktop LG
+    .addSize([728, 0], ['fluid', [970, 250], [975, 100]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var banner = googletag.sizeMapping()
+    .addSize([1200, 0], []) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], ['fluid', [320, 50], [300, 50]]) //Phone SM
+    .build();
+
+    var mbox = googletag.sizeMapping()
+    .addSize([1200, 0], []) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], ['fluid', [300, 250], [300, 150]]) //Phone SM
+    .build();
+
+    var box = googletag.sizeMapping()
+    .addSize([1200, 0], ['fluid', [300, 1050], [300, 600], [300, 250], [300, 150]]) //Desktop LG
+    .addSize([728, 0], ['fluid', [300, 1050], [300, 600], [300, 250], [300, 150]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var mwidget = googletag.sizeMapping()
+    .addSize([1200, 0], []) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], ['fluid', [300, 125], [300, 150], [300, 250]]) //Phone SM
+    .build();
+
+    var widget = googletag.sizeMapping()
+    .addSize([1200, 0], ['fluid', [300, 125], [300, 150], [300, 250]]) //Desktop LG
+    .addSize([728, 0], ['fluid', [300, 125], [300, 150], [300, 250]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var miniboard = googletag.sizeMapping()
+    .addSize([1200, 0], ['fluid', [620, 160]]) //Desktop LG
+    .addSize([728, 0], ['fluid', [620, 160]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var special = googletag.sizeMapping()
+    .addSize([1200, 0], ['fluid', [500, 500], [1010, 60], [970, 90], [1, 1], [1010, 90]]) //Desktop LG
+    .addSize([728, 0], ['fluid', [500, 500], [1010, 60], [970, 90], [1, 1], [1010, 90]]) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var skin = googletag.sizeMapping()
+    .addSize([1200, 0], ['fluid', [2, 2]]) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], []) //Phone SM
+    .build();
+
+    var latest_news = googletag.sizeMapping()
+    .addSize([1200, 0], []) //Desktop LG
+    .addSize([728, 0], []) //Tablet MD
+    .addSize([0, 0], ['fluid', [1, 1], [300, 600], [300, 250], [300, 150]]) //Phone SM
+    .build();
+
+    var native = googletag.sizeMapping()
+    .addSize([1200, 0], 'fluid') //Desktop LG
+    .addSize([728, 0],  'fluid') //Tablet MD
+    .addSize([0, 0], 'fluid') //Phone SM
+    .build();
+
+    //----------------------------------------------------------------------------
+    
+    googletag.defineSlot('/13476663/theguardian/leaderboard_1', [], 'div-gpt-ad-theguardian-leaderboard-1').defineSizeMapping(leaderboard).addService(googletag.pubads());
+    
+    
+    googletag.defineSlot('/13476663/theguardian/leaderboard_2', [], 'div-gpt-ad-theguardian-leaderboard-2').defineSizeMapping(leaderboard).addService(googletag.pubads());
+    
+    
+    googletag.defineSlot('/13476663/theguardian/leaderboard_3', [], 'div-gpt-ad-theguardian-leaderboard-3').defineSizeMapping(leaderboard).addService(googletag.pubads());
+    
+
+    
+    googletag.defineSlot('/13476663/theguardian/banner_1', [], 'div-gpt-ad-theguardian-banner-1').defineSizeMapping(banner).addService(googletag.pubads());
+    
+    
+    googletag.defineSlot('/13476663/theguardian/banner_2', [], 'div-gpt-ad-theguardian-banner-2').defineSizeMapping(banner).addService(googletag.pubads());
+    
+
+    
+    googletag.defineSlot('/13476663/theguardian/billboard_1', [], 'div-gpt-ad-theguardian-billboard-1').defineSizeMapping(billboard).addService(googletag.pubads());
+    
+
+    
+    googletag.defineSlot('/13476663/theguardian/box_1', [], 'div-gpt-ad-theguardian-box-1').defineSizeMapping(box).addService(googletag.pubads());
+    
+    
+    googletag.defineSlot('/13476663/theguardian/box_2', [], 'div-gpt-ad-theguardian-box-2').defineSizeMapping(box).addService(googletag.pubads());
+    
+    
+    googletag.defineSlot('/13476663/theguardian/box_3', [], 'div-gpt-ad-theguardian-box-3').defineSizeMapping(box).addService(googletag.pubads());
+    
+
+
+    
+    googletag.defineSlot('/13476663/theguardian/mbox_1', [], 'div-gpt-ad-theguardian-mbox-1').defineSizeMapping(mbox).addService(googletag.pubads());
+    
+    
+    googletag.defineSlot('/13476663/theguardian/mbox_2', [], 'div-gpt-ad-theguardian-mbox-2').defineSizeMapping(mbox).addService(googletag.pubads());
+    
+    
+    googletag.defineSlot('/13476663/theguardian/mbox_3', [], 'div-gpt-ad-theguardian-mbox-3').defineSizeMapping(mbox).addService(googletag.pubads());
+    
+
+    
+    googletag.defineSlot('/13476663/theguardian/miniboard_1', [], 'div-gpt-ad-theguardian-miniboard-1').defineSizeMapping(miniboard).addService(googletag.pubads());
+    
+
+    
+    googletag.defineSlot('/13476663/theguardian/skin_1', [], 'div-gpt-ad-theguardian-skin-1').defineSizeMapping(skin).addService(googletag.pubads());
+    
+
+
+    
+
+    
+
+    
+    googletag.defineSlot('/13476663/theguardian/latestnews_1', [], 'div-gpt-ad-theguardian-latestnews-1').defineSizeMapping(latest_news).addService(googletag.pubads());
+    
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs(true);
+
+    // Get MG2 subscription status locally.
+    var mg2_subscription_status = 'false';
+
+    try{
+        if(JSON.parse(localStorage.getItem('jStorage')).Connext_UserState == 'Subscribed'){
+            mg2_subscription_status = 'true';
+        }
+
+        else{
+            mg2_subscription_status = 'false';
+        }
+    }
+
+    catch(err){
+        mg2_subscription_status = 'false';
+    }
+
+    googletag.pubads().setTargeting('dfp_preview', getParameterByName('dfp_preview'));
+    googletag.pubads().setTargeting('audience', dfp_lotame);
+    googletag.pubads().setTargeting('keywords', '');
+    googletag.pubads().setTargeting('referrer', jsRefer);
+    googletag.pubads().setTargeting('newsletter', newsletter);
+    googletag.pubads().setTargeting('section', 'news');
+    googletag.pubads().setTargeting('subsection', 'world');
+    googletag.pubads().setTargeting('author', 'Reuters Inc.,');
+    googletag.pubads().setTargeting('page_url', '/news/world/russian-opposition-leader-navalny-discharged-from-hospital-337977/');
+    googletag.pubads().setTargeting('story_id', '337977');
+    googletag.pubads().setTargeting('get_params', params);
+    googletag.pubads().setTargeting('meter', 'free');
+    googletag.pubads().setTargeting('subscriber', mg2_subscription_status);
+    googletag.pubads().setTargeting('environment', 'prod');
+    googletag.pubads().setTargeting("slug","russian-opposition-leader-navalny-discharged-from-hospital-337977");
+    googletag.pubads().setTargeting("site","theguardian");
+    googletag.pubads().setTargeting("ad-tags", "null");
+    googletag.enableServices();
+  });
+
+  var section = 'news';
+  var sub_section = 'world';
+</script>
+
+    
+    <!-- Pressboard Script -->
+    
+<script type="text/javascript">!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://adserver.pressboard.ca/v3/embedder?media=137179";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}();</script>
+    
+
+
+    <link rel="stylesheet" href="/static/dist/css/style.min.css">
+
+    <!--  IMA SDK Includes -->
+    <link rel="stylesheet" href="//players.brightcove.net/videojs-ima3/2/videojs.ima3.min.css">
+
+    <noscript>
+        <style>
+            .feature-slider{
+              display: none;
+            }
+            .form-label-float .control-label{
+              margin-top: -10px;
+              font-size: 0.8125rem;
+            }
+            .collapse{
+              display: block;
+            }
+        </style>
+        <div class="alert alert-danger alert-dismissible" role="alert">
+          <h4>Saltwire works best with JavaScript enabled.</h4>
+        </div>
+    </noscript>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
+    <style>
+      .navbar-fixed-top{
+      margin-top: 80px;
+      }
+      .ie-alert{
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1001;
+      }
+
+    </style>
+    <div class="ie-alert alert alert-danger alert-dismissible" role="alert">
+      <h4 class="red">Your Browser Is Not Supported.</h4>
+      <p>Please upgrade to <a href='https://www.mozilla.org/en-US/firefox/new/#' class="alert-link">FireFox</a>,
+      <a href='https://www.google.com/chrome/browser/desktop/index.html' class="alert-link">Chrome</a>,
+      <a href='http://www.apple.com/safari/' class="alert-link">Safari</a> or to the latest version of
+      <a href='https://www.microsoft.com/en-us/download/internet-explorer.aspx' class="alert-link">Internet Explorer</a>. Thank You!</p>
+    </div>
+  <![endif]-->
+
+  
+  <!-- Slimcut embed -->
+  <script src="https://static.freeskreen.com/ba/216/freeskreen.min.js"></script>
+  
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+
+<body id="article-337977" class="
+world print-listing
+" data-paywall-content-type="free">
+    <div id='div-gpt-ad-theguardian-special-1' style="position: relative; margin: 0 auto; width: 970px;" class="hidden-md-down ad-center">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-special-1'); });
+        </script>
+    </div>
+    
+    <div id='div-gpt-ad-theguardian-skin-1' style='height:2px; width:2px;'>
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-skin-1'); });
+        </script>
+    </div>
+    
+
+    <div class="container container-wrapper bg-white">
+
+
+
+<header>
+    <script>
+        function logout(e) {
+            console.log('logout');
+            e.preventDefault();
+            CnnXt.Storage.Logout(); //Clear information about user in client storage
+            Connext.Run(); //Recalculate connext actions
+        };
+    </script>
+
+    
+
+    
+    <div class="user-links hidden-lg-down">
+        <span>
+            <a style="text-decoration: none;" data-mg2-action="login" href="#" class="hidden-lg-down">Log in </a>
+            
+            <a href="https://subscription.saltwire.com/ss70v2/saltwire/common/template.jsp?init=sub&edition=GDN&rpage=http%3A//www.theguardian.pe.ca/news/world/russian-opposition-leader-navalny-discharged-from-hospital-337977/&cpage=http%3A//www.theguardian.pe.ca/news/world/russian-opposition-leader-navalny-discharged-from-hospital-337977/" class="hidden-lg-down activateSW" target="_blank">Activate </a>
+            <a href="https://subscription.saltwire.com/ss70v2/saltwire/common/template.jsp?autoLogout=N&nwmodule=account&nwpage=dashboard" class="hidden-lg-down myAccount">My Account </a>
+            
+            <a href="#" id="desktop-logoutButton" class="hidden-lg-down logoutButton" onclick="logout(event)">Log out</a>
+        </span>
+    </div>
+    
+
+    <div class="header-wrapper hidden-lg-down">
+        <div class="container-fluid">
+            <div class="row header-logo-row">
+                <div class="col-sm-12 col-lg-4 the-guardian-override">
+                    <div class="header-logo-wrapper the-guardian-logo-wrapper">
+                        <a href="/">
+                        <img class="header-logo img-responsive" src="/static/overrides/theguardian/dist/img/dark-logo.png" alt="The Guardian logo">
+                        <span>A SaltWire Network Publication</span>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="col-sm-12 col-lg-8">
+                    <div class="fixed-content-wrapper">
+                        <div id='div-gpt-ad-theguardian-leaderboard-1' class="pull-right">
+                            <script>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-leaderboard-1'); });
+                            </script>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+ <!-- Opens <header> -->
+
+
+<!-- Static navbar -->
+<nav class="navbar navbar-custom top-nav">
+    <div class="container-fluid">
+        <ul class="nav navbar-nav navbar-left">
+            
+            
+            <li class="active"><a href="/news">News</a></li>
+            
+            
+            
+              
+              <li><a href="/opinion">Opinion</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/business">Business</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/sports">Sports</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/lifestyles/">Lifestyles</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/wheels">Wheels</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/obituaries">Obituaries</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/weather">Weather</a></li>
+              
+            
+            
+            
+              
+              <li><a href="/in-depth">In Depth</a></li>
+              
+            
+            
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+            
+                <li><a class="social-link" href="http://www.theguardian.pe.ca/subscribe/?rpage=http%3A//www.theguardian.pe.ca/news/world/russian-opposition-leader-navalny-discharged-from-hospital-337977/&cpage=http%3A//www.theguardian.pe.ca/news/world/russian-opposition-leader-navalny-discharged-from-hospital-337977/" target="_blank" rel="noopener noreferrer"><span>Subscribe</span></a></li>
+            
+            
+                <li><a class="social-link" href="http://pei-news.pressreader.com/" target="_blank" rel="noopener noreferrer"><span>E-Edition</span></a></li>
+            
+            
+                <li><a class="social-link" href="//theguardian.us16.list-manage.com/subscribe/post?u=4bd239742f3e882c22f391b7b&amp;amp;id=54d5fb590b" target="_blank" rel="noopener noreferrer"><span>Newsletters</span></a></li>
+            
+            <li><a class="social-link" href="/contact-us/" rel="noopener noreferrer"><span>Contact</span></a></li>
+            <li class="dropdown">
+               <button type="button" class="nav-btn-search" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                 <span class="sr-only">Search</span>
+                 <i class="fa fa-lg fa-search" aria-hidden="true"></i>
+               </button>
+               <div id="nav-search" class="dropdown-menu nav-search">
+                   <div class="container-fluid">
+                     <form class="" method="GET" action="/search/">
+                       <div class="input-group form-label-float">
+                         <label class="control-label" for="desktop-nav-search">Search</label>
+                         <input type="text" class="form-control" id="desktop-nav-search" name="search">
+                         <span class="input-group-btn">
+                           <button class="btn btn-theme" type="submit">Go</button>
+                         </span>
+                       </div>
+                     </form>
+                   </div>
+                 <div class="triangle-up">
+                 </div>
+               </div>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+<nav class="navbar navbar-custom sub-nav">
+
+    
+
+        <div class="container-fluid">
+            <ul class="nav navbar-nav">
+                
+
+
+
+<li>
+    
+    <a href="/news/all">All News</a>
+    
+</li>
+
+
+
+<li>
+    
+    <a href="/news/local">Local</a>
+    
+</li>
+
+
+
+<li>
+    
+    <a href="/news/regional">Regional</a>
+    
+</li>
+
+
+
+<li>
+    
+    <a href="/news/canada">Canada</a>
+    
+</li>
+
+
+
+<li class="active"><a href="/news/world">World</a></li>
+
+
+
+<li>
+    
+    <a href="/news/now-atlantic/">Now Atlantic</a>
+    
+</li>
+
+
+
+<li>
+    
+    <a href="/news/pei-election/">Provincial Election</a>
+    
+</li>
+
+
+            </ul>
+        </div>
+
+    
+
+</nav>
+
+
+
+
+<nav class="navbar mobile-nav">
+    <div class="navbar-header">
+        <div class="container-fluid">
+            <a href="/">
+                <img class="navbar-brand" src="/static/overrides/theguardian/dist/img/reverse-logo.png" alt="The Guardian logo">
+            </a>
+            <button type="button" class="burger-menu-btn collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <i class="burger-icon bm-animation"></i>
+                <span class="bg-menu-text">menu</span>
+            </button>
+            
+            <button type="button" class="burger-menu-btn collapsed" style="margin-right: 24px;margin-top: 9px;" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Account</span>
+                <i class="fa fa-user" style="font-size:32px;"></i>
+            </button>
+            
+        </div>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+        
+        <div class="section-wrapper panel thepanel">
+            <div class="mg2-mobile-links mobile-nav-section-item pt-2 pb-2">
+                <a data-mg2-action="login" class="mobile-nav-section-title" href="#">Log in</a>
+                
+                <a href="https://subscription.saltwire.com/ss70v2/saltwire/common/template.jsp?nwmodule=nonsubscribers&nwpage=nonsubstart&edition=GDN" class="mobile-nav-section-title activateSW">Activate </a>
+                <a href="https://subscription.saltwire.com/ss70v2/saltwire/common/template.jsp?autoLogout=N&nwmodule=account&nwpage=dashboard" class="mobile-nav-section-title myAccount">My Account</a>
+                
+                <a id="mobile-logoutButton" class="mobile-nav-section-title logoutButton" href="#" onclick="logout(event)">Log out</a>
+            </div>
+        </div>
+        
+        <div class="nav-search-mobile">
+            <div class="container-fluid">
+                <form class="" method="GET" action="/search/">
+                    <div class="input-group">
+                        <label class="control-label sr-only" for="mobile-nav-search">Search</label>
+                        <input type="text" class="form-control" id="search" name="search" placeholder="Search...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div id="accordion" role="tablist" aria-multiselectable="true">
+            
+            
+            <div class="section-wrapper panel thepanel">
+                <div class="mobile-nav-section" role="tab" id="news">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/news">News</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-news" aria-expanded="true" aria-controls="collapse-news">
+                            <i class="fa fa-lg fa-plus" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="collapse" id="collapse-news" role="tabpanel" aria-labelledby="news">
+                    <ul class="nav mobile-nav-dropdown ">
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/news/all">All News</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/news/local">Local</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/news/regional">Regional</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/news/canada">Canada</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/news/world">World</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/news/now-atlantic/">Now Atlantic</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/news/pei-election/">Provincial Election</a></li>
+                        
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            
+            
+            
+            <div class="section-wrapper panel thepanel">
+                <div class="mobile-nav-section" role="tab" id="opinion">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/opinion">Opinion</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-opinion" aria-expanded="true" aria-controls="collapse-opinion">
+                            <i class="fa fa-lg fa-plus" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="collapse" id="collapse-opinion" role="tabpanel" aria-labelledby="opinion">
+                    <ul class="nav mobile-nav-dropdown ">
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/opinion/all">All Opinion</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/opinion/local-perspectives/">Local Perspectives</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/opinion/national-perspectives">National Perspectives</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/opinion/editorials">Editorials</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/opinion/editorial-cartoons/">Editorial Cartoons</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/opinion/letter-to-the-editor">Letter to the editor</a></li>
+                        
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            
+            
+            
+            <div class="section-wrapper panel thepanel">
+                <div class="mobile-nav-section" role="tab" id="business">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/business">Business</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-business" aria-expanded="true" aria-controls="collapse-business">
+                            <i class="fa fa-lg fa-plus" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="collapse" id="collapse-business" role="tabpanel" aria-labelledby="business">
+                    <ul class="nav mobile-nav-dropdown ">
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/business/all">All Business</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/business/local-business">Local Business</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/business/perspectives-on-business">Perspectives on Business</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/business/reuters">Reuters</a></li>
+                        
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            
+            
+            
+            <div class="section-wrapper panel thepanel">
+                <div class="mobile-nav-section" role="tab" id="sports">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/sports">Sports</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-sports" aria-expanded="true" aria-controls="collapse-sports">
+                            <i class="fa fa-lg fa-plus" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="collapse" id="collapse-sports" role="tabpanel" aria-labelledby="sports">
+                    <ul class="nav mobile-nav-dropdown ">
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/all">All Sports</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/hockey">Hockey</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/baseball">Baseball</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/soccer">Soccer</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/football">Football</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/golf">Golf</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/curling">Curling</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/basketball">Basketball</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/sports/other-sports">Other-Sports</a></li>
+                        
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            
+            
+            
+            <div class="section-wrapper panel thepanel">
+                <div class="mobile-nav-section" role="tab" id="lifestyles">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/lifestyles/">Lifestyles</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-lifestyles" aria-expanded="true" aria-controls="collapse-lifestyles">
+                            <i class="fa fa-lg fa-plus" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="collapse" id="collapse-lifestyles" role="tabpanel" aria-labelledby="lifestyles">
+                    <ul class="nav mobile-nav-dropdown ">
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/lifestyles/all">All Lifestyles</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/lifestyles/local-lifestyles">Local Lifestyles</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/lifestyles/homes">Homes</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/lifestyles/food-and-drink">Food and Drink</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/lifestyles/travel">Travel</a></li>
+                        
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            
+            
+            
+            <div class="section-wrapper">
+                <div class="mobile-nav-section">
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="mobile-nav-section-title" href="/wheels">Wheels</a>
+                        
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="btn mobile-nav-dropdown-icon" href="/wheels">
+                        
+                            <i class="fa fa-lg fa-angle-double-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <div class="section-wrapper">
+                <div class="mobile-nav-section">
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="mobile-nav-section-title" href="/obituaries">Obituaries</a>
+                        
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        
+                        <a class="btn mobile-nav-dropdown-icon" href="/obituaries">
+                        
+                            <i class="fa fa-lg fa-angle-double-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <div class="section-wrapper panel thepanel">
+                <div class="mobile-nav-section" role="tab" id="weather">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/weather">Weather</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-weather" aria-expanded="true" aria-controls="collapse-weather">
+                            <i class="fa fa-lg fa-plus" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="collapse" id="collapse-weather" role="tabpanel" aria-labelledby="weather">
+                    <ul class="nav mobile-nav-dropdown ">
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/weather/all">All Weather</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/weather/regional-forecast">Regional Forecast</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/weather/cindy-days-column">Weather By Day</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/weather/cindys-snapshot">Cindy&#39;s Snapshot</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/weather/grandma-says">Grandma Says</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/weather/marine-forecast">Marine Forecast</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/weather/cindy-on-the-road/">Cindy On The Road</a></li>
+                        
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            
+            
+            
+            <div class="section-wrapper panel thepanel">
+                <div class="mobile-nav-section" role="tab" id="in-depth">
+                    <div class="mobile-nav-section-item">
+                        <a class="mobile-nav-section-title" href="/in-depth">In Depth</a>
+                    </div>
+                    <div class="mobile-nav-section-item">
+                        <a class="btn mobile-nav-dropdown-icon collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-in-depth" aria-expanded="true" aria-controls="collapse-in-depth">
+                            <i class="fa fa-lg fa-plus" aria-hidden="true"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="collapse" id="collapse-in-depth" role="tabpanel" aria-labelledby="in-depth">
+                    <ul class="nav mobile-nav-dropdown ">
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/in-depth/indigenous-success">Indigenous Success</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/in-depth/caring-for-seniors">Caring for Seniors</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/in-depth/rural-renaissance/">Rural Renaissance</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/in-depth/climate-change-economy">Climate Change Economy</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/in-depth/employment-after-immigration">Employment After Immigration</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/in-depth/cannabis">Cannabis</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/in-depth/doctor-shortage">Doctor Shortage</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/in-depth/rising-seas">Rising Seas</a></li>
+                        
+                        
+                        
+                        <li class="mobile-nav-dropdown-item"><a class="mobile-nav-link" href="/in-depth/the-holocaust">The Holocaust</a></li>
+                        
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            
+            
+        </div>
+
+
+        <div class="social-icons">
+            <ul class="list-inline">
+              
+                  <li><a class="social-link" href="http://www.theguardian.pe.ca/subscribe/?rpage=http%3A//www.theguardian.pe.ca/news/world/russian-opposition-leader-navalny-discharged-from-hospital-337977/&cpage=http%3A//www.theguardian.pe.ca/news/world/russian-opposition-leader-navalny-discharged-from-hospital-337977/" target="_blank" rel="noopener noreferrer"><span>Subscribe</span></a></li>
+              
+              
+                  <li><a class="social-link" href="http://pei-news.pressreader.com/" target="_blank" rel="noopener noreferrer"><span>E-Edition</span></a></li>
+              
+                
+                    <li><a class="social-link" href="//theguardian.us16.list-manage.com/subscribe/post?u=4bd239742f3e882c22f391b7b&amp;amp;id=54d5fb590b" target="_blank" rel="noopener noreferrer"><span>Newsletters</span></a></li>
+                
+              <li><a class="social-link" href="/contact-us/" rel="noopener noreferrer"><span>Contact</span></a></li>
+            </ul>
+            
+            <ul class="list-inline social-block">
+                <li><span>Find us on:</span></li>
+                
+                <li><a class="social-icon" href="https://facebook.com/PEI.Guardian" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-facebook" aria-hidden="true"></i></a></li>
+                
+                
+                <li><a class="social-icon" href="https://twitter.com/PEIGuardian" target="_blank" rel="noopener noreferrer"><i class="fa fa-lg fa-twitter" aria-hidden="true"></i></a></li>
+                
+            </ul>
+            
+        </div>
+    </div>
+</nav>
+
+</header>
+ <!-- Closes </header> -->
+
+
+
+<main>
+  
+
+
+<section>
+    <h2 class="sr-only">Top News</h2>
+    
+    
+    <div class="row feature-slider list-group">
+        
+        <article class="story story-h">
+            
+            <a href="/opinion/the-guardians-quick-question-for-march-18-2019-156122/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/web_poll_quick_question_thumbnail.jpg" alt="Note: This poll is for entertainment purposes only and is not a scientific survey.">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                      
+                    The Guardian&#39;s Quick Question
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/now-atlantic/gail-lethbridge-griping-about-youth-today-is-a-rite-of-passage-308505/?utm_source=Slider&amp;utm_medium=NOW%20Atlantic&amp;utm_campaign=May%202019" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/generation-gripes-slider_thumbnail.jpg" alt="generation-gripes-slider-now">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                        <span class="icon-premium-black" style="color: gray;" title="Premium article available to all subscribers. Non-subscribers can enjoy 3 free premium articles before subscribing."></span>
+                        
+                      
+                    GAIL LETHBRIDGE: Griping about ‘youth today’ is a rite of passage
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/now-atlantic/meet-the-artist-a-few-questions-with-halifaxs-elana-camille-saimovici-308507/?utm_source=Slider&amp;utm_medium=NOW%20Atlantic&amp;utm_campaign=May%202019" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/B97911253Z.1_20190506100520_000GLKO51T8.1-1_thumbnail.jpg" alt="
+Cover artist Élana Camille Saimovici is a self-taught artist from Halifax.
+">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                        <span class="icon-premium-black" style="color: gray;" title="Premium article available to all subscribers. Non-subscribers can enjoy 3 free premium articles before subscribing."></span>
+                        
+                      
+                    A few questions with Halifax artist Élana Camille Saimovici
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/now-atlantic/why-cant-it-be-you-the-driving-force-behind-success-308499/?utm_source=Slider&amp;utm_medium=NOW%20Atlantic&amp;utm_campaign=May%202019" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/B97911246Z.1_20190506095044_000G3JO51QP.1-1_thumbnail.jpg" alt="
+Doctor Erin Steuter, head of sociology at Mount Allison University said society’s “fear culture” is a major factor in a student’s education and the steps they take post-graduation.
+">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                        <span class="icon-premium-black" style="color: gray;" title="Premium article available to all subscribers. Non-subscribers can enjoy 3 free premium articles before subscribing."></span>
+                        
+                      
+                    Why can’t it be you? The driving force behind success
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/now-atlantic/success-career-money-or-does-it-308501/?utm_source=Slider&amp;utm_medium=NOW%20Atlantic&amp;utm_campaign=May%202019" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/piggybank-now-crop_thumbnail.jpg" alt="piggybank-now-crop">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                        <span class="icon-premium-black" style="color: gray;" title="Premium article available to all subscribers. Non-subscribers can enjoy 3 free premium articles before subscribing."></span>
+                        
+                      
+                    SUCCESS = career + money ... or does it?
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/now-atlantic/at-a-glance-should-i-stay-or-should-i-go-a-look-at-graduate-retention-308495/?utm_source=Slider&amp;utm_medium=NOW%20Atlantic&amp;utm_campaign=May%202019" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/B97911244Z.1_20190506093022_000GVHO51N5.1-1_thumbnail.jpg" alt="
+
+">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                        <span class="icon-premium-black" style="color: gray;" title="Premium article available to all subscribers. Non-subscribers can enjoy 3 free premium articles before subscribing."></span>
+                        
+                      
+                    Should I stay or should I go? A look at graduate retention
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/now-atlantic/shared-wisdom-a-conversation-with-alice-aiken-308494/?utm_source=Slider&amp;utm_medium=NOW%20Atlantic&amp;utm_campaign=May%202019" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/aliceaiken-now-may_thumbnail.jpg" alt="Alice Aiken. Photo by Daniel Abriel, Dalhousie University. Photo illustration by Kimber Grenier.">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                        <span class="icon-premium-black" style="color: gray;" title="Premium article available to all subscribers. Non-subscribers can enjoy 3 free premium articles before subscribing."></span>
+                        
+                      
+                    A conversation with Canadian Armed Forces veteran and health ...
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/now-atlantic/generational-value-gaps-shifting-as-individualist-thinking-warps-view-of-success-308493/?utm_source=Slider&amp;utm_medium=NOW%20Atlantic&amp;utm_campaign=May%202019" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/valuegaps-slider_thumbnail.jpg" alt="valuegaps-slider">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                      
+                    Generational value gaps shifting as individualist thinking warps view ...
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/now-atlantic/between-generations-success-its-complicated-308492/?utm_source=Slider&amp;utm_medium=NOW%20Atlantic&amp;utm_campaign=May%202019" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/B97911243Z.1_20190506091949_000GSGO51L4.1-1_thumbnail.jpg" alt="">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                        <span class="icon-premium-black" style="color: gray;" title="Premium article available to all subscribers. Non-subscribers can enjoy 3 free premium articles before subscribing."></span>
+                        
+                      
+                    Success: Two women. Two lives. One take.
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/now-atlantic/five-questions-10-answers-lets-make-prejudice-inequality-history-308490/?utm_source=Slider&amp;utm_medium=NOW%20Atlantic&amp;utm_campaign=May%202019" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/questions_thumbnail.jpg" alt="Élana Camille Saimovici">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                        <span class="icon-premium-black" style="color: gray;" title="Premium article available to all subscribers. Non-subscribers can enjoy 3 free premium articles before subscribing."></span>
+                        
+                      
+                    Five questions, 10 answers: let&#39;s make prejudice, inequality history
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+        <article class="story story-h">
+            
+            <a href="/news/now-atlantic/" class="list-group-item">
+            
+                <div class="story-img">
+                    <div class="overlay">
+                        
+                        <img src="/media/photologue/photos/cache/sw_07052019_Now_slider_thumbnail.jpg" alt="Now">
+                        
+                    </div>
+                </div>
+                <div class="story-content">
+                    <h3 class="story-headline">
+                      
+                        
+                        <span class="icon-premium-black" style="color: gray;" title="Premium article available to all subscribers. Non-subscribers can enjoy 3 free premium articles before subscribing."></span>
+                        
+                      
+                    Money. Happiness. Family. How do we define success?
+                    </h3>
+                </div>
+            </a>
+        </article>
+        
+    </div>
+    
+    
+    <div style="clear:both;"></div>
+</section>
+
+  
+  
+<div class="fixed-content-wrapper">
+   <div class="mt-3 hidden-sm-up">
+       
+       <div id='div-gpt-ad-theguardian-banner-1' class="ad-center">
+           <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-banner-1'); });
+           </script>
+       </div>
+       
+   </div>
+   <div class="mt-3 hidden-sm-down hidden-lg-up">
+       
+       <div id='div-gpt-ad-theguardian-leaderboard-2' class="ad-center">
+           <script>
+               googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-leaderboard-2'); });
+           </script>
+       </div>
+       
+   </div>
+   <div class="mt-3 hidden-lg-down">
+       
+       <div id='div-gpt-ad-theguardian-billboard-1' class="ad-center">
+           <script>
+               googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-billboard-1'); });
+           </script>
+       </div>
+       
+   </div>
+</div>
+
+
+
+<div class="content-wrapper">
+    <div class="content-block">
+        <article>
+            <div class="container-fluid">
+                <header class="article-header">
+                    
+                    
+                    <h1 class="article-headline">Russian opposition leader Navalny discharged from hospital</h1>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="article-meta text-muted">
+                                
+                                
+                                
+                                
+                                <div class="article-byline">
+                                    
+                                            
+                                            
+                                              <span class="article-author">Reuters</span>
+                                            
+                                            
+                                        <br>
+                                        
+                                    
+
+                                </div>
+                                
+                                
+                                  <span class="article-date" title="Published July 29, 2019, 11:17 a.m."><strong>Published: </strong>17 hours ago</span>
+                                 <!--Ending (if article|determine_updated_recently)-->
+                                
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="article-sharing">
+                                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                                <div class="addthis_inline_share_toolbox"></div>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <div style="display: none;" class="inner-age-gate-message"><p>Sorry you must be at least 19 years of age to consume this content.</p></div>
+                <div class="inner-content-wrapper">
+                
+                <figure>
+                    
+                    <div class="article-img">
+                        
+                        <img class="img-responsive" src="/media/photologue/photos/cache/russian-opposition-leader-navalny-discharged-from-hospital_large" alt="">
+                        
+                    </div>
+                        
+                        <figcaption class="article-img-caption small text-muted"></figcaption>
+                        
+                    
+                </figure>
+                
+
+                    <hr>
+
+                    <div class="fixed-content-wrapper hidden-sm-up my-3">
+                        
+                        <div id='div-gpt-ad-theguardian-mbox-1' class="ad-center hidden-md-up">
+                            <script>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-mbox-1'); });
+                            </script>
+                        </div>
+                        
+                    </div>
+
+                    
+                    <div class="article-content" >
+                        
+                        <p>MOSCOW (Reuters) - Russian opposition leader Alexei Navalny was discharged from a Moscow hospital on Monday where he was being treated for an unexplained health problem and returned to prison under guard, Anastasia Vasilyeva, his doctor, said. </p> <p>Separately, Navalny's lawyer Olga Mikhailova told reporters in front of the hospital that her client had been poisoned by an unidentified chemical agent, a thesis put forward by Vasilyeva a day earlier. </p> <p>Navalny, 43, was rushed to hospital from jail on Sunday morning with what his spokeswoman said were signs of an acute allergy with "severe swelling of the face and skin redness."</p> <p> (Reporting by Andrew Osborn; Writing by Anton Kolodyazhnyy; Editing by Andrew Osborn)</p>
+                    </div>
+                </div>
+                
+                <div class="article-content">
+                    <style type="text/css">.embed-responsive-16by9 {
+padding-bottom: 60% !important;
+width: 100% !important;
+height: 762px;
+}
+</style>
+<p><iframe allowtransparency="true" frameborder="0" height="680" scrolling="no" src="https://heraldwebmaster.survey.fm/nps-guardian?iframe=1" width="100%"></iframe></p>
+                </div>
+                
+                
+                  <div id="pressboard-ad-sponsorship-msg"></div>
+                
+                <div class="fixed-content-wrapper my-3">
+                    
+                    <div id='div-gpt-ad-theguardian-miniboard-1' class="ad-center hidden-sm-down">
+                        <script>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-miniboard-1'); });
+                        </script>
+                    </div>
+                    
+                    
+                    <div id='div-gpt-ad-theguardian-mbox-2' class="ad-center hidden-sm-up">
+                        <script>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-mbox-2'); });
+                        </script>
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </article>
+        
+  <div class="hidden-sm-up top-stories">
+  </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            $.ajax({
+                url: '/admin/sidebars/update-trending-stories/',
+                dataType: 'json',
+                data: {'section' : section, 'sub_section' : sub_section},
+                method: 'get',
+                success: function (data) {
+                    $('.top-stories').html(data);
+                }
+            });
+        });
+    </script>
+
+
+
+         
+
+<section class="related-block mt-3">
+    <div class="container-fluid">
+        <div class="section-title">
+            <h2 class="section-title-heading">More World stories</h2>
+        </div>
+
+        <div class="row story-group auto-clear-xs auto-clear-md auto-clear-lg">
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/news/world/senegal-to-crack-down-on-huge-plastic-waste-by-enforcing-law-338292/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/senegal-to-crack-down-on-huge-plastic-waste-by-enforcing-law_medium" alt="">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                
+                                
+                                
+                                
+                                Senegal to crack down on huge plastic waste by enforcing law
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published 9 minutes ago">Published 9 minutes ago</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/news/world/ukraine-pundit-who-predicted-zelenskiys-rise-now-forecasts-his-fall-338309/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/ukraine-pundit-who-predicted-zelenskiys-rise-now-forecasts-his-fall_medium" alt="">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                
+                                
+                                
+                                
+                                Ukraine pundit who predicted Zelenskiy&#39;s rise now forecasts his fall
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published just now">Published just now</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/news/world/pakistani-military-plane-crashes-near-garrison-city-kills-17-338257/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/theguardian-placeholder_medium.gif" alt="">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                
+                                
+                                
+                                
+                                Pakistani military plane crashes near garrison city, kills 17
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published just now">Published just now</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/news/world/south-african-corruption-fighter-seen-amplifying-anc-battles-338312/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/south-african-corruption-fighter-seen-amplifying-anc-battles_medium" alt="">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                
+                                
+                                
+                                
+                                South African corruption fighter seen amplifying ANC battles
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published just now">Published just now</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/news/world/tanzanian-police-arrest-prominent-investigative-journalist-338302/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/theguardian-placeholder_medium.gif" alt="">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                
+                                
+                                
+                                
+                                Tanzanian police arrest prominent investigative journalist
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published just now">Published just now</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/news/world/alaska-ferry-workers-strike-for-6th-day-contract-talks-break-off-338287/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/theguardian-placeholder_medium.gif" alt="">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                
+                                
+                                
+                                
+                                Alaska ferry workers strike for 6th day contract talks break off
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                    <li class="story-meta-item" title="Updated Jul 30, 2019 at 4:20 a.m.">Updated 22 minutes ago</li>
+                                    <!--Ending (if article|determine_updated_recently)-->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/news/world/australia-says-us-plans-to-build-military-infrastructure-338305/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/australia-says-us-plans-to-build-military-infrastructure_medium" alt="">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                
+                                
+                                
+                                
+                                Australia says U.S. plans to build military infrastructure
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published just now">Published just now</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+            <div class="col-xs-6 col-lg-3">
+                <article class="story">
+                    
+                    <a class="story-anchor" href="/news/world/tropical-storm-erick-grows-into-a-hurricane-heading-toward-hawaii-338247/">
+                    
+                        <div class="story-img">
+                            <div class="overlay">
+                                
+                                <img class="img-responsive" src="/media/photologue/photos/cache/theguardian-placeholder_medium.gif" alt="">
+                                
+                            </div>
+                        </div>
+                        <div class="story-content">
+                            <h3 class="h5 story-headline">
+                                
+                                
+                                
+                                
+                                
+                                
+                                Tropical Storm Erick grows into a hurricane heading toward Hawaii
+                            </h3>
+                            <ul class="story-meta list-inline">
+                                
+                                
+                                  <li class="story-meta-item" title="Published just now">Published just now</li>
+                                 <!--if article.updated_at|determine_updated_recently -->
+                                
+                            </ul>
+                        </div>
+                    </a>
+                </article>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+        <div class="fixed-content-wrapper my-3">
+            
+            <div id='div-gpt-ad-theguardian-mbox-3' class="ad-center hidden-md-up">
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-mbox-3'); });
+                </script>
+            </div>
+            
+        </div>
+    </div>
+    <aside class="content-block-fixed-sidebar hidden-sm-down">
+        
+
+
+
+<div class="weather-block">
+  <a class="current-weather-button" href="/weather/">
+  <img src="/media/weather/the-guardian/right_now.jpg" alt="Get Your Weather By Day">
+  </a>
+</div>
+<script type="text/javascript">
+  $('.current-weather-button').on('mouseup', function(e){
+      ga('send', 'event', 'Current Weather Button', 'Click', {
+         nonInteraction: true
+        });
+  });
+</script>
+
+
+<div class="fixed-content-wrapper my-3">
+    
+    <div id='div-gpt-ad-theguardian-box-1' class="ad-center">
+        <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-box-1'); });
+        </script>
+    </div>
+    
+</div>
+
+  <div class="top-stories-block">
+  </div>
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          $.ajax({
+              url: '/admin/sidebars/update-trending-stories/',
+              dataType: 'json',
+              // Section set by DFP template.
+              data: {'section' : section, 'sub_section' : sub_section},
+              method: 'get',
+              success: function (data) {
+                if (data.length > 0){
+                  $('.top-stories-block').html(data);
+                }
+              }
+          });
+      });
+  </script>
+
+<script type="text/javascript">
+  $('.top-stories-link').on('mouseup', function(e){
+      ga('send', 'event', 'Top Stories Link', 'Click', {
+         nonInteraction: true
+        });
+  });
+</script>
+
+
+    
+    <div class="fixed-content-wrapper my-3">
+        
+        <div id='div-gpt-ad-theguardian-box-2' class="ad-center">
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-box-2'); });
+            </script>
+        </div>
+        
+    </div>
+    
+    <div class="fixed-content-wrapper my-3">
+        <div class="obits-block my-3">
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            $.ajax({
+                url: '/admin/sidebars/update-obits-sidebar/',
+                dataType: 'json',
+                method: 'get',
+                success: function (data) {
+                    $('.obits-block').html(data);
+                }
+            });
+        });
+    </script>
+    </div>
+
+
+
+<div id="sticky-wrapper" class="sticky-wrapper">
+    <div class="fixed-content-wrapper my-3 sticky">
+        
+        <div id='div-gpt-ad-theguardian-box-3' class="ad-center box-3">
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-box-3'); });
+            </script>
+        </div>
+        
+    </div>
+</div>
+
+    </aside>
+
+    
+</div>
+ <!-- Main content region -->
+</main>
+
+
+
+<div id="feature-pages-block">
+
+</div>
+
+
+
+<section class="latest-news-block">
+
+    <div class="container-fluid">
+        <div class="section-title">
+            <h2 class="section-title-heading">Recent Stories</h2>
+        </div>
+    </div>
+    <div class="content-wrapper">
+        <div class="content-block">
+            <div class="container-fluid">
+                
+                <div class="row auto-clear-sm auto-clear-md auto-clear-lg">
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/business/reuters/oil-prices-rise-as-market-eyes-likely-fed-rate-cut-338258/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/oil-prices-rise-ahead-of-expected-us-interest-rate-cut_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        Oil prices rise as market eyes likely Fed rate cut
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/business/reuters/goodyear-plant-conditions-raise-concerns-about-mexican-labor-reforms-us-lawmakers-338251/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/goodyear-plant-conditions-raise-concerns-about-mexican-labor-reforms-us-lawmakers_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        Goodyear plant conditions raise concerns about Mexican labor reforms - U.S. lawmakers
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/business/reuters/yen-little-changed-as-boj-holds-spotlight-shifts-to-fed-meeting-338252/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/yen-trades-near-three-week-low-before-boj-fed-meetings_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        Yen little changed as BOJ holds, spotlight shifts to Fed meeting
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/sports/mets-trade-p-vargas-to-phillies-338249/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/mets-trade-p-vargas-to-phillies_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        Mets trade P Vargas to Phillies
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/sports/snowboarding-olympic-silver-medalist-parrot-says-he-has-beaten-cancer-338314/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/snowboarding-olympic-silver-medalist-parrot-says-he-has-beaten-cancer_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        Snowboarding: Olympic silver medalist Parrot says he has beaten cancer
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/business/reuters/trumps-tax-threat-on-french-wine-is-completely-moronic-says-farming-minister-338315/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/trumps-tax-threat-on-french-wine-is-completely-moronic-says-farming-minister_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        Trump&#39;s tax threat on French wine is &#39;completely moronic&#39;, says farming minister
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    <div class="col-sm-12 fixed-content-wrapper hidden-sm-up">
+                        <div id='div-gpt-ad-theguardian-latestnews-1' class="ad-center mb-4">
+                            <script>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-latestnews-1'); });
+                            </script>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/business/reuters/huawei-technologies-posts-23-h1-revenue-growth-amid-us-sanctions-338313/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/huawei-technologies-posts-23-h1-revenue-growth-amid-us-sanctions_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        Huawei Technologies posts 23% H1 revenue growth amid U.S. sanctions
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/news/world/south-african-corruption-fighter-seen-amplifying-anc-battles-338312/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/south-african-corruption-fighter-seen-amplifying-anc-battles_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        South African corruption fighter seen amplifying ANC battles
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/business/reuters/telecoms-lobby-demands-access-to-high-band-spectrum-for-5g-338310/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/telecoms-lobby-demands-access-to-high-band-spectrum-for-5g_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        Telecoms lobby demands access to high-band spectrum for 5G
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/business/reuters/south-korea-braces-for-japan-decision-on-trade-status-seen-as-soon-as-friday-338311/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/south-korea-braces-for-japan-decision-on-trade-status-seen-as-soon-as-friday_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        South Korea braces for Japan decision on trade status, seen as soon as Friday
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/news/world/ukraine-pundit-who-predicted-zelenskiys-rise-now-forecasts-his-fall-338309/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/ukraine-pundit-who-predicted-zelenskiys-rise-now-forecasts-his-fall_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        Ukraine pundit who predicted Zelenskiy&#39;s rise now forecasts his fall
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                    <div class="col-sm-12 col-md-6">
+                        <article class="story story-h">
+                            
+                            <a class="story-anchor" href="/business/reuters/alibaba-backed-lender-mybank-to-raise-871-million-in-maiden-fundraising-document-338308/">
+                            
+                                <div class="story-img">
+                                    <div class="overlay">
+                                        
+                                        <img src="/media/photologue/photos/cache/alibaba-backed-lender-mybank-to-raise-871-million-in-maiden-fundraising-document_thumbnail" class="img-responsive" alt="">
+                                        
+                                    </div>
+                                </div>
+                                <div class="story-content">
+                                    <h6 class="story-headline">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        Alibaba-backed lender MYbank to raise $871 million in maiden fundraising: document
+                                    </h6>
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                    
+                    
+                </div>
+                
+            </div>
+        </div>
+        <aside class="content-block-fixed-sidebar">
+            
+                <div class="twitter-embed-wrapper">
+                    <a class="twitter-timeline" data-width="300" data-height="545" data-theme="light" data-link-color="#F47920" href="https://twitter.com/PEIGuardian">The Guardian Tweets</a>
+                    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+            
+        </aside>
+    </div>
+</section>
+
+
+<div class="container hidden-xs" id="footer-leaderboard">
+    <div class="row">
+      
+        <div id='div-gpt-ad-theguardian-leaderboard-3' class="ad-center hidden-sm-down">
+            <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-leaderboard-3'); });
+            </script>
+        </div>
+      
+    </div>
+</div>
+<style media="screen">
+    .slick-list {
+        padding: 0;
+    }
+</style>
+
+
+<footer class="footer small mt-3">
+    <div class="footer-section footer-section-1">
+        <div class="container-fluid">
+            <div class="company-info">
+                <div class="company-info-section">
+                    <a href="/">
+                        <img class="img-responsive footer-logo" src="/static/overrides/theguardian/dist/img/reverse-logo.png" alt="The Guardian logo" width="200">
+                    </a>
+                </div>
+                
+                <div class="company-info-section company-links">
+                    <div class="btn-group " role="group" aria-label="">
+                        
+                        <div id="fb-root"></div>
+                        <script>(function(d, s, id) { {}
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=1403215903131823";
+                        fjs.parentNode.insertBefore(js, fjs);
+                        }(document, 'script', 'facebook-jssdk'));</script>
+                        <div class="fb-like" data-href="http://www.facebook.com/PEI.Guardian" data-layout="button" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
+                        
+
+                        
+                        <a href="https://twitter.com/PEIGuardian" class="twitter-follow-button" data-show-count="false">Follow @PEIGuardian</a>
+                        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                        
+                    </div>
+                </div>
+                
+                
+                <script src="https://loader-cdn.azureedge.net/prod/saltwire/loader.min.js"></script>
+                <script>
+                MG2Loader.init({
+                    plugins: [
+                        {
+                        name: "FP",
+                        initOptions: {
+                            version: "1.0",
+                            environment: "prod"
+                        }
+                        },
+                        {
+                        name: "DL",
+                        initOptions: {
+                            environment: "prod",
+                            version: "saltwire",
+                            collectors: ["connext"],
+                            tagManager: "GTM",
+                            containerId: "GTM-P6L8DCG" //google tag manager container id
+                        }
+                        },
+                        {
+                        name: "NXT",
+                        initOptions: {
+                            version: "SaltWire",
+                            environment: "prod",
+                            siteCode: "GDN",
+                            configCode: "theguardian", //code of configuration
+                            debug: false,
+                            silentmode: false,
+                            publicEventHandlers: {
+                                onNotAuthorized: function(eventData) {  //this event fires on every Connext loading if user is logged out
+                                    let loginLink = $('.user-links [data-mg2-action="login"], .mg2-mobile-links [data-mg2-action="login"]');
+                                    let myAccountLink = $('.myAccount');
+                                    let activateLink = $('.user-links .activateTCH, .mg2-mobile-links .activateTCH, .user-links .activateSW, .mg2-mobile-links .activateSW');
+                                    let logoutLink = $('.logoutButton');
+
+                                    loginLink.show();
+                                    activateLink.show();
+                                    myAccountLink.hide();
+                                    logoutLink.hide();
+                                    $('.user-links, .mg2-mobile-links').show();
+                                },
+                                onAuthorized: function(eventData) {  //this event fires on every Connext loading if user is logged in but doesn't have active subscription
+                                    let loginLink = $('.user-links [data-mg2-action="login"], .mg2-mobile-links [data-mg2-action="login"]');
+                                    let myAccountLink = $('.myAccount');
+                                    let activateLink = $('.user-links .activateTCH, .mg2-mobile-links .activateTCH, .user-links .activateSW, .mg2-mobile-links .activateSW');
+                                    let logoutLink = $('.logoutButton');
+
+                                    loginLink.hide();
+                                    activateLink.show();
+                                    myAccountLink.hide();
+                                    logoutLink.show();
+                                    $('.user-links, .mg2-mobile-links').show();
+                                },
+                                onHasAccess: function(eventData) {  //this event fires on every Connext loading if user is logged in but doesn't have active subscription
+                                    let loginLink = $('.user-links [data-mg2-action="login"], .mg2-mobile-links [data-mg2-action="login"]');
+                                    let myAccountLink = $('.myAccount');
+                                    let activateLink = $('.user-links .activateTCH, .mg2-mobile-links .activateTCH, .user-links .activateSW, .mg2-mobile-links .activateSW');
+                                    let logoutLink = $('.logoutButton');
+
+                                    loginLink.hide();
+                                    activateLink.hide();
+                                    myAccountLink.show();
+                                    logoutLink.show();
+                                    $('.user-links, .mg2-mobile-links').show();
+                                }
+                            }
+                        }
+                        }
+                    ]
+                });
+
+                var is_subscriber = 'non-subscriber';
+                $(window).on('load', function(){
+                    is_subscriber = Connext.Storage.GetUserData();
+                    if(is_subscriber == null){
+                        is_subscriber = 'non-subscriber';
+                    }
+
+                    else{
+                        if(is_subscriber.Subscriptions != null){
+                            is_subscriber = 'subscriber';
+                        }
+                        else{
+                            is_subscriber = 'non-subscriber';
+                        }
+                    }
+                });
+                </script>
+                
+            </div>
+        </div>
+    </div>
+    <div class="footer-section footer-section-2">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-7 col-md-6 col-lg-4 newsletter-block">
+                    
+                    <form class="" action="//theguardian.us16.list-manage.com/subscribe/post?u=4bd239742f3e882c22f391b7b&amp;amp;id=54d5fb590b" method="post">
+                        <label class="control-label newsletter-title" for="newsletter-email">Sign up for our newsletter</label>
+                        <div class="input-group">
+                            <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="Enter E-mail address">
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                    <input type="text" name="b_4bd239742f3e882c22f391b7b_54d5fb590b" tabindex="-1" value="">
+                                </div>
+                            <span class="input-group-btn">
+                                <input type="submit" name="submit" class="btn btn-theme" value="Go">
+                            </span>
+                        </div>
+                    </form>
+                    
+                </div>
+                <div class="col-sm-12 col-lg-8">
+                    <nav>
+                        <div class="row footer-nav">
+                            
+                            
+                            <div class="footer-nav-section col-xs-6 col-sm-3">
+
+                                <span class="footer-section-title">Services</span>
+                                <ul class="list sub-section">
+                                    
+                                        
+                                        <li><a href="http://pei-news.pressreader.com/" target="_blank" rel="noopener noreferrer">E-Edition</a></li>
+                                        
+                                    
+                                        
+                                        <li><a href="http://www.creamcareers.ca" target="_blank" rel="noopener noreferrer">Jobs</a></li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                            
+                            
+                            
+                            
+                            
+                            <div class="footer-nav-section col-xs-6 col-sm-3">
+
+                                <span class="footer-section-title">Customer Service</span>
+                                <ul class="list sub-section">
+                                    
+                                        
+                                        <li><a href="/digital-subscription-faq">Digital Subscription FAQ</a></li>
+                                        
+                                    
+                                        
+                                        <li><a href="http://www.theguardian.pe.ca/community/the-guardian-our-history-218473/" target="_blank" rel="noopener noreferrer">Our History</a></li>
+                                        
+                                    
+                                        
+                                        <li><a href="/contact-us">Contact Us</a></li>
+                                        
+                                    
+                                        
+                                        <li><a href="http://www.theguardian.pe.ca/our-team/" target="_blank" rel="noopener noreferrer">Our Team</a></li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                            
+                            
+                            
+                            <div class="footer-nav-section col-xs-6 col-sm-3">
+
+                                <span class="footer-section-title">Terms &amp; Policies</span>
+                                <ul class="list sub-section">
+                                    
+                                        
+                                        <li><a href="http://saltwire.com/saltwire_copyright_terms.pdf" target="_blank" rel="noopener noreferrer">Copyright</a></li>
+                                        
+                                    
+                                        
+                                        <li><a href="http://saltwire.com/termsofuse.pdf" target="_blank" rel="noopener noreferrer">Terms of Use</a></li>
+                                        
+                                    
+                                        
+                                        <li><a href="http://saltwire.com/saltwire_privacy_policy.pdf" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
+                                        
+                                    
+                                        
+                                        <li><a href="/terms-and-conditions/">Terms of Service</a></li>
+                                        
+                                    
+                                        
+                                        <li><a href="/pre-authorized-debit-pad-agreement/">Pre-Authorized Debit (PAD) Agreement</a></li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <div class="footer-nav-section col-xs-6 col-sm-3">
+                                <div class="footer-e-edition">
+                                  
+                                    <a href="http://pei-news.pressreader.com/" target="_blank" rel="noopener noreferrer">
+                                      <img src="/static/dist/img/responsive-web-design.png" alt="">
+                                  
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fixed-content-wrapper sticky-footer-wrapper">
+        <div class="hidden-sm-up">
+           
+            <div id='div-gpt-ad-theguardian-banner-2'>
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-theguardian-banner-2'); });
+                </script>
+            </div>
+            
+        </div>
+    </div>
+    <div class="footer-section footer-section-3">
+        <div class="container-fluid">
+            <div class="company-info">
+                <div class="company-info-section">
+                    <a href="http://saltwire.com/" target="_blank" rel="noopener noreferrer"><img class="img-responsive footer-logo" src="/static/dist/img/network.png" width="150" alt="SaltWire Network logo"></a>
+                    <div class="open_sites"><i class="fa fa-caret-down" aria-hidden="true"></i></div>
+                    <div class="sw_sites">
+                        
+                            <a href="//www.annapoliscountyspectator.ca" class="site">
+                                <img src="/static/overrides/annapoliscountyspectator/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.capebretonpost.com" class="site">
+                                <img src="/static/overrides/capebretonpost/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.cbncompass.ca" class="site">
+                                <img src="/static/overrides/cbncompass/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.cumberlandnewsnow.com" class="site">
+                                <img src="/static/overrides/cumberlandnewsnow/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.digbycourier.ca" class="site">
+                                <img src="/static/overrides/digbycourier/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.gfwadvertiser.ca" class="site">
+                                <img src="/static/overrides/gfwadvertiser/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.gulfnews.ca" class="site">
+                                <img src="/static/overrides/gulfnews/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.hantsjournal.ca" class="site">
+                                <img src="/static/overrides/hantsjournal/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.journalpioneer.com" class="site">
+                                <img src="/static/overrides/journalpioneer/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.kingscountynews.ca" class="site">
+                                <img src="/static/overrides/kingscountynews/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.lportepilot.ca" class="site">
+                                <img src="/static/overrides/lportepilot/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.ngnews.ca" class="site">
+                                <img src="/static/overrides/ngnews/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.northernpen.ca" class="site">
+                                <img src="/static/overrides/northernpen/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.novanewsnow.com" class="site">
+                                <img src="/static/overrides/novanewsnow/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.sackvilletribunepost.com" class="site">
+                                <img src="/static/overrides/sackvilletribunepost/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.southerngazette.ca" class="site">
+                                <img src="/static/overrides/southerngazette/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.southshorebreaker.ca" class="site">
+                                <img src="/static/overrides/southshorebreaker/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.theaurora.ca" class="site">
+                                <img src="/static/overrides/theaurora/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thecasket.ca" class="site">
+                                <img src="/static/overrides/thecasket/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thecentralvoice.ca" class="site">
+                                <img src="/static/overrides/thecentralvoice/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thechronicleherald.ca" class="site">
+                                <img src="/static/overrides/thechronicleherald/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thecoastguard.ca" class="site">
+                                <img src="/static/overrides/thecoastguard/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.theguardian.pe.ca" class="site">
+                                <img src="/static/overrides/theguardian/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thelabradorvoice.ca" class="site">
+                                <img src="/static/overrides/thelabradorvoice/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thenorwester.ca" class="site">
+                                <img src="/static/overrides/thenorwester/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thepacket.ca" class="site">
+                                <img src="/static/overrides/thepacket/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thetelegram.com" class="site">
+                                <img src="/static/overrides/thetelegram/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thevanguard.ca" class="site">
+                                <img src="/static/overrides/thevanguard/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.thewesternstar.com" class="site">
+                                <img src="/static/overrides/thewesternstar/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                            <a href="//www.trurodaily.com" class="site">
+                                <img src="/static/overrides/trurodaily/dist/img/reverse-logo.png" alt="">
+                            </a>
+                        
+                    </div>
+                </div>
+                <div class="company-info-section company-links">
+                    <small>All rights reserved SaltWire Network &#169; 2019</small>
+                    <ul class="list-inline">
+                        <li><a href="https://youradchoices.ca/choices" title="AdChoices" target="_blank" rel="noopener noreferrer"><img src="/static/dist/img/adchoices.png" alt="AdChoices icon" width="15px">&nbsp;AdChoices</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+
+
+    
+        <!-- Segment Pixel -->
+        <script src="https://secure.adnxs.com/seg?add=10512682&t=1" type="text/javascript"></script>
+        <!-- End of Segment Pixel -->
+    
+
+
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59bbcdf924acfb0d"></script>
+
+<div id="parsely-root" style="display: none">
+  
+    <span id="parsely-cfg" data-parsely-site="theguardian.pe.ca"></span>
+  
+</div>
+
+
+<script>window.PARSELY={autotrack:!1,onReady:function(){var e="non-subscriber";try{e="Subscribed"==JSON.parse(localStorage.getItem("jStorage")).Connext_UserState?"subscriber":"non-subscriber"}catch(a){e="non-subscriber"}PARSELY.updateDefaults({data:{plan:e}}),PARSELY.beacon.trackPageView()}};</script>
+
+
+<script>!function(t,e,c){var o=c.location.protocol,n=e+"-script",l=c.getElementById(n),r=c.getElementById(e+"-root"),s="https:"===o?"d1z2jf7jlzjs58.cloudfront.net":"static.parsely.com";l||((l=c.createElement("script")).id=n,l.async=!0,l.src=o+"//"+s+"/p.js",r.appendChild(l))}(0,"parsely",document);</script>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    
+    "@type": "NewsArticle",
+    
+    
+    "headline": "Russian opposition leader Navalny discharged from hospital",
+    
+    "url": "/news/world/russian-opposition-leader-navalny-discharged-from-hospital-337977/",
+    "thumbnailUrl": "https://www.theguardian.pe.ca/media/photologue/photos/cache/russian-opposition-leader-navalny-discharged-from-hospital_medium",
+    "dateCreated": "2019-07-29T14:17:00+00:00",
+    "articleSection": "world",
+    
+    "creator": ["Reuters Inc."],
+    
+    
+    "keywords": ["", "LVLI", "Free"]
+    
+  }
+</script>
+
+<script src="/static/dist/js/footer-scripts.min.js"></script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+{ (i[r].q=i[r].q||[]).push(arguments)}
+,i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-33463158-1', 'auto');
+ga('send', 'pageview');
+
+/* Custom Events */
+
+ /* If in an article, fire these custom events to Google Analytics */
+  ga('send', 'event', 'Article', 'Authors', 'Reuters Inc.');
+
+ 
+  ga('send', 'event', 'Article', 'Sources', 'Reuters');
+  
+
+ 
+  ga('send', 'event', 'Article', 'Featured Media', 'Image');
+  
+
+ 
+
+  
+  ga('send', 'event', 'Article', 'Paywall Content Type', 'Free');
+  
+
+  
+  ga('send', 'event', 'Article', 'Content Matrix', 'LVLI');
+  
+
+ $.scrollDepth({ /* jQuery plugin that sends events to Google Analytics that tells it how far the user has scrolled down the page. */
+    pixelDepth: false,
+    userTiming: false
+  });
+
+
+
+</script>
+
+
+
+</body>
+
+</html>

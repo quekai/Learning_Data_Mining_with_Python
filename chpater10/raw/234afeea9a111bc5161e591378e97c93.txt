@@ -1,0 +1,384 @@
+<!doctype html><html amp i-amphtml-layout transformed="google;v=2"><head><meta charset=utf-8><style amp-runtime i-amphtml-version=011907161745080>html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}[hidden]{display:none!important}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y;touch-action:pan-y}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-webview>body{overflow-x:hidden!important;overflow-y:visible!important;min-height:100vh!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}html.i-amphtml-ios-embed-sd{overflow:hidden!important;position:static!important}html.i-amphtml-ios-embed-sd>body,html.i-amphtml-singledoc.i-amphtml-ios-embed-sd>body{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;overflow:hidden!important}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:64px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update],amp-share-tracking{display:none}.i-amphtml-jank-meter{position:fixed;background-color:rgba(232,72,95,0.5);bottom:0;right:0;color:#fff;font-size:16px;z-index:1000;padding:5px}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#202125!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .i-amphtml-loader{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input{padding:.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}@media only screen and (max-width:979px){amp-addthis[data-widget-type=floating]{position:fixed!important;width:100%!important;height:50px;bottom:0}}@media only screen and (min-width:979px){amp-addthis[data-widget-type=floating]{position:fixed!important;width:70px!important;height:320px!important;top:200px}}
+/*# sourceURL=/css/ampdoc.css*/.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][sizes]:not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic{display:inline-block;position:relative;max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]{display:block;position:relative}.i-amphtml-layout-fill,[layout=fill]:not(.i-amphtml-layout-fill){display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-moz-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*{display:none}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder]{display:block}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-loader-line{position:absolute;top:0;left:0;right:0;height:1px;overflow:hidden!important;background-color:hsla(0,0%,59.2%,0.2);display:block}.i-amphtml-loader-moving-line{display:block;position:absolute;width:100%;height:100%!important;background-color:hsla(0,0%,59.2%,0.65);z-index:2}@keyframes i-amphtml-loader-line-moving{0%{transform:translateX(-100%)}to{transform:translateX(100%)}}.i-amphtml-loader-line.amp-active .i-amphtml-loader-moving-line{animation:i-amphtml-loader-line-moving 4s ease infinite}.i-amphtml-loader{position:absolute;display:block;height:10px;top:50%;left:50%;transform:translateX(-50%) translateY(-50%);transform-origin:50% 50%;white-space:nowrap}.i-amphtml-loader.amp-active .i-amphtml-loader-dot{animation:i-amphtml-loader-dots 2s infinite}.i-amphtml-loader-dot{position:relative;display:inline-block;height:10px;width:10px;margin:2px;border-radius:100%;background-color:rgba(0,0,0,0.3);box-shadow:2px 2px 2px 1px rgba(0,0,0,0.2);will-change:transform}.i-amphtml-loader .i-amphtml-loader-dot:first-child{animation-delay:0s}.i-amphtml-loader .i-amphtml-loader-dot:nth-child(2){animation-delay:.1s}.i-amphtml-loader .i-amphtml-loader-dot:nth-child(3){animation-delay:.2s}@keyframes i-amphtml-loader-dots{0%,to{transform:scale(.7);background-color:rgba(0,0,0,0.3)}50%{transform:scale(.8);background-color:rgba(0,0,0,0.5)}}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion>section>:last-child{display:none!important}amp-accordion>section[expanded]>:last-child{display:block!important}.i-amphtml-default-placeholder{background-color:#f8f8f8}.i-amphtml-new-loader{display:inline-block;position:absolute;top:50%;left:50%}.i-amphtml-new-loader-size-default{margin-left:-36px;margin-top:-36px;width:72px;height:72px}.i-amphtml-new-loader-size-small{margin-left:-24px;margin-top:-24px;width:48px;height:48px}.i-amphtml-new-loader-logo{transform-origin:60px 60px;opacity:0;animation:i-amphtml-new-loader-scale-and-fade-in 0.8s ease-in 0.6s forwards,i-amphtml-new-loader-fade-out 0.8s ease-out 1.8s forwards}.i-amphtml-new-loader-spinner{transform-origin:60px 60px;opacity:0;fill:transparent;stroke:#aaa;stroke-width:1.5px;animation:i-amphtml-new-loader-fade-in 0.8s ease-in 1.8s forwards}.i-amphtml-new-loader-size-default .i-amphtml-new-loader-spinner{stroke-dasharray:36 118;stroke-dashoffset:52}.i-amphtml-new-loader-size-small .i-amphtml-new-loader-spinner{stroke-dasharray:18 59;stroke-dashoffset:26;animation-delay:0.8s}.i-amphtml-new-loader-spinner-segment{transform-origin:60px 60px;animation:forwards 0.6s cubic-bezier(0.5,0,0.8,1) 2.8s none,forwards 1.2s linear 3.4s infinite none}.i-amphtml-new-loader-size-default .i-amphtml-new-loader-spinner-segment{r:22}.i-amphtml-new-loader-size-small .i-amphtml-new-loader-spinner-segment{r:11}.i-amphtml-new-loader-spinner-segment:first-child{transform:rotate(90deg);animation-name:i-amphtml-new-loader-first-spin-1,i-amphtml-new-loader-spin-1}.i-amphtml-new-loader-spinner-segment:nth-child(2){transform:rotate(180deg);animation-name:i-amphtml-new-loader-first-spin-2,i-amphtml-new-loader-spin-2}.i-amphtml-new-loader-spinner-segment:nth-child(3){transform:rotate(270deg);animation-name:i-amphtml-new-loader-first-spin-3,i-amphtml-new-loader-spin-3}.i-amphtml-new-loader-spinner-segment:nth-child(4){animation-name:i-amphtml-new-loader-first-spin-4,none}.i-amphtml-new-loader *{animation-play-state:paused}.i-amphtml-new-loader.amp-active *{animation-play-state:running}@keyframes i-amphtml-new-loader-spin-1{0%{transform:rotate(0deg)}50%{transform:rotate(90deg)}to{transform:rotate(360deg)}}@keyframes i-amphtml-new-loader-spin-2{0%{transform:rotate(0deg)}to{transform:rotate(360deg)}}@keyframes i-amphtml-new-loader-spin-3{0%{transform:rotate(0deg)}50%{transform:rotate(270deg)}to{transform:rotate(360deg)}}@keyframes i-amphtml-new-loader-first-spin-1{0%{transform:rotate(90deg)}to{transform:rotate(360deg)}}@keyframes i-amphtml-new-loader-first-spin-2{0%{transform:rotate(180deg)}to{transform:rotate(360deg)}}@keyframes i-amphtml-new-loader-first-spin-3{0%{transform:rotate(270deg)}to{transform:rotate(360deg)}}@keyframes i-amphtml-new-loader-first-spin-4{0%{transform:rotate(0deg)}99%{opacity:1}to{transform:rotate(360deg);opacity:0}}@keyframes i-amphtml-new-loader-fade-in{0%{opacity:0}to{opacity:1}}@keyframes i-amphtml-new-loader-fade-out{0%{opacity:1}to{opacity:0}}@keyframes i-amphtml-new-loader-scale-and-fade-in{0%{opacity:0;transform:scale(0)}50%{transform:scale(1)}to{opacity:1}}
+/*# sourceURL=/css/ampshared.css*/</style><meta content="IE=Edge" http-equiv=X-UA-Compatible><meta content="width=device-width,minimum-scale=1,initial-scale=1" name=viewport><meta content="OMG! Massive Dinosaur bone found in France: Details inside" itemprop=name><meta content="Paleontologists have unearthed a 140-million-year-old dinosaur bone, 6.5 feet in length, weighing 1,100 pounds in southwestern France. The thigh bone of the largest animal was discovered in Charente." itemprop=description><meta content=https://cdn7.newsnation.in/images/2019/07/28/dinosaurbone-1000_6.jpg itemprop=image><meta content="OMG! Massive Dinosaur bone found in France: Details inside" property=og:title><meta content="Paleontologists have unearthed a 140-million-year-old dinosaur bone, 6.5 feet in length, weighing 1,100 pounds in southwestern France. The thigh bone of the largest animal was discovered in Charente." property=og:description><meta content=article property=og:type><meta content=https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-232172.html property=og:url><meta content="News Nation" property=og:site_name><meta content=https://cdn7.newsnation.in/images/2019/07/28/dinosaurbone-1000_6.jpg property=og:image><meta content=2019-07-28T11:34:10+05:30 property=og:updated_time><meta content=summary name=twitter:card><meta content="News Nation" name=twitter:site><meta content="OMG! Massive Dinosaur bone found in France: Details inside" name=twitter:title><meta content="Paleontologists have unearthed a 140-million-year-old dinosaur bone, 6.5 feet in length, weighing 1,100 pounds in southwestern France. The thigh bone of the largest animal was discovered in Charente." name=twitter:description><meta content=https://cdn7.newsnation.in/images/2019/07/28/dinosaurbone-1000_6.jpg name=twitter:image:src><meta content=https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-232172.html name=twitter:url><meta content=noindex name=robots><meta content=no-referrer-when-downgrade name=referrer><meta content=newsnation.in name=amp-cookie-scope><link as=script href=https://cdn.ampproject.org/rtv/011907161745080/v0.js rel=preload><script async src=https://cdn.ampproject.org/rtv/011907161745080/v0.js></script><script async custom-element=amp-ad-network-doubleclick-impl src=https://cdn.ampproject.org/rtv/011907161745080/v0/amp-ad-network-doubleclick-impl-0.1.js></script><script async src=https://cdn.ampproject.org/rtv/011907161745080/v0/amp-viewer-integration-0.1.js></script><script async custom-element=amp-ad src=https://cdn.ampproject.org/rtv/011907161745080/v0/amp-ad-0.1.js></script><script async custom-element=amp-analytics src=https://cdn.ampproject.org/rtv/011907161745080/v0/amp-analytics-0.1.js></script><script async custom-element=amp-bind src=https://cdn.ampproject.org/rtv/011907161745080/v0/amp-bind-0.1.js></script><script async custom-element=amp-iframe src=https://cdn.ampproject.org/rtv/011907161745080/v0/amp-iframe-0.1.js></script><link href=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/favicon.ico rel=icon type=image/x-icon><link crossorigin href=https://fonts.gstatic.com/ rel="dns-prefetch preconnect"><link href=https://cdn5-newsnation-in.cdn.ampproject.org rel="dns-prefetch preconnect"><link href=https://cdn6-newsnation-in.cdn.ampproject.org rel="dns-prefetch preconnect"><link href=https://cdn7-newsnation-in.cdn.ampproject.org rel="dns-prefetch preconnect"><link href=https://static-newsnation-in.cdn.ampproject.org rel="dns-prefetch preconnect"><link href="https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,400italic,500,700,700italic,900,900italic" rel=stylesheet type=text/css><link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,700,300" rel=stylesheet type=text/css><link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel=stylesheet type=text/css><style amp-custom>
+      body{margin:0;font-family:Arial,Helvetica,sans-serif,"Myriad Hebrew"}
+      .main-body{background:#fff;max-width:100%;margin:0 auto;overflow-x:hidden}
+      a{text-decoration:none;cursor:pointer;color:#005689}
+      p{font-family:Verdana,Geneva,sans-serif;font-size:16px;line-height:20px;color:#6f757a;margin-bottom:0;padding:0}
+      .breadcrumbs{line-height:30px;margin-left:5px}
+      .breadcrumbs a{padding-right:8px;color:#bf0101;font-size:12px;font-weight:700}
+      .breadcrumbs a:after{content:'>';width:0;height:0;padding-left:10px}
+      .breadcrumbs a:last-child:after{content:''}
+      .reportedBy{float:left}
+      .reportedBy p{font-family:Verdana,Geneva,sans-serif;padding:0;font-size:12px;line-height:15px;color:#444;margin-bottom:0}
+      .reportedBy p a{font-weight:700}
+      .reportedBy span{padding:0 3px 0 0;color:#a8a3ae;font-size:11px}
+      .ad-container{display:flex;justify-content:center;margin:20px 0 0}
+      header{float:left;width:100%}
+      .brand-logo{float:left;margin-right:20px}
+      header ul{list-style:none;padding:0;margin:0;float:left}
+      header ul li{display:inline-block;line-height:40px}
+      header ul li a{font-size:14px;margin:0 6px;color:#002f65;text-transform:uppercase;font-weight:700}
+      .nav_icon{float:right}
+      .nav_icon amp-img{margin-top:9px}
+      amp-sidebar li{width:100%;border-bottom:1px solid #CCC;padding:7px 0;display:inline-block}
+      .amp-close-image{float:right;width:100%;border:1px solid #000;margin:5px 5px 0 0}
+      figure{margin:10px 0;float:left;width:100%}
+      .article-body{padding:15px 0;font-family:"Noto Sans Devanagari",calibri,arial,sans-serif;line-height:24px;font-size:16px;text-align:left}
+      .article-body p{margin-bottom:15px;color:#010101;margin-top:0;line-height:24px;font-size:16px;text-align:left}
+      .article-body p:first-child{float:left;margin-bottom:0}
+      .article-body p:first-child strong{color:#bf0101;margin-right:5px}
+      .article-body span{font-size:11px;color:#9e9e9e}
+      .header-time{color:#444;font-size:11px}
+      .ampstart-btn{width:43px;height:35px;border:0;background:none}
+      .amp-social{width:99%;float:left;margin:5px 10px}
+      .content-container{float:left;width:99%;margin:10px}
+      #logo{margin-bottom:0;float:left;margin-left:10px}
+      #logo img{display:block;margin:auto;height:30px}
+      #menu{width:100%;text-align:center;padding:10px 0;background:#dcdeea}
+      #menu span{padding:0 10px;border-right:1px solid #fff;line-height:22px}
+      #menu span a{text-decoration:none;font-weight:700;color:#000;text-shadow:1px 1px #f5f5f5;font-size:14px}
+      .top{width:100%;clear:both;float:left;border-bottom:2px solid #b40001;padding:10px 0 5px}
+      .dropbtn{background-color:none;color:#fff;padding:5px 5px 3px;border:none;cursor:pointer}
+      .dropbtn:hover,.dropbtn:focus{background-color:#f1f1f1}
+      .dropdown{position:relative;display:inline-block}
+      #myDropdown{position:absolute;right:0;top:30px;z-index:100}
+      #myDropdown ul{border:1px solid #ccc;background:#fff}
+      #myDropdown li{width:100%;padding:0 10px;border-bottom:1px solid #ccc}
+      .megamenu-item{display:none;position:absolute;right:0;background-color:#f1f1f1;min-width:270px;box-shadow:0 8px 16px 0 rgba(0,0,0,0.2);z-index:1}
+      .megamenu-item a{color:#000;padding:12px 16px;text-decoration:none;display:block;float:left;width:102px;border-right:1px solid #fff;border-bottom:1px solid #fff;font-size:16px;font-weight:700}
+      .megamenu-item a:last-child{border-right:0}
+      .megamenu-item a:hover{background-color:#ddd}
+      .show{display:block}
+      .mr10{margin-right:10px}
+      .blinker{color:#002f65;animation:blink 1s steps(2,start) infinite}
+      @keyframes blink {
+        to{color:red}
+      }
+      h1{font-weight:400;font-family:"Noto Sans Devanagari",calibri,arial,sans-serif;float:left;margin:10px 0}
+      footer{display:flex;align-items:center;justify-content:center;float:left;width:100%}
+      .footer-links ul{list-style-type:none;padding:10px;text-align:left;float:left;width:87%;margin:0}
+      .footer-links ul li{font-size:13px;display:inline-block}
+      .footer-links ul li a{color:#fff;padding-right:8px;font-family:Verdana,Geneva,sans-serif}
+      .footer-links ul li a:after{content:'|';width:0;height:0;padding-left:10px}
+      .footer-links ul li:last-child a:after{display:none}
+      .footer-links .copyrite{font-size:11px;color:#000;padding:10px 0;font-family:Verdana,Geneva,sans-serif}
+      hr{margin:0}
+      .related_content a{color:#000}
+      .logotitle a{color:#FFF}
+      .logotitle{color:#FFF;position:absolute;padding:26px 19px;border-left:1px solid #000;margin-left:20px}
+      .heading{padding:0 5px;color:#000;font-family:Verdana,Geneva,sans-serif;font-size:21px;line-height:28px;font-weight:700}
+      .socialicons{text-align:right;float:right}
+      .socialicons a{display:inline-block;float:left}
+      .socialicons amp-img{border:none}
+      .more_story{float:left;width:97%}
+      .more_story h1{padding-top:15px;font-weight:700;border-bottom:2px solid #666;font-size:25px}
+      .related_media{width:26%;float:left;height:auto;padding:0 10px 0 0}
+      .related_box{float:left;width:100%;margin-bottom:12px;padding-bottom:10px;border-bottom:1px solid #eaeaea}
+      .related_content{float:left;width:71%;margin-top:-4px}
+      .related_content p{padding:0;font-size:15px;text-align:left;font-weight:700;line-height:22px;width:100%}
+      @media only screen and (max-width : 320px) {
+        .related_media{width:34%}
+        .related_box{padding:0;margin-top:10px}
+        .logotitle{margin-left:10px}
+        .socialicons a{padding-left:0}
+        .related_content{float:left;width:61%;padding-top:0}
+        .article-body span{display:none}
+      }
+      .copyrite{text-align:center;color:#000;float:left;width:100%}
+      ._copyrite{color:#666}
+      .footer-links{width:100%}
+      #uptoggle{float:right;padding:0 10px;cursor:pointer}
+      #uptoggle amp-img{display:block;background-color:inherit}
+      .brand-logo amp-img{background-color:inherit}
+      .footer-links{position:relative;font-family:Arial,Helvetica,sans-serif,"Myriad Hebrew"}
+      #uptoggle{position:absolute;right:0;bottom:0}
+      .byline{display:inline}
+      .fr{float:right}
+      .fl{float:left}
+      .adn{width:100%;float:left;margin:10px 0;margin:0 auto;text-align:center}
+      .megamenu-item .dropdpwn-links{display:none}
+      .mvbg{background:#f1f1f1;margin:0 20px 20px 0;float:left}
+      .megamenu-item.show .dropdpwn-links{display:block}
+      .live-head{background:#888;padding:10px;color:#fff;font-size:25px;line-height:35px;margin-top:20px;width:99%}
+      .live-rep{font-size:18px;color:#000;margin:20px 10px 0;font-weight:700}
+              .error5x{margin:0px auto;text-align:center;color:#4f4f4f;vertical-align:middle;font-weight:400;}
+        .message{font-size:8vw; font-weight:700;color:#c20201;font-family:arial; margin:50px 0px}
+        .message span{color:#004488}
+        .fa-frown-o{color:#000000}
+        .error5x-2{vertical-align:middle;font-size:2vw}
+        .error5x-2 a{color:#0048a2;font-size:1.5vw}
+        .error5x-2 a:hover{color:#c20201}
+        .vido li{border-bottom:1px solid #efefef;padding-bottom:15px;margin-bottom:15px;}
+        .pull-left{float:left;}
+        .mb10 {margin-bottom: 10px;}.w100p {width: 100%;}
+        ul, li {list-style: none;padding: 0;margin: 0;}
+        @media screen and (min-width:768px){ li.w100p.mb10.pull-left{width: 19%;margin-right: 1%;} .error5x-2 a{font-size:1.5vw} }
+        @media screen and (max-width:767px){ .error5x-2 a {font-size: 4.5vw;} }
+          </style><title>OMG! Giant Dinosaur bone found in France: Details inside  | News Nation</title><link href=https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html rel=canonical><script type=application/ld+json>
+      { "@context": "http://schema.org","@type": "WebSite",
+      "url": "https://www.newsnation.in", "potentialAction": {
+      "@type": "SearchAction", "target": "https://www.newsnation.in/search/={search_term}", "query-input": "required name=search_term"
+      } }
+    </script><script type=application/ld+json>
+      {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "OMG! Massive Dinosaur bone found in France: Details inside ",
+      "description": "Paleontologists have unearthed a 140-million-year-old dinosaur bone, 6.5 feet in length, weighing 1,100 pounds in southwestern France. The thigh bone of the largest animal was discovered in Charente.",
+      "url" : "https://www.newssnation.in",
+      "publisher": {
+      "@type": "Organization",
+      "name": "News Nation",
+      "logo": {
+      "@type": "ImageObject",
+      "url": "https://static.newsnation.in/images/nn-logo.png",
+      "width": 175,
+      "height": 91
+      }
+      }
+      }
+    </script><script type=application/ld+json>{
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "headline": "OMG! Massive Dinosaur bone found in France: Details inside ",
+      "alternativeHeadline": "Massive Dinosaur bone found in France: Details inside ",
+      "alternateName": "OMG! Massive Dinosaur bone found in France: Details inside ",
+      "author": "News Nation Bureau ",
+      "datePublished": "2019-07-28T10:45:57+05:30",
+      "dateModified": "2019-07-28T11:34:10+05:30",
+      "mainEntityOfPage": "https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html",
+      "articleSection": "science news",
+      "description": "Paleontologists have unearthed a 140-million-year-old dinosaur bone, 6.5 feet in length, weighing 1,100 pounds in southwestern France. The thigh bone of the largest animal was discovered in Charente.",
+      "articleBody": "Dinosaurs existed on the&amp;nbsp;Earth existed during the Triassic period, between 243 and 233.23 million years ago. Although, the exact origin and timing of the evolution of dinosaurs is the subject of active research. Recently, Paleontologists have unearthed a 140-million-year-old Dinosaur bone, 6.5 feet in length, weighing 1,100 pounds in southwestern France. The thigh bone of the largest animal was discovered in Charente. &amp;nbsp;
+Soon after the discovery, Scientists hailed it as a &quot;major discovery&quot;. In an interview with Reuters, Ronan Allain, a paleontologist at the National History Museum of Paris said that this is a major discovery. &amp;ldquo;I was especially amazed by the state of preservation of that femur,&amp;rdquo; he added.
+Also Read:&amp;nbsp;Asteroid explodes over Canada, NASA analyses stunning video: Details inside
+&quot;These are animals that probably weighed 40 to 50 tonnes.&quot; Allain told France's Le Parisien newspaper that, as well as the bone's size, its state of preservation was also impressive. &quot;We can see the insertions of muscles and tendons and scars. This is rare for big pieces which tend to collapse in on themselves and fragment,&quot; he added.
+Also Read:&amp;nbsp;WATCH VIDEO: NASA&amp;rsquo;s TESS mission finds 21 new planets in first year outside our solar system
+Coming back to the two-metre-long femur, it was found by French palaeontologists at an excavation site in the southwest of the country where remains of some of the largest animals that ever lived on land have been dug up in recent years.
+The massive bone was found in a thick layer of clay. According to the experts, the bone belongs to sauropod, a plant-eating dinosaur with a long neck and tail, which was widespread in the late Jurassic era - more than 140 million years ago. Interestingly, a large pelvic bone was also found nearby.
+It is worth mentioning here that over 7,500 fossils of more than 40 different species has been discovered since 2010 in Charente.&amp;nbsp;&amp;nbsp;
+RELATED",
+      "keywords": "Dinosaur, France, giant bone, massive bone, palaeontologists, excavation site, largest animal, dinosaurs",
+      "image": {
+      "@type": "imageObject",
+      "url": "https://cdn7.newsnation.in/images/2019/07/28/dinosaurbone-1000_6.jpg",
+      "height": "400",
+      "width": "300"
+      },
+      "publisher": {
+      "@type": "Organization",
+      "name": "News Nation",
+      "logo": {
+      "@type": "imageObject",
+      "url": "https://static.newsnation.in/images/nn-logo.png",
+      "height": "60",
+      "width": "600"
+      }
+      }
+      }
+    </script><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript></head><body>
+    
+  <amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed id=analytics1 style=width:1px;height:1px; type=googleanalytics>
+    <script type=application/json>
+      {
+      "vars": {
+      "account": "UA-37576981-1"
+      },
+      "triggers": {
+      "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+      }
+      }
+      }
+    </script>
+  </amp-analytics>
+  
+  
+  <amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:1px;height:1px; type=comscore>
+    <script type=application/json>
+      {
+      "vars": {"c2": "22071971"},
+      "extraUrlParams": {"comscorekw": "amp"}
+      }
+    </script>
+  </amp-analytics>
+  
+    <div class=main-body>
+    <header>
+      <div class=top>
+        <div id=logo> <a href=https://www.newsnation.in/ target=_top><amp-img alt="NEWS NATION" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=45 i-amphtml-layout=fixed src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/newsnation-logo.png srcset="https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/newsnation-logo.png 1x" style=width:72px;height:45px; width=72></amp-img></a></div>
+        <div class="fr mr10">
+          <a href=https://www.newsnation.in/live-tv target=_top><amp-img class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=27 i-amphtml-layout=fixed src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/live.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/live.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w68/s/static.newsnation.in/images/live.png 68w, https://static-newsnation-in.cdn.ampproject.org/ii/w100/s/static.newsnation.in/images/live.png 100w" style=width:29px;height:27px; width=29></amp-img></a>Â Â Â Â Â Â 
+          <div style=position:relative;display:inline-block;>
+            <button class=dropbtn on="tap:AMP.setState({item1: !item1,item2:megamenu-item,item3:megamenu-item})" role=button tabindex=0><amp-img class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=15 i-amphtml-layout=fixed src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/menu-ico.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/menu-ico.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w47/s/static.newsnation.in/images/menu-ico.png 47w, https://static-newsnation-in.cdn.ampproject.org/ii/w68/s/static.newsnation.in/images/menu-ico.png 68w" style=width:20px;height:15px; width=20></amp-img></button>
+            <div [class]="item1 ? &#39;show&#39; : &#39;megamenu-item&#39;" class="dropdown-content megamenu-item" id=myDropdown>
+              <div class=dropdpwn-links id=sidebar>
+                <ul>
+                  <li><a href=https://www.newsnation.in/ target=_top title="Home News">Home</a></li>
+                  <li><a href=https://www.newsnation.in/election target=_top>Election 2019</a></li>
+                  <li><a href=https://www.newsnation.in/india-news target=_top title="India News">India</a></li>
+                  <li><a href=https://www.newsnation.in/photos target=_top title=Photos>Photos</a></li>
+                  <li><a href=https://www.newsnation.in/videos target=_top title=Videos>Videos</a></li>
+                  <li><a href=https://www.newsnation.in/world-news target=_top title="World News">World</a></li>
+                  <li><a href=https://www.newsnation.in/sports-news target=_top title="Sports News">Sports</a></li>
+                  <li><a href=https://www.newsnation.in/entertainment target=_top title=Entertainment>Entertainment</a></li>
+                  <li><a href=https://www.newsnation.in/business-news target=_top title="Business News">Business</a></li>
+                  <li><a href=https://www.newsnation.in/technology target=_top title=Technology>Technology</a></li>
+                  <li><a href=https://www.newsnation.in/cities target=_top title=Cities>Cities</a></li>
+                  <li><a href=https://www.newsnation.in/lifestyle target=_top title=Lifestyle>Lifestyle</a></li>
+                  <li><a href=https://www.newsnation.in/sports-news/cricket-news target=_top title="Cricket News">Cricket</a></li>
+                  <li><a href=https://www.newsnation.in/auto-news target=_top title="Auto News">Auto</a></li>
+                  <li><a href=https://www.newsnation.in/science-news target=_top title="Science News">Science</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main role=main>
+      <article role=main>
+        
+        
+        
+        
+        
+                  <h1 class=heading>OMG! Massive Dinosaur bone found in France: Details inside</h1>
+          <div class=amp-social>
+            <div class=reportedBy>
+              <div class=byline itemscope itemtype=https://schema.org/Person><span>By:</span> <span>News Nation Bureau</span></div>
+              <br> <span>Last Updated:</span>
+              <time class=header-time datetime="2019-07-28 11:34:10 ">Sunday, 28 July 2019 11:34 AM </time>
+            </div>
+            <div class="socialicons fr"> <a href="https://www.facebook.com/share.php?u=https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html&amp;title=OMG!%20Massive%20Dinosaur%20bone%20found%20in%20France:%20Details%20inside" target=_top>
+                <amp-img alt=Facebook class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed placeholder src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/fb-icon.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/fb-icon.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w68/s/static.newsnation.in/images/fb-icon.png 68w, https://static-newsnation-in.cdn.ampproject.org/ii/w100/s/static.newsnation.in/images/fb-icon.png 100w" style=width:32px;height:32px; width=32></amp-img>
+              </a> <a href="https://twitter.com/home?status=OMG!%20Massive%20Dinosaur%20bone%20found%20in%20France:%20Details%20inside+https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html" target=_top>
+                <amp-img alt=Twitter class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed placeholder src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/twitter-icon.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/twitter-icon.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w68/s/static.newsnation.in/images/twitter-icon.png 68w, https://static-newsnation-in.cdn.ampproject.org/ii/w100/s/static.newsnation.in/images/twitter-icon.png 100w" style=width:32px;height:32px; width=32></amp-img></a> <a href="https://plus.google.com/share?url=https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html" target=_top>
+                <amp-img alt="Google Plus" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed placeholder src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/google-plus-icon.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/google-plus-icon.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w68/s/static.newsnation.in/images/google-plus-icon.png 68w, https://static-newsnation-in.cdn.ampproject.org/ii/w100/s/static.newsnation.in/images/google-plus-icon.png 100w" style=width:32px;height:32px; width=32></amp-img>
+              </a> <a href="whatsapp://send?text=OMG! Massive Dinosaur bone found in France: Details inside - https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html" target=_top>
+                <amp-img alt=Whatsapp class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed placeholder src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/whatsapp-icon.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/whatsapp-icon.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w68/s/static.newsnation.in/images/whatsapp-icon.png 68w, https://static-newsnation-in.cdn.ampproject.org/ii/w100/s/static.newsnation.in/images/whatsapp-icon.png 100w" style=width:32px;height:32px; width=32></amp-img></a> </div>
+          </div>
+          <figure>
+            <amp-img alt class="full-bleed i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=216 i-amphtml-layout=responsive layout=responsive placeholder src=https://cdn7-newsnation-in.cdn.ampproject.org/i/s/cdn7.newsnation.in/images/2019/07/28/dinosaurbone-1000_6.jpg srcset="https://cdn7-newsnation-in.cdn.ampproject.org/ii/w390/s/cdn7.newsnation.in/images/2019/07/28/dinosaurbone-1000_6.jpg 390w, https://cdn7-newsnation-in.cdn.ampproject.org/ii/w820/s/cdn7.newsnation.in/images/2019/07/28/dinosaurbone-1000_6.jpg 820w, https://cdn7-newsnation-in.cdn.ampproject.org/ii/w1200/s/cdn7.newsnation.in/images/2019/07/28/dinosaurbone-1000_6.jpg 1200w" width=360><i-amphtml-sizer style=display:block;padding-top:60.0000%;></i-amphtml-sizer> </amp-img>
+          </figure>
+                <div class=adn>
+          <amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/133005217/Newsnation_Mobile_Right_BTF_300x250 height=250 i-amphtml-layout=fixed style=width:300px;height:250px; type=doubleclick width=300></amp-ad>
+        </div>
+        <div class=content-container>
+                      <div class=article-body>
+                            <p><strong>New Delhi: </strong>
+                </p><p>Dinosaurs existed on theÂ <a href=https://www.newsnation.in/science-news/asteroids-vs-meteoroids-vs-comets-why-three-celestial-bodies-can-be-hard-to-identify-article-231571.html target=_top>Earth</a> existed during the Triassic period, between 243 and 233.23 million years ago. Although, the exact origin and timing of the evolution of dinosaurs is the subject of active research. Recently, Paleontologists have unearthed a 140-million-year-old Dinosaur bone, 6.5 feet in length, weighing 1,100 pounds in southwestern France. The thigh bone of the largest animal was discovered in Charente. Â </p>
+<p>Soon after the discovery, Scientists hailed it as a &#34;major discovery&#34;. In an interview with Reuters, Ronan Allain, a paleontologist at the National History Museum of Paris said that this is a major discovery. âI was especially amazed by the state of preservation of that femur,â he added.</p>
+<p>Also Read:Â <a href=https://www.newsnation.in/science-news/asteroid-2019-news-earth-asteroid-explodes-video-nasa-canada-space-rock-video-article-232073.html target=_top>Asteroid explodes over Canada, NASA analyses stunning video: Details inside</a></p>
+<p>&#34;These are animals that probably weighed 40 to 50 tonnes.&#34; Allain told France&#39;s Le Parisien newspaper that, as well as the bone&#39;s size, its state of preservation was also impressive. &#34;We can see the insertions of muscles and tendons and scars. This is rare for big pieces which tend to collapse in on themselves and fragment,&#34; he added.</p>
+<p>Also Read:Â <a href=https://www.newsnation.in/science-news/nasas-tess-mission-finds-21-new-planets-in-first-year-outside-our-solar-system-video-article-232152.html target=_top>WATCH VIDEO: NASAâs TESS mission finds 21 new planets in first year outside our solar system</a></p>
+<p>Coming back to the two-metre-long femur, it was found by French palaeontologists at an excavation site in the southwest of the country where remains of some of the largest animals that ever lived on land have been dug up in recent years.</p>
+<p>The massive bone was found in a thick layer of clay. According to the experts, the bone belongs to sauropod, a plant-eating dinosaur with a long neck and tail, which was widespread in the late Jurassic era - more than 140 million years ago. Interestingly, a large pelvic bone was also found nearby.</p>
+<p>It is worth mentioning here that over 7,500 fossils of more than 40 different species has been discovered since 2010 in Charente.Â Â </p>
+<p>RELATED</p>              <p></p>
+                            <div class=amp-social>
+                <div class="reportedBy fl"> <span>First Published:</span><br>
+                  <time class=header-time datetime="Sunday, July 28, 2019 10:45 AM">Sunday, July 28, 2019 10:45 AM</time>
+                </div>
+                <div class="socialicons fr"> <a href="https://www.facebook.com/share.php?u=https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html&amp;title=OMG!%20Massive%20Dinosaur%20bone%20found%20in%20France:%20Details%20inside" target=_top>
+                    <amp-img alt=Facebook class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed placeholder src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/fb-icon.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/fb-icon.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w68/s/static.newsnation.in/images/fb-icon.png 68w, https://static-newsnation-in.cdn.ampproject.org/ii/w100/s/static.newsnation.in/images/fb-icon.png 100w" style=width:32px;height:32px; width=32></amp-img> </a> <a href="https://twitter.com/home?status=OMG!%20Massive%20Dinosaur%20bone%20found%20in%20France:%20Details%20inside+https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html" target=_top>
+                    <amp-img alt=Twitter class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed placeholder src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/twitter-icon.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/twitter-icon.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w68/s/static.newsnation.in/images/twitter-icon.png 68w, https://static-newsnation-in.cdn.ampproject.org/ii/w100/s/static.newsnation.in/images/twitter-icon.png 100w" style=width:32px;height:32px; width=32></amp-img>
+                  </a> <a href="https://plus.google.com/share?url=https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html" target=_top>
+                    <amp-img alt="Google Plus" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed placeholder src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/google-plus-icon.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/google-plus-icon.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w68/s/static.newsnation.in/images/google-plus-icon.png 68w, https://static-newsnation-in.cdn.ampproject.org/ii/w100/s/static.newsnation.in/images/google-plus-icon.png 100w" style=width:32px;height:32px; width=32></amp-img>
+                  </a> <a href="whatsapp://send?text=OMG! Massive Dinosaur bone found in France: Details inside - https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html" target=_top>
+                    <amp-img alt=Whatsapp class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed placeholder src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/whatsapp-icon.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/whatsapp-icon.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w68/s/static.newsnation.in/images/whatsapp-icon.png 68w, https://static-newsnation-in.cdn.ampproject.org/ii/w100/s/static.newsnation.in/images/whatsapp-icon.png 100w" style=width:32px;height:32px; width=32></amp-img>
+                  </a> </div>
+              </div>
+              <div class=adn>
+                <amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/133005217/Newsnation_Desktop_RightATF_AP_300x250 height=250 i-amphtml-layout=fixed style=width:300px;height:250px; type=doubleclick width=300></amp-ad>
+                
+                <div>
+                  <amp-embed class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-article=auto data-mode=thumbnails-a-amp data-placement="Below Article Thumbnails AMP" data-publisher=newsnation-newsnation data-target_type=mix data-url height=100 heights="(min-width:780px) 64%, (min-width:480px) 98%, (min-width:460px) 167%, 196%" i-amphtml-layout=responsive layout=responsive type=taboola width=100><i-amphtml-sizer style=display:block;padding-top:100.0000%;></i-amphtml-sizer>
+                  </amp-embed>
+                </div>
+                
+                
+                                  <div>
+                    <div class=more_story>
+                      <h1>Top News</h1>
+                                                <div class=related_box>
+                            <div class=related_media><a href=https://www.newsnation.in/amp/crime-news/breaking-unnao-rape-victim-accident-up-police-decides-to-hand-over-probe-to-cbi-kuldeep-singh-sengar-232396.html target=_top>
+                                <amp-img alt class="full-bleed i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=140 i-amphtml-layout=responsive layout=responsive placeholder src=https://cdn5-newsnation-in.cdn.ampproject.org/i/s/cdn5.newsnation.in/images/car-1000_1.jpg width=199><i-amphtml-sizer style=display:block;padding-top:70.3518%;></i-amphtml-sizer></amp-img>
+                              </a> </div>
+                            <div class=related_content>
+                              <p><a href=https://www.newsnation.in/amp/crime-news/breaking-unnao-rape-victim-accident-up-police-decides-to-hand-over-probe-to-cbi-kuldeep-singh-sengar-232396.html target=_top> Unnao rape victim&#39;s accident: UP Police decides to hand over probe to CBI</a></p>
+                              <span>Tuesday, 30 July 2019 12:28 AM  </span> </div>
+                          </div>
+                                                    <div class=related_box>
+                            <div class=related_media><a href=https://www.newsnation.in/amp/india-news/breaking-government-to-move-triple-talaq-bill-in-rajya-sabha-tomorrow-ani-232383.html target=_top>
+                                <amp-img alt class="full-bleed i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=140 i-amphtml-layout=responsive layout=responsive placeholder src=https://cdn7-newsnation-in.cdn.ampproject.org/i/s/cdn7.newsnation.in/images/tripletalaq-1000_1.jpg width=199><i-amphtml-sizer style=display:block;padding-top:70.3518%;></i-amphtml-sizer></amp-img>
+                              </a> </div>
+                            <div class=related_content>
+                              <p><a href=https://www.newsnation.in/amp/india-news/breaking-government-to-move-triple-talaq-bill-in-rajya-sabha-tomorrow-ani-232383.html target=_top> Government to move Triple Talaq Bill in Rajya Sabha today: Report</a></p>
+                              <span>Tuesday, 30 July 2019 12:09 AM  </span> </div>
+                          </div>
+                                                    <div class=related_box>
+                            <div class=related_media><a href=https://www.newsnation.in/amp/sports-news/cricket-news/it-is-an-exciting-opportunity-for-those-stepping-in-for-the-first-time-virat-kohli-ahead-of-west-indies-tour-232367.html target=_top>
+                                <amp-img alt class="full-bleed i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=140 i-amphtml-layout=responsive layout=responsive placeholder src=https://cdn6-newsnation-in.cdn.ampproject.org/i/s/cdn6.newsnation.in/images/vk-1000_1.jpeg width=199><i-amphtml-sizer style=display:block;padding-top:70.3518%;></i-amphtml-sizer></amp-img>
+                              </a> </div>
+                            <div class=related_content>
+                              <p><a href=https://www.newsnation.in/amp/sports-news/cricket-news/it-is-an-exciting-opportunity-for-those-stepping-in-for-the-first-time-virat-kohli-ahead-of-west-indies-tour-232367.html target=_top> No rift in team India, says skipper Virat Kohli on reports of differences between him and Rohit</a></p>
+                              <span>Monday, 29 July 2019 07:06 PM  </span> </div>
+                          </div>
+                                                    <div class=related_box>
+                            <div class=related_media><a href=https://www.newsnation.in/amp/entertainment/bollywood-news/sunny-deol-rescues-woman-from-kuwait-who-was-sold-as-slave-dharmendra-hails-son-232376.html target=_top>
+                                <amp-img alt class="full-bleed i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=140 i-amphtml-layout=responsive layout=responsive placeholder src=https://cdn7-newsnation-in.cdn.ampproject.org/i/s/cdn7.newsnation.in/images/2019/07/29/dharmendrasunny-1000_1.jpg width=199><i-amphtml-sizer style=display:block;padding-top:70.3518%;></i-amphtml-sizer></amp-img>
+                              </a> </div>
+                            <div class=related_content>
+                              <p><a href=https://www.newsnation.in/amp/entertainment/bollywood-news/sunny-deol-rescues-woman-from-kuwait-who-was-sold-as-slave-dharmendra-hails-son-232376.html target=_top> Sunny Deol rescues woman from Kuwait who was sold as slave, Dharmendra hails son</a></p>
+                              <span>Monday, 29 July 2019 08:10 PM  </span> </div>
+                          </div>
+                                                    <div class=related_box>
+                            <div class=related_media><a href=https://www.newsnation.in/amp/india-news/rpf-officer-who-issued-controversial-letter-about-deteriorating-situation-in-jammu-and-kashmir-transferred-232379.html target=_top>
+                                <amp-img alt class="full-bleed i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=140 i-amphtml-layout=responsive layout=responsive placeholder src=https://cdn6-newsnation-in.cdn.ampproject.org/i/s/cdn6.newsnation.in/images/2019/07/29/kashmir-1000_1.jpg width=199><i-amphtml-sizer style=display:block;padding-top:70.3518%;></i-amphtml-sizer></amp-img>
+                              </a> </div>
+                            <div class=related_content>
+                              <p><a href=https://www.newsnation.in/amp/india-news/rpf-officer-who-issued-controversial-letter-about-deteriorating-situation-in-jammu-and-kashmir-transferred-232379.html target=_top> RPF officer who issued controversial letter about &#39;deteriorating situation&#39; in J&amp;K transferred</a></p>
+                              <span>Monday, 29 July 2019 08:15 PM  </span> </div>
+                          </div>
+                                                
+                    </div>
+                  </div>
+                                <div class=clearfix></div>
+                
+                <div class=more_story>
+                  <amp-iframe class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" frameborder=0 height=350 i-amphtml-layout=responsive layout=responsive resizable sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms" src="https://cdn.vuukle.com/amp.html?url=https://www.newsnation.in/science-news/dinosaur-massive-bone-found-in-france-belongs-to-40-ton-sauropod-article-232172.html&amp;host=www.newsnation.in&amp;title=OMG!%20Massive%20Dinosaur%20bone%20found%20in%20France:%20Details%20inside&amp;id=232172&amp;apiKey=b7abb340-0940-4797-9e58-4b55fcb0fbb0&amp;img=https://cdn7.newsnation.in/images/2019/07/28/dinosaurbone-1000_6.jpg&amp;tags=Dinosaur,%20France,%20giant%20bone,%20massive%20bone,%20palaeontologists,%20excavation%20site,%20largest%20animal,%20dinosaurs" width=600><i-amphtml-sizer style=display:block;padding-top:58.3333%;></i-amphtml-sizer>
+                    <div aria-label="Show comments" overflow role=button style="display: block;text-align: center;background: #1f87e5;color: #fff;border-radius: 4px;" tabindex=0>
+                      Show comments
+                    </div>
+                  </amp-iframe>
+                </div>
+                
+                <div class=clearfix></div>
+                <div class=cb></div>
+              </div>
+            </div>
+                  </div>
+      </article>
+    </main>
+    <footer>
+      <div class=footer-links>
+        <div id=uptoggle><a href=#>
+            <amp-img alt="Move Up" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=35 i-amphtml-layout=fixed layout=fixed src=https://static-newsnation-in.cdn.ampproject.org/i/s/static.newsnation.in/images/amp-arrow.png srcset="https://static-newsnation-in.cdn.ampproject.org/ii/w39/s/static.newsnation.in/images/amp-arrow.png 39w, https://static-newsnation-in.cdn.ampproject.org/ii/w82/s/static.newsnation.in/images/amp-arrow.png 82w, https://static-newsnation-in.cdn.ampproject.org/ii/w120/s/static.newsnation.in/images/amp-arrow.png 120w" style=width:35px;height:35px; width=35></amp-img>
+          </a></div>
+        <div id=menu><span><a href=https://www.newsnation.in/cities target=_top>State</a></span>
+          <span><a href=https://www.newsnation.in/world-news target=_top>Worlds</a></span>
+          <span><a href=https://www.newsnation.in/election target=_top>Election 2019</a></span>
+          <span><a href=https://www.newsnation.in/entertainment target=_top>Entertainment</a></span>
+          <span><a href=https://www.newsnation.in/sports-news target=_top>Sports</a></span>
+          <span><a href="https://www.newsstate.com/?utm_source=jio-article" target=_top>Hindi</a></span></div>
+        <div class=copyrite><span class=_copyrite>Â© 2019 </span>News Nation. All rights reserved. </div>
+      </div>
+      
+    </footer>
+  </div>
+
+
+</body></html>

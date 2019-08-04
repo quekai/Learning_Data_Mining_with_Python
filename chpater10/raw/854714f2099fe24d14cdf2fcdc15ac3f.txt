@@ -1,0 +1,2132 @@
+<!DOCTYPE html>
+
+<html class="site--news no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQCWFBQDxADUllWBwcOVw=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(18),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(19),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(21)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(21)(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(21)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(21)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(16);n.exports={generateTraceHeader:r}},{}],11:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(12),u=t(10).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(15),w=t(14),v=window.XMLHttpRequest;s.features.xhr=!0,t(9),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=u();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],12:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],13:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(18),s=t(19),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],14:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],15:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],16:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],17:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],18:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],19:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],20:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],21:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(19),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(18),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(18),u=t("ee"),d=t(17),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:x,userAgent:d};t(13),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(20)},{}]},{},["loader",2,11,4,3]);</script>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="SBS News">
+  <meta name="msapplication-TileColor" content="#1b2024">
+  <meta name="theme-color" content="#1b2024">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+
+  <title>Australian Muslims are joining international calls to boycott the Hajj | SBS News</title>
+  <meta name="description" content="There are growing calls from Muslims around the world to boycott the annual holy pilgrimage to Mecca over Saudi Arabia’s war in Yemen.">
+  <meta name="keywords" content="">
+  <meta name="msvalidate.01" content="0E549D3DACFFE4CFCA34DDAAA0180F04" />  
+  <meta property="og:title" content="Australian Muslims are joining international calls to boycott the Hajj">
+  <meta property="og:description" content="There are growing calls from Muslims around the world to boycott the annual holy pilgrimage to Mecca over Saudi Arabia’s war in Yemen.">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://sl.sbs.com.au/public/image/file/a766832d-93a6-41e9-886f-6947efdfea5a/crop/16x9">
+  <meta property="og:image:type" content="">
+  <meta property="og:image:width" content="">
+  <meta property="og:image:height" content="">
+  <meta property="og:image:alt" content="Muslim worshippers perform the eveningprayers at the Kaaba, Islam&#039;s holiest shrine, at the Grand Mosque in Saudi Arabia&#039;s holy city of Mecca in 2017.">
+  <meta property="og:site_name" content="SBS News">
+  <meta property="og:url" content="https://www.sbs.com.au/news/australian-muslims-are-joining-international-calls-to-boycott-the-hajj">
+  <meta property="og:locale" content="en_GB">
+  <meta property="article:publisher" content="https://www.facebook.com/sbsnews">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@SBSNews">
+  <meta name="twitter:title" content="Australian Muslims are joining international calls to boycott the Hajj">
+  <meta name="twitter:description" content="There are growing calls from Muslims around the world to boycott the annual holy pilgrimage to Mecca over Saudi Arabia’s war in Yemen.">
+  <meta name="twitter:image" content="https://sl.sbs.com.au/public/image/file/a766832d-93a6-41e9-886f-6947efdfea5a/crop/16x9">
+  <meta name="twitter:url" content="https://www.sbs.com.au/news/australian-muslims-are-joining-international-calls-to-boycott-the-hajj">
+  
+  <meta itemprop="description" content="There are growing calls from Muslims around the world to boycott the annual holy pilgrimage to Mecca over Saudi Arabia’s war in Yemen.">
+  <meta itemprop="image" content="https://sl.sbs.com.au/public/image/file/a766832d-93a6-41e9-886f-6947efdfea5a/crop/16x9">
+  <meta itemprop="name" content="SBS News">
+
+  <meta itemprop="datePublished" content="2019-07-28T06:42:53+10:00"/>
+
+  <meta property="fb:pages" content="10153017026003686,1718340018404039,118110394871717,1031979170179611,156543917205,152749149157,1653992468195523,853308881454030,248358785343756,402145919880044,125982670754724,6038270901,240259225410,242485789418468,1735930699952878,108683457751,139727238426,91116257004,100246430019521,368329703192018,194784127232544,173168582700205,168993229831044" />
+          <meta name="apple-itunes-app" content="app-id=432849691, app-argument=https://www.sbs.com.au/news/australian-muslims-are-joining-international-calls-to-boycott-the-hajj">
+  
+      <script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","name":"SBS News","url":"https://www.sbs.com.au/news","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/news/img/logo-colour-square.png"},"sameAs":["https://www.facebook.com/sbsnews","https://twitter.com/SBSNews"]},{"@type":"Article","url":"https://www.sbs.com.au/news/australian-muslims-are-joining-international-calls-to-boycott-the-hajj","mainEntityOfPage":"https://www.sbs.com.au/news/australian-muslims-are-joining-international-calls-to-boycott-the-hajj","dateCreated":"2019-07-28T06:42:53+10:00","datePublished":"2019-07-28T06:42:53+10:00","dateModified":"2019-07-28T06:42:54+10:00","headline":"Australian Muslims are joining international calls to boycott the Hajj","articleSection":"Australia","image":{"@type":"ImageObject","width":1280,"height":720,"url":"https://sl.sbs.com.au/public/image/file/a766832d-93a6-41e9-886f-6947efdfea5a/crop/16x9"},"thumbnailUrl":"https://sl.sbs.com.au/public/image/file/a766832d-93a6-41e9-886f-6947efdfea5a/crop/16x9_small","video":[{"@type":"VideoObject","name":"Muslims around the world call for a boycott of the Hajj","description":null,"duration":"PT00H00M59S","thumbnailUrl":["https://videocdn-sbs.akamaized.net/u/video/SBS/managed/images/2019/07/26/1576888899920_07260407_image164821_small.jpg"],"embedUrl":"https://www.sbs.com.au/news/embeds/video/1576888899920","publisher":{"@type":"Organization","name":"SBS News","url":"https://www.sbs.com.au/news","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/news/img/logo-colour-square.png"}}}],"author":{"@type":"Person","name":"Jarni Blakkarly"},"publisher":{"@type":"Organization","name":"SBS News","url":"https://www.sbs.com.au","logo":{"@type":"ImageObject","url":"https://www.sbs.com.au/news/img/logo-colour-square.png"}}}]}
+</script>
+          
+  
+
+            <meta name="msapplication-TileImage" content="/news/img/icons/icon-144x144.png">
+      <link rel="apple-touch-icon" href="/news/img/icons/icon-152x152.png">
+      <link rel="shortcut icon" href="/news/img/favicon.ico">
+      
+  <link rel="canonical" href="https://www.sbs.com.au/news/australian-muslims-are-joining-international-calls-to-boycott-the-hajj">
+            <meta name="robots" content="Index,Follow" />
+  <link rel="manifest" href="/news/manifest.json">
+
+  <style media="screen" type="text/css">
+    @import url(/news/css/app-shell-df87fb2bde45e4670427410a1f9f29f9.css);
+    @import url(/news/css/screen-2b5ad778b7b0caf0daec92e809f5c6f8.css);
+
+          @import url(/common/css/lang/english_en-9c6ba49eb247f5f43ce22d546a2979ce.css);
+      </style>
+  <script>
+    window.SBS_SETTINGS = window.SBS_SETTINGS || {
+      user_api: '',
+      app_base_url: 'https://www.sbs.com.au/news',
+      sbs_base_url: 'https://www.sbs.com.au/',
+      site_name: 'news',
+      site_dfp_prefix: '/4117/naca.sbs/',
+      api: 'https://sl.sbs.com.au',
+      site_display_name: 'SBS News',
+      cr_site_name: 'News',
+    };
+  </script>
+
+      <script data-module="data-layer_module">
+  var digitalData = {
+    "events": [],
+    "page": {
+      "pageInfo":{
+    "pageName": "s:news:australian-muslims-are-joining-international-calls-to-boycott-the-hajj",
+    "pageID": "cac8ce8f-6107-47e6-bd93-ebdaf743a4a2",
+    "language": "undefined",
+    "destinationURL": "https://www.sbs.com.au/news/australian-muslims-are-joining-international-calls-to-boycott-the-hajj",
+    "referralURL": "",
+    "originalReferrerURL": "",
+    "previousPageURL": "",
+    "previousPageName": "",
+    "title": "",
+    "siteName": "News",
+    "domain": "www.sbs.com.au",
+    "path": "/news/australian-muslims-are-joining-international-calls-to-boycott-the-hajj",
+    "clickSource": "",
+    "campaign": {
+        "trackingCode": "",
+        "campaignType": "",
+        "channelSource": ""
+    }
+},
+      "category":{
+    "primaryCategory": "news",
+    "siteSubSection1": "australian-muslims-are-joining-international-calls-to-boycott-the-hajj",
+    "siteSubSection2": "",
+    "siteSubSection3": "",
+    "siteSubSection4": ""
+},
+      "attributes":{
+    "content": {
+        "pageClass": "article",
+        "contentType": "Article",
+        "articleType": "Video-Article",
+        "contentLanguage": "undefined",
+        "articleID": "cac8ce8f-6107-47e6-bd93-ebdaf743a4a2",
+        "publishedDate": "2019-07-28T06:42:53+10:00",
+        "updatedDate": "2019-07-28T06:42:54+10:00",
+        "newsTopic": [
+            "Australia"
+        ],
+        "title": "Australian Muslims are joining international calls to boycott the Hajj",
+        "author": [
+            "Jarni Blakkarly"
+        ],
+        "subject": [
+            "Religion",
+            "Social issues",
+            "Social affairs",
+            "Religion and politics",
+            "Humanitarian crises",
+            "Islam",
+            "Sunni Islam",
+            "Religious issues",
+            "General news"
+        ],
+        "charter": "Cross Platform",
+        "theme": "Inform",
+        "source": [],
+        "person": [],
+        "geography": [
+            "Oceania",
+            "Middle East",
+            "Australia",
+            "Saudi Arabia",
+            "Yemen"
+        ],
+        "organisation": [],
+        "program": [],
+        "recommendable": "",
+        "originalArticleID": "cac8ce8f-6107-47e6-bd93-ebdaf743a4a2",
+        "originalArticleTitle": "Australian Muslims are joining international calls to boycott the Hajj"
+    },
+    "nielsen": {
+        "appID": "P8AF4D796-453B-4A09-A6F0-CCB99B8A45A3",
+        "appName": "SBS World News Australia"
+    },
+    "error": {
+        "errorPage": "",
+        "errorMessage": ""
+    }
+}
+    },
+    "user": {
+    "userInfo": {
+        "loggedIn": "",
+        "userID": "",
+        "syncUserID": [],
+        "loggedInVisit": "",
+        "loggedInType": "",
+        "userType": "",
+        "newsletterName": ""
+    },
+    "userSegment": {
+        "cxenseSegmentIDs": [],
+        "adobeSegmentIDs": [],
+        "strategicSegmentIDs": []
+    }
+},
+    "environment": {
+    "browser": {
+        "userAgent": "",
+        "version": ""
+    },
+    "platform": {
+        "deviceType": "",
+        "deviceName": "",
+        "sourceType": "",
+        "osName": ""
+    }
+}
+  };
+
+  //populate page title from <title> tag
+  var pageTitle = (document.getElementsByTagName("title")[0] && document.getElementsByTagName("title")[0].innerHTML) ? document.getElementsByTagName("title")[0].innerHTML : "embed";
+  digitalData.page.pageInfo["title"] = pageTitle;
+
+  var trackingCode = window.location.search.split('cid=').splice(1).join('').split('&')[0];
+  if (trackingCode !== undefined && digitalData.page.pageInfo.campaign !== undefined) {
+    digitalData.page.pageInfo.campaign["trackingCode"] = trackingCode;
+  }
+
+  //populate previousPageURL and previousPageName from sessionStorage when available
+  digitalData.page.pageInfo["previousPageURL"] = sessionStorage.getItem("pageURL") || "";
+  digitalData.page.pageInfo["previousPageName"] = sessionStorage.getItem("pageName") || "";
+
+  // add in the user agent string
+  if (digitalData.environment.browser !== undefined) {
+    digitalData.environment.browser["userAgent"] = navigator.userAgent;
+  } else {
+    digitalData.environment.browser = {};
+    digitalData.environment.browser["userAgent"] = navigator.userAgent;
+  }
+
+  //create the platform object to set the sourceType attribute
+  digitalData.environment.platform = {};
+  digitalData.environment.platform["sourceType"] = "web";
+
+  //save current page URL and name so we can use it in previous page properties if user clicks to another page
+  if (digitalData.page.pageInfo.hasOwnProperty("destinationURL")) {
+    sessionStorage.setItem("pageURL", digitalData.page.pageInfo.destinationURL);
+  }
+  if (digitalData.page.pageInfo.hasOwnProperty("pageName")) {
+    sessionStorage.setItem("pageName", digitalData.page.pageInfo.pageName);
+  }
+
+  //setting the referrer properties
+  if (document.referrer !== "" && document.referrer.indexOf("sbs.com.au") === -1) {
+    digitalData.page.pageInfo["referralURL"] = document.referrer;
+
+    if (localStorage.getItem("originalReferrerURL") === null) {
+      //this is the first time user visits our site so we save the referrer as original
+      localStorage.setItem("originalReferrerURL", document.referrer);
+    }
+  }
+
+  //populate originalReferrerURL from sessionStorage when available
+  digitalData.page.pageInfo["originalReferrerURL"] = localStorage.getItem("originalReferrerURL") || "";
+
+</script>
+    <script src="//nexus.ensighten.com/sbs/sbsprod/Bootstrap.js" defer></script>
+  
+  <script type="text/javascript">if(navigator.userAgent.match(/(Trident|MSIE)(\s?\/?)[0-9.]+/g)){var head=document.head;var ss=document.createElement('link');var js=document.createElement('script');ss.href="/common/css/legacy-01207aee0c3371210684bafb063c9f30.css";ss.rel="text/css";js.src="/common/js/legacy-9b5d884f86f08620eef557f1ff82620e.js";head.appendChild(ss);head.appendChild(js);}</script>
+</head>
+
+<body>
+
+  <div class="layout layout--article">
+
+    
+    <nav class="global-nav global-nav--article" data-module="global-nav_module">
+  <a id="nav-main" aria-hidden="true" tabindex="-1"><!-- no js main nav activation --></a>
+  <a id="nav-search" aria-hidden="true" tabindex="-1"><!-- no js search activation --></a>
+
+  <div class="global-nav__header">
+    <div class="container">
+
+      <a class="sr-only sr-focusable" href="#main">Skip to content</a>
+
+      <div class="row">
+
+        <div class="global-nav__toggles column">
+          <span class="sr-only">Primary Navigation</span>
+          <a class="global-nav__toggle toggle" href="#nav-main" data-type="toggle-nav"><span><span class="sr-only">Show menu</span></span></a>
+          <a class="global-nav__toggle global-nav__toggle--close toggle" href="#"><span><span class="sr-only">Hide menu</span></span></a>
+        </div>
+
+                <div class="global-nav__logo-wrapper column">
+                      
+<div class="global-nav__context-flip-panel flip-panel">
+
+  <div class="global-nav__context-flip-pane flip-pane">
+    <div class="global-nav__logo">
+      <a class="sbs-logo" href="https://www.sbs.com.au/news/">
+        <img src="/news/img/logo-colour.svg" width="215" height="75" alt="SBS News">
+      </a>
+    </div>
+  </div>
+
+  <div class="global-nav__context-flip-pane flip-pane">
+    <p class="global-nav__context-title"></p>
+    
+  <div class="sharing sharing--outline sharing--context-social global-nav__context-social" data-module="sharing_module">
+          
+
+  
+
+  <div class="label sharing__label global-nav__context-social-label sr-only">Share</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--twitter" data-type="sharing-twitter">
+            <span class="sr-only">Share on Twitter</span>
+          </button>
+              </li>
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--facebook" data-type="sharing-facebook">
+            <span class="sr-only">Share on Facebook</span>
+          </button>
+              </li>
+        </ul>
+  </div>
+  </div>
+</div>
+                  </div>
+
+        <div class="global-nav__utils column">
+  <ul class="global-nav__utils-list">
+    <li class="global-nav__util">
+      <a class="global-nav__subscribe-toggle toggle" href="#nav-main" data-type="toggle-nav" data-target="newsletter-signup"><span class="icon--envelope-o icon" aria-hidden="true"></span> Subscribe</a>
+    </li>
+  </ul>
+</div>
+
+      </div>
+    </div>
+
+  </div>
+
+  
+
+<div class="global-nav__menu-strip">
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first" role="menuitem">        <a href="/news/"><span>Top Stories</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/latest"><span>Latest</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/videos"><span>Videos</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/topic/australia"><span>Australia</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/topic/world"><span>World</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/audio"><span>Podcasts</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first" role="menuitem">        <a href="//www.sbs.com.au/news/dateline"><span>Dateline</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/insight"><span>Insight</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/thefeed"><span>The Feed</span><span></span></a>
+        
+    </li>
+
+    
+            
+                        
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/small-business-secrets" target="_blank"><span>Small Business Secrets</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+</div>
+
+  <div class="global-nav__bodies is-inert--nav-hidden">
+
+    
+<div class="global-nav__body global-nav__body--nav">
+  <div class="global-nav__body-wrapper">
+
+    
+    <div class="container">
+      <div class="row">
+
+        <div class="global-nav__column global-nav__column--primary column">
+
+                  <div class="menu global-nav__menu global-nav__menu--news" role="menu">
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="/news/"><span>Top Stories</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/latest"><span>Latest</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/videos"><span>Videos</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/australia"><span>Australia</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/world"><span>World</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/audio"><span>Podcasts</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+                  <div class="menu global-nav__menu global-nav__menu--sbshome" role="menu">
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+        </div>
+
+        <div class="global-nav__column global-nav__column--secondary column">
+
+                  <div class="menu global-nav__menu global-nav__menu--programs" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-nav__menu-label">News Programs</div>
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au/news/dateline"><span>Dateline</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/insight"><span>Insight</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/thefeed"><span>The Feed</span><span></span></a>
+        
+    </li>
+
+    
+            
+                        
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/small-business-secrets" target="_blank"><span>Small Business Secrets</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+                  <div class="menu global-nav__menu global-nav__menu--topics" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-nav__menu-label">Topics in News</div>
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="/news/topic/asia-pacific"><span>Asia Pacific</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/north-america"><span>North America</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/south-america"><span>South America</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/africa"><span>Africa</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/europe"><span>Europe</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="/news/topic/middle-east"><span>Middle East</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+        </div>
+
+        <div class="global-nav__column global-nav__column--supplementary column">
+          
+  <div class="sharing sharing--menu global-nav__menu global-nav__menu--social">
+          
+
+  
+
+  <div class="label sharing__label global-nav__menu-label">Follow SBS News</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a href="//twitter.com/SBSNews" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow us on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.facebook.com/sbsnews" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow us on Facebook</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="/news/feeds" class="sharing__link sharing__link--rss">
+            <span class="icon--rss icon" aria-hidden="true"></span><span class="sr-only">Subscribe to our RSS feed</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+
+          <div class="global-nav__newsletter-signup" id="newsletter-signup">
+            <form class="form form__newsletter-subscribe"
+      data-module="form_module"
+      data-form-validate
+      data-form-multistep
+      data-form-name="newsletterSubscribe"
+      data-custom-analytics="marketing-module"
+      data-custom-handler="form-newsletter-subscribe"
+      action="https://www.sbs.com.au/api/member/subscribeuser"
+      method="post">
+
+                    <input type="hidden" name="vertical" value="News_Nav">
+            
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-0">
+            <div class="form__field-wrap">
+      <div class="form__field form__field--inline">
+        
+<label class="label label--form sr-only" for="your-email-1280910689">Your Email Address</label>
+                <input class="form__field-input" id="your-email-1280910689" name="email" autocomplete="off" placeholder="Your Email Address" type="email" required data-form-validation>
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="button" name="step-0" value="button">
+            <span class="page__section-cta-wrap">Subscribe</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="form__validation">
+      <span class="form__validation-item" data-form-validation-required>A valid email address is required</span>
+      <span class="form__validation-item" data-form-validation-pattern>Please provide a valid email address</span>
+    </div>
+
+    <p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" target="_blank" rel="noopener">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" target="_blank" rel="noopener">privacy policy</a> including receiving email updates from SBS.</p>
+  </div>
+
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-1" aria-hidden="true">
+
+    <p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+
+    <div class="form__field-wrap">
+          <ul class="form__field-list">
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-morning-1280910689" name="subscription[]" value="PREF_DAILY_NEWS" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-morning-1280910689">Morning</label>
+        </li>
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-afternoon-1280910689" name="subscription[]" value="PREF_DAILY_NEWS_PM" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-afternoon-1280910689">Afternoon</label>
+        </li>
+      </ul>
+
+      <div class="form__validation">
+        <span class="form__validation-item" data-form-validation-required>Please select at least one edition</span>
+      </div>
+      <div class="form__fieldset-submit page__section-cta-links">
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="submit" name="step-1" value="submit">
+            <span class="page__section-cta-wrap">Select</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+                                                        <div class="form__fieldset form__fieldset--success show-on-success is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+          <p class="form__message-body"></p>
+        </div>
+                                                  <div class="form__fieldset form__fieldset--failure show-on-failure is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+          <p class="form__message-body">Please refresh the page and try again.</p>
+        </div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+  </div>
+</nav>
+
+
+    <main class="main" id="main">
+
+                    <div class="page page--article">
+    <section class="page__section page__section--style-1">
+
+                                                                                                    
+
+                                                                                                                                                                                    
+  <article class="article"
+  data-module="article_module"
+        data-edit="1"
+    data-uuid="cac8ce8f-6107-47e6-bd93-ebdaf743a4a2"
+  >
+
+    <script type="text/x-config">{
+        "digitalData": {
+  "page": {
+    "attributes": {},
+    "category": {},
+    "pageInfo": {
+      "path": "/news/australian-muslims-are-joining-international-calls-to-boycott-the-hajj",
+      "title": "Australian Muslims are joining international calls to boycott the Hajj"
+    }
+  }
+}  }</script>
+
+            <header class="article__header">
+          <div class="article__container container">
+      <div class="row">
+        <div class="article__intro column">
+                      <div class="article__topic">
+            
+                          
+
+          
+
+  <span class="label article__topic-label"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+                        </div>
+          
+          
+<div class="text-headline">
+  <h1 class="h1 headline article__headline">Australian Muslims are joining international calls to boycott the Hajj</h1>
+</div>
+        </div>
+
+        <div class="article__media column">
+
+                      
+
+
+  
+<div class="hero column article__hero">
+  
+
+  <div class="video-player video-player--hero is-muted has-poster"
+    data-video-id="1576888899920"
+        data-fallback-image='style=background-image:url() data-bg=https://sl.sbs.com.au/public/image/file/a766832d-93a6-41e9-886f-6947efdfea5a/crop/16x9_large data-bg-767px=https://sl.sbs.com.au/public/image/file/a766832d-93a6-41e9-886f-6947efdfea5a/crop/16x9 data-bg-1023px=https://sl.sbs.com.au/public/image/file/a766832d-93a6-41e9-886f-6947efdfea5a/crop/16x9'    data-module="video-player_module">
+
+    <script type="text/x-config">{
+      "playerContext" : "",
+      "playerName"    : "",
+      "fallbackImage" : "https://sl.sbs.com.au/public/image/file/a766832d-93a6-41e9-886f-6947efdfea5a/crop/16x9_large"
+    }</script>
+
+    <div class="video-player__wrapper">       <div class="video-player__assets">
+        <video class="video-player__media" id="video-1576888899920" autoplay playsinline muted></video>
+        <div class="adContainer"></div>
+        <div class="video-player__ui-ad-countdown adCountdown" aria-label="Ad elapsed time">0:00</div>
+      </div>
+
+      <div class="video-player__info">
+        <div class="video-player__trackinfo"></div>
+        <div class="video-player__title"></div>
+      </div>
+
+      <div class="video-player__ui-panel">
+        <div class="video-player__seek-bar">
+          <div class="video-player__buffer"></div>
+          <div class="video-player__progress"></div>
+          <input class="video-player__seek-range" data-type="seek-range" type="range" min="0" max="100">
+        </div>
+
+        <nav class="video-player__control-bar">
+          <button class="video-player__play-pause-button button button--clean" aria-label="Play" data-type="play-pause-button">
+            <span class="video-player__play-pause-icon"></span>
+          </button>
+
+          <div class="video-player__volume-bar">
+            <button class="video-player__volume-button button button--clean" aria-label="Mute" data-type="volume-button">
+              <span class="video-player__volume-icon"></span>
+            </button>
+            <div class="video-player__volume-track" aria-label="Volume Level" role="slider">
+              <span class="video-player__volume-level"></span>
+              <input class="video-player__volume-range" type="range" min="0" max="100">
+            </div>
+          </div>
+
+          <div class="video-player__progress-time is-faded-out">
+            <span class="video-player__time video-player__time--elapsed" aria-label="Elapsed time">00:00</span> / <span class="video-player__time video-player__time--duration" aria-label="Duration">00:00</span>
+          </div>
+
+          <button class="video-player__share-button button button--clean" aria-label="Share" data-type="share-button">
+            <span class="icon icon--share"></span>
+          </button>
+
+          <button class="video-player__fullscreen-button button button--clean" aria-label="Toggle fullscreen" data-type="fullscreen-button">
+            <span class="video-player__fullscreen-icon"></span>
+          </button>
+        </nav>
+      </div>
+
+            
+      
+            <div class="video-player__share-panel video-player__overlay-card video-player__end-card">
+        
+  <div class="sharing sharing--share-container video-player__share-container" data-module="sharing_module">
+          
+
+  
+
+  <div class="label sharing__label video-player__share-container-label">Share</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--twitter" data-type="sharing-twitter">
+            <span class="sr-only">Share on Twitter</span>
+          </button>
+              </li>
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--facebook" data-type="sharing-facebook">
+            <span class="sr-only">Share on Facebook</span>
+          </button>
+              </li>
+        </ul>
+  </div>
+
+          <button class="video-player__overlay-card-close-button button button--clean" aria-label="Close" data-type="close-overlay-button">
+            <span class="icon icon--close"></span>
+          </button>
+      </div>
+
+            
+            
+    </div>
+  </div>
+  
+</div>          
+        </div>
+              </div>
+    </div>
+  </header>
+
+  
+  
+<div class="article__container container">
+  <div class="row">
+    <div class="article__abstract column">
+      
+<div class="text-abstract">
+  
+<p class="text-abstract__content">There are growing calls from Muslims around the world to boycott the annual holy pilgrimage to Mecca over Saudi Arabia’s war in Yemen.</p>
+</div>
+    </div>
+  </div>
+  <div class="row">
+    
+
+
+<div class="meta article__meta">
+  <div class="article__meta__byline">
+        <div class="meta__item article__meta-date">
+      <span class="sr-only">Updated</span> <time itemprop="datePublished" dateTime="2019-07-28T06:42:53+10:00">Updated 2 days ago</time>
+    </div>
+
+        <div class="meta__item article__meta-author article__meta-author--block">
+        By
+                      <span>Jarni Blakkarly</span>
+                        </div>
+
+          </div>
+
+  
+  <div class="sharing sharing--outline sharing--context-social article__meta__context-social" data-module="sharing_module">
+          
+
+  
+
+  <div class="label sharing__label article__meta__context-social-label">Share</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--facebook" data-type="sharing-facebook">
+            <span class="sr-only">Share on Facebook</span>
+          </button>
+              </li>
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--twitter" data-type="sharing-twitter">
+            <span class="sr-only">Share on Twitter</span>
+          </button>
+              </li>
+        </ul>
+  </div>
+
+</div>
+  </div>
+  <div class="row">
+    <div class="article__body column">
+      
+
+<div class="dfp is-dormant" data-slot-id="slot2" data-module="dfp_module">
+  <div class="dfp-slot slot2" id="dfp-slot2" data-lazyload-ads></div>
+</div>
+      
+<div class="text-body"><p dir="ltr">Next month more than two million Muslims from around the world are expected to descend on the cities of Mecca and Medina in Saudi Arabia for the annual Hajj pilgrimage.</p><p dir="ltr">But a growing number of Muslims, including some in Australia, are turning their backs on what is one of the central pillars of Islam, and calling for a boycott of the event.</p><p dir="ltr">Sydney-based aspiring filmmaker Faraaz Rahman says he believes going to Hajj at the present time is not morally responsible.</p><p dir="ltr">“Going for Hajj would financially contribute to the Saudi regime, which currently is carrying out mass atrocities in Yemen against fellow Muslims. This is not what the Hajj is meant to be about,” the 31-year-old told SBS News.&nbsp;&nbsp;&nbsp;</p><p dir="ltr"><div class="embed embed--image"><img src="https://sl.sbs.com.au/public/image/file/2114db8c-9768-4ab3-bdb9-453d48881718"  alt="Faraaz Rahman"  title="Sydney man Faraaz Rahman won't be going to the Hajj this year."  width="700"  height="394"/><div class="caption">Sydney man Faraaz Rahman won't be going to the Hajj this year.</div><div class="attribution">SBS News</div></div></p><p dir="ltr">For able-bodied and financially able Muslims, going to the Hajj at least once in life is considered a religious obligation by many.</p><p dir="ltr">But in April, Libya’s most famous Sunni Grand Mufti, Sadiq al-Gharawani, appealed to Muslims around the world to boycott the Hajj pilgrimage over Saudi Arabia’s human rights abuses. He is one of the most prominent Sunni Muslim leaders to call for the boycott, but he is far from alone. &nbsp;</p><p dir="ltr">The social media hashtag #BoycottHajj has trended on Twitter in some Muslim majority countries.&nbsp;</p><p dir="ltr">“Before there might have been fringe groups here and there, without any traction… but now prominent leaders are calling for it [boycott]. I hope that that leads to other religious authorities to pick up and make similar calls,” Mr Rahman said.</p><p dir="ltr"><div class="embed embed--image"><img src="https://sl.sbs.com.au/public/image/file/013bdea6-a036-4bb7-8c30-965437469c51"  alt="Tweet"   /><div class="attribution">Twitter</div></div></p><p dir="ltr"><div class="embed embed--image"><img src="https://sl.sbs.com.au/public/image/file/1896102c-933f-4151-8f02-7d7c7afdbf44"  alt="Tweet"   /><div class="attribution">Twitter</div></div></p><p dir="ltr">Another Australian Muslim based in Melbourne, who didn't want to be identified, said that while calling for a boycott of the Hajj was a drastic step, it was necessary.&nbsp;&nbsp;</p><p dir="ltr">"I believe there is no other option left for the Muslim people around the world than to boycott Saudi Arabia, to give them the message that this madness [in Yemen] should end," he said.&nbsp;</p><p dir="ltr">"If the money is funnelling into the Saudi economy and that money is being utilised to imposing continuous misery on the people of Yemen, then people have a moral, religious obligation to stand up," he said.&nbsp;&nbsp;</p><p dir="ltr">"The world has a responsibility to stand up, especially Muslims," he added.&nbsp;</p><h3 dir="ltr"><strong>Global response</strong></h3><p dir="ltr">Saudi Arabia is the lead partner in a Coalition of forces involved in Yemen’s civil war. The United Nations has described Yemen’s humanitarian crisis as the worst in the world.</p><p dir="ltr">According to the UN 3.2 million Yemenis, including two million children, are in urgent need of treatment for acute malnutrition caused by the crisis.</p><p dir="ltr"><div class="embed embed--image"><img src="https://sl.sbs.com.au/public/image/file/a766832d-93a6-41e9-886f-6947efdfea5a"  alt="Muslim worshippers"  title="Muslim worshippers at the Grand Mosque in Saudi Arabia's holy city of Mecca in 2017."  /><div class="caption">Muslim worshippers at the Grand Mosque in Saudi Arabia's holy city of Mecca in 2017.</div><div class="attribution">AFP</div></div></p><p dir="ltr">Ani Zonneveld, president of Muslims for Progressive Values, a United States-based organisation with around 10,000 members, said it was encouraging all Muslims to take up the boycott.&nbsp;&nbsp;</p><p dir="ltr">“For Muslims to be going to the Hajj to cleanse their souls and to reconnect with God ... by doing so they will be supporting a regime that has done nothing but oppress and create famine in Yemen. It is really hard to reconcile,” she said.</p><p dir="ltr"><div class="block__container"><div class="label">READ MORE</div><div class="preview__list-wrapper"><div class="preview preview--linear"><div class="preview__wrap"><div class="media-image media-image--1-1 preview__image"><img src="https://sl.sbs.com.au/public/image/file/11d4856f-bd9e-47bb-a5ce-b126b75e40ac/crop/1x1" alt="Muslim worshippers pray during the Hajj pilgrimage outside Namrah Mosque in Arafat, near Mecca, Saudi Arabia, 31 August 2017. Around 2.6 million muslim are expected to attend this year's Hajj pilgrimage, which is highlighted by the Day of Araf"/></div><div class="preview__content"><h3 class="headline preview__headline"><a href="/news/hajj-the-muslim-festival-of-eid-al-adha-explained" title="Hajj: The Muslim festival of Eid al-Adha explained">Hajj: The Muslim festival of Eid al-Adha explained</a></h3></div></div></div></div></div></p><p dir="ltr">Kuala Lumpur based university lecturer Mukhriz Mat Rus, 36, said that he had previously registered his interest in going to Hajj with the Malaysian authorities to be placed on a waitlist, but now he wouldn’t go any more.</p><p dir="ltr">“The Muslim community all over the world, where is our stand on this?... Some people say put aside politics, but I don’t think I am able to reconcile that,” he said.</p><p dir="ltr">He says that taking a stand on human&nbsp;rights,&nbsp;is also an act of faith.&nbsp;</p><p dir="ltr">"Some people say put aside politics, but I don’t think I am able to reconcile that."</p><h3 dir="ltr"><strong>Differing views</strong></h3><p dir="ltr">Vice president of the Islamic Council of Victoria, Adel Salman, said he understood why many Muslims were calling for a boycott but doesn't personally support it.&nbsp;</p><p dir="ltr">“It is understandable that people feel very strongly. And it is understandable that people will hold Saudi Arabia responsible for the suffering and the crimes that are being committed in that country [Yemen],” he said.</p><p dir="ltr">“Performing the Hajj obviously you have to visit Saudi Arabia, you will go to the holy places, clearly that will mean you will be spending money in Saudi Arabia.”</p><p dir="ltr">“But most Muslims would see it as a completing of their religious obligations and they would dissociate completely with issues of politics or the Saudi government.”</p><p dir="ltr"><div class="embed embed--image"><img src="https://sl.sbs.com.au/public/image/file/57f4a246-cd3f-45ff-a81d-26ee40e924c9"  alt="Tweet"   /><div class="attribution">Twitter</div></div></p><p dir="ltr">Two Hajj tourism operators in Australia, who were contacted by SBS News but didn’t want to be named, said they had not seen a drop off in bookings for this year’s pilgrimage.</p><p dir="ltr">Mr Rahman says he wouldn’t rule out going to the Hajj in the future if things changed in Yemen and Saudi Arabia, but that it wasn’t appropriate to go right now.</p><p dir="ltr"><div class="block__container"><div class="label">READ MORE</div><div class="preview__list-wrapper"><div class="preview preview--linear"><div class="preview__wrap"><div class="media-image media-image--1-1 preview__image"><img src="https://sl.sbs.com.au/public/image/file/e302952c-8e9f-4d8f-81fa-30c8d05b5289/crop/1x1" alt="Hundreds of thousands of Muslim pilgrims make their way to cast stones at a pillar for the Hajj."/></div><div class="preview__content"><h3 class="headline preview__headline"><a href="/news/what-is-the-hajj-and-will-an-app-make-pilgrimage-safer-this-year" title="What is the Hajj and will an app make pilgrimage safer this year?">What is the Hajj and will an app make pilgrimage safer this year?</a></h3></div></div></div></div></div></p><p dir="ltr">“There is a moral context to some of these pillars of Islam, the Hajj was meant to foster a sense of brotherhood a sense of shared humanity,” he said.&nbsp;&nbsp;</p><p dir="ltr">“Right now as the Saudi regime is currently involved in a man-made catastrophe in Yemen. When you consider those factors, you have to ask does the Hajj have the same moral obligation?”</p></div>
+      <footer class="article__footer">
+        
+                  
+
+<div class="list-meta-tags">
+
+      <p class="headline h6 list-topics__title">Topics: </p>
+        <ul class="list-meta-tags__list">
+                <li class="list-meta-tags__list-item"><a class="list-meta-tags__link" href="/news/topic/australia" rel="">Australia</a></li>
+        </ul>
+  </div>
+              </footer>
+    </div>
+  </div>
+</div>
+
+</article>
+
+      
+
+    </section>
+
+          
+
+
+
+<div class="connect-sbs" name="sbsconnect" data-module="connect-sbs_module">
+  <script type="text/x-config">{
+    "defaultTab": {
+      "for-phone": 0,
+      "for-desktop": 1
+    }
+  }</script>
+
+  <p class="connect-sbs__title">Stay up to date with SBS NEWS</p>
+
+  <div class="tabs" data-module="tabs_module">
+    <ul class="tabs__control">
+          <li class="is-active" onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.appdownload';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">App</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.subscribe';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Subscribe</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Follow</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Listen</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" data-type="static">Watch</li>
+        </ul>
+
+        <div class="tab__content tab-1 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="49px" src="/common/img/main/modules/sbsconnect/app.svg" />
+        <p class="tab__title">SBS News App</p>
+        <p class="tab__description">Download our free app on the App Store or Google Play for the latest headlines and breaking news alerts.</p>
+        <div class="app-links">
+          <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.app.appStore';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://itunes.apple.com/app/apple-store/id432849691?pt=461087&ct=marketingmod&mt=8"><img src="/news/img/apple_app_btn.png" /></a>
+          <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.app.googlePlay';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://play.google.com/store/apps/details?id=com.sbs.worldnewsaustralia&referrer=utm_source%3Dwebsite%26utm_medium%3Dmarketingmod"><img src="/news/img/google_app_btn.png" /></a>
+        </div>
+        <p class="tab__footnote">We love feedback: help us improve by rating the app and sharing your suggestions at <a href="mailto:apps@sbs.com.au" title="apps@sbs.com.au">apps@sbs.com.au</a></p>
+      </div>
+    </div>
+
+        <div class="tab__content tab-2 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="44px" src="/common/img/main/modules/sbsconnect/sub.svg" />
+        <form class="form form__newsletter-subscribe form__newsletter-subscribe--block"
+      data-module="form_module"
+      data-form-validate
+      data-form-multistep
+      data-form-name="newsletterSubscribe"
+      data-custom-analytics="marketing-module"
+      data-custom-handler="form-newsletter-subscribe"
+      action="https://www.sbs.com.au/api/member/subscribeuser"
+      method="post">
+
+                    <input type="hidden" name="vertical" value="News_HP">
+            
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-0">
+          <p class="form__fieldset-title">News to your inbox</p>
+              <p class="form__fieldset-description">Sign up now for the latest news from Australia and around the world direct to your inbox.</p>
+        <div class="form__field-wrap">
+      <div class="form__field form__field--inline">
+        
+<label class="label label--form sr-only" for="your-email-1429030354">Your Email Address</label>
+                <input class="form__field-input" id="your-email-1429030354" name="email" autocomplete="off" placeholder="Your Email Address" type="email" required data-form-validation data-event="marketing-module.news.subscribe.email">
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.subscribe.click';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="button" name="step-0" value="button">
+            <span class="page__section-cta-wrap">Subscribe</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="form__validation">
+      <span class="form__validation-item" data-form-validation-required>A valid email address is required</span>
+      <span class="form__validation-item" data-form-validation-pattern>Please provide a valid email address</span>
+    </div>
+
+    <p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" target="_blank" rel="noopener">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" target="_blank" rel="noopener">privacy policy</a> including receiving email updates from SBS.</p>
+  </div>
+
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-1" aria-hidden="true">
+
+    <p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+
+    <div class="form__field-wrap">
+          <ul class="form__field-list" data-event="marketing-module.news.newsletter.select">
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-morning-1429030354" name="subscription[]" value="PREF_DAILY_NEWS" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-morning-1429030354">Morning</label>
+        </li>
+        <li class="form__field form__field--checkbox">
+          <input class="form__field-checkbox" id="edition-afternoon-1429030354" name="subscription[]" value="PREF_DAILY_NEWS_PM" type="checkbox" checked required data-form-validation>
+          <label class="form__field-label" for="edition-afternoon-1429030354">Afternoon</label>
+        </li>
+      </ul>
+
+      <div class="form__validation">
+        <span class="form__validation-item" data-form-validation-required>Please select at least one edition</span>
+      </div>
+      <div class="form__fieldset-submit page__section-cta-links">
+        <div class="form__field-button-wrap page__section-cta-link">
+          <button class="form__field-button page__section-cta page__section-cta--secondary" data-step="next" type="submit" name="step-1" value="submit">
+            <span class="page__section-cta-wrap">Select</span>
+            <span class="ripple"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+                                                        <div class="form__fieldset form__fieldset--success show-on-success is-hidden" data-event="marketing-module.news.subscribe.success" aria-hidden="true">
+          <p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+          <p class="form__message-body"></p>
+        </div>
+                                                  <div class="form__fieldset form__fieldset--failure show-on-failure is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+          <p class="form__message-body">Please refresh the page and try again.</p>
+        </div>
+            </form>
+      </div>
+    </div>
+
+        <div class="tab__content tab-3 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="44px" src="/common/img/main/modules/sbsconnect/social.svg" />
+        <p class="tab__title">SBS News on social</p>
+        <p class="tab__description">Follow SBS News to join in the conversation and never miss the latest live updates.</p>
+        
+  <div class="sharing sharing--menu connect-sbs__menu connect-sbs__menu--social">
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.twitter';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="//twitter.com/SBSNews" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow us on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.facebook';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="//www.facebook.com/sbsnews" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow us on Facebook</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.rss';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="/news/feeds" class="sharing__link sharing__link--rss" target="_blank" rel="noopener">
+            <span class="icon--rss icon" aria-hidden="true"></span><span class="sr-only">Subscribe to our RSS feed</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+      </div>
+    </div>
+
+        <div class="tab__content tab-4 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="56px" src="/common/img/main/modules/sbsconnect/listen.svg" />
+        <p class="tab__title">Latest News podcasts</p>
+        <p class="tab__description">Ask <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.alexa';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/news/sbs-news-bulletins-to-be-available-via-amazon-alexa" title="Amazon Alexa">Amazon Alexa</a> for the latest SBS News or listen to <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.sbsRadio';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/radio/article/2015/03/07/download-sbs-radios-free-mobile-app" title="SBS Radio">SBS Radio</a>.</p>
+      </div>
+    </div>
+
+        <div class="tab__content tab-5 is-hidden">
+      <div class="connect-sbs__content">
+        <img class="ico" height="44px" src="/common/img/main/modules/sbsconnect/watch.svg" />
+        <p class="tab__title">Daily Bulletin</p>
+        <p class="tab__description">Watch SBS World News live daily at 6:30pm on TV and <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.ourApp';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" class="custom_action" href="#" title="our app">on our app</a>. Catch up on <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.od';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/ondemand/program/sbs-world-news" title="SBS On Demand">SBS On Demand</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+    
+              <section class="page__section page__section--style-3">
+
+                                                                                      
+  
+  
+  
+    
+  
+      
+  
+  
+    <div class="block block--feature" data-module="block_module" data-edit="1" data-slug="collection-home-top-stories">
+              <h2 class="block__title">Top Stories</h2>            <div class="block__container feature" data-count="5">
+                              
+                  
+            
+                                                              
+  
+<div class="preview preview--feature video">
+  <div class="preview__wrap">
+                                                                                                          
+  
+  
+
+
+        
+
+      
+
+      
+  
+    
+  
+  
+        
+    
+    
+
+<div class="media-image media-image--16-9 preview__image">
+  <a class="media-image__link" href="/news/the-radio-show-only-a-handful-of-people-in-australia-can-understand" title="The radio show only a handful of people in Australia can understand">                  <span class="preview__content-duration" data-duration="02:18"></span><span class="preview__content-icon"></span>
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/3d4aeb45-1706-4eb7-928d-77eea1390783/crop/16x9_large", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/3d4aeb45-1706-4eb7-928d-77eea1390783/crop/16x9_medium", "alt": "Eirwen Taylor" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/3d4aeb45-1706-4eb7-928d-77eea1390783/crop/16x9_large" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/3d4aeb45-1706-4eb7-928d-77eea1390783/crop/16x9_medium" alt="Eirwen Taylor">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+
+<div class="preview__label">
+  <span class="icon--play-o icon" aria-hidden="true"></span>
+
+
+                
+
+  
+
+  <span class="label date__string">19 mins ago</span>
+      
+
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/the-radio-show-only-a-handful-of-people-in-australia-can-understand">The radio show only a handful of people in Australia can understand</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+  
+<div class="preview preview--linear video">
+  <div class="preview__wrap">
+                                                                                                          
+
+  
+
+
+        
+
+      
+
+      
+        
+    
+  
+  
+        
+    
+              
+
+<div class="media-image media-image--p-1-1-m-16-9-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/top-tyrrell-detective-supporters-gather-as-he-pleads-not-guilty-to-illegal-surveillance" title="Top Tyrrell detective supporters gather as he pleads not guilty to illegal surveillance">                  <span class="preview__content-duration" data-duration="02:37"></span><span class="preview__content-icon"></span>
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/b48874aa-d600-43f2-b343-372463910390/crop/16x9_large", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/b48874aa-d600-43f2-b343-372463910390/crop/16x9_medium", "media": "(min-width: 767px)" },
+                { "srcset": "https://sl.sbs.com.au/public/image/file/b48874aa-d600-43f2-b343-372463910390/crop/1x1_small", "alt": "Gary Jubelin denies illegally recording conversations during the search for toddler William Tyrrell." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/b48874aa-d600-43f2-b343-372463910390/crop/16x9_large" media="(min-width: 1023px)">
+                              <source srcset="https://sl.sbs.com.au/public/image/file/b48874aa-d600-43f2-b343-372463910390/crop/16x9_medium" media="(min-width: 767px)">
+          
+          <img srcset="https://sl.sbs.com.au/public/image/file/b48874aa-d600-43f2-b343-372463910390/crop/1x1_small" alt="Gary Jubelin denies illegally recording conversations during the search for toddler William Tyrrell.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+
+
+                                                                                                                                                            
+
+
+<div class="preview__label">
+  <span class="icon--play-o icon" aria-hidden="true"></span>
+
+
+                
+
+  
+
+  <span class="label date__string">4 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/top-tyrrell-detective-supporters-gather-as-he-pleads-not-guilty-to-illegal-surveillance">Top Tyrrell detective supporters gather as he pleads not guilty to illegal surveillance</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                              <div class="preview__list-wrapper">
+          
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/australian-government-orders-investigation-into-crown-casino-controversy" title="Australian government orders investigation into Crown Casino controversy">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/cf6a98d0-7dd4-4975-a3fb-546e1be9ad35/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/cf6a98d0-7dd4-4975-a3fb-546e1be9ad35/crop/1x1_small", "alt": "Crown is facing a series of allegations about the company&#039;s attempts to lure Chinese gamblers to Australia." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/cf6a98d0-7dd4-4975-a3fb-546e1be9ad35/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/cf6a98d0-7dd4-4975-a3fb-546e1be9ad35/crop/1x1_small" alt="Crown is facing a series of allegations about the company&#039;s attempts to lure Chinese gamblers to Australia.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+
+
+                                                                                                                                                                                                                                                    
+
+
+<div class="preview__label">
+
+
+                
+
+  
+
+  <span class="label date__string">1 hour ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/australian-government-orders-investigation-into-crown-casino-controversy">Australian government orders investigation into Crown Casino controversy</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/a-us-senator-has-offered-to-buy-ilhan-omar-a-plane-ticket-to-somalia" title="A US senator has offered to buy Ilhan Omar a plane ticket to Somalia">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/7524ba35-f8fc-478a-9b0a-b71325e8d1ac/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/7524ba35-f8fc-478a-9b0a-b71325e8d1ac/crop/1x1_small", "alt": "Ilhan Omar in Washington DC." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/7524ba35-f8fc-478a-9b0a-b71325e8d1ac/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/7524ba35-f8fc-478a-9b0a-b71325e8d1ac/crop/1x1_small" alt="Ilhan Omar in Washington DC.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+
+
+                                                                                                                                                                                                                                                    
+
+
+<div class="preview__label">
+
+
+                
+
+  
+
+  <span class="label date__string">2 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/north-america title="North America"><span></span>North America</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/a-us-senator-has-offered-to-buy-ilhan-omar-a-plane-ticket-to-somalia">A US senator has offered to buy Ilhan Omar a plane ticket to Somalia</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+  
+<div class="preview preview--linear video">
+  <div class="preview__wrap">
+                                                                                                          
+
+  
+
+
+        
+
+      
+
+      
+  
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+  <a class="media-image__link" href="/news/low-rate-of-newstart-linked-to-australia-s-youth-suicide-epidemic-tim-costello" title="Low rate of Newstart linked to Australia’s youth suicide epidemic: Tim Costello">                  <span class="preview__content-duration" data-duration="02:05"></span><span class="preview__content-icon"></span>
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/ae69140a-b3ef-450b-b486-9b4401f104de/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/ae69140a-b3ef-450b-b486-9b4401f104de/crop/1x1_small", "alt": "Ông Tim Costello" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/ae69140a-b3ef-450b-b486-9b4401f104de/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/ae69140a-b3ef-450b-b486-9b4401f104de/crop/1x1_small" alt="Ông Tim Costello">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+
+
+                                                                                                                                                                                                                              
+
+
+<div class="preview__label">
+  <span class="icon--play-o icon" aria-hidden="true"></span>
+
+
+                
+
+  
+
+  <span class="label date__string">8 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/low-rate-of-newstart-linked-to-australia-s-youth-suicide-epidemic-tim-costello">Low rate of Newstart linked to Australia’s youth suicide epidemic: Tim Costello</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                </div>
+                                                                                              
+            
+    </div>
+
+              
+  </div>
+
+                                                                              
+  
+  
+  
+    
+  
+                  
+  
+    <div class="block" data-module="block_module" data-edit="na" data-slug="collection-home-top-stories">
+                <div class="block__container" data-count="4">
+                                                                                                    
+                  
+            
+                                                              
+  
+<div class="preview preview--linear video">
+  <div class="preview__wrap">
+                                                                                                          
+
+  
+
+
+        
+
+      
+
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/exclusive-yazidi-boy-forced-to-fight-with-is-could-be-reunited-with-family-in-australia" title="Exclusive: Yazidi boy forced to fight with IS could be reunited with family in Australia">                  <span class="preview__content-duration" data-duration="00:38"></span><span class="preview__content-icon"></span>
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/d366f790-71ae-4a08-90e1-d31a96d10c44/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/d366f790-71ae-4a08-90e1-d31a96d10c44/crop/1x1_small", "alt": "Yazidi boys captured by IS" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/d366f790-71ae-4a08-90e1-d31a96d10c44/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/d366f790-71ae-4a08-90e1-d31a96d10c44/crop/1x1_small" alt="Yazidi boys captured by IS">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+
+<div class="preview__label">
+  <span class="icon--play-o icon" aria-hidden="true"></span>
+
+
+                
+
+  
+
+  <span class="label date__string">10 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/investigations title="Investigations"><span></span>Investigations</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/exclusive-yazidi-boy-forced-to-fight-with-is-could-be-reunited-with-family-in-australia">Exclusive: Yazidi boy forced to fight with IS could be reunited with family in Australia</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/former-afp-boss-pushes-for-pill-testing-at-music-festivals" title="Former AFP boss pushes for pill testing at music festivals">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/5ef44205-a13c-410a-ac96-5bb06449cca9/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/5ef44205-a13c-410a-ac96-5bb06449cca9/crop/1x1_small", "alt": "A police sniffer dog squad speak to a festival goer during Splendour In the Grass." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/5ef44205-a13c-410a-ac96-5bb06449cca9/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/5ef44205-a13c-410a-ac96-5bb06449cca9/crop/1x1_small" alt="A police sniffer dog squad speak to a festival goer during Splendour In the Grass.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+
+
+                                                                                                                                                                                  
+
+
+<div class="preview__label">
+
+
+                
+
+  
+
+  <span class="label date__string">1 hour ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/former-afp-boss-pushes-for-pill-testing-at-music-festivals">Former AFP boss pushes for pill testing at music festivals</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/no-aged-care-respite-available-unless-someone-dies" title="No aged care respite available &#039;unless someone dies&#039;">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/f3f15b0d-323d-4166-b61c-b8019ab36389/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/f3f15b0d-323d-4166-b61c-b8019ab36389/crop/1x1_small", "alt": "Pensioners" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/f3f15b0d-323d-4166-b61c-b8019ab36389/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/f3f15b0d-323d-4166-b61c-b8019ab36389/crop/1x1_small" alt="Pensioners">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+
+
+                                                                                                                                                                                  
+
+
+<div class="preview__label">
+
+
+                
+
+  
+
+  <span class="label date__string">7 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/no-aged-care-respite-available-unless-someone-dies">No aged care respite available &#039;unless someone dies&#039;</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                    
+                  
+            
+                                                              
+
+<div class="preview preview--linear">
+  <div class="preview__wrap">
+                            
+
+  
+
+
+        
+
+      
+
+      
+  
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+  <a class="media-image__link" href="/news/losttrumphistory-trump-s-9-11-claims-mocked-on-social-media" title="#LostTrumpHistory: Trump’s 9/11 claims mocked on social media">                  
+              <picture class="media-image__picture" data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/d4de58c4-b866-489f-a419-76a28475cdd9/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/d4de58c4-b866-489f-a419-76a28475cdd9/crop/1x1_small", "alt": "President Donald Trump at the bill signing of the September 11th Victim Compensation Fund." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/d4de58c4-b866-489f-a419-76a28475cdd9/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/d4de58c4-b866-489f-a419-76a28475cdd9/crop/1x1_small" alt="President Donald Trump at the bill signing of the September 11th Victim Compensation Fund.">
+        </noscript>
+      </picture>
+        </a></div>
+
+
+    
+    <div class="preview__content">
+              
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                        
+
+
+<div class="preview__label">
+
+
+                
+
+  
+
+  <span class="label date__string">4 hours ago</span>
+      
+
+  
+
+          
+
+  <span class="label topic__string"><a href=/news/topic/world title="World"><span></span>World</a></span>
+</div>
+      
+              <p class="headline preview__headline"><a href="/news/losttrumphistory-trump-s-9-11-claims-mocked-on-social-media">#LostTrumpHistory: Trump’s 9/11 claims mocked on social media</a></p>
+      
+      
+          </div>
+  </div>
+</div>
+                             
+                                                
+            
+    </div>
+
+            <div class="block__cta">
+    <a href="/news/latest">View More</a>
+  </div>
+    
+  </div>
+
+      
+
+      </section>
+      </div>
+
+                                                                                                
+      
+    </main>
+
+    
+  
+<footer class="global-footer">
+  <div class="container">
+    <div class="row">
+      <div class="global-footer__column global-footer__column--explore column">
+                <div class="menu global-footer__menu global-footer__menu--explore-sbs" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-footer__menu-label">Explore SBS</div>
+            <ul class="menu__list global-footer__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/ondemand"><span>On Demand</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/guide"><span>Guide</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/programs"><span>All Programs</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/radio"><span>Radio</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/nitv"><span>NITV</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news"><span>News</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//theworldgame.sbs.com.au/"><span>The World Game</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/cyclingcentral"><span>Cycling</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/topics/sport"><span>Sport</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/movies"><span>Movies</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/food"><span>Food</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/topics/life"><span>Life</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/topics/sexuality"><span>Sexuality</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+      </div>
+      <div class="global-footer__column global-footer__column--contact column">
+        
+
+  
+
+  <div class="label global-footer__menu-label">Contact SBS</div>
+        <ul class="list list--clean">
+          <li class="list__item list__item--phone"><span class="icon icon--phone"></span> 1800 500 727 (toll free)</li>
+          <li class="list__item list__item--email"><span class="icon icon--envelope"></span> <a href="mailto:comments@sbs.com.au">comments@sbs.com.au</a></li>
+          <li class="list__item list__item--mail"><span class="icon icon--send"></span> Locked Bag 028, Crows Nest NSW 1585</li>
+        </ul>
+      </div>
+      <div class="global-footer__column global-footer__column--follow column">
+        
+  <div class="sharing sharing--menu global-footer__menu global-footer__menu--follow-sbs">
+          
+
+  
+
+  <div class="label sharing__label global-footer__menu-label">Follow SBS</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a href="//twitter.com/SBS" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow SBS on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.facebook.com/SBSAustralia/" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow SBS on Facebook</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="global-footer__column global-footer__column--legal column">
+                <div class="menu global-footer__menu global-footer__menu--information" role="menu">
+              
+
+  
+
+  <div class="label label menu__label global-footer__menu-label">Information</div>
+            <ul class="menu__list global-footer__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au/aboutus/corporate/view/id/105/h/Copyright"><span>Copyright</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions"><span>Terms &amp; Conditions</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement"><span>Privacy</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/corporate/view/id/104/h/Disclaimer"><span>Disclaimer</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/preferences"><span>Your online preferences</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/sales/"><span>Sales &amp; Advertising</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/complaints"><span>Complaints</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/faqs"><span>FAQs</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/careers"><span>Careers</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/aboutus/our-story/"><span>Our Story</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  </div>
+
+  
+<div class="loader" id="loader">
+  <svg viewBox="0 0 32 32" width="32" height="32">
+    <circle class="loader__spinner" cx="16" cy="16" r="14" fill="none"></circle>
+  </svg>
+</div>
+
+  <script src="/common/js/common-108fc940e057b4c40699f259ae759dc7.js" defer></script>
+  <script src="/news/js/main-16043580c83ad3d87a1e29d24daa768f.js" defer></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"db4a438329","applicationID":"36840691","transactionName":"ZwQHMkBYWxdXV00NDF5OJAVGUFoKGVZVCwBbPgcUV1heDVhTZgoGRxI=","queueTime":0,"applicationTime":158,"atts":"S0MERAhCSBk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

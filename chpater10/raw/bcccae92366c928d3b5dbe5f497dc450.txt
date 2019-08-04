@@ -1,0 +1,1605 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><!-->
+<html lang="en" class="ie ie6"> <!--<![endif]-->
+<!--[if IE 7 ]><!-->
+<html lang="en" class="ie ie7"> <!--<![endif]-->
+<!--[if IE 8 ]><!-->
+<html lang="en" class="ie ie8"> <!--<![endif]-->
+<!--[if IE 9 ]><!-->
+<html lang="en" class="ie ie9"> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en"> <!--<![endif]-->
+<head>
+<link rel="canonical" href="https://www.dw.com/en/colombia-thousands-protest-against-activist-slayings/a-49766325">
+<link rel="amphtml" href="https://amp.dw.com/en/colombia-thousands-protest-against-activist-slayings/a-49766325">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.dw.com/en/colombia-thousands-protest-against-activist-slayings/a-49766325">
+<script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
+<script type="text/javascript" src="/js/dsgvo/dsgvo_utils.js"></script>
+<script type="text/javascript">
+window.languagePreferenceTTL = 2628000;
+var languagePreferenceTTL = 2628000;
+var hostNameMobile = "https://m.dw.com";
+var mobileRedirectTTL = 86400;
+</script>
+<script type="text/javascript" src="/js/de.dw.cdaLanguage.min.js?v=6.45.1"></script>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<!--[if IE]>
+<meta http-equiv="imagetoolbar" content="no"><![endif]-->
+<!-- PAGINATION for SEO -->
+<meta name="robots" content="index, follow"/>
+<meta name="revisit-after" content="1 days"/>
+<meta name="publisher" content="Deutsche Welle (www.dw.com)"/>
+<meta name="copyright" content="&copy; 2019 Deutsche Welle (www.dw.com)"/>
+<meta name="author" content="Deutsche Welle (www.dw.com)"/>
+<meta content="app-id=498833085" name="apple-itunes-app">
+<meta content="app-id=com.idmedia.android.newsportal" name="google-play-app">
+<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/favicon.png">
+<meta name="language" content="en_GB"/>
+<meta property="fb:pages" content="146634408702997"/>
+<meta property="fb:pages" content="146822482008281"/>
+<meta property="fb:pages" content="46657640977"/>
+<meta property="fb:pages" content="66069193936"/>
+<meta property="fb:pages" content="338998993519"/>
+<meta property="fb:pages" content="164418313578851"/>
+<meta property="fb:pages" content="180013702044400"/>
+<meta property="fb:pages" content="141111232580541"/>
+<meta property="fb:pages" content="130435762955"/>
+<meta property="fb:pages" content="24369314439"/>
+<meta property="fb:pages" content="131314590235972"/>
+<meta property="fb:pages" content="204430626300528"/>
+<meta property="fb:pages" content="229148123764036"/>
+<meta property="fb:pages" content="533361940012569"/>
+<meta property="fb:pages" content="49621769215"/>
+<meta property="fb:pages" content="142061114273"/>
+<meta property="fb:pages" content="125113390860188"/>
+<meta property="fb:pages" content="144393622272640"/>
+<meta property="fb:pages" content="245974238781165"/>
+<meta property="fb:pages" content="171270196224553"/>
+<meta property="fb:pages" content="118184978196457"/>
+<meta property="fb:pages" content="178734186974"/>
+<meta property="fb:pages" content="329373860454526"/>
+<meta property="fb:pages" content="107256659303602"/>
+<meta property="fb:pages" content="423198735471"/>
+<meta property="fb:pages" content="122470481130194"/>
+<meta property="fb:pages" content="114256188645"/>
+<meta property="fb:pages" content="165174814436"/>
+<meta property="fb:pages" content="155438574470276"/>
+<meta property="fb:pages" content="50498982209"/>
+<meta property="fb:pages" content="146790007393"/>
+<meta property="fb:pages" content="164947183521601"/>
+<meta property="fb:pages" content="211745678846355"/>
+<meta property="fb:pages" content="134391923301563"/>
+<meta property="fb:pages" content="63821723396"/>
+<meta property="fb:pages" content="188157417929359"/>
+<meta property="fb:pages" content="183239561787790"/>
+<meta property="fb:pages" content="449623021724487"/>
+<meta property="fb:pages" content="138206409609783"/>
+<meta property="fb:pages" content="85945845557"/>
+<meta property="fb:pages" content="226482300719948"/>
+<meta property="fb:pages" content="60713064323"/>
+<meta property="fb:pages" content="239025992817731"/>
+<meta property="fb:pages" content="822896961134864"/>
+<meta property="fb:pages" content="522458607878947"/>
+<meta property="fb:pages" content="188850101556821"/>
+<meta property="fb:pages" content="618268655042471"/>
+<meta property="fb:pages" content="423198735471"/>
+<meta property="fb:pages" content="276810869063357"/>
+<meta property="fb:pages" content="100960075341"/>
+<meta property="fb:pages" content="80408983549"/>
+<meta property="fb:pages" content="100897936618493"/>
+<meta property="fb:pages" content="138706041945"/>
+<meta property="fb:pages" content="211775368865879"/>
+<meta property="fb:pages" content="171400242905536"/>
+<meta property="fb:pages" content="132731133463621"/>
+<meta property="fb:pages" content="195750250443390"/>
+<meta property="fb:pages" content="179443708766951"/>
+<meta property="fb:pages" content="1804124663153407"/>
+<meta property="fb:pages" content="134957921127"/>
+<meta property="fb:pages" content="308858529571862"/>
+<meta property="fb:pages" content="245084839304894"/>
+<meta property="fb:pages" content="1643141409322787"/>
+<meta property="fb:pages" content="161206864395653"/>
+<meta property="fb:pages" content="166280690549965"/>
+<meta property="fb:pages" content="1306227629456410"/>
+<meta property="fb:pages" content="172144003288251"/>
+<meta property="fb:pages" content="789839844513554"/>
+<meta property="fb:pages" content="1907513229480533"/>
+<meta property="fb:pages" content="1673788669587458"/>
+<meta property="fb:pages" content="475937372553968"/>
+<meta property="fb:pages" content="670958179648696"/>
+<meta property="fb:pages" content="608485009178753"/>
+<meta property="fb:pages" content="174528749295024"/>
+<meta property="fb:pages" content="86161846910"/>
+<meta property="fb:pages" content="268396416590741"/>
+<meta property="fb:pages" content="239261806709"/>
+<meta property="fb:pages" content="61626715828"/>
+<meta property="fb:pages" content="210354862357400"/>
+<meta name="keywords" content="Colombia,peace deal,FARC,ELN"/>
+<meta name="news_keywords" content="Colombia,peace deal,FARC,ELN"/>
+<meta name="description" content="Across Colombia, protesters carried photos of murdered activists and signs reading: &quot;No more bloodshed.&quot; Over 400 people have been killed in an alarming wave of violence since the 2016 peace deal was signed."/>
+<meta property="og:description" content="Across Colombia, protesters carried photos of murdered activists and signs reading: &quot;No more bloodshed.&quot; Over 400 people have been killed in an alarming wave of violence since the 2016 peace deal was signed."/>
+<meta property="og:url" content="https://www.dw.com/en/colombia-thousands-protest-against-activist-slayings/a-49766325"/>
+<meta property="og:site_name" content="DW.COM"/>
+<meta property="fb:admins" content="100000944106340"/>
+<meta property="fb:admins" content="100004095264842"/>
+<meta property="fb:admins" content="100004135624835"/>
+<link rel="stylesheet" href="/css/dwde-ltr.min.css?v=6.45.1" type="text/css"
+media="all"/>
+<link rel="stylesheet" href="/css/dw-print.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="/css/dw-fonts-latin.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/css/dw-epg-ltr.css" type="text/css" media="all"/>
+<!--[if IE 8]>
+<link rel="stylesheet" href="/css/dw-epg-ie-ltr.css" type="text/css" media="all"/><![endif]-->
+<style type="text/css" media="screen">
+div#navMain ul#navLevel1 a#n01 {
+color: #fff !important;
+}
+div#navMain ul#navLevel1 a#n01:hover {
+color: #000 !important;
+}
+div#navMain ul#navLevel1 li:hover a#n01 {
+color: #000 !important;
+}
+div#navMain ul#navLevel2 a#navAct2 {
+color: #fff !important;
+}
+</style>
+<!-- Global site tag (gtag.js) - Google Analytics (Tracking-Code für Marketing-Zwecke) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109618266-1"></script>
+<script type="text/javascript">
+function googleTracking() {
+var gtagTrackingId = 'UA-109618266-1';
+var gtagDisableStr = 'ga-disable-' + gtagTrackingId;
+if (!DWDE.dsgvo.isStoringCookiesOkay()) {
+window[gtagDisableStr] = true;
+gtagOptout();
+} else {
+window[gtagDisableStr] = false;
+gtagOptin();
+}
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', gtagTrackingId, {'anonymize_ip': true});
+function gtagOptout() {
+document.cookie = gtagDisableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+window[gtagDisableStr] = true;
+return "Google Tag Manager disabled";
+}
+function gtagOptin() {
+document.cookie = gtagDisableStr + '=false; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+window[gtagDisableStr] = false;
+return "Google Tag Manager enabled";
+}
+}
+googleTracking();
+</script><!-- Facebook Pixel Code -->
+<script>
+document.addEventListener("DOMContentLoaded", function (event) {
+if (DWDE.dsgvo.isStoringCookiesOkay()) {
+facebookTracking();
+}
+});
+function facebookTracking() {
+!function (f, b, e, v, n, t, s) {
+if (f.fbq) return;
+n = f.fbq = function () {
+n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+};
+if (!f._fbq) f._fbq = n;
+n.push = n;
+n.loaded = !0;
+n.version = '2.0';
+n.queue = [];
+t = b.createElement(e);
+t.async = !0;
+t.src = v;
+s = b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s)
+}(window, document, 'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '157204581336210');
+fbq('track', 'ViewContent');
+}
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=157204581336210&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<script type="text/javascript">
+var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+_sf_async_config.uid = 64506;
+_sf_async_config.domain = 'dw.com';
+_sf_async_config.flickerControl = false;
+_sf_async_config.useCanonical = true;
+_sf_async_config.path = window.location.pathname;
+_sf_async_config.useCanonicalDomain = true;
+_sf_async_config.videoPageGroups = true;
+function chartbeatTracking() {
+localStorage.setItem('chartbeatConf', JSON.stringify(_sf_async_config));
+}
+document.addEventListener('DOMContentLoaded', function () {
+if (DWDE.dsgvo.isStoringCookiesOkay()) {
+chartbeatTracking();
+}
+});
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<meta property="og:title" content="Colombia: Thousands protest against activist slayings | DW | 27.07.2019"/>
+<meta property="og:image"
+content="https://www.dw.com/image/49766280_304.jpg"/>
+<meta property="og:image:width" content="940"/>
+<meta property="og:image:height" content="529"/>
+<meta property="og:image"
+content="https://www.dw.com/image/49766262_304.jpg"/>
+<meta property="og:image:width" content="940"/>
+<meta property="og:image:height" content="529"/>
+<title>Colombia: Thousands protest against activist slayings | News | DW | 27.07.2019</title>
+<script type="text/javascript" src="/js/dwde.min.js?v=6.45.1"></script>
+<!-- DW jwplayer skin -->
+<link rel="stylesheet" href="/js/jwplayer8/skins/DW/dwskinfile.css" type="text/css" media="all">
+<link rel="stylesheet" href="/js/jwplayer8/skins/DW/desktop-additions.css" type="text/css" media="all">
+<script>jwplayer.key = 'Y8nORY7CUY5RnlN/f8onh+AXI1ZWodkujMJAXBwpcAnDG5N4';</script>
+<script type="text/javascript" src="/js/datepicker/jquery.ui.datepicker-en.min.js"></script>
+<script type="text/javascript">
+function getQueryVariable(variable) {
+var query = window.location.search.substring(1);
+var vars = query.split('&');
+for (var i = 0; i < vars.length; i++) {
+var pair = vars[i].split('=');
+if (decodeURIComponent(pair[0]) === variable) {
+return decodeURIComponent(pair[1]);
+}
+}
+return false;
+}
+function setRecaptchaLanguage() {
+var languageCode = "en";
+if (languageCode === 'ha') {
+return 'en';
+} else {
+var queryStringVal = getQueryVariable('zhongwen');
+if (queryStringVal === false) {
+return languageCode;
+} else if (queryStringVal === 'trad') {
+return 'zh-TW';
+} else if (queryStringVal === 'simp') {
+return 'zh';
+}
+}
+}
+var recaptchaScript = document.createElement('script');
+var recaptchaLink = 'https://www.google.com/recaptcha/api.js?render=explicit&hl=' + setRecaptchaLanguage();
+recaptchaScript.setAttribute('defer', true);
+recaptchaScript.setAttribute('async', true);
+recaptchaScript.setAttribute('src', recaptchaLink);
+$('head').append(recaptchaScript);
+</script>
+<script type="text/javascript">
+var disqus_shortname = 'dwtest-en';
+</script>
+<script async type="text/javascript" src="/js/advertisement/clickPerformance.desktop.articles.min.js"></script>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@dwnews"/>
+<meta name="twitter:title"
+content="Colombia: Thousands protest activist slayings"/>
+<meta name="twitter:image" content="https://www.dw.com/image/49766280_401.jpg"/>
+</head>
+<body id="html_body" >
+<!-- Trackingcode Body-Area -->
+<script type="text/javascript">
+var dwInitialTrackingInfo = {
+visibleStructure: "",
+fullUrl: "http%3A%2F%2Fwww.dw.com%2Fen%2Fcolombia-thousands-protest-against-activist-slayings%2Fa-49766325",
+maca: "",
+articleChangeDateShort: "20190727",
+structureId: "30701",
+structureTypeId: "1",
+chap: "TOP+STORIES::News",
+pageId: "49766325",
+richMediaTracking: true,
+trackingProfileId: "1",
+subjects: "",
+firstCategoryId: "19990023",
+secondCategoryId: ""
+};
+var channelNameAppendix = "-";
+trackingInfo_leve2 = "2";
+trackingInfo_dkLanguage = "";
+trackingInfo_multi_Value = "";
+trackingInfo_profile = "NORMAL";
+trackingInfo_pageSingleEncoded = "TOP+STORIES::News::Colombia%3A+Thousands+protest+against+activist+slayings";
+trackingInfo_multi_Value = "&x1=1&x2=2&x3=49766325&x4=30701&x5=Colombia%3A+Thousands+protest+against+activist+slayings&x6=&x7=http%3A%2F%2Fwww.dw.com%2Fen%2Fcolombia-thousands-protest-against-activist-slayings%2Fa-49766325&x8=&x9=20190727&x10=TOP+STORIES::News&x13=1&x14=&x15=19990023&x16=&x17=&x18=";
+if (window.xtparam != null) {
+window.xtparam += "&ac=" + "&an=" + trackingInfo_multi_Value;
+} else {
+window.xtparam = "&ac=" + "&an=" + trackingInfo_multi_Value;
+}
+</script> <noscript>
+<img width="1" height="1" alt=""
+src="https://logs1242.xiti.com/hit.xiti?s=510544&amp;s2=2&amp;p=TOP+STORIES::News::Colombia%3A+Thousands+protest+against+activist+slayings&amp;di=&amp;an=&amp;ac=&amp;x1=1&amp;x2=2&amp;x3=49766325&amp;x4=30701&amp;x5=Colombia%3A+Thousands+protest+against+activist+slayings&amp;x6=&amp;x7=http%3A%2F%2Fwww.dw.com%2Fen%2Fcolombia-thousands-protest-against-activist-slayings%2Fa-49766325&amp;x8=&amp;x9=20190727&amp;x10=TOP+STORIES::News&amp;x13=1&amp;x14=&amp;x15=19990023&amp;x16=null&amp;x17=&amp;x18=">
+</noscript>
+<!--AT Internet Smart Tag Tracking-->
+<script type="text/javascript" src="https://commons.dw.com/tracking/smarttag.js"></script>
+<script type="text/javascript">
+var tag = new ATInternet.Tracker.Tag({
+secure: true,
+site: "510544",
+logSSL: "logs1242"
+});
+tag.page.set({
+name: "TOP+STORIES::News::Colombia%3A+Thousands+protest+against+activist+slayings",
+pageID: "49766325",
+level2: 2
+});
+tag.customVars.set({
+site: {
+1: 1,
+2: 2,
+3: 49766325,
+4: 30701,
+5: "[Colombia%3A+Thousands+protest+against+activist+slayings]",
+6: "",
+7: "[http%3A%2F%2Fwww.dw.com%2Fen%2Fcolombia-thousands-protest-against-activist-slayings%2Fa-49766325]",
+8: "[]",
+9: 20190727,
+10: "[TOP+STORIES::News]",
+11: "",
+12: "",
+13: 1,
+14: "",
+15: "19990023",
+16: "",
+17: "",
+18: ""
+}
+});
+tag.dispatch();
+</script> <script src="https://commons.dw.com/tracking/smarttagJwPlayerPlugin.js" type="text/javascript"></script>
+
+<div class="cookie">
+<div class="cookie__wrap">
+<div class="cookie__item">
+<p class="cookie__text">We use cookies to improve our service for you. You can find more information in our data protection declaration.</p>
+</div>
+<div class="cookie__buttons">
+<a class="cookie__btn cookie__btn--more"
+href="/a-18265246">More info</a>
+<a class="cookie__btn cookie__btn--ok" href="#">OK</a>
+</div>
+</div>
+</div>
+<!-- Language selection and quickjump navigation: -->
+<ol id="quickjump" role="list">
+<li role="listitem" aria-labelledby="Inhalt"><a href="#bodyContent" id="Inhalt">Inhalt</a></li>
+<li role="listitem" aria-labelledby="Navigation"><a href="#navMain" id="Navigation">Navigation</a></li>
+<li role="listitem" aria-labelledby="asideLink"><a href="#aside" id="asideLink">Weitere Inhalte</a></li>
+<li role="listitem" aria-labelledby="metanavigationLink"><a href="#navMeta"
+id="metanavigationLink">Metanavigation</a></li>
+<li role="listitem" aria-labelledby="sucheLink"><a href="#search" id="sucheLink">Suche</a></li>
+<li role="listitem" aria-labelledby="languageLink"><a href="#langSelect" id="languageLink" xml:lang="de" lang="de"
+accesskey="6">Choose from 30 Languages</a></li>
+</ol>
+<!-- AUTO-LANGUAGE-SELECT-HINT -->
+<!--[if IE 7 ]>
+<div id="ie7PositionHelper"></div><![endif]-->
+<div id="topMetaLang" style="margin-top: -190px;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<!-- L a n g u a g e S e l e c t o r -->
+<div id="languageSection">
+<ul>
+<li><a href="/sq/fokus/s-10250" title="FOKUS"
+data-lang="sq-AL"
+>
+Albanian <span class="native">Shqip</span></a>
+</li>
+<li><a href="/am/ይዘት/s-11646" title="ይዘት"
+data-lang="am-ET"
+>
+Amharic <span class="native">አማርኛ</span></a>
+</li>
+<li><a href="/ar/الرئيسية/s-9106" title="الرئيسية"
+data-lang="ar-AE"
+>
+Arabic <span class="native">العربية</span></a>
+</li>
+<li><a href="/bn/বিষয়/s-11929" title="বিষয়"
+data-lang="bn-BD"
+>
+Bengali <span class="native">বাংলা</span></a>
+</li>
+<li><a href="/bs/teme/s-10037" title="TEME"
+data-lang="bs-BA"
+>
+Bosnian <span class="native">B/H/S</span></a>
+</li>
+<li><a href="/bg/начало/s-10257" title="Начало"
+data-lang="bg-BG"
+>
+Bulgarian <span class="native">Български</span></a>
+</li>
+<li>
+<a href="/zh/在线报导/s-9058?&zhongwen=simp"
+title="在线报导" data-lang="zh-CN">
+Chinese <span
+class="native">(Simplified) 简</span></a>
+</li>
+<li>
+<a href="/zh/在线报导/s-9058?&zhongwen=trad" title="在線報導"
+data-lang="zh-CN-t">
+Chinese <span class="native">(Traditional) 繁</span></a>
+</li>
+</ul>
+<ul>
+<li><a href="/hr/teme/s-9747" title="TEME"
+data-lang="hr-HR"
+>
+Croatian <span class="native">Hrvatski</span></a>
+</li>
+<li><a href="/fa-af/دويچه-وله-دری/s-10259" title="دويچه وله دری"
+data-lang="fa-AF"
+>
+Dari <span class="native">دری </span></a>
+</li>
+<li><a href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world"
+data-lang="en-GB"
+class="ici">
+English <span class="native">English</span></a>
+</li>
+<li><a href="/fr/actualités/s-10261" title="ACTUALITÉS"
+data-lang="fr-FR"
+>
+French <span class="native">Français</span></a>
+</li>
+<li><a href="/de/themen/s-9077" title="Nachrichten & Analysen: der globale Blick auf Schlagzeilen"
+data-lang="de-DE"
+>
+German <span class="native">Deutsch</span></a>
+</li>
+<li><a href="/el/θεματα/s-10507" title="ΘΕΜΑΤΑ"
+data-lang="el-GR"
+>
+Greek <span class="native">Ελληνικά</span></a>
+</li>
+<li><a href="/ha/batutuwa/s-11603" title="BATUTUWA"
+data-lang="ha-NG"
+>
+Hausa <span class="native">Hausa</span></a>
+</li>
+<li><a href="/hi/खबरें/s-11931" title="खबरें"
+data-lang="hi-IN"
+>
+Hindi <span class="native">हिन्दी</span></a>
+</li>
+</ul>
+<ul>
+<li><a href="/id/beranda/s-11546" title="BERANDA"
+data-lang="id-ID"
+>
+Indonesian <span class="native">Indonesia</span></a>
+</li>
+<li><a href="/sw/idhaa-ya-kiswahili/s-11588" title="IDHAA YA KISWAHILI"
+data-lang="sw-TZ"
+>
+Kiswahili <span class="native">Kiswahili</span></a>
+</li>
+<li><a href="/mk/теми/s-10339" title="Теми"
+data-lang="mk-MK"
+>
+Macedonian <span class="native">Македонски</span></a>
+</li>
+<li><a href="/ps/دويچه-ويله-پښتو/s-11722" title="دويچه ويله پښتو"
+data-lang="ps-AF"
+>
+Pashto <span class="native">پښتو</span></a>
+</li>
+<li><a href="/fa-ir/دویچه-وله-فارسی/s-9993" title="دویچه وله فارسی"
+data-lang="fa-IR"
+>
+Persian <span class="native">فارسی</span></a>
+</li>
+<li><a href="/pl/start/s-11394" title="Niemcy – najnowsze wiadomości z Niemiec, Europy i świata"
+data-lang="pl-PL"
+>
+Polish <span class="native">Polski</span></a>
+</li>
+<li><a href="/pt-002/notícias/s-13918" title="NOTÍCIAS"
+data-lang="pt-002"
+>
+Portuguese <span class="native">Português para África</span></a>
+</li>
+<li><a href="/pt-br/notícias/s-7111" title="DW Brasil | Notícias e análises do Brasil e do mundo"
+data-lang="pt-BR"
+>
+Portuguese <span class="native">Português do Brasil</span></a>
+</li>
+</ul>
+<ul>
+<li><a href="/ro/focus/s-10575" title="FOCUS"
+data-lang="ro-RO"
+>
+Romanian <span class="native">Română</span></a>
+</li>
+<li><a href="/ru/темы-дня/s-9119" title="Новости и аналитика о Германии, России, Европе, мире"
+data-lang="ru-RU"
+>
+Russian <span class="native">Русский</span></a>
+</li>
+<li><a href="/sr/rubrike/s-10682" title="RUBRIKE"
+data-lang="sr-RS"
+>
+Serbian <span class="native">Српски/Srpski</span></a>
+</li>
+<li><a href="/es/actualidad/s-30684" title="ACTUALIDAD"
+data-lang="es-ES"
+>
+Spanish <span class="native">Español</span></a>
+</li>
+<li><a href="/tr/gündem/s-10201" title="GÜNDEM"
+data-lang="tr-TR"
+>
+Turkish <span class="native">Türkçe</span></a>
+</li>
+<li><a href="/uk/головна/s-9874" title="Новини й аналітика про Німеччину, Україну, Європу та світ"
+data-lang="uk-UA"
+>
+Ukrainian <span class="native">Українська</span></a>
+</li>
+<li><a href="/ur/عنوانات/s-11933" title="عنوانات"
+data-lang="ur-PK"
+>
+Urdu <span class="native">اردو</span></a>
+</li>
+</ul>
+</div><!-- / L a n g u a g e S e l e c t o r -->
+<div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- META-NAVI -->
+<div id="topMeta" style="margin-top: -30px; display:none;">
+<a title="close" href="#close" class="closeLink"></a>
+<div id="topMetaInner">
+<span class="langHint">
+<a href="">Wrong language? Change it here</a>
+</span>
+DW.COM has chosen English as your language setting. <div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- E X T R A W R A P B O D Y M O V E R -->
+<div id="bodyMover">
+<!-- META-NAVI -->
+<div id="navMeta">
+<div id="langSelect" class="v2">
+<a name="langSelectTrigger" id="langSelectTrigger" href="javascript:void(0);">DW.COM in 30 languages</a>
+</div>
+<div class="metaLink"><a href="/en/dw-akademie/about-us/s-9519"
+title="DW AKADEMIE">DW AKADEMIE</a>
+</div>
+<div class="metaLink"><a href="/en/about-dw/profile/s-30688"
+title="ABOUT DW">ABOUT DW</a>
+</div>
+<div class="metaLink"><a href="/en/top-stories/s-9097"
+title="News and current affairs from Germany and around the world">DW.COM</a></div>
+</div>
+<!-- OUTER FRAME -->
+<div id="outerFrame">
+<!-- NAV CONTAINER -->
+<div id="navContainer">
+<!-- NAVI MAIN: main categories:-->
+<div id="navHead">
+<div id="logo" class="dwnews">
+<a href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world">
+Deutsche Welle
+</a>
+</div>
+<div id="logoprint">
+<img width="98" height="100" alt="Deutsche Welle" src="/cssi/dwlogo-print.gif">
+</div>
+<div id="search">
+<form id="navSearchForm" class="modular"
+action="/search/en" title="GlobalSearch" method="get">
+<input type="hidden" param="searchNavigationId" name="searchNavigationId"
+value="9097"/>
+<input type="hidden" param="languageCode" name="languageCode" value="en"/>
+<input type="hidden" param="origin" name="origin" value="gN"/>
+<input id="item" name="item" placeholder="Search TOP STORIES"/>
+<div id="searchButton"></div>
+</form>
+</div>
+</div><!-- subcategories: -->
+<div id="navMain">
+<ul id="navLevel1">
+<li>
+<a id="n01" href="/en/top-stories/s-9097"
+title="News and current affairs from Germany and around the world">TOP STORIES</a>
+
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/en/top-stories/germany/s-1432"
+title="Germany| News and in-depth reporting from Berlin and beyond">Germany</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/brexit/s-32798"
+title="Latest Brexit news - what happens when the UK leaves the EU">Brexit</a>
+</li>
+<li><a href="/en/top-stories/world/s-1429"
+title="World| Breakings news and perspectives from around the globe">World</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/europe/s-1433"
+title="Europe| News and current affairs from around the continent">Europe</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/germany-and-turkey-a-difficult-relationship/s-37848922"
+title="Germany and Turkey - A difficult relationship">Germany and Turkey - A difficult relationship</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/africa/s-12756"
+title="Africa">Africa</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/the-77-percent/s-41461495"
+title="The 77 Percent">The 77 Percent</a>
+</li>
+<li><a href="/en/top-stories/crime-fighters/s-32392"
+title="Crime Fighters">Crime Fighters</a>
+</li>
+<li><a href="/en/top-stories/africa-on-the-move/s-32368"
+title="Africa on the Move">Africa on the Move</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/asia/s-12758"
+title="Asia| An in-depth look at news from across the continent">Asia</a>
+</li>
+<li><a href="/en/top-stories/americas/s-12757"
+title="Americas| North and South American news impacting on Europe">Americas</a>
+</li>
+<li><a href="/en/top-stories/middle-east/s-14207"
+title="Middle East| News and analysis of events in the Arab world">Middle East</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/business/s-1431"
+title="Business| Economy and finance news from a German perspective">Business</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/founders-valley/s-39731714"
+title="Founders Valley">Founders Valley</a>
+</li>
+<li><a href="/en/top-stories/women/s-37923702"
+title="Wo+men">Wo+men</a>
+</li>
+<li><a href="/en/top-stories/my-2030/s-32437"
+title="My 2030">My 2030</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/science/s-12526"
+title="Science| In-depth reporting on science and technology">Science</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/environment/s-11798"
+title="Environment| All topics from climate change to conservation">Environment</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/global-ideas/s-30654"
+title="Global Ideas">Global Ideas</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/in-focus/s-101461"
+title="In focus">In focus</a>
+</li>
+<li><a href="/en/top-stories/doingyourbit/s-32436"
+title="#doingyourbit">DoingYourBit</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/eco-africa/s-32676"
+title="Eco Africa">Eco Africa</a>
+</li>
+<li><a href="/a-19385797"
+title="Living Planet">Living Planet</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/culture/s-1441"
+title="Culture| Arts, music and lifestyle reporting from Germany">Culture</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/film/s-101405"
+title="Film">Film</a>
+</li>
+<li><a href="/en/top-stories/books/s-101406"
+title="Books">Books</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/music/s-14019"
+title="Music">Music</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/arts/s-10553"
+title="Arts">Arts</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/digital-culture/s-101407"
+title="Digital Culture">Digital Culture</a>
+</li>
+<li><a href="/en/top-stories/lifestyle/s-30526"
+title="Lifestyle">Lifestyle</a>
+</li>
+<li><a href="/en/top-stories/travel/s-7550"
+title="DW Travel">Travel</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/top-stories/bthvn2020/s-12257"
+title="BTHVN2020">BTHVN2020</a>
+</li>
+</ul>
+</li>
+<li><a href="/en/top-stories/sports/s-8171"
+title="Sports| German football and major international sports news">Sports</a>
+<ul class="sitemap">
+<li><a href="/en/top-stories/more-sports/s-101499"
+title="More sports">More sports</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="flyoutGroup col1">
+<h4>SPECIAL</h4>
+<ul class="sitemap">
+<li><a href="/en/top-stories/100-must-reads/s-43415865"
+title="100 German Must-Reads - a unique list of 100 works of German literature published in English">100 Must-Reads</a></li>
+<li><a href="/en/top-stories/50-kitchens-one-city/s-32914"
+title="50 kitchens, one city - 50 recipes, 50 restaurants, 50 nations">50 kitchens, one city</a></li>
+<li><a href="/en/top-stories/baking-bread/s-47577851"
+title="Baking Bread: What bread reveals about the EU">Baking Bread</a></li>
+<li><a href="/en/top-stories/dw-freedom/s-101506"
+title="DW Freedom | Speech. Expression. Media.">DW Freedom</a></li>
+<li><a href="/en/top-stories/expedition-humboldt/s-46674363"
+title="Expedition Humboldt">Expedition Humboldt</a></li>
+<li><a href="/en/top-stories/gutenberg-in-the-cyberstorm/s-101302"
+title="Gutenberg in the Cyberstorm">Gutenberg in the Cyberstorm</a></li>
+<li><a href="/en/top-stories/planet-berlin/s-48259213"
+title="Planet Berlin - The global tourist guide for Germanyʼs booming capital">Planet Berlin</a></li>
+<li><a href="/en/top-stories/the-migration-dilemma/s-39042364"
+title="The Migration Dilemma">The Migration Dilemma</a></li>
+<li><a href="/en/top-stories/world-war-i/s-101037"
+title="World War I">World War I</a></li>
+</ul>
+</div>
+</div>
+
+</li>
+<li>
+<a href="/en/media-center/s-100824"
+title="Media Center">Media Center</a>
+
+<div class="flyout mini">
+<ul class="sitemap" role="menu">
+<li role="menuitem">
+<a href="/en/media-center/live-tv/s-100825"
+title="Watch DW's TV live streams online: Breaking news 24/7">Live TV</a>
+</li>
+<li role="menuitem">
+<a href="/en/media-center/all-media-content/s-100826"
+title="All media content">All media content</a>
+</li>
+<li role="menuitem">
+<a href="/en/media-center/latest-programs/s-100827"
+title="Latest Programs">Latest Programs</a>
+</li>
+<li role="menuitem">
+<a href="/en/media-center/podcasts/s-100977"
+title="Podcasts">Podcasts</a>
+</li>
+</ul>
+</div>
+
+</li>
+<li>
+<a href="/en/tv/s-1452"
+title="TV">TV</a>
+
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/en/tv/schedule-and-reception/s-4757"
+title="Schedule and Reception">Schedule and Reception</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/tv/tv-programs/s-9103"
+title="TV Programs">TV Programs</a>
+</li>
+</ul>
+<div class="flyoutGroup">
+<h4 class="meta">TV programs</h4>
+<ul class="sitemap">
+<li><a href="/en/tv/arts21/s-7885" title="Arts.21 - The Culture Magazine">Arts.21</a></li>
+<li><a href="/en/tv/arts-and-culture/s-47176598" title="Arts and Culture">Arts and Culture</a></li>
+<li><a href="/en/tv/business/s-30478" title="Business News - The Latest financial, market & economic news">Business</a></li>
+<li><a href="/en/tv/check-in/s-32688" title="Check-in - The Travel Guide">Check-in</a></li>
+<li><a href="/en/tv/close-up/s-100282" title="Close up - The Current Affairs Documentary">Close up</a></li>
+<li><a href="/en/tv/conflict-zone/s-101431" title="Conflict Zone - Confronting the Powerful">Conflict Zone</a></li>
+<li><a href="/en/tv/docfilm/s-3610" title="DocFilm">DocFilm</a></li>
+<li><a href="/en/tv/drive-it/s-9690" title="Drive it! - The Motor Magazine">Drive it!</a></li>
+<li><a href="/en/tv/dw-news/s-3232" title="DW News - latest news and breaking stories">DW News</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/en/tv/eco-africa/s-32686" title="Eco Africa">Eco Africa</a></li>
+<li><a href="/en/tv/eco-india/s-45624129" title="Eco India">Eco India</a></li>
+<li><a href="/en/tv/euromaxx/s-7555" title="Euromaxx - Lifestyle in Europe">Euromaxx</a></li>
+<li><a href="/en/tv/faith-matters/s-3952" title="Faith Matters - The Church Program">Faith Matters</a></li>
+<li><a href="/en/tv/focus-on-europe/s-101185" title="Focus on Europe - Spotlight on People">Focus on Europe</a></li>
+<li><a href="/en/tv/global-3000/s-11487" title="Global 3000 - The Globalization Program">Global 3000</a></li>
+<li><a href="/en/tv/in-good-shape/s-11938" title="In Good Shape - The Health Show">In Good Shape</a></li>
+<li><a href="/en/tv/kick-off/s-12839" title="Kick off! - The Bundesliga Highlights">Kick off!</a></li>
+<li><a href="/en/tv/made-in-germany/s-3066" title="Made in Germany">Made in Germany</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/en/tv/quadriga/s-7296" title="Quadriga - International Debate from Berlin">Quadriga</a></li>
+<li><a href="/en/tv/reporter/s-31616" title="Reporter - On Location">Reporter</a></li>
+<li><a href="/en/tv/shift/s-30417" title="Shift - Living in the Digital Age">Shift</a></li>
+<li><a href="/en/tv/the-bundesliga/s-32569" title="The Bundesliga">The Bundesliga</a></li>
+<li><a href="/en/tv/the-day/s-32613" title="The Day - News in Review">The Day</a></li>
+<li><a href="/en/tv/the-77-percent/s-47689720" title="The 77 Percent">The 77 Percent</a></li>
+<li><a href="/en/tv/tomorrow-today/s-3062" title="Tomorrow Today - The Science Magazine">Tomorrow Today</a></li>
+<li><a href="/en/tv/world-stories/s-30419" title="World Stories - The Week in Reports">World Stories</a></li>
+</ul>
+</div>
+</div>
+
+</li>
+<li>
+<a href="/en/radio/s-32771"
+title="RADIO">RADIO</a>
+
+</li>
+<li>
+<a href="/en/learn-german/s-2469"
+title="LEARN GERMAN">LEARN GERMAN</a>
+
+<div class="flyout">
+<div class="flyoutGroup">
+<div class="flyoutGroup">
+<h4>German Courses</h4>
+<ul class="sitemap">
+<li><a href="/en/learn-german/german-courses/s-2547"
+title="German Courses">German Courses</a></li>
+<li><a href="/en/learn-german/quick-start/s-31682"
+title="Den richtigen Deutschkurs finden und sofort Deutsch lernen">Quick start</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/harry/s-13232"
+title="Harry">Harry</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/deutsch-interaktiv/s-9572"
+title="Deutsch Interaktiv">Deutsch Interaktiv</a>
+</li>
+<li><a href="/en/learn-german/radio-d/s-9671"
+title="Radio D">Radio D</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/mission-europe/s-9831"
+title="Mission Europe">Mission Europe</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/deutsch-warum-nicht/s-2548"
+title="Deutsch - warum nicht?">Deutsch - warum nicht?</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/audiotrainer/s-9677"
+title="Audiotrainer">Audiotrainer</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/en/learn-german/deutschtrainer/s-32896"
+title="Deutschtrainer">Deutschtrainer</a>
+</li>
+<li><a href="/en/learn-german/die-bienenretter/s-37645137"
+title="Die Bienenretter">Die Bienenretter</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>German XXL</h4>
+<ul class="sitemap">
+<li><a href="/deutsch-lernen/deutsch-xxl/s-12376"
+title="German XXL">German XXL</a></li>
+<li><a href="/deutsch-lernen/deutsch-aktuell/s-2146"
+title="Deutsch Aktuell">Deutsch Aktuell</a>
+</li>
+<li><a href="/deutsch-lernen/deutsch-im-fokus/s-9213"
+title="Deutsch im Fokus">Deutsch im Fokus</a>
+</li>
+<li><a href="/deutsch-lernen/telenovela/s-13121"
+title="Telenovela">Telenovela</a>
+</li>
+<li><a href="/deutsch-lernen/bandtagebuch/s-13891"
+title="Bandtagebuch">Bandtagebuch</a>
+</li>
+<li><a href="/deutsch-lernen/landeskunde/s-12377"
+title="Landeskunde">Landeskunde</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Community D</h4>
+<ul class="sitemap">
+<li><a href="/deutsch-lernen/community-d/s-9035"
+title="Community D">Community D</a></li>
+<li><a href="/deutsch-lernen/das-portr%C3%A4t/s-30546"
+title="Das Porträt">Das Porträt</a>
+</li>
+<li><a href="/deutsch-lernen/podcasts-newsletter/s-11696"
+title="Podcasts & Newsletter">Podcasts & Newsletter</a>
+</li>
+<li><a href="/deutsch-lernen/service/s-9032"
+title="Service">Service</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Teaching German</h4>
+<ul class="sitemap">
+<li><a href="/deutsch-lernen/deutsch-unterrichten/s-2233"
+title="Teaching German">Teaching German</a></li>
+<li><a href="/deutsch-lernen/dw-im-unterricht/s-14199"
+title="DW im Unterricht">DW im Unterricht</a>
+</li>
+<li><a href="/deutsch-lernen/unterrichtsreihen/s-9729"
+title="Unterrichtsreihen">Unterrichtsreihen</a>
+</li>
+<li><a href="/deutsch-lernen/deutschlehrer-info/s-13503"
+title="Deutschlehrer-Info">Deutschlehrer-Info</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+</li>
+</ul>
+<ul id="navLevel2">
+<li><a href="/en/top-stories/germany/s-1432"
+title="Germany| News and in-depth reporting from Berlin and beyond">Germany</a></li>
+<li><a href="/en/top-stories/brexit/s-32798"
+title="Latest Brexit news - what happens when the UK leaves the EU">Brexit</a></li>
+<li><a href="/en/top-stories/world/s-1429"
+title="World| Breakings news and perspectives from around the globe">World</a></li>
+<li><a href="/en/top-stories/business/s-1431"
+title="Business| Economy and finance news from a German perspective">Business</a></li>
+<li><a href="/en/top-stories/science/s-12526"
+title="Science| In-depth reporting on science and technology">Science</a></li>
+<li><a href="/en/top-stories/environment/s-11798"
+title="Environment| All topics from climate change to conservation">Environment</a></li>
+<li><a href="/en/top-stories/culture/s-1441"
+title="Culture| Arts, music and lifestyle reporting from Germany">Culture</a></li>
+<li><a href="/en/top-stories/sports/s-8171"
+title="Sports| German football and major international sports news">Sports</a></li>
+</ul>
+</div>
+<!-- breadcrumbs navigation: -->
+<div id="navPath">
+<a href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world">
+TOP STORIES
+</a>
+</div>
+</div>
+<div id="innerFrame">
+<div class="adsContainer">
+<div class="advertising">
+<!-- GoogleDfP_Leaderboard -->
+<div class="bannerAd adWrapper">
+<div id="div--Leaderboard">
+<div class="adHeadline">Advertisement</div>
+<div id="DW_D_Articles_Leaderboard"></div>
+</div>
+</div>
+<!-- End/GoogleDfP_Leaderboard --> </div>
+</div>
+<script>
+(function () {
+AD_UNITS.collapseEmptyAdsDesktop();
+})();
+</script>
+
+
+<div id="bodyContent">
+<div class="col3">
+<h4 class="artikel">News</h4>
+<h1>Colombia: Thousands protest against activist slayings</h1>
+<p class="intro">Across Colombia, protesters carried photos of murdered activists and signs reading: "No more bloodshed." Over 400 people have been killed in an alarming wave of violence since the 2016 peace deal was signed.</p>
+<div id="sharing-bar" class="min">
+<span dir="ltr">
+<a dir="ltr" class="sharing-item fb static" target="new" rel="nofollow"
+href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fp.dw.com%2Fp%2F3MoUf%3Fmaca%3Den-Facebook-sharing"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Thousands%20protest%20against%20activist%20slayings', '49766325', '1', 'facebook')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item twitter static" target="new" rel="nofollow"
+href="https://twitter.com/intent/tweet?source=webclient&amp;text=https%3A%2F%2Fp.dw.com%2Fp%2F3MoUf%3Fmaca%3Den-Twitter-sharing+Colombia%3A%20Thousands%20protest%20against%20activist%20slayings"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Thousands%20protest%20against%20activist%20slayings', '49766325', '1', 'twitter')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item reddit static" target="new" rel="nofollow"
+href="https://www.reddit.com/submit?url=https%3A%2F%2Fp.dw.com%2Fp%2F3MoUf%3Fmaca%3Den-reddit-sharing"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Thousands%20protest%20against%20activist%20slayings', '49766325', '1', 'reddit')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item email static" target="new" rel="nofollow"
+href="mailto:?body=https%3A%2F%2Fwww.dw.com%2Fen%2Fcolombia-thousands-protest-against-activist-slayings%2Fa-49766325%3Fmaca%3Den-EMail-sharing&amp;subject=Colombia%3A%20Thousands%20protest%20against%20activist%20slayings"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Thousands%20protest%20against%20activist%20slayings', '49766325', '1', 'email')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item fb-messenger option" target="new" rel="nofollow"
+href="https://www.facebook.com/dialog/send?app_id=161807964535758&amp;redirect_uri=https%3A%2F%2Fp.dw.com%2Fp%2F3MoUf%3Fmaca%3Den-Facebook%2BMessenger%2BWeb-sharing&amp;link=https%3A%2F%2Fp.dw.com%2Fp%2F3MoUf%3Fmaca%3Den-Facebook%2BMessenger%2BWeb-sharing&amp;display=popup"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Thousands%20protest%20against%20activist%20slayings', '49766325', '1', 'fb-messenger-web')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item whatsapp option" target="new" rel="nofollow"
+href="https://web.whatsapp.com/send?text=https%3A%2F%2Fp.dw.com%2Fp%2F3MoUf%3Fmaca%3Den-Whatsapp%2BWeb-sharing+Colombia%3A%20Thousands%20protest%20against%20activist%20slayings"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Thousands%20protest%20against%20activist%20slayings', '49766325', '1', 'whatsapp-web')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item telegram option" target="new" rel="nofollow"
+href="https://telegram.me/share/url?url=https%3A%2F%2Fp.dw.com%2Fp%2F3MoUf%3Fmaca%3Den-Telegram-sharing&amp;text=Colombia%3A%20Thousands%20protest%20activist%20slayings"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Thousands%20protest%20against%20activist%20slayings', '49766325', '1', 'telegram')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item linkedin option" target="new" rel="nofollow"
+href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fp.dw.com%2Fp%2F3MoUf%3Fmaca%3Den-linkedin-sharing&amp;title=Colombia%3A%20Thousands%20protest%20against%20activist%20slayings&amp;source=DW.COM"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Thousands%20protest%20against%20activist%20slayings', '49766325', '1', 'linkedin')"></a>
+</span>
+<p class="sharing-item toggler"></p>
+</div> <div class="picBox full">
+<a class="overlayLink" href="#"
+link="/overlay/image/article/49766325/49766280" rel="nofollow"
+style="cursor: pointer;">
+<img itemprop="image" src="/image/49766280_303.jpg" title="Demonstrators hold photos of murdered activists during a protest march in Bogota, Colombia (26.07.2019 picture-alliance/AP Photo/I. Valencia)" alt="Demonstrators hold photos of murdered activists during a protest march in Bogota, Colombia (26.07.2019 picture-alliance/AP Photo/I. Valencia)" /> </a>
+<p></p>
+</div>
+<div class="group">
+<div class="longText">
+<p>Thousands of people took to the streets across Colombia on Friday night to urge for an end to the killings of hundreds of human rights activists and social leaders&nbsp;by armed groups&nbsp;<a href="/en/colombias-delicate-peace-process-an-overview/a-43938442">in the wake of the country's 2016 peace deal.</a></p> <p>Marches took place in more than 50 towns and cities across the country, with protesters holding black-and-white photos of activists who have been killed. Some carried signs reading: "Without leaders there can be no peace" and "No more bloodshed."</p> <p>The protests on Friday were organized after the murder of community leader Maria del Pilar Hurtado last month. In a video shared widely on social media, one of Hurtado's young children is seen screaming with grief near her body.</p> <div class="col3 right"> <div class="group"> <div class="standaloneWrap"> <div class="imgTeaserL video" data-media-id="48896055"> <div class="mediaItem" data-media-id="48896055"> <input type="hidden" name="player_type" value="video" /> <input type="hidden" name="file_name" value="https://tvdownloaddw-a.akamaihd.net/dwtv_video/flv/gle/gle20190524_kolumb_sd_vp6.flv" /> <input type="hidden" name="file_duration" value="256" /> <input type="hidden" name="display_date" value="20190527" /> <input type="hidden" name="media_id" value="48896055" /> <input type="hidden" name="media_title" value="Colombia: Refugees in their own country" /> <input type="hidden" name="dk_content" value="false" /> <input type="hidden" name="preview_image" value="/image/46400459_302.jpg" /> <div class="teaserImg" title="Kolumbien venezolanische Flüchtlinge in Bogotá | Flüchtlingslager " el="" camino"="" (dw="" f.="" abondano)"="" alt="Kolumbien venezolanische Flüchtlinge in Bogotá | Flüchtlingslager "> <div class="videoContainer" id="videoContainer-48896055" rel="dynamic videoData for javascript"></div> <div class="playButtonArea"> <div class="customPlayBtn"> <div class="playBtnImgBox"></div> <span class="playBtnText">Watch video</span> <span class="right">04:16</span> </div> </div> </div> <script type="text/javascript">
+DW_PLAYER.shareLocalization = "Share";
+DW_PLAYER.localization = {
+rewind: "Back 10 seconds",
+settings: "Settings",
+hd: "Quality",
+fullscreen: "Full screen",
+cc: "Closed captions",
+nextUp: "Next up",
+playlist: "Playlist",
+pause: "Pause",
+play: "Play",
+player: "Video player",
+prev: "Previous",
+next: "Next",
+close: "Close",
+replay: "Replay",
+volume: "Volume"
+};
+</script> <div class="teaserContentWrap share" style="display:none;"> <div class="buttons"> <span class="button right closeShare"></span> </div> <div class="shareInfo"> <h4>Share</h4> <h2>Colombia: Refugees in their own country</h2> <p> <a class="icon external overlayLink" rel="nofollow" href="#" link="/overlay/send_content/11487/48896055">Send</a> <span dir="ltr"> <a dir="ltr" class="icon fb" target="new" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fp.dw.com%2Fp%2F3JA63%3Ffb" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Refugees%20in%20their%20own%20country', '48896055', '18', 'facebook')">Facebook</a> </span> <span dir="ltr"> <a dir="ltr" class="icon twitter" target="new" rel="nofollow" href="https://twitter.com/intent/tweet?source=webclient&amp;text=Colombia%3A%20Refugees%20in%20their%20own%20country+https%3A%2F%2Fp.dw.com%2Fp%2F3JA63%3Ftw&amp;via=dwnews" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Refugees%20in%20their%20own%20country', '48896055', '18', 'twitter')">Twitter</a> </span> <span dir="ltr"> <a dir="ltr" class="icon google" target="new" rel="nofollow" href="https://plus.google.com/share?hl=en&amp;url=https%3A%2F%2Fp.dw.com%2Fp%2F3JA63%3Fmaca%3Den-google%252B-sharing" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Refugees%20in%20their%20own%20country', '48896055', '18', 'google')">google+</a> </span> <span dir="ltr" class="share_whatsapp"> <a dir="ltr" class="icon share whatsapp" target="new" rel="nofollow" href="whatsapp://send?text=Colombia%3A%20Refugees%20in%20their%20own%20country%20-%20https%3A%2F%2Fp.dw.com%2Fp%2F3JA63%3Fmaca%3Den-Whatsapp-sharing" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Refugees%20in%20their%20own%20country', '48896055', '18', 'whatsapp')">Whatsapp</a> </span> <span dir="ltr" class="share_tumblr"> <a dir="ltr" class="icon share tumblr" target="new" rel="nofollow" href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fp.dw.com%2Fp%2F3JA63%3Fmaca%3Den-Tumblr-sharing&amp;name=Colombia%3A%20Refugees%20in%20their%20own%20country&amp;description={2}" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Refugees%20in%20their%20own%20country', '48896055', '18', 'tumblr')">Tumblr</a> </span> <span dir="ltr" class="share_linkedin"> <a dir="ltr" class="icon share linkedin" target="new" rel="nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fp.dw.com%2Fp%2F3JA63%3Fmaca%3Den-linkedin-sharing&amp;title=Colombia%3A%20Refugees%20in%20their%20own%20country&amp;source=DW.COM" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Refugees%20in%20their%20own%20country', '48896055', '18', 'linkedin')">linkedin</a> </span> <span dir="ltr" class="share_stumbleupon"> <a dir="ltr" class="icon share stumbleupon" target="new" rel="nofollow" href="https://www.stumbleupon.com/submit?url=https%3A%2F%2Fp.dw.com%2Fp%2F3JA63%3Fmaca%3Den-stumble-sharing&amp;title=Colombia%3A%20Refugees%20in%20their%20own%20country" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Refugees%20in%20their%20own%20country', '48896055', '18', 'stumbleupon')">stumble</a> </span> <span dir="ltr" class="share_digg"> <a dir="ltr" class="icon share digg" target="new" rel="nofollow" href="https://digg.com/submit?phase=2&amp;url=https%3A%2F%2Fp.dw.com%2Fp%2F3JA63%3Fmaca%3Den-Digg-sharing&amp;title=Colombia%3A%20Refugees%20in%20their%20own%20country" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Refugees%20in%20their%20own%20country', '48896055', '18', 'digg')">Digg</a> </span> <span dir="ltr" class="share_reddit"> <a dir="ltr" class="icon share reddit" target="new" rel="nofollow" href="https://www.reddit.com/submit?url=https%3A%2F%2Fp.dw.com%2Fp%2F3JA63%3Fmaca%3Den-reddit-sharing" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Refugees%20in%20their%20own%20country', '48896055', '18', 'reddit')">reddit</a> </span> <span dir="ltr" class="share_newsvine"> <a dir="ltr" class="icon share newsvine" target="new" rel="nofollow" href="https://www.newsvine.com/_wine/save?popoff=1&amp;u=https%3A%2F%2Fp.dw.com%2Fp%2F3JA63%3Fmaca%3Den-Newsvine-sharing&amp;tags=&amp;blurb=Colombia%3A%20Refugees%20in%20their%20own%20country" onclick="DWDE.socialMediaTagging.executeAtInternetTracking('2', 'Colombia%3A%20Refugees%20in%20their%20own%20country', '48896055', '18', 'newsvine')">Newsvine</a> </span> </p> <p><strong>Permalink</strong> https://p.dw.com/p/3JA63</p> </div> </div> <div class="teaserContentWrap information"> <h2>Colombia: Refugees in their own country</h2> <span class="icon video"></span> </div> </div> </div> </div> </div> </div> <p>"We want an end to the selective and systematic murder of social leaders ... who are defending the right to live in their territories, the respect for biodiversity, respect for the peace accord," said protester Gloria Cuartas in the capital, Bogota.</p> <p><a href="/en/colombias-president-target-of-planned-terrorist-act/a-48258946">Colombian President Ivan Duque</a> voiced his support for the Friday demonstrations, despite pushback from some in his conservative Democratic Center Party, which opposed the&nbsp;peace deal with the Revolutionary Armed Forces of Colombia (FARC).</p> <p>"We all are the echoes of a single voice because we all reject violence against social leaders," Duque said in a speech from the coastal city of Cartagena.</p> <p><strong>Deadly violence</strong></p> <p>There is disagreement about the exact number of those who have been killed, but Colombia's human rights ombudsman says at least 486 social leaders have been murdered since 2016.</p> <p>The attorney general's office puts the figure at 292, while the peace and development think tank INDEPAZ says up to 734 activists have been killed.</p> <div class="longText"> <!-- PictureGallery --> <div class="gallery col3"> <div class="imgTeaserL slideshow noDim" data-id="43940624" data-title="Colombia's long struggle for peace" data-date="20180526" data-firstcategory="19990023"> <ul class="slides"> <!-- Picture gallery - related image --> <li class="first"> <div class="teaserImg"> <img itemprop="image" src="/image/35968738_303.jpg" title="A demonstration for peace in Colombia (Kaeufer/Moser)" alt="A demonstration for peace in Colombia (Kaeufer/Moser)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Difficult path toward peace</h2> <p>The 2016 signing of the peace accord between the Colombian government and FARC rebels was a major, but not final, step towards ending the decades-long conflict. The deal remains a controversial topic in the country and took center stage during the presidential election.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/18363881_303.jpg" title="Jorge Eliecer Gaitan (Public Domain)" alt="Jorge Eliecer Gaitan (Public Domain)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Land owners vs. farmers</h2> <p>The conflict's origins date to the 1920s and a struggle over land ownership, which claimed thousands of lives. The 1948 murder of Jorge Eliecer Gaitan (photo), a liberal politician, threw the country into deep crisis. A result was the formation of a number of resistance groups; the Colombian army launched a campaign against "communist farmers."</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/18989423_303.jpg" title="Kolumbien Camilo Torres (picture-alliance/AP Photo)" alt="Kolumbien Camilo Torres (picture-alliance/AP Photo)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>FARC and ELN</h2> <p>The Revolutionary Armed Forces of Colombia (FARC) and the National Liberation Army (ELN) were founded in 1964. The former wanted to break up the monopoly of land ownership, whereas the ELN formed out of a radical student movement and ideas of liberation theologians such as Camilo Torres (photo). The Colombian government fought both groups with the support the United States.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/17767468_303.jpg" title="Kolumbian paramilitary member 2000 (Carlos Villalon/Liaison/Getty Images)" alt="Kolumbian paramilitary member 2000 (Carlos Villalon/Liaison/Getty Images)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Paramilitary groups</h2> <p>The conflict deepened in the 1980s with the introduction of right-wing paramilitary groups in the service of the landowners against FARC. Both sides were closely linked to drug cartels. Four presidential candidates and countless left-wing politicians were murdered by paramilitaries between 1986 and 1990.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/16305979_303.jpg" title="Ingrid Betancourt (AFP/Getty Images)" alt="Ingrid Betancourt (AFP/Getty Images)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Ingrid Betancourt kidnapped</h2> <p>In February 2002, the government cut off peace negotiations with FARC after guerrillas hijacked a domestic flight. Days later, the rebels struck again, kidnapping presidential candidate Ingrid Betancourt. Alvaro Uribe went on to win the election that May and escalated military operations against FARC, ruling out further negotiations. He was re-elected in 2007. Betancourt was released in 2008.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/16222058_303.jpg" title="Juan Manuel Santos Friedensgespräch FARC (Reuters)" alt="Juan Manuel Santos Friedensgespräch FARC (Reuters)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Peace talks begin</h2> <p>Juan Manuel Santos was elected president in 2010. Two years later, a law concerning compensation for victims of violence and the return of land came into effect. Peace talks between the government (photo) and FARC officially began that November. </p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/19509966_303.jpg" title="Colombians celebrate the ceasefire in Bogota (Getty Images/AFP/G. Legaria)" alt="Colombians celebrate the ceasefire in Bogota (Getty Images/AFP/G. Legaria)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Ceasefire</h2> <p>At midnight on August 29, 2016, the permanent ceasefire came into force. "A new chapter in Colombia's history begins on August 29," Santos wrote on Twitter. "We have silenced the weapons. The war with FARC is over!"</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/35897274_303.jpg" title="Signing of peace treaty in Colombia (picture-alliance/AP Photo/F. Vergara)" alt="Signing of peace treaty in Colombia (picture-alliance/AP Photo/F. Vergara)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Peace deal with FARC</h2> <p>On September 26, 2016, President Santos and FARC leader Rodrigo Londono, a.k.a. Timochenko, signed the peace treaty, ending the 52-year-old conflict. The signing took place in Cartagena and was attended by 2,500 people.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/36596423_303.jpg" title="People campaigning against peace deal with FARC (picture alliance/AP Photo/I. Valencia)" alt="People campaigning against peace deal with FARC (picture alliance/AP Photo/I. Valencia)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Setback</h2> <p>Distrust in FARC manifested itself in a pre-referendum campaign against the peace treaty, led by the conservative ex-president Alvaro Uribe. To the surprise of many observers, a thin majority of Colombians voted to reject the deal on October 2, 2016.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/36719258_303.jpg" title=" Juan Manuel Santos receives Nobel Peace Prize (Getty Images/AFP/T. Schwarz)" alt=" Juan Manuel Santos receives Nobel Peace Prize (Getty Images/AFP/T. Schwarz)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Peace Prize for Santos</h2> <p>The international community threw its support behind the treaty's supporters. Just five days after it was rejected in a referendum, Santos was awarded the Nobel Peace Prize. The ceremony took place in Oslo in December 2016.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/36937389_303.jpg" title="Colombian parliament in Bogota (Getty Images/AFP/G. Legaria)" alt="Colombian parliament in Bogota (Getty Images/AFP/G. Legaria)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Parliamentary ratification</h2> <p>Colombia's parliament ratified the peace treaty on November 30, 2016, following a list of changes to the deal's original language.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/39429794_303.jpg" title="A UN observer during Colombia's disarmament. (picture alliance/dpa/A. Piñeros)" alt="A UN observer during Colombia's disarmament. (picture alliance/dpa/A. Piñeros)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>Disarmament</h2> <p>FARC rebels gave up their weapons in three phases. On June 27, 2017, at the end of the UN-controlled disarmament process, Santos wrote: "For me and all Colombians, today is a special day. It's a day when weapons were exchanged for words."</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/40336089_303.jpg" title="FARC party leader Rodrigo Londono (Timoschenko) speaks at a congress (picture-alliance/AP Photo/F. Vergara)" alt="FARC party leader Rodrigo Londono (Timoschenko) speaks at a congress (picture-alliance/AP Photo/F. Vergara)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>The new FARC</h2> <p>The now disarmed, former rebel group chose to renew itself as a political party and disavow violence during a convention on August 27, 2017. The guerrilla's founder, Rodrigo Londono (photo), was elected the new party's head. He was unable to run for president, however, due to his poor health.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/42925630_303.jpg" title="Voting booths (Imago/Agencia EFE)" alt="Voting booths (Imago/Agencia EFE)" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Colombia's long struggle for peace</h4> <h2>FARC at the polls</h2> <p>For the first time since the end of the armed conflict, FARC put up its members as candidates in the parliamentary election, which took place on March 11, 2018. The party received just 50,000 votes, but secured five seats in the senate and lower house of parliament, respectively, as guaranteed by the peace treaty. The conservative party of former President Uribe won the election.</p> <p class="author"> Author: Emilia Rojas Sasse </p> </div> </li> </ul> <br class="clearfix" /> <div class="teaserNavWrap"> <div class="slidePagination"> <div style="float: right"> <a class="function tostart" href="javascript:void(0);" rel="nofollow"></a> <a class="function rwd" href="javascript:void(0);" rel="nofollow"></a> <a class="function fwd" href="javascript:void(0);" rel="nofollow"></a> <a class="function toend" href="javascript:void(0);" rel="nofollow"></a> </div> <a class="function playpause" href="javascript:void(0);" rel="nofollow"></a> <span class="slideshowNav"></span> </div> </div> </div> </div> </div> <p>The activists have been targeted by several armed groups including guerillas with the National Liberation Army (ELN) and FARC fighters who have refused to disarm under the deal, as well as criminal gangs.</p> <p>Many of those&nbsp;killed were supporters of environmental causes, and worked to combat illegal mining and drug trafficking.</p> <p>Some also backed programs for farmers who plant coca, <a href="/en/why-is-colombias-cocaine-production-so-high/a-49381157">the base ingredient in cocaine</a>, helping them to substitute their crops for legal crops.</p> <p>The deadly violence has cast a shadow over Colombia's efforts to move forward from over a half century of armed conflict, which has killed some 260,000 people.</p> <div class="longText"> <!-- PictureGallery --> <div class="gallery col3"> <div class="imgTeaserL slideshow noDim" data-id="49078988" data-title="Dutch NGO fights against child sexual exploitation in Colombia" data-date="20190608" data-firstcategory="19990006"> <ul class="slides"> <!-- Picture gallery - related image --> <li class="first"> <div class="teaserImg"> <img itemprop="image" src="/image/48864049_303.jpg" title="Two girls standing on a street" alt="Two girls standing on a street" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Dutch NGO fights against child sexual exploitation in Colombia</h4> <h2>Selling their bodies</h2> <p>In the neighborhood of Santa Fe in Bogota, also known as the "Tolerance Zone," young girls, boys, as well as transvestites stand on the streets to sell sex. The age of consent in Colombia is 14 years old. However, it's still a felony if anyone pays a girl or boy under the age of 18 for sex. Prostitution is legal in Colombia, but limited to brothels and designated zones. </p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/48863999_303.jpg" title="A young girl sitting on the floor" alt="A young girl sitting on the floor" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Dutch NGO fights against child sexual exploitation in Colombia</h4> <h2>A place to feel safe</h2> <p>This young girl is one of the 16 girls at the Renacer Foundation Shelter for victims of commercial sexual exploitation. Commercial sexual exploitation of children consists of child prostitution, child pornography and child trafficking for sexual purposes. The girls and boys in the shelter, aged 7 to 17, stay in a protected area where they are given psychological help and support. </p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/48863848_303.jpg" title="A girl lying on a bed" alt="A girl lying on a bed" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Dutch NGO fights against child sexual exploitation in Colombia</h4> <h2>A roof over their heads</h2> <p>The girls and boys at the shelter each have their own bed and locker for their belongings. On average, they stay for a year. Besides having a roof over their heads and food, they receive psychological help. Some children were abandoned by their families, while others have family who visit them once in a while, but do not have the means to protect them from commercial sexual exploitation. </p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/48863949_303.jpg" title="A girl standing in front of a mural" alt="A girl standing in front of a mural" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Dutch NGO fights against child sexual exploitation in Colombia</h4> <h2>Extreme mood swings</h2> <p>One of the 16 girls at a shelter for victims of commercial sexual exploitation stands in front of a mural of the organization. There are two flags on the wall, representing the different countries of origin. There are Colombian girls, Venezuelans and members of the ethnic Wayuu group. The girls and boys have extreme mood swings, switching from incessant crying to physical violence. </p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/48863645_303.jpg" title="A man standing in front of two posters" alt="A man standing in front of two posters" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Dutch NGO fights against child sexual exploitation in Colombia</h4> <h2>Raising awareness</h2> <p>Mario Gomez is Bogota's public prosecutor, specialized in human trafficking. He is also head of a national campaign to increase awareness of the dangers of job offers that seem too good to be true. Many victims don't want to talk about their situation. Some do not see themselves as victims of commercial sexual exploitation, others are ashamed, or are afraid of retaliation. </p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/48863595_303.jpg" title="A boy sitting on his bed" alt="A boy sitting on his bed" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Dutch NGO fights against child sexual exploitation in Colombia</h4> <h2>Mulling his future</h2> <p>William Plazas, 17, shares his bed with his mother and sister. According to William, many economically disadvantaged people in Colombia, as well as Venezuelans, consider prostitution as a way out. He knows many girls and boys who are sexually exploited, but are not aware of it. For a new mobile phone, young boys and girls will perform sexual favors. </p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/48863544_303.jpg" title="A mother with her son" alt="A mother with her son" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Dutch NGO fights against child sexual exploitation in Colombia</h4> <h2>A strong bond</h2> <p>Luz Angela Lavao, William's mother, is protective of her children because they live so close to Bogota's red light district — especially her 13-year-old daughter, Valentina. William has a strong relationship with his mother and shares everything with her. It was thanks to his mother that William ended up volunteering for Renacer Foundation, where he became involved in prevention projects.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/48863494_303.jpg" title="A girl holding up a drawing" alt="A girl holding up a drawing" />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Dutch NGO fights against child sexual exploitation in Colombia</h4> <h2>Overcoming their trauma</h2> <p>To protect the children, the faces of the victims are not shown. Nor are the children directly asked any questions about their experiences. By drawing and playing games, the extent of their trauma becomes clear. These activities allow them to talk about their hopes and dreams, and — especially in the case of many Venezuelans — what they have had to leave behind.</p> <p class="author"> Author: Eline van Nes (Bogota, Colombia) </p> </div> </li> </ul> <br class="clearfix" /> <div class="teaserNavWrap"> <div class="slidePagination"> <div style="float: right"> <a class="function tostart" href="javascript:void(0);" rel="nofollow"></a> <a class="function rwd" href="javascript:void(0);" rel="nofollow"></a> <a class="function fwd" href="javascript:void(0);" rel="nofollow"></a> <a class="function toend" href="javascript:void(0);" rel="nofollow"></a> </div> <a class="function playpause" href="javascript:void(0);" rel="nofollow"></a> <span class="slideshowNav"></span> </div> </div> </div> </div> </div> <p>rs/cmk&nbsp;(AP, Reuters)</p> <p><a href="https://www.dw.com/en/newsletter-registration/a-15718229" target="_blank" class="icon intern" rel="noopener">Every evening, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.</a></p>
+</div>
+</div>
+<div style="clear:both; height:0; font-size:1px; line-height: 0"></div>
+<!-- detail_toolbox -->
+<h4>DW recommends</h4>
+<div class="group">
+<div class="lineExtra"></div>
+<div class="linkList intern">
+<a href="/en/in-colombia-its-dangerous-to-be-left-wing/a-44131086">
+<h2>
+In Colombia, it's dangerous to be left wing
+</h2>
+<p>As Colombian voters prepare to cast ballots in a presidential runoff between right-winger Ivan Duque and leftist Gustavo Petro, the latter candidate's supporters face deadly enemies. Mira Galanova reports from Colombia. (16.06.2018)
+&nbsp; </p>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/en/colombias-shattered-hopes-of-peace/a-47159388">
+<h2>
+Colombia's shattered hopes of peace
+</h2>
+<p>Fear has returned to Colombia, two years after the government signed a peace deal with FARC rebels. Real peace remains an illusion, as this week’s bomb attack has shown. Ofelia Harms Arruti reports from Bogota. (20.01.2019)
+&nbsp; </p>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/en/why-is-colombias-cocaine-production-so-high/a-49381157">
+<h2>
+Why is Colombia's cocaine production so high?
+</h2>
+<p>Despite antinarcotics efforts backed by the United States and peace accord with FARC rebels, cocaine production reached record levels in 2017. The phenomenon could upend Colombia's push for lasting peace. (27.06.2019)
+&nbsp; </p>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/en/colombias-delicate-peace-process-an-overview/a-43938442">
+<h2>
+Colombia's delicate peace process: An overview
+</h2>
+<p>On Sunday, Colombians head to the polls to pick a new president. Whoever wins will play a crucial role in the country's ongoing peace process. Below, we detail the most important steps taken so far. (26.05.2018)
+&nbsp; </p>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/en/colombias-president-target-of-planned-terrorist-act/a-48258946">
+<h2>
+Colombia's president target of planned 'terrorist act' </h2>
+<p>Colombia's government says it has evidence armed groups were plotting an attack against President Ivan Duque. The attorney general said the alleged scheme involved "a high-precision weapon." (09.04.2019)
+&nbsp; </p>
+</a>
+</div>
+<div class="linkList overlayIcon">
+<a href="/overlay/media/en/dutch-ngo-fights-against-child-sexual-exploitation-in-colombia/49078988/49766325" rel="nofollow" class="overlayLink" link="/overlay/media/en/dutch-ngo-fights-against-child-sexual-exploitation-in-colombia/49078988/49766325">
+<h2>
+Dutch NGO fights child sexual exploitation in Colombia
+</h2>
+<p>The Down To Zero Alliance is trying to end the commercial sexual exploitation of children. Eline van Nes went to Bogota and Riohacha in Colombia to find out more about those efforts. (08.06.2019)<span class='icon pics'></span>
+&nbsp; </p>
+</a>
+</div>
+<div class="linkList overlayIcon">
+<a href="/overlay/media/en/colombias-parks-from-farc-to-tourists/41511012/49766325" rel="nofollow" class="overlayLink" link="/overlay/media/en/colombias-parks-from-farc-to-tourists/41511012/49766325">
+<h2>
+Colombia's parks: From FARC to tourists
+</h2>
+<p>During the armed conflict between Colombia and the FARC, the rebels occupied some of the country's natural treasures. In the year since the peace deal the areas have opened up, with visitor numbers rising sharply. (25.11.2017)<span class='icon pics'></span>
+&nbsp; </p>
+</a>
+</div>
+<div class="linkList overlayIcon">
+<a href="/overlay/media/en/colombias-long-struggle-for-peace/43940624/49766325" rel="nofollow" class="overlayLink" link="/overlay/media/en/colombias-long-struggle-for-peace/43940624/49766325">
+<h2>
+Colombia's long struggle for peace
+</h2>
+<p>Colombia's presidential election is an important milestone towards consolidating the peace accord with FARC guerrillas. It was reached after decades of bloody conflict between the state and the FARC guerrilla groups. (26.05.2018)<span class='icon pics'></span>
+&nbsp; </p>
+</a>
+</div>
+</div>
+<h4>WWW links</h4>
+<div class="group">
+<div class="lineExtra"></div>
+<div class="linkList intern">
+<a href="https://www.dw.com/en/newsletter-registration/a-15718229" rel="noopener" target="_blank">
+<h2>
+DW newsletter
+&nbsp; </h2>
+</a>
+</div>
+</div>
+<h4>Audios and videos on the topic</h4>
+<div class="group">
+<div class="lineExtra"></div>
+<div class="linkList overlayIcon">
+<a href="/overlay/media/en/colombia-refugees-in-their-own-country/48896055/49766325" rel="nofollow" class="overlayLink" link="/overlay/media/en/colombia-refugees-in-their-own-country/48896055/49766325">
+<h2>
+Colombia: Refugees in their own country
+<span class='icon tv'></span> &nbsp; </h2>
+</a>
+</div>
+</div>
+<div class="group">
+<ul class="smallList">
+<li><strong>Date</strong>
+27.07.2019
+</li>
+<!-- ESI fragment of related auto topics -->
+
+
+<li>
+<strong>Keywords</strong>
+<a href="/search/en?languageCode=en&origin=gN&item=Colombia&searchNavigationId=9097"
+rel="nofollow">Colombia</a>,
+<a href="/search/en?languageCode=en&origin=gN&item=peace+deal&searchNavigationId=9097"
+rel="nofollow">peace deal</a>,
+<a href="/search/en?languageCode=en&origin=gN&item=FARC&searchNavigationId=9097"
+rel="nofollow">FARC</a>,
+<a href="/search/en?languageCode=en&origin=gN&item=ELN&searchNavigationId=9097"
+rel="nofollow">ELN</a>
+</li>
+<li><strong>Feedback</strong>: <a class="overlayLink" href="#"
+rel="nofollow"
+link="/overlay/send_feedback/page/30701/49766325">Send us your feedback.</a>
+</li>
+<li>
+<strong>Print</strong>
+<a class="icon print" rel="nofollow" href="javascript:window.print()">Print this page</a>
+</li>
+<li>
+<strong>Permalink</strong>
+https://p.dw.com/p/3MoUf
+</li>
+</ul>
+</div>
+
+<div class="col3 relatedContent">
+<h4 class="meta">Related content</h4>
+<div class="col1" data-id="49381157">
+<div class="news">
+<a href="/en/why-is-colombias-cocaine-production-so-high/a-49381157">
+<div class="teaserImg">
+<img itemprop="image" src="/image/48320265_301.jpg" title="Kolumbien Tumaco im Departamento de Nariño" alt="Kolumbien Tumaco im Departamento de Nariño" /> </div>
+<h2 class="">
+Why is Colombia's cocaine production so high?
+<span class="date">27.06.2019</span>
+</h2>
+<p>Despite antinarcotics efforts backed by the United States and peace accord with FARC rebels, cocaine production reached record levels in 2017. The phenomenon could upend Colombia's push for lasting peace. </p>
+</a>
+</div>
+</div>
+<div class="col1" data-id="48973684">
+<div class="news">
+<a href="/en/colombias-supreme-court-orders-ex-farc-leaders-release/a-48973684">
+<div class="teaserImg">
+<img itemprop="image" src="/image/48973114_301.jpg" title="Kolumbien | Ehemaliger Farc-Führer nach Haftentlassung erneut festgenommen" alt="Kolumbien | Ehemaliger Farc-Führer nach Haftentlassung erneut festgenommen" /> </div>
+<h2 class="">
+Colombia's Supreme Court orders ex-FARC leader's release
+<span class="date">29.05.2019</span>
+</h2>
+<p>Colombia's Supreme Court has ordered that a former leader of the FARC rebel group be released from prison. The move is likely to anger the US, which wants him extradited on suspicion of drug trafficking. </p>
+</a>
+</div>
+</div>
+<div class="col1" data-id="47159388">
+<div class="news">
+<a href="/en/colombias-shattered-hopes-of-peace/a-47159388">
+<div class="teaserImg">
+<img itemprop="image" src="/image/47152840_301.jpg" title="Kolumbien Bogota Bombenanschlag auf Polizeischule " alt="Kolumbien Bogota Bombenanschlag auf Polizeischule " /> </div>
+<h2 class="">
+Colombia's shattered hopes of peace
+<span class="date">20.01.2019</span>
+</h2>
+<p>Fear has returned to Colombia, two years after the government signed a peace deal with FARC rebels. Real peace remains an illusion, as this week’s bomb attack has shown. Ofelia Harms Arruti reports from Bogota. </p>
+</a>
+</div>
+</div>
+</div>
+
+</div>
+<!-- RECHTE SPALTE in DETAIL -->
+<div class="col1 dim">
+<div class="group">
+<ul class="smallList">
+<li><strong>Date</strong>
+27.07.2019
+</li>
+<!-- ESI fragment of related auto topics -->
+
+
+<li>
+<strong>Keywords</strong>
+<a href="/search/en?languageCode=en&origin=gN&item=Colombia&searchNavigationId=9097"
+rel="nofollow">Colombia</a>,
+<a href="/search/en?languageCode=en&origin=gN&item=peace+deal&searchNavigationId=9097"
+rel="nofollow">peace deal</a>,
+<a href="/search/en?languageCode=en&origin=gN&item=FARC&searchNavigationId=9097"
+rel="nofollow">FARC</a>,
+<a href="/search/en?languageCode=en&origin=gN&item=ELN&searchNavigationId=9097"
+rel="nofollow">ELN</a>
+</li>
+<li><a class="icon mail overlayLink" rel="nofollow" href="#"
+link="/overlay/send_feedback/page/30701/49766325">Send us your feedback.</a>
+</li>
+<li>
+<strong>Print</strong>
+<a class="icon print" rel="nofollow" href="javascript:window.print()">Print this page</a>
+</li>
+<li>
+<strong>Permalink</strong>
+https://p.dw.com/p/3MoUf
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col1 dim">
+<!-- GoogleDfP_SquareSmall -->
+<div class="squareAd adWrapper">
+<div id="div--Square_small">
+<div id="squareHeadline" class="adHeadline">Advertisement</div>
+<div id="DW_D_Articles_Square"></div>
+</div>
+</div>
+<!-- End/GoogleDfP_SquareSmall -->
+
+<!-- Accordion Teaser -->
+<div class="col1 accordionTeaser">
+<div class="group accordionOff" id="accordion_43842884" role="tablist"
+data-fsid="43842884">
+<h4>News</h4>
+<div class="news nocontent">
+<a href="/en/nato-afghan-forces-killed-more-civilians-than-taliban-un/a-49797473">
+<h2 class="linkable">
+NATO, Afghan forces killed more civilians than Taliban: UN
+<span class="date">1h ago</span>
+</h2>
+<div class="newsWrapper" data-id="43842884_49797473" data-title="NATO, Afghan forces killed more civilians than Taliban: UN"
+data-date="20190730">
+</div>
+</a>
+</div>
+<div class="news nocontent">
+<a href="/en/conflict-over-resources-164-activists-killed-last-year/a-49797391">
+<h2 class="linkable">
+Conflict over resources: 164 activists killed last year
+<span class="date">1h ago</span>
+</h2>
+<div class="newsWrapper" data-id="43842884_49797391" data-title="Conflict over resources: 164 activists killed last year"
+data-date="20190730">
+</div>
+</a>
+</div>
+<div class="news nocontent">
+<a href="/en/german-environmentalists-urge-ban-on-fireworks-in-major-cities/a-49796894">
+<h2 class="linkable">
+German environmentalists urge ban on fireworks in major cities
+<span class="date">3h ago</span>
+</h2>
+<div class="newsWrapper" data-id="43842884_49796894" data-title="German environmentalists urge ban on fireworks in major cities"
+data-date="20190730">
+</div>
+</a>
+</div>
+<div class="news nocontent">
+<a href="/en/capital-one-data-theft-us-arrests-erratic-hacker/a-49796907">
+<h2 class="linkable">
+Capital One data theft: US arrests &#39;erratic&#39; hacker
+<span class="date">3h ago</span>
+</h2>
+<div class="newsWrapper" data-id="43842884_49796907" data-title="Capital One data theft: US arrests &#39;erratic&#39; hacker"
+data-date="20190730">
+</div>
+</a>
+</div>
+<div class="news nocontent">
+<a href="/en/neymar-rape-case-closed-by-brazilian-police/a-49796470">
+<h2 class="linkable">
+Neymar rape case closed by Brazilian police
+<span class="date">5h ago</span>
+</h2>
+<div class="newsWrapper" data-id="43842884_49796470" data-title="Neymar rape case closed by Brazilian police"
+data-date="20190730">
+</div>
+</a>
+</div>
+</div>
+</div>
+
+<!-- Picture Teaser -->
+<div class="col1 pictureTeaser">
+<div class="group">
+<div class="imgTeaserS
+bottom
+bluedw" id="pictureteaser_43842080">
+<div class="teaserImg">
+<a href="https://www.facebook.com/deutschewellenews/"
+target="_blank"
+rel="nofollow noopener">
+<img itemprop="image" src="/image/41525323_301.jpg" title="Facebook Offizielles Logo" alt="Facebook Offizielles Logo" /> </a>
+</div>
+<div class="teaserContentWrap">
+<a href="https://www.facebook.com/deutschewellenews/"
+target="_blank"
+rel="nofollow noopener">
+<h2>DW News on Facebook
+<span class="date">11.07.2017</span>
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Picture Teaser -->
+<div class="col1 pictureTeaser">
+<div class="group">
+<div class="imgTeaserS
+bottom
+bluedw" id="pictureteaser_43842082">
+<div class="teaserImg">
+<a href="https://twitter.com/dwnews/"
+target="_blank"
+rel="nofollow noopener">
+<img itemprop="image" src="/image/41525319_301.jpg" title="Twitter Offizielles Logo" alt="Twitter Offizielles Logo" /> </a>
+</div>
+<div class="teaserContentWrap">
+<a href="https://twitter.com/dwnews/"
+target="_blank"
+rel="nofollow noopener">
+<h2>Follow @dwnews on Twitter
+<span class="date">11.07.2017</span>
+</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+
+<!-- Footer -->
+<div id="footerSection" style="clear:both;">
+<div id="footerBody">
+<ul class="footer">
+<li><a style="font-weight: bold;" href="/en/top-stories/s-9097"
+title="News and current affairs from Germany and around the world">TOP STORIES</a>
+</li>
+<li><a href="/en/top-stories/germany/s-1432"
+title="Germany| News and in-depth reporting from Berlin and beyond">Germany</a></li>
+<li><a href="/en/top-stories/brexit/s-32798"
+title="Latest Brexit news - what happens when the UK leaves the EU">Brexit</a></li>
+<li><a href="/en/top-stories/world/s-1429"
+title="World| Breakings news and perspectives from around the globe">World</a></li>
+<li><a href="/en/top-stories/business/s-1431"
+title="Business| Economy and finance news from a German perspective">Business</a></li>
+<li><a href="/en/top-stories/science/s-12526"
+title="Science| In-depth reporting on science and technology">Science</a></li>
+<li><a href="/en/top-stories/environment/s-11798"
+title="Environment| All topics from climate change to conservation">Environment</a></li>
+<li><a href="/en/top-stories/culture/s-1441"
+title="Culture| Arts, music and lifestyle reporting from Germany">Culture</a></li>
+<li><a href="/en/top-stories/sports/s-8171"
+title="Sports| German football and major international sports news">Sports</a></li>
+<li>&nbsp;</li>
+<li><a href="/en/a-z-index/index-en">A - Z Index</a></li>
+</ul>
+<ul class="footer">
+<li><a style="font-weight: bold;" href="/en/media-center/s-100824"
+title="Media Center">MEDIA CENTER</a>
+</li>
+<li><a href="/en/media-center/live-tv/s-100825"
+title="Watch DW's TV live streams online: Breaking news 24/7">Live TV</a></li>
+<li><a href="/en/media-center/all-media-content/s-100826"
+title="All media content">All media content</a></li>
+<li><a href="/en/media-center/latest-programs/s-100827"
+title="Latest Programs">Latest Programs</a></li>
+<li><a href="/en/media-center/podcasts/s-100977"
+title="Podcasts">Podcasts</a></li>
+</ul>
+<ul class="footer">
+<li><a style="font-weight: bold;" href="/en/tv/s-1452"
+title="TV">TV</a>
+</li>
+<li><a href="/en/tv/schedule-and-reception/s-4757"
+title="Schedule and Reception">Schedule and Reception</a></li>
+<li><a href="/en/tv/tv-programs/s-9103"
+title="TV Programs">TV Programs</a></li>
+<li>&nbsp;</li>
+<li><a style="font-weight: bold;" href="/en/radio/s-32771"
+title="RADIO">RADIO</a>
+</li>
+</ul>
+<ul class="footer">
+<li><a style="font-weight: bold;" href="/en/learn-german/s-2469"
+title="LEARN GERMAN">LEARN GERMAN</a>
+</li>
+<li><a href="/en/learn-german/german-courses/s-2547"
+title="German Courses">German Courses</a></li>
+<li><a href="/deutsch-lernen/deutsch-xxl/s-12376"
+title="German XXL">German XXL</a></li>
+<li><a href="/deutsch-lernen/community-d/s-9035"
+title="Community D">Community D</a></li>
+<li><a href="/deutsch-lernen/deutsch-unterrichten/s-2233"
+title="Teaching German">Teaching German</a></li>
+</ul>
+<ul class="footer">
+<li><a style="font-weight: bold;" href="/en/about-dw/profile/s-30688"
+title="ABOUT DW">ABOUT DW</a>
+</li>
+<li><a href="/en/about-dw/profile/s-30688"
+title="Who we are">Who we are</a></li>
+<li><a href="/en/about-dw/press/s-3293"
+title="Press">Press</a></li>
+<li><a href="/en/about-dw/gmf/s-43101535"
+title="Global Media Forum">GMF</a></li>
+<li><a href="/en/about-dw/business-sales/s-3303"
+title="Business & Sales">Business & Sales</a></li>
+<li><a href="https://dwadsales.com/"
+title="Advertising">Advertising</a></li>
+<li><a href="/en/about-dw/travel/s-3972"
+title="Travel Distribution">Travel</a></li>
+</ul>
+<ul class="footer">
+<li><a style="font-weight: bold;" href="/en/service/reception/s-6809"
+title="Service">SERVICE</a>
+</li>
+<li><a href="/en/service/reception/s-6809"
+title="Receiving Deutsche Welle's TV programming in your area">Reception</a></li>
+<li><a href="/en/service/mobile/s-8733"
+title="Mobile">Mobile</a></li>
+<li><a href="/en/service/smart-tv/s-32864"
+title="DW Smart TV Apps for Apple TV, Android TV, Sony, LG, Samsung">Smart TV</a></li>
+<li><a href="/newsletter-registration/a-15718229"
+title="Newsletters & Co.">Newsletters & Co.</a></li>
+<li><a href="/en/service/faq/s-30600"
+title="FAQ: Answers to frequently asked questions at DW">FAQ</a></li>
+<li><a href="/en/service/contact/s-30606"
+title="Deutsche Welle contact information">Contact</a></li>
+<li>&nbsp;</li>
+<li><a style="font-weight: bold;" href="/en/dw-akademie/about-us/s-9519"
+title="DW AKADEMIE">DW AKADEMIE</a>
+</li>
+<li><a href="/en/dw-akademie/about-us/s-9519"
+title="About us">About us</a></li>
+<li><a href="/en/dw-akademie/media-development/s-12120"
+title="Media Development">Media Development</a></li>
+<li><a href="/en/dw-akademie/masters-degree/s-12276"
+title="Master's Degree">Master's Degree</a></li>
+<li><a href="/en/dw-akademie/traineeship/s-12130"
+title="Traineeship">Traineeship</a></li>
+<li><a href="/en/dw-akademie/training/s-12125"
+title="Training">Training</a></li>
+</ul>
+<p id="copyright">
+© 2019 Deutsche Welle |
+<a href="/en/european-union-general-data-protection-regulationgdpr-valid-may-25-2018/a-18265246">Privacy Policy</a> |
+<a href="/imprint">Legal notice</a> |
+<a href="/contact">Contact</a>
+| <a id="mobilePreferredLink" href="https://m.dw.com/en/colombia-thousands-protest-against-activist-slayings/a-49766325">Mobile version</a>
+</p>
+</div></div>
+<!-- /Footer -->
+</div>
+</div>
+<script type='text/javascript'>
+function loadChartbeat() {
+window._sf_async_config = JSON.parse(window.localStorage.getItem('chartbeatConf')) || {};
+_sf_async_config.sections = 'english,english-Detailseite,News';
+_sf_async_config.authors = '';
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+document.body.appendChild(e);
+}
+document.addEventListener('DOMContentLoaded', function () {
+if (DWDE.dsgvo.isStoringCookiesOkay()) {
+loadChartbeat();
+}
+});
+</script></body>
+</html>

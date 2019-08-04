@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <title>Five Sudanese protesters shot dead ahead of talks | The Guardian Nigeria News - Nigeria and World NewsWorld &mdash; The Guardian Nigeria News &#8211; Nigeria and World News</title>
+    <script>
+        if (!(/(android|bb\d+|meego)|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od|ad)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent))) {
+            window.location.href = 'https://guardian.ng' + window.location.pathname;
+        } else if (screen.width >= 500) {
+            var href = document.location.href;
+            if (document.referrer && document.referrer.match(/webvisor.com/)) {
+                // Ignore
+            } else {
+                var t_url = href.replace('//m.', '//t.');
+                if (t_url != href) {
+                    window.location = t_url;
+                }
+            }
+        } else if (screen.height > 320) {
+            // Fixed top menu
+            document.addEventListener("DOMContentLoaded", function(event) {
+                var $header = jQuery('#logobar');
+                var h = $header.height();
+                $header.css({
+                    'position' : 'fixed',
+					'top' : '0'
+                });
+                jQuery('body').css('padding-top', h + 'px');
+            });
+		}
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-45510343-1', 'auto', {'siteSpeedSampleRate' : 100});
+  ga('send', 'pageview');
+
+	</script>
+	
+<!-- This site is optimized with the Yoast SEO Premium plugin v9.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Five Sudanese demonstrators including students were shot dead Monday during a rally attended by schoolchildren against a shortage of bread, a day before protest leaders and the ruling generals hold fresh talks."/>
+<link rel="canonical" href="https://m.guardian.ng/news/world/five-sudanese-protesters-shot-dead-ahead-of-talks/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Five Sudanese protesters shot dead ahead of talks | The Guardian Nigeria News - Nigeria and World News" />
+<meta property="og:description" content="Five Sudanese demonstrators including students were shot dead Monday during a rally attended by schoolchildren against a shortage of bread, a day before protest leaders and the ruling generals hold fresh talks." />
+<meta property="og:url" content="https://m.guardian.ng/news/world/five-sudanese-protesters-shot-dead-ahead-of-talks/" />
+<meta property="og:site_name" content="The Guardian Nigeria News - Nigeria and World News" />
+<meta property="article:publisher" content="https://www.facebook.com/ngrguardian" />
+<meta property="article:tag" content="Sudan" />
+<meta property="article:section" content="World" />
+<meta property="article:published_time" content="2019-07-29T15:18:26+00:00" />
+<meta property="og:image" content="https://guardian.ng/wp-content/uploads/2019/07/Sudan-8.jpg" />
+<meta property="og:image:secure_url" content="https://guardian.ng/wp-content/uploads/2019/07/Sudan-8.jpg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Five Sudanese demonstrators including students were shot dead Monday during a rally attended by schoolchildren against a shortage of bread, a day before protest leaders and the ruling generals hold fresh talks." />
+<meta name="twitter:title" content="Five Sudanese protesters shot dead ahead of talks | The Guardian Nigeria News - Nigeria and World News" />
+<meta name="twitter:site" content="@NGRGUARDIANNEWS" />
+<meta name="twitter:image" content="https://guardian.ng/wp-content/uploads/2019/07/Sudan-8.jpg" />
+<meta name="twitter:creator" content="@NGRGUARDIANNEWS" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//api.ravepay.co' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Guardian Nigeria News - Nigeria and World News &raquo; Five Sudanese protesters shot dead ahead of talks Comments Feed" href="https://m.guardian.ng/news/world/five-sudanese-protesters-shot-dead-ahead-of-talks/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/m.guardian.ng\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='changeofname-style-css'  href='https://guardian.ng/wp-content/plugins/change-of-name/public/css/change_of_name.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='exchange_rates_style-css'  href='https://guardian.ng/wp-content/plugins/ventra-exchange-monitor/css/exchange_rate.css?ver=1.02' type='text/css' media='all' />
+<link rel='stylesheet' id='ventra-wp-gallery-css-css'  href='https://guardian.ng/wp-content/plugins/ventra-gallery/css/gallery.css?ver=1.03' type='text/css' media='all' />
+<link rel='stylesheet' id='stock_ticker_style-css'  href='https://guardian.ng/wp-content/plugins/ventra-stock/css/stock_ticker.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lato-font-css'  href='https://fonts.googleapis.com/css?family=Lato%3A400%2C100%2C100italic%2C300%2C300italic%2C400italic%2C700%2C700italic%2C900%2C900italic&#038;ver=1.66' type='text/css' media='all' />
+<link rel='stylesheet' id='g16-main-css-css'  href='https://guardian.ng/wp-content/themes/guardian2016/mobile.css?ver=1.66' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://m.guardian.ng/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://m.guardian.ng/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://guardian.ng/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.5" />
+<link rel='shortlink' href='https://m.guardian.ng/?p=982766' />
+<link rel="alternate" type="application/json+oembed" href="https://m.guardian.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fm.guardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://m.guardian.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fm.guardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F&#038;format=xml" />
+<link rel="amphtml" href="https://m.guardian.ng/news/world/five-sudanese-protesters-shot-dead-ahead-of-talks/amp">    <script src="//www.googletagservices.com/tag/js/gpt.js" async type="text/javascript"></script>
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+            <script async='async' type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+        <script>
+          window.Criteo = window.Criteo || {};
+          window.Criteo.events = window.Criteo.events || [];
+        </script>
+        	<link rel="canonical" href="https://guardian.ng/news/world/five-sudanese-protesters-shot-dead-ahead-of-talks/" />
+
+	<meta property="fb:app_id" content="1056657517707298">
+    <meta property="og:url" content="https://guardian.ng/news/world/five-sudanese-protesters-shot-dead-ahead-of-talks/">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Five Sudanese protesters shot dead ahead of talks">
+    <meta property="og:description" content="Five Sudanese demonstrators including students were shot dead Monday during a rally attended by schoolchildren against a shortage of bread, a day before protest leaders and the ruling generals hold fresh talks.
+">
+    <meta property="og:image" content="https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-640x360.jpg">    <meta name="description" content="Five Sudanese demonstrators including students were shot dead Monday during a rally attended by schoolchildren against a shortage of bread, a day before protest leaders and the ruling generals hold fresh talks.
+">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@GuardianNigeria">
+    <meta name="twitter:title" content="Five Sudanese protesters shot dead ahead of talks">
+    <meta name="twitter:description" content="Five Sudanese demonstrators including students were shot dead Monday during a rally attended by schoolchildren against a shortage of bread, a day before protest leaders and the ruling generals hold fresh talks.
+">
+    <meta name="twitter:image" content="https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-640x360.jpg"><meta name="news_keywords" content="Sudan"><!-- Facebook Pixel Code -->
+<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+		document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '247107802609931');
+	fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=247107802609931&ev=PageView&noscript=1"
+	/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+	    		<script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({article:'auto'});
+            !function (e, f, u, i) {
+                if (!document.getElementById(i)){
+                    e.async = 1;
+                    e.src = u;
+                    e.id = i;
+                    f.parentNode.insertBefore(e, f);
+                }
+            }(document.createElement('script'),
+                document.getElementsByTagName('script')[0],
+                '//cdn.taboola.com/libtrc/guardianng/loader.js',
+                'tb_loader_script');
+            if(window.performance && typeof window.performance.mark == 'function')
+            {window.performance.mark('tbl_ic');}
+		</script>
+        <script>
+    !function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"4306aab6-6613-49be-bf56-cbe85e2ec46c","00269301-469f-48de-bc85-d0cdd07a4300",{});
+    var _permutiveGetMetaData=function(){for(var t={},e=document.getElementsByTagName("meta"),r=0;r<e.length;r++)switch(e[r].getAttribute("name")){case"author":t.author=e[r].getAttribute("content");break;case"description":t.description=e[r].getAttribute("content");break;case"keywords":t.keywords=e[r].getAttribute("content")}return t},_permutiveGetOpenGraphData=function(){for(var t={article:{}},e=document.getElementsByTagName("meta"),r=0;r<e.length;r++)switch(e[r].getAttribute("property")){case"og:title":t.title=e[r].getAttribute("content");break;case"og:type":t.type=e[r].getAttribute("content");break;case"og:description":t.description=e[r].getAttribute("content");break;case"og:url":t.url=e[r].getAttribute("content");break;case"og:locale":t.locale=e[r].getAttribute("content");break;case"article:author":t.article.author=e[r].getAttribute("content");break;case"article:section":t.article.section=e[r].getAttribute("content");break;case"article:tag":var a=t.article.tags||[];a.push(e[r].getAttribute("content")),t.article.tags=a}return t};
+    permutive.addon("web", { page: {
+            meta: _permutiveGetMetaData(),
+            og: _permutiveGetOpenGraphData()
+        }});
+</script>
+<script async src="https://cdn.permutive.com/4306aab6-6613-49be-bf56-cbe85e2ec46c-async.js"></script>
+<script>
+    googletag.cmd.push(function() {
+        if (googletag.pubads().getTargeting('permutive').length == 0) {
+            var kvs = localStorage.getItem('_pdfps');
+            googletag.pubads().setTargeting('permutive', kvs ? JSON.parse(kvs) : []); }
+    });
+</script></head><body class="post-template-default single single-post postid-982766 single-format-standard mobile article-category-world section-page">
+<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M9K22G"
+		                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-M9K22G');</script>
+		<!-- End Google Tag Manager --><a name="top"></a>
+<header>
+	<div class="content table" id="logobar">
+		<div class="row">
+			<div class="cell logo">
+				
+					<a href="/"><img src="https://guardian.ng/wp-content/themes/guardian2016/img/gdn_icon.png" srcset="https://guardian.ng/wp-content/themes/guardian2016/img/gdn_icon.png 1x,https://guardian.ng/wp-content/themes/guardian2016/img/gdn_icon@2x.png 2x" class="guardian-icon" width="15" height="24" alt="The Guardian"></a>
+											<a href="https://m.guardian.ng/category/news/world/" class="category-headline">
+							<img class="headline-image category-image" src="https://guardian.ng/wp-content/uploads/headlines/World_24_-4_072247.png" srcset="https://guardian.ng/wp-content/uploads/headlines/World_24_-4_072247.png 1x,https://guardian.ng/wp-content/uploads/headlines/World_48_-4_072247.png 2x" alt="World">
+						</a>
+												</div>
+			<div id="site-menu" class="cell">
+				<a href="https://m.guardian.ng/newsletter" class="email-subscription"><img src="https://guardian.ng/wp-content/themes/guardian2016/img/mobile_email_icon.png" srcset="https://guardian.ng/wp-content/themes/guardian2016/img/mobile_email_icon.png 1x,https://guardian.ng/wp-content/themes/guardian2016/img/mobile_email_icon@2x.png 2x" width="30" height="30"></a>
+				<div id="more-sections" class="mobile-menu-button" data-menu="sections-menu">
+					<a class="full-height" href="#site-map">
+						&nbsp;
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="content menu-content" style="position:relative">
+		<div id="sections-menu" class="mobile-menu" data-width-as="menu-row">
+			<form role="search" method="GET" id="searchform" class="searchform" action="/">
+				<input type="text" name="s" class="search" placeholder="Search Guardian Newspaper">
+				<button type="submit" class="nodisplay">Go</button>
+			</form>
+			<ul>                <li>
+                    <a href="/">Home</a>
+                </li>
+                            <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/news/nigeria/">Nigeria</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/news/nigeria/national/">National</a></li><li><a href="https://m.guardian.ng/category/news/nigeria/metro/">Metro</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/news/world/">World</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/news/world/africa/">Africa</a></li><li><a href="https://m.guardian.ng/category/news/world/asia/">Asia</a></li><li><a href="https://m.guardian.ng/category/news/world/europe/">Europe</a></li><li><a href="https://m.guardian.ng/category/news/world/us/">US</a></li>                </ul>
+            </li>
+                        <li>
+                    <a href="https://m.guardian.ng/category/politics/">Politics</a>
+                </li>
+                            <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/sport/">Sport</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/sport/football/">Football</a></li><li><a href="https://m.guardian.ng/category/sport/boxing/">Boxing</a></li><li><a href="https://m.guardian.ng/category/sport/athletics/">Athletics</a></li><li><a href="https://m.guardian.ng/category/sport/tennis/">Tennis</a></li><li><a href="https://m.guardian.ng/category/sport/other/">Other Sports</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/opinion/">Opinion</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/opinion/editorial/">Editorial</a></li><li><a href="https://guardian.ng/contributors/">Contributors</a></li><li><a href="https://m.guardian.ng/category/opinion/columnists/">Columnists</a></li><li><a href="https://m.guardian.ng/category/opinion/cartoons/">Cartoons</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/business-services/">Business</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/appointments/">Appointments</a></li><li><a href="https://m.guardian.ng/category/business-services/business/">Business News</a></li><li><a href="https://m.guardian.ng/category/business-services/business-roundup/">Business RoundUp</a></li><li><a href="https://m.guardian.ng/category/business-services/industry/">Industry</a></li><li><a href="https://m.guardian.ng/category/business-services/aviation-business/">Aviation</a></li><li><a href="https://m.guardian.ng/category/business-services/capital-market/">Capital Market</a></li><li><a href="https://m.guardian.ng/category/technology/communications/">Communications</a></li><li><a href="https://m.guardian.ng/category/energy/">Energy</a></li><li><a href="https://m.guardian.ng/category/energy/drillbytes/">DrillBytes</a></li><li><a href="https://m.guardian.ng/category/business-services/maritime/">Maritime</a></li><li><a href="https://m.guardian.ng/category/business-services/money/">Money</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/technology/">Technology</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/technology/technology-technology/">Gadgets</a></li><li><a href="https://m.guardian.ng/category/technology/telecoms/">Telecoms</a></li><li><a href="https://m.guardian.ng/category/technology/social-media/">Social Media</a></li><li><a href="https://m.guardian.ng/category/technology/c55-technology/">Technology</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/life/">Guardian Life</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/life/beauty/">Beauty</a></li><li><a href="https://m.guardian.ng/category/life/culture-lifestyle/">Culture</a></li><li><a href="https://m.guardian.ng/category/life/events/">Events</a></li><li><a href="https://m.guardian.ng/category/life/life-features/">Features</a></li><li><a href="https://m.guardian.ng/category/life/food/">Food</a></li><li><a href="https://m.guardian.ng/category/life/film/">Film</a></li><li><a href="https://m.guardian.ng/category/life/love-and-relationships/">Love and Relationships</a></li><li><a href="https://m.guardian.ng/category/life/music/">Music</a></li><li><a href="https://m.guardian.ng/category/life/odd-news/">Odd News</a></li><li><a href="https://m.guardian.ng/category/life/on-the-cover/">On The Cover</a></li><li><a href="https://m.guardian.ng/category/life/spotlight/">Spotlight</a></li><li><a href="https://m.guardian.ng/category/life/style/">Style</a></li><li><a href="https://m.guardian.ng/category/life/travel-and-places/">Travel and Places</a></li><li><a href="https://m.guardian.ng/category/life/wellness/">Wellness</a></li><li><a href="https://m.guardian.ng/category/life/whatsnew/">What&#039;s New</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/art/">Guardian Arts</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/art/c74-arts/">Arts</a></li><li><a href="https://m.guardian.ng/category/art/art-house/">Art House</a></li><li><a href="https://m.guardian.ng/category/art/arts-folk/">Artfolk</a></li><li><a href="https://m.guardian.ng/category/art/revue/">Revue</a></li><li><a href="https://m.guardian.ng/category/art/literature/">Literature</a></li><li><a href="https://m.guardian.ng/category/art/theatre/">Theatre</a></li><li><a href="https://m.guardian.ng/category/art/visual-arts/">Visual Arts</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/features/">Features</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/features/gender-politics/">Gender</a></li><li><a href="https://m.guardian.ng/category/features/agro-care/">BusinessAgro</a></li><li><a href="https://m.guardian.ng/category/features/education/">Education</a></li><li><a href="https://m.guardian.ng/category/features/executive-motoring/">Executive Motoring</a></li><li><a href="https://m.guardian.ng/category/features/executive-briefs/">Executive Briefs</a></li><li><a href="https://m.guardian.ng/category/features/focus/">Focus</a></li><li><a href="https://m.guardian.ng/category/features/friday-worship/">Friday Worship</a></li><li><a href="https://m.guardian.ng/category/features/health/">Health</a></li><li><a href="https://m.guardian.ng/category/features/law/">Law</a></li><li><a href="https://m.guardian.ng/category/features/media/">Media</a></li><li><a href="https://m.guardian.ng/category/features/science/">Science</a></li><li><a href="https://m.guardian.ng/category/features/youthspeak/">Youth Speak</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/guardian-woman/">Guardian Woman</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/guardian-woman/entrepreneurship/">Entrepreneurship</a></li><li><a href="https://m.guardian.ng/category/guardian-woman/gw-fiction/">GW Fiction</a></li><li><a href="https://m.guardian.ng/category/guardian-woman/personality/">Personality</a></li><li><a href="https://m.guardian.ng/category/guardian-woman/issues/">Issues</a></li><li><a href="https://m.guardian.ng/category/guardian-woman/wimbiz/">WIMBIZ</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/guardian-angels/">Guardian Angels</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/guardian-angels/commentary/">Commentary</a></li><li><a href="https://m.guardian.ng/category/guardian-angels/corporate-social-responsibility/">Corporate Social Responsibility</a></li><li><a href="https://m.guardian.ng/category/guardian-angels/philanthropy/">Philanthropy</a></li><li><a href="https://m.guardian.ng/category/guardian-angels/social-impact/">Social Impact</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/property/">Property</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/property/environment/">Environment</a></li><li><a href="https://m.guardian.ng/category/property/mortgage-finance/">Mortgage Finance</a></li><li><a href="https://m.guardian.ng/category/property/real-estate/">Real Estate</a></li><li><a href="https://m.guardian.ng/category/property/urban-development/">Urban Development</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/saturday-magazine/">Saturday Magazine</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/saturday-magazine/youth-magazine/">Youth Magazine</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/just-human/">Just Human</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/life-a-style/">Life &amp; Style</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/love-a-life/">Love &amp; Life</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/transition/">Transition</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/travel-a-tourism/">Travel &amp; Tourism</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/celebrity/">Celebrity</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/brand-intelligence/">Brand Intelligence</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/gardening/">Gardening</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/weekend-beats/">Weekend Beats</a></li>                </ul>
+            </li>
+                    <li class="collapsed">
+                <button class="expand-button"></button>
+                <a href="https://m.guardian.ng/category/sunday-magazine/">Sunday Magazine</a>
+                <ul>
+                    <li><a href="https://m.guardian.ng/category/sunday-magazine/ibru-ecumenical-centre/">Ibru Ecumenical Centre</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/campus/">Campus</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/cityfile/">CityFile</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/newsfeature/">News Feature</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/living-healthy-diet/">Living Healthy Diet</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/living-wellbeing/">Living Wellbeing</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/newspeople-a-goodpeople/">Newspeople</a></li>                </ul>
+            </li>
+                        <li>
+                    <a href="https://games.guardian.ng/">Games</a>
+                </li>
+                </ul>			<div class="table social-table">
+				<a href="https://tv.guardian.ng/"><img src="https://guardian.ng/wp-content/themes/guardian2016/img/guardiantv.png" srcset="https://guardian.ng/wp-content/themes/guardian2016/img/guardiantv.png 1x,https://guardian.ng/wp-content/themes/guardian2016/img/guardiantv@2x.png 2x" width="88" height="16" alt="Guardian TV"></a>
+				<a href="https://www.facebook.com/guardianng" target="_blank"><img src="https://guardian.ng/wp-content/themes/guardian2016/img/facebook.png" srcset="https://guardian.ng/wp-content/themes/guardian2016/img/facebook.png 1x,https://guardian.ng/wp-content/themes/guardian2016/img/facebook@2x.png 2x" width="25" height="25" alt="Facebook"></a>
+								<a href="https://www.instagram.com/guardiannigeria/" target="_blank"><img src="https://guardian.ng/wp-content/themes/guardian2016/img/instagram.png" srcset="https://guardian.ng/wp-content/themes/guardian2016/img/instagram.png 1x,https://guardian.ng/wp-content/themes/guardian2016/img/instagram@2x.png 2x" width="25" height="25" alt="Instagram"></a>
+				<a href="https://twitter.com/GuardianNigeria" target="_blank"><img src="https://guardian.ng/wp-content/themes/guardian2016/img/twitter.png" srcset="https://guardian.ng/wp-content/themes/guardian2016/img/twitter.png 1x,https://guardian.ng/wp-content/themes/guardian2016/img/twitter@2x.png 2x" width="25" height="25" alt="Twitter"></a>
+				<a href="http://www.pin.bbm.com/C002642B8" target="_blank" id="bbm-link"><img src="https://guardian.ng/wp-content/themes/guardian2016/img/bbm.png" srcset="https://guardian.ng/wp-content/themes/guardian2016/img/bbm.png 1x,https://guardian.ng/wp-content/themes/guardian2016/img/bbm@2x.png 2x" width="25" height="25" alt="BBM"></a>
+			</div>
+		</div>
+	</div>
+
+</header>
+	<div id="adspace-top">
+		<div class="box">
+        		    <div style="width: 100%; overflow: hidden">
+			    <div id='ventra-dfp-1' class='dfp-ad ad-container' style='margin: 15px auto; height:auto; min-height:100px; width: 300px;'>
+				    				    			    </div>
+		    </div>
+	    </div>	</div>
+	<div class="content page-content mobile-page">
+<main>
+		<div class="category-header"><a href="https://m.guardian.ng/category/news/world/africa/">Africa</a> &nbsp;		</div>
+		<h1 class="after-category">Five Sudanese protesters shot dead ahead of talks</h1>
+		<div class="meta">
+			<div class="single-article-author">
+										By <strong>AFP</strong>
+									</div>
+			<div class="manual-age single-article-datetime">
+				29 July 2019 &nbsp; | &nbsp;
+				3:18 pm			</div>
+		</div>
+
+		<div class="social-share">
+			    <a class="facebook" href="https://www.facebook.com/dialog/share?app_id=1056657517707298&amp;display=popup&amp;href=https%3A%2F%2Fguardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F" onclick="window.open(this.href, '_blank','left=20,top=20,width=500,height=300,toolbar=0,resizable=0'); return false;"><span>Share on Facebook</span></a>
+    <a class="twitter" href="https://twitter.com/share?url=https%3A%2F%2Fguardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F&amp;text=Five+Sudanese+protesters+shot+dead+ahead+of+talks" onclick="window.open(this.href, '_blank','left=20,top=20,width=500,height=300,toolbar=0,resizable=0'); return false;"><span>Share on Twitter</span></a>
+    <a class="google-plus" href="https://plus.google.com/share?url=https%3A%2F%2Fguardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F" onclick="window.open(this.href, '_blank','left=20,top=20,width=500,height=500,toolbar=0,resizable=0'); return false;"><span>Share on Google+</span></a>
+    <a target="_blank" class="whatsapp" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fguardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F"><span>Share on WhatsApp</span></a>
+
+    
+	<a class="mail" href="mailto:?body=https%3A%2F%2Fguardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F&amp;subject=Five Sudanese protesters shot dead ahead of talks"><span>Share via Email</span></a>
+    		</div>
+
+		<article data-io-article-url="https://m.guardian.ng/news/world/five-sudanese-protesters-shot-dead-ahead-of-talks/" data-post-type="post" data-post-id="982766">
+		<p><div id="attachment_982771"class="wp-caption alignnone" ><img src="https://guardian.ng/wp-content/plugins/ventra-lazy-load/images/1x1.trans.gif" data-lazy-src="https://guardian.ng/wp-content/uploads/2019/07/Sudan-8.jpg" data-lazy-srcset="https://guardian.ng/wp-content/uploads/2019/07/Sudan-8.jpg 1280w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-640x360.jpg 640w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-1062x598.jpg 1062w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-320x180.jpg 320w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-281x158.jpg 281w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-562x316.jpg 562w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-531x299.jpg 531w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-487x274.jpg 487w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-974x548.jpg 974w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-600x338.jpg 600w" alt width="1280" height="720" class="size-full wp-image-982771 lazyload" sizes="(max-width: 1280px) 100vw, 1280px"><noscript><img src="https://guardian.ng/wp-content/uploads/2019/07/Sudan-8.jpg" alt="" width="1280" height="720" class="size-full wp-image-982771 lazyload" srcset="https://guardian.ng/wp-content/uploads/2019/07/Sudan-8.jpg 1280w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-640x360.jpg 640w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-1062x598.jpg 1062w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-320x180.jpg 320w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-281x158.jpg 281w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-562x316.jpg 562w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-531x299.jpg 531w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-487x274.jpg 487w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-974x548.jpg 974w,https://guardian.ng/wp-content/uploads/2019/07/Sudan-8-600x338.jpg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript><p class="wp-caption-text">Protesters chant slogans and burn tyres during a demonstration against a report of the Attorney-General on the dissolution of the sit-in protest in Khartoum, Sudan July 27, 2019. REUTERS/Mohamed Nureldin Abdallah</p></div>Five Sudanese demonstrators including students were shot dead Monday during a rally attended by schoolchildren against a shortage of bread, a day before protest leaders and the ruling generals hold fresh talks.</p>
+<p>The authorities announced a night-time curfew in four towns following the deaths in the central town of Al-Obeid.</p>
+<p>The generals and protest leaders have already inked a power-sharing deal that aims to set up a joint civilian-military ruling body which in turn would install civilian rule.</p>
+<div class="ad-align-none"><div class="box">
+        		    <div style="width: 100%; overflow: hidden">
+			    <div id='ventra-dfp-2' class='dfp-ad ad-container' style='margin: 15px auto; height:250px; width: 300px;'>
+				    				    			    </div>
+		    </div>
+	    </div></div>
+<p>That is the main demand of a nationwide protest movement that led to the April ouster of longtime leader Omar al-Bashir and has since demanded that the military council which took his place cede power to civilians.</p>
+<p>But on the eve of Tuesday&#8217;s talks aimed at resolving the remaining issues over transferring power, five protesters including four students were killed in Al-Obeid, the capital of North Kordofan state, a doctors committee linked to the protest movement said.</p>
+<p>&#8220;Five martyrs succumbed to direct wounds from sniper bullets during a peaceful rally in Al-Obeid,&#8221; the committee said in a statement.</p>
+<p>A key protest group, the Sudanese Professionals Association, said that &#8220;live ammunition&#8221; had been used against what it said was a student rally.</p>
+<p>&#8220;We are calling on all citizens and medics to go to the emergency ward of Al-Obeid hospital and other hospitals that are receiving the wounded from the live ammunition fired on the rally of school students,&#8221; the group said on its Facebook page.</p>
+<p>The office of North Kordofan&#8217;s governor said a curfew would be imposed indefinitely from 9:00 pm to 6:00 am in four towns including Al-Obeid starting on Monday, adding that all schools in the province had been told to suspend classes.</p>
+<p><strong> Call for suspending talks </strong><br />
+Residents of Al-Obeid said the rally was against a shortage of bread and fuel in the town.</p>
+<p>&#8220;For the past few days there has been a shortage of fuel and bread,&#8221; a resident told AFP by telephone.</p>
+<p>&#8220;School children were affected as there is no transport to help them reach their schools. Today, they staged a rally and when it reached downtown there were shots fired.&#8221;</p>
+<p>It was the tripling of bread prices that initially triggered protests against Bashir, which later turned into a nationwide movement.</p>
+<p>The town of Al-Obeid had not witnessed any major rallies against Bashir even as provinces, cities and towns were swept by the campaign against his rule.</p>
+<p>Monday&#8217;s deaths triggered calls to suspend the planned talks.</p>
+<p>&#8220;We cannot sit at the negotiating table with those allowing the killing of revolutionaries,&#8221; Siddig Youssef, a prominent protest leader, said in a statement.</p>
+<p>Protest leaders say Tuesday&#8217;s talks will cover issues including the powers of the joint civilian-military ruling body, the deployment of security forces and immunity for generals over protest-related violence.</p>
+<p>The power-sharing deal already agreed on July 17 provides for the establishment of a new governing body of six civilians and five generals.</p>
+<p>It will then oversee the formation of a transitional civilian government and parliament to govern for 39 months, after which elections will be held.</p>
+<p><strong> Impartial probe </strong><br />
+In Khartoum, demonstrators have been rallying again since Saturday, when an investigation found that security officers, including some from the feared Rapid Support Forces, carried out a deadly crackdown on a protest camp without any orders from their superiors.</p>
+<p>Shortly before dawn on June 3, gunmen in military fatigues raided the site of the weeks-long sit-in outside the military headquarters in Khartoum, shooting and beating protesters.</p>
+<p>Doctors linked to the protest movement say the raid left 127 people dead and scores wounded.</p>
+<p>But the joint investigation by prosecutors and the ruling military council that took power following Bashir&#8217;s ouster found that just 17 people were killed on June 3, with a total of 87 dying between that day and June 10.</p>
+<p>The probe identified eight officers involved in the violent crackdown on the protest camp, including three from the Rapid Support Forces.</p>
+<p>The eight officers face charges of crimes against humanity, chief investigator Fatah al-Rahman Saeed told reporters on Saturday.</p>
+<p>But protest leaders have rejected the findings, saying the inquiry exonerated the military council and gave a far lower death toll than their own figures.</p>
+<p>Saeed&#8217;s investigation &#8220;was commissioned by the military council, this is challenging its integrity as the military council itself is accused in this case,&#8221; said the Sudanese Professionals Association.</p>
+<p>Angry demonstrators have called for an independent investigation into the raid.</p>
+<p>On Sunday, scores of protesters chanting the months-long protest movement&#8217;s catchcry of &#8220;Freedom, peace, justice!&#8221; rallied in Khartoum&#8217;s eastern Burri district, witnesses said, adding that riot police swiftly dispersed the crowd with tear gas.</p>
+<p>The country&#8217;s ruling generals have insisted they did not order the dispersal of the sit-in.</p>
+<div class="ad-align-none"><div class="box">
+        		    <div style="width: 100%; overflow: hidden">
+			    <div id='ventra-dfp-3' class='dfp-ad ad-container' style='margin: 15px auto; height:250px; width: 300px;'>
+				    				    			    </div>
+		    </div>
+	    </div></div>
+	</article>
+	<div class="tagline-bottom">In this article:<br> <span class="tags"><a href="https://m.guardian.ng/tag/sudan/">Sudan</a>		</span>
+		</div>
+			<div class="social-share" style="float:right">
+		    <a class="facebook" href="https://www.facebook.com/dialog/share?app_id=1056657517707298&amp;display=popup&amp;href=https%3A%2F%2Fguardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F" onclick="window.open(this.href, '_blank','left=20,top=20,width=500,height=300,toolbar=0,resizable=0'); return false;"><span>Share on Facebook</span></a>
+    <a class="twitter" href="https://twitter.com/share?url=https%3A%2F%2Fguardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F&amp;text=Five+Sudanese+protesters+shot+dead+ahead+of+talks" onclick="window.open(this.href, '_blank','left=20,top=20,width=500,height=300,toolbar=0,resizable=0'); return false;"><span>Share on Twitter</span></a>
+    <a class="google-plus" href="https://plus.google.com/share?url=https%3A%2F%2Fguardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F" onclick="window.open(this.href, '_blank','left=20,top=20,width=500,height=500,toolbar=0,resizable=0'); return false;"><span>Share on Google+</span></a>
+    <a target="_blank" class="whatsapp" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fguardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F"><span>Share on WhatsApp</span></a>
+
+    
+	<a class="mail" href="mailto:?body=https%3A%2F%2Fguardian.ng%2Fnews%2Fworld%2Ffive-sudanese-protesters-shot-dead-ahead-of-talks%2F&amp;subject=Five Sudanese protesters shot dead ahead of talks"><span>Share via Email</span></a>
+    	</div>
+	<div class="whatsapp-alert">
+		
+<span>Receive News Alerts on Whatsapp: <a target="_blank" class="whatsappphone" href="https://api.whatsapp.com/send?phone=2348136370421">+2348136370421</a></span>
+	</div>
+	<br class="clear">
+			<hr style="border: none; border-bottom: 1px solid #E3E3E3; margin: 20px 0;">
+			<a href="#comment-section" class="comment-bar">
+			<span>
+				No comments yet			</span>
+		</a>
+							<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+			<div id="comment-section">
+	<div id="comment-template" style="margin: 10px 0 0">
+		<h3 class="comment-count" style="display: none;"></h3>
+		<div class="comment" style="display: none; margin-bottom: 10px;">
+			<div class="comment-avatar" style="float: left;"><img class="author-image" data-role="author-image" src="" style="margin-right: 10px;"></div>
+			<div class="comment-body" style="overflow: hidden;">
+				<div class="comment-header">
+					<span style="color: rgb(0, 0, 238); font-weight: 700;" class="author" data-role="author"></span> - <span style="color: #656c7a;" data-role="time"></span>
+				</div>
+				<div data-role="comment-content"></div>
+			</div>
+		</div>
+		<p class="notification-message" style="display: none; padding: 10px; background-color: #f7ffba;">
+			To enable commenting and other interactive features, please switch to the more advanced <span class="OM-mode"></span>.
+		</p>
+	</div>
+	
+<div id="disqus_thread">
+    </div>
+
+	</div><section class="category  design-mobile-article"data-base-category="5" >
+	<h2 style="border-bottom-color: #00adee"><span>Related</span></h2>	<div class="category-table">
+	<div class="row row-1"><div class="cell compact-item">
+<div class="table">
+			<div class="cell image-cell">
+			<div class="image">
+				<a href="https://m.guardian.ng/news/world/15-killed-as-pakistani-army-plane-crashes-into-residential-area/"><img src="https://guardian.ng/wp-content/plugins/ventra-lazy-load/images/1x1.trans.gif" data-lazy-src="https://guardian.ng/wp-content/uploads/2019/07/Pakistani-army-plane-crashes-320x240.jpg" data-lazy-srcset="https://guardian.ng/wp-content/uploads/2019/07/Pakistani-army-plane-crashes-320x240.jpg 320w,https://guardian.ng/wp-content/uploads/2019/07/Pakistani-army-plane-crashes-640x480.jpg 640w" width="320" height="240" class="attachment-320x240 size-320x240 wp-post-image" alt sizes="(max-width: 320px) 100vw, 320px"><noscript><img width="320" height="240" src="https://guardian.ng/wp-content/uploads/2019/07/Pakistani-army-plane-crashes-320x240.jpg" class="attachment-320x240 size-320x240 wp-post-image" alt="" srcset="https://guardian.ng/wp-content/uploads/2019/07/Pakistani-army-plane-crashes-320x240.jpg 320w,https://guardian.ng/wp-content/uploads/2019/07/Pakistani-army-plane-crashes-640x480.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></noscript>				</a>
+			</div>
+		</div>
+			<div class="cell headline-cell">
+		<a href="https://m.guardian.ng/news/world/15-killed-as-pakistani-army-plane-crashes-into-residential-area/">
+			<div class="headline">
+				<span class="title">15 killed as Pakistani army plane crashes into residential area</span>
+			</div>
+								</a>
+	</div>
+</div>
+		<a href="https://m.guardian.ng/news/world/15-killed-as-pakistani-army-plane-crashes-into-residential-area/">
+		<div class="meta">
+		<span class="age" data-field="age"> 4 hours ago</span>
+				<span class="category" data-field="category">&nbsp;World</span>
+		</div> </a>
+</div></div><div class="row row-1"><div class="cell compact-item">
+<div class="table">
+			<div class="cell image-cell">
+			<div class="image">
+				<a href="https://m.guardian.ng/news/nigeria/metro/cross-river-declares-tuesday-public-holiday-for-tree-planting/"><img src="https://guardian.ng/wp-content/plugins/ventra-lazy-load/images/1x1.trans.gif" data-lazy-src="https://guardian.ng/wp-content/uploads/2019/01/Nm1zPvT7-320x240.jpg" data-lazy-srcset="https://guardian.ng/wp-content/uploads/2019/01/Nm1zPvT7-320x240.jpg 320w,https://guardian.ng/wp-content/uploads/2019/01/Nm1zPvT7-640x480.jpg 640w" width="320" height="240" class="attachment-320x240 size-320x240 wp-post-image" alt sizes="(max-width: 320px) 100vw, 320px"><noscript><img width="320" height="240" src="https://guardian.ng/wp-content/uploads/2019/01/Nm1zPvT7-320x240.jpg" class="attachment-320x240 size-320x240 wp-post-image" alt="" srcset="https://guardian.ng/wp-content/uploads/2019/01/Nm1zPvT7-320x240.jpg 320w,https://guardian.ng/wp-content/uploads/2019/01/Nm1zPvT7-640x480.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></noscript>				</a>
+			</div>
+		</div>
+			<div class="cell headline-cell">
+		<a href="https://m.guardian.ng/news/nigeria/metro/cross-river-declares-tuesday-public-holiday-for-tree-planting/">
+			<div class="headline">
+				<span class="title">Cross River declares Tuesday public holiday for tree planting</span>
+			</div>
+								</a>
+	</div>
+</div>
+		<a href="https://m.guardian.ng/news/nigeria/metro/cross-river-declares-tuesday-public-holiday-for-tree-planting/">
+		<div class="meta">
+		<span class="age" data-field="age"> 2 hours ago</span>
+				<span class="category" data-field="category">&nbsp;Nigeria</span>
+		</div> </a>
+</div></div><div class="row row-1"><div class="cell compact-item">
+<div class="table">
+			<div class="cell image-cell">
+			<div class="image">
+				<a href="https://m.guardian.ng/news/the-ruga-masterclass-in-policy-misformulation/"><img src="https://guardian.ng/wp-content/plugins/ventra-lazy-load/images/1x1.trans.gif" data-lazy-src="https://guardian.ng/wp-content/uploads/2019/06/Godwin-Emefiele-320x240.jpg" data-lazy-srcset="https://guardian.ng/wp-content/uploads/2019/06/Godwin-Emefiele-320x240.jpg 320w,https://guardian.ng/wp-content/uploads/2019/06/Godwin-Emefiele-640x480.jpg 640w" width="320" height="240" class="attachment-320x240 size-320x240 wp-post-image" alt sizes="(max-width: 320px) 100vw, 320px"><noscript><img width="320" height="240" src="https://guardian.ng/wp-content/uploads/2019/06/Godwin-Emefiele-320x240.jpg" class="attachment-320x240 size-320x240 wp-post-image" alt="" srcset="https://guardian.ng/wp-content/uploads/2019/06/Godwin-Emefiele-320x240.jpg 320w,https://guardian.ng/wp-content/uploads/2019/06/Godwin-Emefiele-640x480.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" /></noscript>				</a>
+			</div>
+		</div>
+			<div class="cell headline-cell">
+		<a href="https://m.guardian.ng/news/the-ruga-masterclass-in-policy-misformulation/">
+			<div class="headline">
+				<span class="title">The RUGA masterclass in policy misformulation</span>
+			</div>
+								</a>
+	</div>
+</div>
+		<a href="https://m.guardian.ng/news/the-ruga-masterclass-in-policy-misformulation/">
+		<div class="meta">
+		<span class="age" data-field="age"> 1 hour ago</span>
+				<span class="category" data-field="category">&nbsp;News</span>
+		</div> </a>
+</div></div></div>
+	</section>
+<div class="box">
+        		    <div style="width: 100%; overflow: hidden">
+			    <div id='ventra-dfp-4' class='dfp-ad ad-container' style='margin: 15px auto; height:600px; width: 300px;'>
+				    				    			    </div>
+		    </div>
+	    </div></main>
+</div>
+<footer>
+	<a name="site-map"></a>
+	<div class="table content site-structure"><div class="row row-6"><div class="cell cell-1"><ul><li class="list-header"><a href="/">Home</a></li></ul><ul><li class='list-header'><a href=https://m.guardian.ng/category/news/nigeria/ class='list-headers'>Nigeria</a></li><li><a href="https://m.guardian.ng/category/news/nigeria/national/">National</a></li><li><a href="https://m.guardian.ng/category/news/nigeria/metro/">Metro</a></li></ul><ul><li class='list-header'><a href=https://m.guardian.ng/category/news/world/ class='list-headers'>World</a></li><li><a href="https://m.guardian.ng/category/news/world/africa/">Africa</a></li><li><a href="https://m.guardian.ng/category/news/world/asia/">Asia</a></li><li><a href="https://m.guardian.ng/category/news/world/europe/">Europe</a></li><li><a href="https://m.guardian.ng/category/news/world/us/">US</a></li></ul><ul><li class="list-header"><a href="https://m.guardian.ng/category/politics/">Politics</a></li></ul><ul><li class='list-header'><a href=https://m.guardian.ng/category/sport/ class='list-headers'>Sport</a></li><li><a href="https://m.guardian.ng/category/sport/football/">Football</a></li><li><a href="https://m.guardian.ng/category/sport/boxing/">Boxing</a></li><li><a href="https://m.guardian.ng/category/sport/athletics/">Athletics</a></li><li><a href="https://m.guardian.ng/category/sport/tennis/">Tennis</a></li><li><a href="https://m.guardian.ng/category/sport/other/">Other Sports</a></li></ul></div><div class="cell cell-1"><ul><li class='list-header'><a href=https://m.guardian.ng/category/opinion/ class='list-headers'>Opinion</a></li><li><a href="https://m.guardian.ng/category/opinion/editorial/">Editorial</a></li><li><a href="https://guardian.ng/contributors/">Contributors</a></li><li><a href="https://m.guardian.ng/category/opinion/columnists/">Columnists</a></li><li><a href="https://m.guardian.ng/category/opinion/cartoons/">Cartoons</a></li></ul><ul><li class='list-header'><a href=https://m.guardian.ng/category/business-services/ class='list-headers'>Business</a></li><li><a href="https://m.guardian.ng/category/appointments/">Appointments</a></li><li><a href="https://m.guardian.ng/category/business-services/business/">Business News</a></li><li><a href="https://m.guardian.ng/category/business-services/business-roundup/">Business RoundUp</a></li><li><a href="https://m.guardian.ng/category/business-services/industry/">Industry</a></li><li><a href="https://m.guardian.ng/category/business-services/aviation-business/">Aviation</a></li><li><a href="https://m.guardian.ng/category/business-services/capital-market/">Capital Market</a></li><li><a href="https://m.guardian.ng/category/technology/communications/">Communications</a></li><li><a href="https://m.guardian.ng/category/energy/">Energy</a></li><li><a href="https://m.guardian.ng/category/energy/drillbytes/">DrillBytes</a></li><li><a href="https://m.guardian.ng/category/business-services/maritime/">Maritime</a></li><li><a href="https://m.guardian.ng/category/business-services/money/">Money</a></li></ul><ul><li class='list-header'><a href=https://m.guardian.ng/category/technology/ class='list-headers'>Technology</a></li><li><a href="https://m.guardian.ng/category/technology/technology-technology/">Gadgets</a></li><li><a href="https://m.guardian.ng/category/technology/telecoms/">Telecoms</a></li><li><a href="https://m.guardian.ng/category/technology/social-media/">Social Media</a></li><li><a href="https://m.guardian.ng/category/technology/c55-technology/">Technology</a></li></ul></div><div class="cell cell-1"><ul><li class='list-header'><a href=https://m.guardian.ng/category/life/ class='list-headers'>Guardian Life</a></li><li><a href="https://m.guardian.ng/category/life/beauty/">Beauty</a></li><li><a href="https://m.guardian.ng/category/life/culture-lifestyle/">Culture</a></li><li><a href="https://m.guardian.ng/category/life/events/">Events</a></li><li><a href="https://m.guardian.ng/category/life/life-features/">Features</a></li><li><a href="https://m.guardian.ng/category/life/food/">Food</a></li><li><a href="https://m.guardian.ng/category/life/film/">Film</a></li><li><a href="https://m.guardian.ng/category/life/love-and-relationships/">Love and Relationships</a></li><li><a href="https://m.guardian.ng/category/life/music/">Music</a></li><li><a href="https://m.guardian.ng/category/life/odd-news/">Odd News</a></li><li><a href="https://m.guardian.ng/category/life/on-the-cover/">On The Cover</a></li><li><a href="https://m.guardian.ng/category/life/spotlight/">Spotlight</a></li><li><a href="https://m.guardian.ng/category/life/style/">Style</a></li><li><a href="https://m.guardian.ng/category/life/travel-and-places/">Travel and Places</a></li><li><a href="https://m.guardian.ng/category/life/wellness/">Wellness</a></li><li><a href="https://m.guardian.ng/category/life/whatsnew/">What&#039;s New</a></li></ul></div><div class="cell cell-1"><ul><li class='list-header'><a href=https://m.guardian.ng/category/art/ class='list-headers'>Guardian Arts</a></li><li><a href="https://m.guardian.ng/category/art/c74-arts/">Arts</a></li><li><a href="https://m.guardian.ng/category/art/art-house/">Art House</a></li><li><a href="https://m.guardian.ng/category/art/arts-folk/">Artfolk</a></li><li><a href="https://m.guardian.ng/category/art/revue/">Revue</a></li><li><a href="https://m.guardian.ng/category/art/literature/">Literature</a></li><li><a href="https://m.guardian.ng/category/art/theatre/">Theatre</a></li><li><a href="https://m.guardian.ng/category/art/visual-arts/">Visual Arts</a></li></ul><ul><li class='list-header'><a href=https://m.guardian.ng/category/features/ class='list-headers'>Features</a></li><li><a href="https://m.guardian.ng/category/features/gender-politics/">Gender</a></li><li><a href="https://m.guardian.ng/category/features/agro-care/">BusinessAgro</a></li><li><a href="https://m.guardian.ng/category/features/education/">Education</a></li><li><a href="https://m.guardian.ng/category/features/executive-motoring/">Executive Motoring</a></li><li><a href="https://m.guardian.ng/category/features/executive-briefs/">Executive Briefs</a></li><li><a href="https://m.guardian.ng/category/features/focus/">Focus</a></li><li><a href="https://m.guardian.ng/category/features/friday-worship/">Friday Worship</a></li><li><a href="https://m.guardian.ng/category/features/health/">Health</a></li><li><a href="https://m.guardian.ng/category/features/law/">Law</a></li><li><a href="https://m.guardian.ng/category/features/media/">Media</a></li><li><a href="https://m.guardian.ng/category/features/science/">Science</a></li><li><a href="https://m.guardian.ng/category/features/youthspeak/">Youth Speak</a></li></ul></div><div class="cell cell-1"><ul><li class='list-header'><a href=https://m.guardian.ng/category/guardian-woman/ class='list-headers'>Guardian Woman</a></li><li><a href="https://m.guardian.ng/category/guardian-woman/entrepreneurship/">Entrepreneurship</a></li><li><a href="https://m.guardian.ng/category/guardian-woman/gw-fiction/">GW Fiction</a></li><li><a href="https://m.guardian.ng/category/guardian-woman/personality/">Personality</a></li><li><a href="https://m.guardian.ng/category/guardian-woman/issues/">Issues</a></li><li><a href="https://m.guardian.ng/category/guardian-woman/wimbiz/">WIMBIZ</a></li></ul><ul><li class='list-header'><a href=https://m.guardian.ng/category/guardian-angels/ class='list-headers'>Guardian Angels</a></li><li><a href="https://m.guardian.ng/category/guardian-angels/commentary/">Commentary</a></li><li><a href="https://m.guardian.ng/category/guardian-angels/corporate-social-responsibility/">Corporate Social Responsibility</a></li><li><a href="https://m.guardian.ng/category/guardian-angels/philanthropy/">Philanthropy</a></li><li><a href="https://m.guardian.ng/category/guardian-angels/social-impact/">Social Impact</a></li></ul><ul><li class='list-header'><a href=https://m.guardian.ng/category/property/ class='list-headers'>Property</a></li><li><a href="https://m.guardian.ng/category/property/environment/">Environment</a></li><li><a href="https://m.guardian.ng/category/property/mortgage-finance/">Mortgage Finance</a></li><li><a href="https://m.guardian.ng/category/property/real-estate/">Real Estate</a></li><li><a href="https://m.guardian.ng/category/property/urban-development/">Urban Development</a></li></ul></div><div class="cell cell-1"><ul><li class='list-header'><a href=https://m.guardian.ng/category/saturday-magazine/ class='list-headers'>Saturday Magazine</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/youth-magazine/">Youth Magazine</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/just-human/">Just Human</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/life-a-style/">Life &amp; Style</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/love-a-life/">Love &amp; Life</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/transition/">Transition</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/travel-a-tourism/">Travel &amp; Tourism</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/celebrity/">Celebrity</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/brand-intelligence/">Brand Intelligence</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/gardening/">Gardening</a></li><li><a href="https://m.guardian.ng/category/saturday-magazine/weekend-beats/">Weekend Beats</a></li></ul><ul><li class='list-header'><a href=https://m.guardian.ng/category/sunday-magazine/ class='list-headers'>Sunday Magazine</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/ibru-ecumenical-centre/">Ibru Ecumenical Centre</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/campus/">Campus</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/cityfile/">CityFile</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/newsfeature/">News Feature</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/living-healthy-diet/">Living Healthy Diet</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/living-wellbeing/">Living Wellbeing</a></li><li><a href="https://m.guardian.ng/category/sunday-magazine/newspeople-a-goodpeople/">Newspeople</a></li></ul><ul><li class="list-header"><a href="https://games.guardian.ng/">Games</a></li></ul></div></div></div>    <div class="footer-bottom table content" style="border-top: 1px solid rgba(155,155,155,0.5); padding-top: 10px;">
+        <div class="cell">
+            <br>
+            <ul class="footer-menu menu">
+                <li><a href='http://guardian.ng/'>Home</a></li><li><a href='https://m.guardian.ng/about-us/'>About Us</a></li><li><a href='https://m.guardian.ng/flights/'>Flights</a></li><li><a href='http://media.guardian.ng/'>Advertise With Us</a></li><li><a href='https://m.guardian.ng/terms-and-conditions-of-use/'>Terms</a></li>            </ul>
+            <br>
+            &copy; 2019 <b>Guardian Newspapers</b>. All Rights Reserved.
+	        <br>
+	        <br>
+        </div>
+    </div>
+</footer>
+<a href="#top" class="mobile-toplink">
+    <img src="https://guardian.ng/wp-content/themes/guardian2016/img/top_mobile.png" srcset="https://guardian.ng/wp-content/themes/guardian2016/img/top_mobile.png 1x,https://guardian.ng/wp-content/themes/guardian2016/img/top_mobile@2x.png 2x" width="12" height="12" alt=""></a>
+	<script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({flush: true});
+	</script>
+        <script type='text/javascript'>
+        
+        var adUnits = { "placements" : [{"slotid":"ventra-dfp-1","zoneid":1359096},{"slotid":"ventra-dfp-2","zoneid":1359097},{"slotid":"ventra-dfp-3","zoneid":1359097}] };
+
+        var launchAdServer = function() {
+          googletag.cmd.push(function() {
+            Criteo.SetDFPKeyValueTargeting(); //This will append Criteo keywords to the adserver call
+            //googletag.pubads().refresh(); //This will trigger the adserver call
+          });
+        };
+
+        Criteo.events.push(function() {
+          // Define the price band range
+          Criteo.SetLineItemRanges("0..10:0.01;10..25:0.05;25..50:0.10;50..100:0.25");
+          // Call Criteo and execute the callback function for a given timeout
+          Criteo.RequestBids(adUnits, launchAdServer, 1500);
+        });
+                googletag.cmd.push(function() {
+			googletag.defineSlot('/79805449/TGN_M_Dynamic_Leaderboard', [[300,100],[300,50]], 'ventra-dfp-1').addService(googletag.pubads());googletag.defineSlot('/79805449/TGN_InArtitcle_M_300x250_P1', [300,250], 'ventra-dfp-2').addService(googletag.pubads());googletag.defineSlot('/79805449/TGN_InArtitcle_M_300x250_P1', [300,250], 'ventra-dfp-3').addService(googletag.pubads());googletag.defineSlot('/79805449/GuardianNews_300x600', [300,600], 'ventra-dfp-4').addService(googletag.pubads());						googletag.pubads().setTargeting('cat', 'World');
+			            googletag.pubads().enableSingleRequest();
+            googletag.pubads().disableInitialLoad();            googletag.enableServices();
+                            !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+                 apstag.init({
+                    pubID: '76ce1198-e7ae-4e36-9458-d919af834c2c',
+                    adServer: 'googletag',
+                    bidTimeout: 2e3
+                  });
+                  // request the bids for the four googletag slots
+                  apstag.fetchBids({
+                    slots: [{slotID: 'ventra-dfp-1', slotName: '/79805449/TGN_M_Dynamic_Leaderboard', sizes: [[300,100],[300,50]]},{slotID: 'ventra-dfp-2', slotName: '/79805449/TGN_InArtitcle_M_300x250_P1', sizes: [300,250]},{slotID: 'ventra-dfp-3', slotName: '/79805449/TGN_InArtitcle_M_300x250_P1', sizes: [300,250]},{slotID: 'ventra-dfp-4', slotName: '/79805449/GuardianNews_300x600', sizes: [300,600]}]
+                  }, function(bids) {
+                    // set apstag bids, then trigger the first request to DFP
+                    googletag.cmd.push(function() {
+                      apstag.setDisplayBids();
+                      googletag.pubads().refresh();
+                    });
+                  });
+                        googletag.display('ventra-dfp-1');googletag.display('ventra-dfp-2');googletag.display('ventra-dfp-3');googletag.display('ventra-dfp-4');        });
+    </script>
+    <script type='text/javascript' src='https://guardian.ng/wp-includes/js/jquery/jquery.js?ver=1.66'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/plugins/ventra-gallery/js/gallery.min.js?ver=1.01'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/plugins/ventra-polls/ventra-polls.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/plugins/ventra-stock/js/stock_ticker.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/m.guardian.ng\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.2'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.66'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/themes/guardian2016/js/combined.js?ver=1.66'></script>
+<script type='text/javascript' async="async" src='https://guardian.ng/wp-content/themes/guardian2016/js/serviceworker/serviceworker.js?ver=1.66'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var post_object = {"id":"982766","comment_count":"50"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/themes/guardian2016/js/comments-operamini.js?ver=1.66'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/themes/guardian2016/js/native-comment.js?ver=1.66'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-includes/js/comment-reply.min.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/themes/guardian2016/js/mobile.min.js?ver=1.66'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/plugins/ventra-lazy-load/js/jquery.sonar.min.js?ver=0.7.1'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/plugins/ventra-lazy-load/js/lazy-load.js?ver=0.7.1'></script>
+<script type='text/javascript' src='https://guardian.ng/wp-includes/js/wp-embed.min.js?ver=4.9.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.9.5","language":""},"disqusIdentifier":"982766 https:\/\/editor.guardian.ng\/?p=982766","disqusShortname":"guardianngr","disqusTitle":"Five Sudanese protesters shot dead ahead of talks","disqusUrl":"https:\/\/m.guardian.ng\/news\/world\/five-sudanese-protesters-shot-dead-ahead-of-talks\/","options":{"manualSync":"1"},"postId":"982766"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=4.9.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"guardianngr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://guardian.ng/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.9.5'></script>
+<script async src="https://cdn.onthe.io/io.js/phQIxKUfTyvV"></script>
+
+	<script>
+        jQuery(document).ready(function($) {
+            if (typeof VVP !== "undefined") {
+                for (var i = 0, ic = VVP.players.length; i < ic; i++) {
+                    var player = VVP.players[i];
+                    var title = player.placeholder.attr('data-title');
+                    player.player.on('adstart', function (e) {
+
+                    });
+
+
+                    if (title) {
+                        player.$htmlPlayer.attr('data-io-video-title', title);
+                    }
+                }
+            }
+        });
+
+		window._io_config = window._io_config || {};
+		window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+		window._io_config["0.2.0"].push({
+            page_url: window.location.href,
+			page_url_canonical: "https://guardian.ng/news/world/five-sudanese-protesters-shot-dead-ahead-of-talks/",
+			page_title: "Five Sudanese protesters shot dead ahead of talks",
+			page_type: "article",
+			page_language: "en",
+			article_authors: ["AFP"],
+			article_categories: ["WORLD"],
+			article_subcategories: ["Africa"],
+			article_type: "longread",
+			article_word_count: 831,
+			article_publication_date: "Mon, 29 Jul 2019 15:18:26 +0100"
+		});
+	</script>
+
+<!--// Add no-script tag for Google Analytics-->
+
+</body>
+</html>

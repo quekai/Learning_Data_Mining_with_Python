@@ -1,0 +1,33 @@
+A former Boeing engineer has told the BBC's Panorama programme that work on the production line of the 737 Max plane was not adequately funded.
+The 737 Max is the company's fastest selling plane and has earned the company billions of dollars in sales.
+Boeing denies the claims and says it's committed to making the 737 Max one of the safest aircraft ever to fly.
+Adam Dickson worked at Boeing for 30 years and led a team of engineers who worked on the 737 Max.  He said they were under constant pressure to keep costs down.
+"The culture was very cost centred, incredibly pressurised. Engineers were given targets to get certain amount of cost out of the aeroplane."
+He said by classifying them as minor rather than major changes, Boeing would face less scrutiny from the US regulator, the Federal Aviation Administration.
+"The goal was to show that those differences were so similar to the previous design that it would not require a major design classification in the certification process. There was a lot of interest and pressure on the certification and analysis engineers in particular, to look at any changes to the Max as minor changes."
+He said that downplaying the changes reduced scrutiny in a way that could impact safety. Now even his own family have fears about the plane's safety. 
+"My family won't fly on a 737 Max. It's frightening to see such a major incident because of a system that didn't function properly or accurately."
+"We have always held true to our values of safety, quality and integrity and those values are complementary and mutually reinforcing with productivity and company performance."
+Passengers first flew on the 737 Max in 2017, but airlines have been making advance purchases since the plane was first marketed in 2011 
+Some of the money from those sales has been used to fund big pay-outs for company executives and shareholders. 
+Since 2013, Boeing has paid $17bn (£13.74bn) in dividends to shareholders and has spent a further $43bn buying its own shares - a spending spree that has helped Boeing treble its share price in just five years.
+
+                    Economist William Lazonick says senior management were too focused on making money.
+                
+Critics have accused Boeing of paying more attention to the stock market than the safety of its passengers.
+"If you supercharge the incentives of top executives and tell them that their job is to get the stock price up, they're not going to pay the kind of attention they need to pay to ensuring they produce a safe plane," he said.
+Boeing said it "follows a balanced cash deployment strategy that ensures investment in our core businesses and workforce, returns value to shareholders and maintains our strong balance sheet and credit rating".
+The 737 Max has been grounded since March and there is currently no sign of regulators allowing the plane back in the skies.
+MCAS was designed to operate when the plane was flying at a steep, nose-up angle - and would automatically attempt to move the nose downwards. 
+It was meant to make the controls feel more predictable and familiar to pilots who were used to older versions of the 737.
+But pilots didn't know about MCAS because it wasn't included in training materials or the 1,600-page manual for the Max.
+Boeing's system also had a fatal flaw - it used a single sensor to work out the angle the plane was flying at. 
+On both the Indonesian and Ethiopian flights, that sensor stopped working properly.  This resulted in MCAS forcing the aircraft downwards even though they were already on the correct course.
+The pilots struggled to regain control, because MCAS was designed to kick back in every few seconds. The Indonesian plane was forced down more than 20 times before it crashed.
+Boeing said it wasn't relying on the single sensor, because the pilots were there as back up. It said there was a way to override MCAS - a standard procedure that pilots should have known about from flying the old 737.
+The company has said the pilots didn't completely follow the correct operating procedures when things went wrong.
+"If you're going to design and certify an airliner with such a complicated, obscure failure mode as happened to that crew, it's no wonder that your average crew aren't able to deal with it," he said.
+Boeing said it is focusing on implementing the software update, finalising pilot training and rebuilding trust with customers.
+"Boeing truly regrets the loss of life and will continue to work with communities, customers and the aviation industry to help with the healing process," it said.
+"In any accident we must learn from what happened.  It's also important to avoid speculating ahead of the final investigative reports."
+A former top judge who reviewed the £2.5m Operation Midland claims warrants were obtained unlawfully.

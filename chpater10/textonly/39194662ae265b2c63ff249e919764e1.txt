@@ -1,0 +1,161 @@
+Four hackers have been arrested this week on suspicion of breaking into more than 1,000 Telegram accounts.
+Four suspects have been arrested in Brazil this week for hacking into over 1,000 Telegram accounts, including some owned by Brazilian government officials, such as Brazil President Jair Bolsonaro, Justice Minister Sergio Moro, and Economy Minister Paulo Guedes.
+Other lower-ranking politicians such as congresswoman Joice Hasselmann, a key ally of President Bolsonaro and Minister Moro, also claimed to have been targeted earlier this week.
+According to court documents, the four used a relatively unknown hacking trick to bind the victims' Telegram accounts to their phones.
+Local media reported that the hackers used access to the accounts to send spam messages with malicious links to users' contacts. However, the group also appears to have targeted and hijacked accounts of local politicians, from where they are believed to have exfiltrated personal messages.
+Brazilian authorities claim that some of the messages have made their way to journalists at The Intercept following the hacking of Justice minister Sergio Moro, who claims that took place on 5 June.
+Moro, who is the one who set the Operation Car Wash investigation underway, claimed that the messages did not show any wrongdoing, and were just advice for the prosecutor who took over in the case.
+A criminal inquiry was set into motion, either way. The four arrests announced this week are the result of the Brazilian government's investigation into the source of those leaks.
+The names of the four alleged hackers are Danilo Cristiano Marquez (33), Walter Delgatti Neto (30), Judy Gustavo Henrique Elias Santos (28), and Suelen Priscilla de Oliveira (25) -- Santos' wife.
+The four were arrested on a temporary five-day warrant, but have not been officially charged. Investigators said they found around 600,000 Brazilian reals (~$160,000) in one of the hacker's bank accounts, which the suspect couldn't justify based on their income.
+"We are not newbie hackers, the [voicemail hack] is not consistent with our way of operating - we access Telegram with the objective of extracting conversations and do justice, bringing the truth out to people," it added.
+Most instant messaging (IM) services today allow users to receive one-time passcodes via SMS, but also as a voice message.
+The general idea behind this trick is that users of instant messaging apps who have voicemail enabled for their phone numbers are at risk if they don't change the voicemail account's default password, which in most cases tends to be either 0000 or 1234.
+Bar-Zik discovered that if the phone number is busy with another call, or if the user doesn't answer his phone three times in a row, the one-time passcode delivered via voice message is eventually rerouted to the user's voicemail account.
+According to Brazilian authorities, the four hackers installed Telegram apps on their phones, but entered the phone number of high-profile politicians when authenticating.
+They requested voice mail messages for the authentication process, while calling the targets' phones, to ensure the one-time passcode landed in the voicemail account.
+The four then used VoIP providers to mimick the target's phone number, called the telco's voicemail service, used a default password to access the target's voicemail account, retrieved the one-time passcode, and bound the victim's Telegram account to their device --hence, gaining access to the account and its message history.
+This marks the first time this voicemail hijacking trick has been used against high-profile targets. The technique hasn't been used widely used by criminal groups until now.
+Amid the fallout over the leaked messages, local reports suggest President Bolsonaro is finally considering to use an encrypted mobile phone provided by the Brazilian Intelligence Agency (Abin).
+
+									
+																			Security may not be on its list of attributes, but the company's co-founder and chief product officer assures all systems are now secure.
+																	
+
+									
+																																																														Scytl
+																																																								has
+																																																								published
+																																																								components
+																																																								of
+																																																								the
+																																																								source
+																																																								code
+																																																								used
+																																																								by
+																																																								the
+																																																								NSW
+																																																								Electoral
+																																																								Commission
+																																																								following
+																																																								claims
+																																																								there
+																																																								were
+																																																								two
+																																																								flaws
+																																																								in
+																																																								the
+																																																								same
+																																																								system
+																																																								used
+																																																								in
+																																																								Switzerland.
+																																											...
+																	
+
+									
+																			Over 1 million Canadian social insurance numbers accessed in breach.
+																	
+
+									
+																																																														Ransomware
+																																																								infection
+																																																								impacted
+																																																								police
+																																																								car
+																																																								laptops
+																																																								for
+																																																								the
+																																																								Georgia
+																																																								State
+																																																								Patrol,
+																																																								Georgia
+																																																								Capitol
+																																																								Police,
+																																																								and
+																																																								the
+																																																								Georgia
+																																																								Motor
+																																																								Carrier
+																																																								Compliance
+																																																								Division.
+																																											...
+																	
+
+									
+																			As "Mr. Bitcoin" seems destined to be extradited to Russia, US authorities are trying to recover some of BTC-e's funds in a last ditch effort.
+																	
+
+									
+																			Just over one million computers in the NHS are still using Windows 7.
+																	
+
+									
+																																																														Reviewing
+																																																								the
+																																																								security
+																																																								implications
+																																																								of
+																																																								smart
+																																																								cities
+																																																								and
+																																																								offering
+																																																								guidance
+																																																								on
+																																																								how
+																																																								security
+																																																								and
+																																																								risk
+																																																								professionals
+																																																								should
+																																																								address
+																																																								and
+																																																								overcome
+																																																								these
+																																																								potential
+																																																								security
+																																																								and
+																																																								privacy
+																																																																...
+																	
+
+									
+																																																														In
+																																																								these
+																																																								digital
+																																																								times,
+																																																								it
+																																																								is
+																																																								almost
+																																																								impossible
+																																																								to
+																																																								raise
+																																																								a
+																																																								child
+																																																								without
+																																																								exposing
+																																																								them
+																																																								to
+																																																								technology
+																																																								at
+																																																								a
+																																																								very
+																																																								early
+																																																								age.
+																																																								So
+																																																								how
+																																																								do
+																																																								21st
+																																																								century
+																																																								parents
+																																																								manage
+																																																								the
+																																																								limits
+																																																								on
+																																																								technology
+																																																																																																																															...
+																	
+
+									
+																			Security updates are out, but patching will most likely take months, if not years.
+																	

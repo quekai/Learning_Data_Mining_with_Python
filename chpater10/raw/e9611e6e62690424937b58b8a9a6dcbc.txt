@@ -1,0 +1,640 @@
+<!doctype html>
+<html amp>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui">
+	
+<meta property="og:site_name" content="https://www.outlookindia.com/"/>
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Netanyahu's Election Campaign In Israel Features PM Modi" />
+<meta property="og:url" content="https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062" />
+<meta property="og:description" content="Netanyahu's campaign has focused on bringing out his close chemistry with the world leaders and trying to project him as a leader of unmatched stature in Israeli politics which is crucial for the country's security.
+
+" />
+<meta property="og:image" content="https://images.outlookindia.com/public/uploads/articles/2019/7/29/modi_Netan_550_550.jpg" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@Outlookindia" />
+<meta name="twitter:title" content="Netanyahu's Election Campaign In Israel Features PM Modi" />
+<meta name="twitter:description" content="Netanyahu's campaign has focused on bringing out his close chemistry with the world leaders and trying to project him as a leader of unmatched stature in Israeli politics which is crucial for the country's security.
+
+" />
+<meta name="twitter:creator" content="@Outlookindia" />
+<meta name="twitter:image" content="https://images.outlookindia.com/public/uploads/articles/2019/7/29/modi_Netan_550_550.jpg" />
+
+<meta itemprop="author" content="Outlook Web Bureau">
+<meta name="keywords" content="Netanyahu, Narendra Modi, Israel, Election campaign, " />
+<meta name="news_keywords" content="Netanyahu, Narendra Modi, Israel, Election campaign, " />
+<meta name="description" content="Netanyahu's campaign has focused on bringing out his close chemistry with the world leaders and trying to project him as a leader of unmatched stature in Israeli politics which is crucial for the country's security.
+
+">
+<meta itemprop="inLanguage" content="English" />
+
+<meta itemprop="mainEntityOfPage" content="https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062">
+<meta itemprop="url" content="https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062">
+<meta itemprop="name" content="Outlook India">
+<title>Netanyahu's Election Campaign In Israel Features PM Modi</title>
+
+<link rel="canonical" href="https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:400,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+<script custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js" async></script>
+<script custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js" async></script>
+<script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+<script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async></script>
+<script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" async></script>
+<script async custom-element="amp-facebook-comments" src="https://cdn.ampproject.org/v0/amp-facebook-comments-0.1.js"></script>
+<script custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js" async></script>
+<script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+<script src="https://cdn.ampproject.org/v0.js" async></script>
+<!--<script custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js" async></script>-->
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+
+<noscript>
+	<style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style>
+</noscript>
+
+<!-- SCHEMA START -->
+<script type="application/ld+json">
+	{
+		"@context":"http://schema.org",
+		"@type":"NewsArticle",
+		"mainEntityOfPage":"https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062",
+
+		"publisher":
+		{
+			"@type":"Organization",
+			"name":"Outlook India",
+				"logo":
+				{
+					"@type":"ImageObject",
+					"url":"https://www.outlookindia.com/images/outlook_logo.jpg",
+					"height":"51","width":"247"
+				}
+		}, 
+		"headline":"Netanyahu's Election Campaign In Israel Features PM Modi", 
+		"datePublished":"2019-07-29T00:00:00+05:30",
+				"dateModified":"2019-07-29T07:55:23+05:30",
+		
+				"author": {
+          "@type": "Person",
+          "name": "Outlook Web Bureau"
+        },
+				
+		
+		"image":
+		{
+			"@type":"ImageObject",
+			"url":"https://images.outlookindia.com/public/uploads/articles/2019/7/29/modi_Netan_630_630.jpg",
+			"width":630,
+			"height":421
+		},
+		"description":"Netanyahu's campaign has focused on bringing out his close chemistry with the world leaders and trying to project him as a leader of unmatched stature in Israeli politics which is crucial for the country's security.
+
+"
+	}
+	</script>
+	
+<meta name="generator" content="AMP Plugin v0.6.2" />
+	<!-- SCHEMA END -->
+	
+<!-- CSS STYLING START -->
+<style amp-custom>
+.amp-wp-content,.amp-wp-title-bar div,body {background: #fff}
+.amp-wp-title,body {font-family: Georgia, serif}
+#sidebar1 ul,.related-posts ul,footer ul {list-style-type: none}
+.amp-ad,.card h2,.card-details a,.comment-button,footer .privacy,footer .wp,footer ul,span.amp-wp-title {text-align: center}
+#sidebar1 a,.amp-foot-links li a,.amp-wp-tags li a,.breadcrum a,.breadcrum a span,.card a,.card-details a,.comment-button,.headingTwo a,.ie-post-content .news li a,.next-button a,.related ul li a,nav.amp-wp-title-bar a,ul.amp-wp-meta .amp-wp-byline a {text-decoration: none}
+amp-img.alignright {float: right; margin: 0 0 1em 1em}
+amp-img.alignleft {float: left; margin: 0 1em 1em 0}
+.aligncenter,amp-img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+.alignright {float: right}
+.alignleft {float: left}
+.wp-caption.alignleft {margin-right: 1em}
+.wp-caption.alignright {margin-left: 1em}
+.amp-wp-enforced-sizes {max-width: 100%}
+.amp-wp-unknown-size img {object-fit: contain}
+body {font-size: 18px; line-height: 1.8; color: #3d596d; padding-bottom: 100px}
+.amp-wp-content { overflow-wrap: break-word; word-wrap: break-word; font-weight: 400; color: #333; box-shadow: 0 0 5px 2px rgba(0, 0, 0, .2)}
+.amp-wp-title { color: #014b68}
+.navbar-fixed-top {position: fixed; z-index: 100; width: 100%; top: calc(0px)}
+.amp-wp-meta {margin-bottom: 16px}
+figure,ol,p,ul {margin: 0 0 24px}
+a{color: #014b68;text-decoration:none;}
+a:active,a:focus,a:hover,a:visited {color: #ee1c25}
+.amp-wp-meta,.wp-caption-text,nav.amp-wp-title-bar {font-size: 15px}
+ul.amp-wp-meta li {list-style: none; display: inline-block; margin: 0; line-height: 24px; text-overflow: ellipsis}
+ul.amp-wp-meta li:before {content: "\007C"; margin: 0 8px}
+ul.amp-wp-meta li:first-child:before {display: none}
+.amp-wp-meta,.amp-wp-meta a {color: #4f748e}
+.amp-wp-meta .screen-reader-text {clip: rect(1px, 1px, 1px, 1px); height: 1px; overflow: hidden; position: absolute; width: 1px}
+.amp-wp-byline amp-img {border: 0; position: relative; top: 6px; margin-right: 6px}
+nav.amp-wp-title-bar div {line-height: 54px; color: #fff}
+nav.amp-wp-title-bar a {color:#000}
+nav.amp-wp-title-bar .amp-wp-site-icon {float: left; margin: 11px 8px 0 0; border-radius: 50%}
+.wp-caption-text {padding: 8px 16px;font-style: italic}
+blockquote {padding: 16px; margin: 8px 0 24px; border-left: 2px solid #87a6bc; color: #4f748e; background: #e9eff3}
+blockquote p:last-child {margin-bottom: 0}
+amp-iframe,amp-instagram,amp-vine,amp-youtube {background: #f3f6f8}
+.amp-wp-iframe-placeholder {background: url(http://s2.wp.com/wp-content/plugins/amp/assets/images/placeholder-icon.png) center 40% no-repeat #f3f6f8; background-size: 48px 48px; min-height: 48px}
+body,div,footer,h1,h2,h3,h4,h5,h6,header,html,nav,span {margin: 0; padding: 0}
+.amp-wp-site-icon {border-radius: 0}
+nav.amp-wp-title-bar {background: #fff; padding: 0; height: 68px; width: 100%; box-shadow: 2px 1px 2px 1px rgba(0, 0, 0, .2)}
+.logo {margin: 0 0 0 -78px; position: absolute; left: 50%; padding: 5px}
+.logo img {width: 247px; height: 51px}
+nav.amp-wp-title-bar a {margin: 0 auto}
+.amp-wp-content,.amp-wp-title-bar div {margin: 28px auto 0; max-width: inherit; overflow: hidden; padding: 0 3%; width: 94%}
+footer,footer .privacy,footer .wp {width: 100%; clear: both}
+.amp-ad {background: #ececec; margin: 0 -3.1% 15px; padding: 10px 0}
+.ie-adtext {color: #a6a6a6;	font-size: 11px; padding: 0 0 7px; text-transform: uppercase}
+.amp-wp-title {font-size: 25px; font-weight: 400; line-height: 32px; margin: 0; padding-bottom: 10px}
+h2.synopsis {color: #4c4c4c; font-size: 18px; font-weight: 400; line-height: 24px; padding: 0 0 10px}
+ul.amp-wp-meta {clear: both; color: #777; font-family: Roboto, sans-serif;font-size: 13px; line-height: 16px; padding: 0 0 5px; margin: 0}
+ul.amp-wp-meta li {max-width: inherit; text-transform: capitalize; overflow: inherit; white-space: inherit}
+.breadcrum a,.breadcrum a span {color: #787878}
+ul.amp-wp-meta .amp-wp-byline {display: block}
+ul.amp-wp-meta .amp-wp-byline a {color: #014b68; font-size: 13px; font-weight: 700; letter-spacing: 5px; text-transform: uppercase}
+ul.amp-wp-meta .amp-wp-byline,ul.amp-wp-meta .amp-wp-posted-on {line-height: 18px}
+.amp-wp-author {color: #777; font-weight: 600}
+.amp-wp-posted-on time {color: #464646; display: block; padding-top: 3px; font-size: 13px; text-transform: none}
+ul.amp-wp-meta li.amp-wp-posted-on:before {display: none}
+.amp-wp-tags {margin: 15px 0; padding:0; list-style: none; font-family: Roboto, sans-serif}
+.amp-wp-tags .screen-reader-text {color: #014b68; font-size: 13px; font-weight: 700; margin: 0 0 5px; padding: 0; text-transform: uppercase}
+.amp-wp-tags li a {border: 1px solid #eee; border-radius: 3px; color: #444; font-size: 12px; font-weight: 400; padding: 4px 6px 5px; margin: 0 3px 5px; text-transform: capitalize}
+.main-body-content p {color: #3e3e3e; font-size: 18px; font-weight: 400; line-height: 26px; padding: 5px; margin: 10px 0}
+.amp-wp-enforced-sizes {margin: 0 0 5px}
+span.custom-caption {background: #fff; clear: both; color: #464646; display: block; font: 12px/16px Arial, Helvetica, sans-serif; margin: 0 0 10px; overflow: hidden; padding: 0 0 5px}
+footer {background: #e0001b; color: #fff; font: 14px/16px Arial, Helvetica, sans-serif; box-shadow: 0 -2px 1px 2px rgba(0, 0, 0, .2); overflow: hidden; padding: 0 0 50px}
+footer .privacy {padding: 10px 0 0}
+footer .wp {padding-top: 5px}
+.amp-wp-content p {font-size: 18px; line-height: 28px; background: #fff}
+.amp-close-image,.hamburger {background: 0 0; border: 0; position: fixed; z-index: 9999; cursor: pointer}
+.pt60 {padding-top: 40px}
+.hamburger {color: #fff; font-size: 22px; top: 0; left: 0; height: 40px; outline: 0}
+.amp-close-image {color: #000; font-size: 24px; top: 10px; left: 10px}
+i.icon,i.icon1,i.icon2 {background: #e0001b; border-radius: 3px; display: inline-block; position: relative; height: 2px; width: 22px}
+i.icon {top: -6px}
+i.icon1 {top: -26px}
+i.icon2 {top: -46px}
+#sidebar1 {margin-top: 0; width: 100%}
+#sidebar1 .amp-close-image {padding-left: 20px; cursor: pointer; color: #000; display: none}
+#sidebar1 ul {margin: 0; padding: 0 20px 40px 10px}
+.amp-wp-title-bar {font-family: Roboto, sans-serif}
+amp-sidebar {background-color: #fff; max-width: 80vw}
+#sidebar1 a {border-bottom: 1px solid #e2e2e2; color: #464646; display: block; font-family: 'Roboto Condensed', sans-serif; font-size: 16px; font-weight: 400}
+#sidebar1 a span.logo1 {position: absolute; top: 5px}
+#sidebar1 a span.nav {padding: 0 0 0 30px; line-height: 40px}
+table {border-collapse: collapse; border-spacing: 0}
+.MT15 {margin-top: 10px}
+footer ul {margin: 0; padding: 10px}
+.social-share-nextbtn {padding: 5px 5px 0 4px; background: #000; opacity: 1; box-sizing: border-box; display: table; position: fixed; bottom: 0; left: 0; visibility: visible; margin: 0 0 -5px; width: 100%; z-index: 399}
+.floating-social-share {float: left; margin: 0; padding: 0; list-style-type: none; width: 60%}
+.social-share_item {display: table-cell; padding: 0 5px 0 0; margin: 0}
+.amp-social-share-twitter,.social-share_item .amp-social-share-facebook {width: 100%}
+.amp-social-share-facebook,.amp-social-share-twitter,.amp-social-share-whatsapp {border-radius: 3px; background-size: 42%; padding: 0}
+.lvblg-sharebx .amp-social-share-twitter, .lvblg-sharebx .amp-social-share-whatsapp {border-radius: 3px; background-size: 60%; padding: 3px}
+.next-button {background: #e0001b;border-radius: 3px;float: right;font-family: Roboto, sans-serif;font-size: 16px;position: relative;width: 28%}
+.next-button a {color: #fff;font-weight: 500;display: block;padding: 1px 8px;width: 100%}
+.comment-button {border: 1px solid #e0001b;background: #e0001b;border-radius: 20px;color: #fff;display: block;font-size: 15px;font-weight: 700;padding: 10px 0;margin: 15px 5px -5px;line-height: 22px;box-shadow: 0 2px 1px 2px rgba(0, 0, 0, .2)}
+amp-social-share {margin-right: 5px}
+span.amp-wp-title {display: block;font-size: 18px}
+#editorsPick-section {width: 96%;margin: -20px 2% 0;display: block}
+.headingTwo a {font-size: 16px;font-weight: 600;color: #4c4c4c}
+.heading-text,.headingTwo,h1,h2,h3,h4,h5 {font-family: 'PT Serif', serif;color: #212121;font-size: 16px;line-height: 20px;margin: 0 0 3px;font-weight: 600}
+.headingTwo a:hover {color: #ee1c25}
+.leftImageRightContent-list {width: 100%;margin: 0 auto;padding: 0}
+.leftImageRightContent-list ul {list-style: none;padding: 5px 10px 5px 15px;margin: -5px 0 0;box-shadow: 0 0 5px 2px rgba(0, 0, 0, .2)}
+.leftImageRightContent-list li .media-left a {display: block;position: relative;width: 90px;height: 90px}
+.leftImageRightContent-list li {position: relative; margin-bottom: 10px}
+.media:first-child {margin-top: 0}
+.media-left,.media>.pull-left {padding-right: 10px}
+.media-left {float: left}
+.media-body,.media-left,.media-right {display: table-cell; vertical-align: top}
+.media-body {width: 10000px}
+.media,.media-body {zoom: 1;overflow: hidden}
+.media-body .headingTwo {font-size: 14px;line-height: normal}
+section {padding: 20px 0;border-bottom: none}
+.amp-social-share-messenger {background-color: #0084ff; border-radius: 3px;	background-image: url("https://www.outlookindia.com/images/messenger_amp.jpg")}
+#fb-plugin {width: 96%;	margin: 0 2%; display: block}
+amp-carousel a {text-decoration: none;}
+#video-box {margin: -20px 0 0;display: block}
+.videoContent {background: #000000d6;padding: 5px 10px 0;box-shadow: 0 2px 1px 2px rgba(0, 0, 0, 0.15);}
+.video-title {font-family: Georgia, serif;font-size: 18px;line-height: 1.8;color: #ffffff;font-weight: 500;}
+.video-caption {text-align: center; padding-top: 8px; color: #4c4c4c; font-size: 14px;}
+.play-iconbox {border: none; border-radius: 10%; background-color: #e0001b; display: block; position: absolute; cursor: pointer; color: #fff; z-index: 999;}
+.play-icon {top: 50%; left: 50%; margin-left: -15px; margin-top: -10px; width: 30px; height: 20px; z-index:10; opacity: 0.75;}
+.play-arrow {width: 0; height: 0; position: absolute; top: 50%; left: 50%; border-radius: 2px;}
+.arrow-icon {margin-left: -4px; margin-top: -6px; border-top: 6px solid transparent; border-bottom: 6px solid transparent; border-left: 10px solid #fff;}
+body main {max-width: 600px; margin: auto;}
+.comment-header{background-color:#e0001b; border: 1px solid #e0001b; margin:0 -11px; font-size: 16px; font-weight: 600; padding: 10px; color: #ffffff; text-align:center; letter-spacing: 5px;outline-color:#e0001b;}
+.comment-box {background:#ffffff; display: block; padding: 0 10px; margin:-9px 5px 20px; box-shadow: 0 2px 1px 2px rgba(0, 0, 0, .2);}
+.top-menu {background: #ededec; list-style: none; overflow-x: scroll; padding:0; margin: 40px 0 0 0; white-space: nowrap;clear: both; width: 100%; height: 28px; display: -webkit-inline-box;overflow-y: hidden;}
+.top-menu li {padding:0 5px;font-family:"PT Sans",sans-serif;font-size: 16px;}
+.read-more-links{background-color:#ededec;border:1px solid #E0E0E0;margin-bottom:23px;margin-top:39px;position:relative}
+.read-more-links h5{border:0;border-left-width:29px;border-style:solid;color:#fff;font-family: Georgia, serif;font-size:14px;left:9px;line-height:29px;margin:0;padding:0 9px;position:absolute;text-transform:uppercase;top:-15px;font-weight:600;background-color:#292929;border-color:#e1000b}
+.read-more-links h5:before{background:transparent url("https://www.outlookindia.com/images/amp_logo.jpg") 0 0 no-repeat;content:'';height:27px;left:-28px;position:absolute;top:1px;width:27px;border-color:#e1000b}
+.read-more-links ul{list-style-type:none;margin:0;padding:8px 0 0}
+.read-more-links ul {line-height:1;margin:0;padding:10px 0 10px 0}
+.read-more-links li {line-height:1;margin:0;padding:10px 25px 0}
+.read-more-links ul li:first-child{border-top:0}
+.read-more-links ul li a{font-family: Georgia, serif;font-size:15px;font-weight:500;
+color:#014b68;line-height:18px;position:relative;text-decoration:none}
+.read-more-links ul li a:before{border:6px solid transparent;border-left:6px solid #014b68;content:' ';display:inline-block;height:0;left:-12px;line-height:0;position:absolute;top:6px;width:0}
+.read-more-links{margin-bottom:0px}
+.read-more-links a{color:#fff}
+.read-more-links a:before{top:2px;border-left-color:#FFF}
+.family_type {background: #fff;clear: both;color: #464646;display: block;font: 12px/16px Arial, Helvetica, sans-serif;margin: -20px 0 10px;overflow: hidden;padding: 0 0 5px;}
+.family_type p {margin: 0px 0 2px;font: 12px/16px Arial, Helvetica, sans-serif;}
+</style>
+<!-- CSS STYLING END -->
+</head>
+<body>
+<nav class="amp-wp-title-bar navbar-fixed-top">
+<h2 class="logo">
+	<a itemprop="url" href="https://www.outlookindia.com/?utm_source=amp&utm_medium=logo&utm_campaign=amp" title="outlookindia.com - More than just the news magazine from India">
+	<amp-img src="https://www.outlookindia.com/images/outlook-amp.png" alt="Outlook India" width="145" height="30" title="Outlook India"></amp-img>
+	</a>
+</h2>
+
+<ul class="top-menu">
+	<li><a href="https://www.outlookindia.com/magazine?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Outlook Magazine - More than just the news magazine from India">Magazine</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/national/19/?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Latest News Today From India, Top India Headlines | Outlook">India</a></li>
+	<li><a href="https://www.outlookindia.com/website/subsection/opinion/5?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Opinion | Outlook India">Opinion</a></li>
+	<li><a href="https://www.outlookindia.com/videos?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Watch Indian News Videos and Clips – Outlook India">Videos</a></li>
+	<li><a href="https://www.outlookindia.com/photos?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Outlook India Photogallery">Photos</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/international/20/?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="International News, World News Online - Outlook India">World</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/arts-entertainment/23/?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Arts & Entertainment News, Movie Reviews, Gossip - Outlook India">Entertainment</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/sports/22/?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Latest Sports, Cricket, Football, Tennis, Hockey News & Updates">Sports</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/business/18?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Business News, Business News Online, Latest Industry News">Business</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/society/25?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Latest News on Society, Public, Voluntary Sectors & Social Awareness">Society</a></li>
+	<li><a href="https://www.outlookindia.com/blog?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Outlook India Blog">Blogs</a></li>
+</ul>
+
+</nav>
+
+<main>	
+<!-- DESCRIPTION START -->
+<div class="pt60"></div>
+	<div class="amp-wp-content">
+		<ul class="amp-wp-meta breadcrum" style="padding-top:10px">
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="amp-wp-tax-category">
+		<span itemprop="title">29 July 2019</span>
+	</li>
+
+	<!-- BREADCRUMB -->
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="first">
+				<a itemprop="url" href="https://www.outlookindia.com/website/section/international/20?utm_source=amp&utm_medium=bc&utm_campaign=amp" title="International News - Outlook India">
+				<span itemprop="title">International</span>
+				</a>
+			</li>
+		</ul>
+
+	<!-- HEADLINE -->
+		<h1 itemprop="headline" class="amp-wp-title">Netanyahu's Election Campaign In Israel Features PM Modi</h1>
+		<h2 itemprop="description" class="synopsis">Netanyahu's campaign has focused on bringing out his close chemistry with the world leaders and trying to project him as a leader of unmatched stature in Israeli politics which is crucial for the country's security.
+
+</h2>
+		<ul class="amp-wp-meta">
+			<li class="amp-wp-byline">
+				<span class="amp-wp-author">
+											<a href="https://www.outlookindia.com/people/outlook-web-bureau/4005?utm_source=amp&amp;utm_medium=author&utm_campaign=amp" title="Author: Outlook Web Bureau - Outlook India">Outlook Web Bureau</a>																
+										 
+											<a href="https://www.outlookindia.com/people?utm_source=amp&amp;utm_medium=people&utm_campaign=amp" title="People:  - Outlook India"></a>															</span>
+			</li>
+		</ul>
+	
+	<!-- IMAGE -->
+		<span class="custom-caption">
+			<amp-img src="https://images.outlookindia.com/public/uploads/articles/2019/7/29/modi_Netan_571_855.jpg" width="630" height="420" sizes="(min-width: 600px) 600px, 100vw" class="amp-wp-enforced-sizes"></amp-img>
+			<span class="caption-text"> <br></span>
+		</span>
+		
+		<amp-ad width=300 height=250
+			 type="doubleclick"
+			 data-slot="/1053654/OL_AMP_02">
+		</amp-ad>
+		
+	<!-- CONTENT -->
+		
+<p>Ahead of an unprecedented snap polls on September 17, Israeli Prime Minister Benjamin Netanyahu's Likud Party has put banners featuring his pictures with his Indian counterpart Narendra Modi, US President Donald Trump and Russian President Vladimir Putin to lure support by presenting him in a "different league".</p>
+<p>The Likud party headquarters on Metzudat Ze'ev 38, King George Street, in Tel Aviv was seen with election advertisement banners depicting Netanyahu's closeness with the three world leaders with Hebrew text on top saying, Netanyahu (in a) "different league".</p>
+<p>Netanyahu's campaign has focused on bringing out his close chemistry with the world leaders and trying to project him as a leader of unmatched stature in Israeli politics which is crucial for the country's security.</p>
+<p>The Israeli Premier will be travelling to India on a day-long visit on September 9 to meet Modi, just eight days before the repeat polls in the Jewish state, in what some political analysts feel is a photo-op to project his acceptance worldwide and prop up his campaign just before the polls.</p>
+<p>Netanyahu, who created history on July 20 by becoming the longest serving Israeli Prime Minister, surpassing Israel&rsquo;s first premier David Ben-Gurion, is facing a tough political challenge as opinion polls show flagging fortunes for his ruling Likud party.</p>
+<p>Ha&rsquo;aretz columnist Yossi Verter, in an opinion piece, 'Netanyahu&rsquo;s Out of Luck, but He&rsquo;s Hoping a Photo-op With India&rsquo;s Modi Will Help', recently argued that Netanyahu, who&rsquo;s fighting for his personal survival ahead of a hearing before the state prosecution on several graft cases, must find a way to bounce back.</p>
+<p>He wrote that that the Prime Minister's Office in Jerusalem is said to have reached out to their counterparts in New Delhi and requested for an invitation.</p>
+<p>Verter also pointed out how Netanyahu used his closeness with Trump and Putin to "win favours" to boost his campaign before the polls on April 9.</p>
+<p>Israeli lawmakers in May voted 74-45 in favour of dissolving the 21st Knesset (Parliament) and hold an unprecedented re-elections on September 17 after Netanyahu failed to form a coalition government after the April 9 polls.</p>
+<p>Trump and Putin had announced major concessions for Israel to support Netanyahu's campaign which some analysts saw as an attempt to intervene in Israeli elections.</p>
+<p>Netanyahu had in fact tried to also meet Modi before the April 9 polls but it did not work out due to scheduling issues.</p>
+<p>Informed sources told PTI that the first request for an invitation for Netanyahu to visit New Delhi was made in January during the visit of Israeli National Security Adviser Meir Ben-Sabbath to India. The two leaders were scheduled to meet on February 11 before the elections in Israel but Netanyahu called off his trip to New Delhi due to other engagements.</p>
+<p>The efforts regarding the visit were renewed after the Israeli parliament was dissolved and fresh elections announced.</p>
+<p>Netanyahu visited India in January 2018, while Modi travelled to Tel Aviv in 2017, becoming the first Indian prime minister to tour the Jewish state, where Netanyahu received him at the airport.</p>
+<p>A picture of two of them strolling barefoot at the Olga beach in northern Israel during Modi&rsquo;s visit to the country in 2017 created waves with talks of &lsquo;bromance&rsquo; in Israel.</p>
+<p>The close chemistry between the two leaders has been often discussed in the Israeli press.</p>
+<p>PTI</p>
+
+	<!-- RELATED STORIES-->
+		<!-- RELATED STORIES -->	
+	
+	<!-- TAGS -->
+		<ul class="amp-wp-tags">
+			<li class="amp-wp-tax-tag">
+				<span class="screen-reader-text">Read More In:</span>
+			</li>
+			<li>
+				<!-- FOR AUTHOR -->
+																<a href="https://www.outlookindia.com/people/outlook-web-bureau/4005?utm_source=amp&utm_medium=tags&utm_campaign=amp" title="Author: Outlook Web Bureau - Outlook India">Outlook Web Bureau</a>																				
+				<!-- FOR PEOPLE -->
+																<a href="https://www.outlookindia.com/people/netanyahu/15373?utm_source=amp&utm_medium=tags&utm_campaign=amp" title="People: Netanyahu - Outlook India">Netanyahu</a>&nbsp;																			<a href="https://www.outlookindia.com/people/narendra-modi/3956?utm_source=amp&utm_medium=tags&utm_campaign=amp" title="People: Narendra Modi - Outlook India">Narendra Modi</a>																				
+				<!-- FOR PLACES -->
+																<a href="https://www.outlookindia.com/place/israel/172?utm_source=amp&utm_medium=tags&utm_campaign=amp" title="Place: Israel - Outlook India">Israel</a>																				
+				<!-- FOR TAGS -->
+																<a href="https://www.outlookindia.com/topic/India-Israel/104069?utm_source=amp&utm_medium=tags&utm_campaign=amp" title="Topic: India-Israel - Outlook India">India-Israel</a>																			</li>
+		</ul>
+	</div>
+	<!-- DESCRIPTION END -->
+	
+<!-- VIDEOS STARTS -->
+<section id="video-box" class="noTopPadding">
+	<div class="videoContent">
+	<h3 class="video-title">RECOMMENDED</h3>
+	<amp-carousel height="145" layout="fixed-height" type="carousel" controls="">
+		<div>
+		<a href="https://www.outlookindia.com/videos/amp/to-paddy-or-not-to-paddy/2835?utm_source=amp&utm_medium=vid&utm_campaign=amp"
+			title="To Paddy Or Not To Paddy" target="_blank">
+		<amp-img width="240" height="135" style="border-radius:5px;"
+		src="https://images.outlookindia.com/public/home_stories/c1323a6f76b589e08146ff5f169d59d1_140_240.jpg"
+		alt="To Paddy Or Not To Paddy"><span class="play-iconbox play-icon"><i class="play-arrow arrow-icon"></i></span>
+		</amp-img>
+		</a>
+	</div>
+		<div>
+		<a href="https://www.outlookindia.com/videos/amp/bibliofile-author-devapriya-roy-on-her-new-book-friends-from-college/2833?utm_source=amp&utm_medium=vid&utm_campaign=amp"
+			title="Bibliofile Author Devapriya Roy On Her New Book Friends From College" target="_blank">
+		<amp-img width="240" height="135" style="border-radius:5px;"
+		src="https://images.outlookindia.com/public/home_stories/814935aa4ae665c87626cf1cb0cf8a7a_140_240.jpg"
+		alt="Bibliofile Author Devapriya Roy On Her New Book Friends From College"><span class="play-iconbox play-icon"><i class="play-arrow arrow-icon"></i></span>
+		</amp-img>
+		</a>
+	</div>
+		<div>
+		<a href="https://www.outlookindia.com/videos/amp/karnataka-speaker-kr-ramesh-breaks-down-while-remembering-late-jaipal-reddy/2834?utm_source=amp&utm_medium=vid&utm_campaign=amp"
+			title="Karnataka Speaker Kr Ramesh Breaks Down While Remembering Late Jaipal Reddy" target="_blank">
+		<amp-img width="240" height="135" style="border-radius:5px;"
+		src="https://images.outlookindia.com/public/home_stories/dc9f1199b296e74338065e9dece8be94_140_240.jpg"
+		alt="Karnataka Speaker Kr Ramesh Breaks Down While Remembering Late Jaipal Reddy"><span class="play-iconbox play-icon"><i class="play-arrow arrow-icon"></i></span>
+		</amp-img>
+		</a>
+	</div>
+		<div>
+		<a href="https://www.outlookindia.com/videos/amp/the-clownsellors/2832?utm_source=amp&utm_medium=vid&utm_campaign=amp"
+			title="The Clownsellors" target="_blank">
+		<amp-img width="240" height="135" style="border-radius:5px;"
+		src="https://images.outlookindia.com/public/home_stories/3b2c35fa30f40a282bb02ee3fff37cad_140_240.jpg"
+		alt="The Clownsellors"><span class="play-iconbox play-icon"><i class="play-arrow arrow-icon"></i></span>
+		</amp-img>
+		</a>
+	</div>
+		<div>
+		<a href="https://www.outlookindia.com/videos/amp/mumbai-rain-over-1000-passengers-aboard-stranded-mahalaxmi-express-evacuated-safely/2831?utm_source=amp&utm_medium=vid&utm_campaign=amp"
+			title="Mumbai Rain Over 1000 Passengers Aboard Stranded Mahalaxmi Express Evacuated Safely" target="_blank">
+		<amp-img width="240" height="135" style="border-radius:5px;"
+		src="https://images.outlookindia.com/public/home_stories/619d39ba1377811283fd682ecd7f890c_140_240.jpg"
+		alt="Mumbai Rain Over 1000 Passengers Aboard Stranded Mahalaxmi Express Evacuated Safely"><span class="play-iconbox play-icon"><i class="play-arrow arrow-icon"></i></span>
+		</amp-img>
+		</a>
+	</div>
+		</amp-carousel>
+	</div>
+</section>
+<!-- VIDEOS END -->
+
+<!-- COMMENT SECTION -->
+<amp-accordion>
+<section class="comment-box"><h4 class="comment-header">LEAVE A COMMENT</h4>
+	<div class="media">
+	<amp-facebook-comments width="480" height="300" layout="responsive" data-numposts="5"
+		data-href="https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062">
+	</amp-facebook-comments>
+	</div>
+</section>
+</amp-accordion>		
+<!-- COMMENT SECTION ENDS -->
+
+<!-- RELATED WEBSITE START-->
+   
+<section id="editorsPick-section" class="noTopPadding">
+	<div class="leftImageRightContent-list">
+		<ul>
+			<li class="new-h2-head">MORE IN INTERNATIONAL</li>
+						<li>
+				<div class="media">
+					<div class="media-left">
+						<a href="https://www.outlookindia.com/website/story/world-news-al-qaeda-remains-resilient-continues-to-cooperate-pakistan-based-let-claims-un-report/335158?utm_source=amp&utm_medium=more&utm_campaign=amp" title="Al-Qaeda Remains Resilient, Continues To Cooperate Pakistan-Based LeT: UN Report">
+						<amp-img src="https://images.outlookindia.com/public/uploads/articles/2019/7/30/Al-Qaeda_100_100.jpg" layout="responsive" width="90" height="90" alt="Al-Qaeda Remains Resilient, Continues To Cooperate Pakistan-Based LeT: UN Report" />
+					</div>
+					<div class="media-body ae-desc">
+						<div class="headingTwo">
+							<a href="https://www.outlookindia.com/website/story/world-news-al-qaeda-remains-resilient-continues-to-cooperate-pakistan-based-let-claims-un-report/335158?utm_source=amp&utm_medium=more&utm_campaign=amp" title="Al-Qaeda Remains Resilient, Continues To Cooperate Pakistan-Based LeT: UN Report">
+								Al-Qaeda Remains Resilient, Continues To Cooperate Pakistan-Based LeT: UN Report							</a>
+						</div>
+					</div>
+				</div>
+			</li>	
+						<li>
+				<div class="media">
+					<div class="media-left">
+						<a href="https://www.outlookindia.com/website/story/world-news-19-year-old-identified-as-gunman-in-us-food-festival-shooting/335130?utm_source=amp&utm_medium=more&utm_campaign=amp" title="19-Year-Old Identified As Gunman In US Food Festival Shooting">
+						<amp-img src="https://images.outlookindia.com/public/uploads/articles/2019/7/30/gun-2227646_960_720_630_630_630_630_100_100.jpg" layout="responsive" width="90" height="90" alt="19-Year-Old Identified As Gunman In US Food Festival Shooting" />
+					</div>
+					<div class="media-body ae-desc">
+						<div class="headingTwo">
+							<a href="https://www.outlookindia.com/website/story/world-news-19-year-old-identified-as-gunman-in-us-food-festival-shooting/335130?utm_source=amp&utm_medium=more&utm_campaign=amp" title="19-Year-Old Identified As Gunman In US Food Festival Shooting">
+								19-Year-Old Identified As Gunman In US Food Festival Shooting							</a>
+						</div>
+					</div>
+				</div>
+			</li>	
+						<li>
+				<div class="media">
+					<div class="media-left">
+						<a href="https://www.outlookindia.com/website/story/india-news-10-killed-12-injured-as-pakistani-military-plane-crashes-into-residential-area-in-rawalpindi/335129?utm_source=amp&utm_medium=more&utm_campaign=amp" title="2 Pilots Among 17 Killed As Pakistan Military Plane Crashes Into Residential Area In Rawalpindi">
+						<amp-img src="https://images.outlookindia.com/public/uploads/articles/2019/7/30/EArXESVUEAEfpix_100_100.jpg" layout="responsive" width="90" height="90" alt="2 Pilots Among 17 Killed As Pakistan Military Plane Crashes Into Residential Area In Rawalpindi" />
+					</div>
+					<div class="media-body ae-desc">
+						<div class="headingTwo">
+							<a href="https://www.outlookindia.com/website/story/india-news-10-killed-12-injured-as-pakistani-military-plane-crashes-into-residential-area-in-rawalpindi/335129?utm_source=amp&utm_medium=more&utm_campaign=amp" title="2 Pilots Among 17 Killed As Pakistan Military Plane Crashes Into Residential Area In Rawalpindi">
+								2 Pilots Among 17 Killed As Pakistan Military Plane Crashes Into Residential Area In Rawalpindi							</a>
+						</div>
+					</div>
+				</div>
+			</li>	
+					</ul>
+	</div>
+</section>
+<!-- RELATED END -->
+	
+<!-- MORE IN OUTLOOK START-->
+	<!-- MORE IN OUTLOOK END -->
+	
+<!-- MORE IN WEBSITE MOST VIEWED START-->
+	
+<section id="editorsPick-section" class="noTopPadding">
+	<div class="leftImageRightContent-list">
+		<ul>
+			<li class="new-h2-head">MORE FROM OUTLOOK INDIA</li>
+						<li>
+				<div class="media">
+					<div class="media-left">
+						<a href="https://www.outlookindia.com/website/story/india-news-15-year-old-muslim-boy-set-on-fire-in-ups-chandauli-for-refusing-to-chant-jai-shri-ram/335071?utm_source=amp&utm_medium=morem&utm_campaign=amp" title="15-Year-Old Muslim Boy Set On Fire In UP's Chandauli For Refusing To Chant 'Jai Shri Ram'">
+						<amp-img src="https://images.outlookindia.com/public/uploads/articles/2019/7/29/Crime_630_630_100_100.jpg" layout="responsive" width="90" height="90" alt="15-Year-Old Muslim Boy Set On Fire In UP's Chandauli For Refusing To Chant 'Jai Shri Ram'" />
+					</div>
+					<div class="media-body ae-desc">
+						<div class="headingTwo">
+							<a href="https://www.outlookindia.com/website/story/india-news-15-year-old-muslim-boy-set-on-fire-in-ups-chandauli-for-refusing-to-chant-jai-shri-ram/335071?utm_source=amp&utm_medium=morem&utm_campaign=amp" title="15-Year-Old Muslim Boy Set On Fire In UP's Chandauli For Refusing To Chant 'Jai Shri Ram'">15-Year-Old Muslim Boy Set On Fire In UP's Chandauli For Refusing To Chant 'Jai Shri Ram'</a>
+						</div>
+					</div>
+				</div>
+			</li>
+						<li>
+				<div class="media">
+					<div class="media-left">
+						<a href="https://www.outlookindia.com/website/story/sports-news-sunil-gavaskar-calls-bcci-selection-committee-lame-ducks-asks-why-no-meeting-to-reappoint-virat-kohli-as-captain/335105?utm_source=amp&utm_medium=morem&utm_campaign=amp" title="Why Is Virat Kohli Captain? Sunil Gavaskar Wants Indian Cricket Skipper's Performance Reviewed">
+						<amp-img src="https://images.outlookindia.com/public/uploads/articles/2019/7/29/AS_100_100.jpg" layout="responsive" width="90" height="90" alt="Why Is Virat Kohli Captain? Sunil Gavaskar Wants Indian Cricket Skipper's Performance Reviewed" />
+					</div>
+					<div class="media-body ae-desc">
+						<div class="headingTwo">
+							<a href="https://www.outlookindia.com/website/story/sports-news-sunil-gavaskar-calls-bcci-selection-committee-lame-ducks-asks-why-no-meeting-to-reappoint-virat-kohli-as-captain/335105?utm_source=amp&utm_medium=morem&utm_campaign=amp" title="Why Is Virat Kohli Captain? Sunil Gavaskar Wants Indian Cricket Skipper's Performance Reviewed">Why Is Virat Kohli Captain? Sunil Gavaskar Wants Indian Cricket Skipper's Performance Reviewed</a>
+						</div>
+					</div>
+				</div>
+			</li>
+						<li>
+				<div class="media">
+					<div class="media-left">
+						<a href="https://www.outlookindia.com/website/story/india-news-karnataka-cm-bs-yediyurappa-moves-confidence-motion-in-assembly-says-wont-indulge-in-politics-of-vengeance/335081?utm_source=amp&utm_medium=morem&utm_campaign=amp" title="Karnataka Chief Minister BS Yediyurappa Wins Trust Vote In Assembly, Speaker Resigns">
+						<amp-img src="https://images.outlookindia.com/public/uploads/articles/2019/7/29/EAnsaQnXkAEg1yB_100_100.jpg" layout="responsive" width="90" height="90" alt="Karnataka Chief Minister BS Yediyurappa Wins Trust Vote In Assembly, Speaker Resigns" />
+					</div>
+					<div class="media-body ae-desc">
+						<div class="headingTwo">
+							<a href="https://www.outlookindia.com/website/story/india-news-karnataka-cm-bs-yediyurappa-moves-confidence-motion-in-assembly-says-wont-indulge-in-politics-of-vengeance/335081?utm_source=amp&utm_medium=morem&utm_campaign=amp" title="Karnataka Chief Minister BS Yediyurappa Wins Trust Vote In Assembly, Speaker Resigns">Karnataka Chief Minister BS Yediyurappa Wins Trust Vote In Assembly, Speaker Resigns</a>
+						</div>
+					</div>
+				</div>
+			</li>
+					</ul>
+	</div>
+</section>
+<!-- MORE IN WEBSITE MOST VIEWED END -->
+	
+</main>	
+
+	<!-- FOOTER START -->
+<footer>
+	<div class="privacy">Copyright &copy; 2018 Outlook Publishing India Pvt. Ltd.</div>
+	<div class="wp">All Rights Reserved</div>
+</footer>
+	<!-- FOOTER END -->
+	
+<!-- NAVIGATION BAR START -->
+<button class="hamburger" on="tap:sidebar1.open">
+	<i class="icon"></i><br>
+	<i class="icon1"></i><br>
+	<i class="icon2"></i>
+</button>
+
+<amp-sidebar id='sidebar1' layout='nodisplay'>
+	<div class='amp-close-image' on="tap:sidebar1.close" role="button" tabindex="0">X</div>
+	<ul>
+		<li>
+			<a itemprop="url" href="https://www.outlookindia.com/?utm_source=amp&utm_medium=logo&utm_campaign=amp" title="outlookindia.com - More than just the news magazine from India" style="margin:5px 0 0 0;"><span class="logo1"></span>
+			<amp-img src="https://www.outlookindia.com/images/outlook_logo.jpg" alt="Outlook India" width="145" height="30" title="Outlook India"></amp-img>
+			</a>
+		</li>
+		<li><a href="https://www.outlookindia.com/?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="outlookindia.com - More than just the news magazine from India"><span class="nav"></span>Home</a></li>
+	<li><a href="https://www.outlookindia.com/magazine?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Outlook Magazine - More than just the news magazine from India"><span class="nav"></span>Magazine</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/national/19/?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Latest News Today From India, Top India Headlines | Outlook"><span class="nav"></span>India</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/international/20/?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="International News, World News Online - Outlook India"><span class="nav"></span>World</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/business/18?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Business News, Business News Online, Latest Industry News"><span class="nav"></span>Business</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/sports/22/?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Latest Sports, Cricket, Football, Tennis, Hockey News & Updates"><span class="nav"></span>Sports</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/arts-entertainment/23/?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Arts & Entertainment News, Movie Reviews, Gossip - Outlook India"><span class="nav"></span>Entertainment</a></li>
+	<li><a href="https://www.outlookindia.com/photos?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Outlook India Photogallery"><span class="nav"></span>Photos</a></li>
+	<li><a href="https://www.outlookindia.com/videos?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Watch Indian News Videos and Clips – Outlook India"><span class="nav"></span>Videos</a></li>
+	<li><a href="https://www.outlookindia.com/blog?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Outlook India Blog"><span class="nav"></span>Blogs</a></li>
+	<li><a href="https://www.outlookindia.com/website/subsection/opinion/5?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Opinion | Outlook India"><span class="nav"></span>Opinion</a></li>
+	<li><a href="https://www.outlookindia.com/website/section/society/25?utm_source=amp&utm_medium=nav&utm_campaign=amp" title="Latest News on Society, Public, Voluntary Sectors & Social Awareness"><span class="nav"></span>Society</a></li>
+	</ul>
+	
+	<!-- DO NOT MODIFY -->
+	<!-- Quora Pixel Code (Static HTML) -->
+	<amp-pixel height="1" width="1" layout="nodisplay" src="https://q.quora.com/_/ad/012db7b0a81e4d6ea1e270a35256e3f5/pixel?tag=ViewContent&u=https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062&amp=1"></amp-pixel>
+	<!-- End of Quora Pixel Code -->
+</amp-sidebar>
+	<!-- NAVIGATION BAR END -->
+	
+
+	<!-- SOCIAL SHARE START -->	
+<div class="social-share-nextbtn">
+	<ul class="floating-social-share">
+		<li class="social-share_item">
+			<amp-social-share type="facebook"
+				width="50"
+				height="32" 
+				data-text="Netanyahu's Election Campaign In Israel Features PM Modi"
+				data-param-href="https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062&#x3f;utm_source&#x3d;amp&amp;utm_medium&#x3d;fb&amp;utm_campaign&#x3d;amp"
+				data-param-app_id="1819793348257024"
+				data-attribution="AMPhtml">
+			</amp-social-share>
+		</li> 
+		<li class="social-share_item">
+		<amp-social-share width="50" height="32" type="messenger" data-share-endpoint="fb-messenger://share?link=https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062?utm_source=amp%26utm_medium=fbm%26utm_campaign=amp&amp;app_id=1819793348257024"></amp-social-share></li> 
+		<li class="social-share_item">
+			<amp-social-share type="twitter"
+				width="50"
+				height="32"
+				data-text="Netanyahu's Election Campaign In Israel Features PM Modi"
+				data-param-url="https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062?utm_source=amp&utm_medium=tw&utm_campaign=amp"
+				data-attribution="AMPhtml">
+			</amp-social-share>
+		</li>
+		<li class="social-share_item">
+			<amp-social-share type="whatsapp"
+				width="50"
+				height="32"
+				data-share-endpoint="whatsapp://send"
+				data-param-text="https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062?utm_source=amp&utm_medium=wa&utm_campaign=amp">
+			</amp-social-share>
+		</li>
+	</ul>
+	
+	<div class="next-button">
+					<a href="https://www.outlookindia.com/website/story/india-news-javed-akhtar-slams-shekhar-kapur-over-fear-of-intellectuals-tweet/335063?utm_source=amp&utm_medium=next&utm_campaign=amp" title="Javed Akhtar Slams Shekhar Kapur Over 'Fear Of Intellectuals' Tweet">Next Article</a>
+			</div>
+</div>
+	<!-- SOCIAL SHARE END -->	
+
+	<!-- GOOGLE ANALYTICS START -->
+<amp-analytics type="googleanalytics" id="google_analytics" >
+	<script type="application/json" >
+	{
+		"vars": {
+			"account": "UA-9108659-2"
+		},
+		"triggers": {
+			"track pageview": {
+				"on": "visible",
+				"request": "pageview",
+				"vars": {
+					"title": "Netanyahu's Election Campaign In Israel Features PM Modi",
+					"ampdocurl": "https://www.outlookindia.com/website/story/world-news-netanyahus-election-campaign-in-israel-features-pm-modi/335062"
+				}
+			}
+		}
+	}	
+	</script>
+</amp-analytics>	
+	<!-- GOOGLE ANALYTICS ENDS -->
+</body>
+</html>

@@ -1,0 +1,1760 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.theepochtimes.com/assets/themes/eet/images/etfavicon.ico" sizes="16x16" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="fb:pages" content="1615635982023706" />
+	<meta name="date" content="2019-07-28 3:52:14 PM" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html">
+<title>2 American Teens Jailed in Italy in Policeman&#8217;s Killing</title>
+<meta name="robots" content="noodp,noydir"/>
+<meta name="description" content="2 American teenagers were jailed in Rome on Saturday as authorities carry out a murder investigation in the killing of Italian police officer."/>
+<meta name="keywords" content="Americans,Italy,THE EPOCH TIMES"/>
+<link rel="canonical" href="https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="2 American Teens Jailed in Italy in Policeman&#039;s Killing" />
+<meta property="og:description" content="2 American teenagers were jailed in Rome on Saturday as authorities carry out a murder investigation in the killing of Italian police officer." />
+<meta property="og:url" content="https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" />
+<meta property="og:site_name" content="www.theepochtimes.com" />
+<meta property="article:tag" content="Italy,Americans" />
+<meta property="article:section" content="Europe" />
+<meta property="article:published_time" content="2019-07-28T15:52:14-04:00" />
+<meta property="fb:admins" content="10205921529470972" />
+<meta property="og:image" content="https://www.theepochtimes.com/assets/uploads/2019/07/28/american-teens-italy-01-1200x898.jpg" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="2 American teenagers were jailed in Rome on Saturday as authorities carry out a murder investigation in the killing of Italian police officer."/>
+<meta name="twitter:title" content="2 American Teens Jailed in Italy in Policeman&#039;s Killing"/>
+<meta name="twitter:site" content="@EpochTimes"/>
+<meta name="twitter:domain" content="www.theepochtimes.com"/>
+<meta name="twitter:image:src" content="https://www.theepochtimes.com/assets/uploads/2019/07/28/american-teens-italy-01.jpg"/>
+<meta name="twitter:creator" content="@EpochTimes"/>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='eet-style-css'  href='https://www.theepochtimes.com/assets/themes/eet/style.css?ver=20170224' type='text/css' media='all' />
+<link rel='stylesheet' id='eet-global-css'  href='https://www.theepochtimes.com/assets/themes/eet/css/global.css?ver=20180612' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://www.theepochtimes.com/assets/themes/eet/css/genericons/genericons.css?ver=20171027' type='text/css' media='all' />
+<link rel='stylesheet' id='eet-article-page-css'  href='https://www.theepochtimes.com/assets/themes/eet/css/single.css?ver=20190223' type='text/css' media='all' />
+<link rel='stylesheet' id='eet-print-css'  href='https://www.theepochtimes.com/assets/themes/eet/css/print.css?ver=20160303' type='text/css' media='print' />
+
+	<script>
+		var eet_primary_category, eet_cat_ids, eet_term_ids, eet_all_term_ids, eet_cat_names, eet_no_ads, eet_ads_term_ids;
+		var eet_post_id, eet_author_nicename, eet_author_name, eet_primary_category_name, eet_tags, eet_tags_slugs, eet_publish_date, eet_last_updated_date, eet_word_count;
+		var eet_segment_url = 'https://www.theepochtimes.com/assets/uploads/segment';
+		var featured_img_thumbnail;
+		var eet_is_premium_article;
+	featured_img_thumbnail = 'https://img.theepochtimes.com/assets/uploads/2019/07/28/american-teens-italy-01-100x60.jpg';
+eet_primary_category = '18';
+eet_cat_ids = 'europe-18;international-19;world-89904';
+eet_term_ids = 'category-headlines-98889;todays-headlines-98892';
+eet_all_term_ids = 'europe-18;international-19;world-89904;category-headlines-98889;todays-headlines-98892';
+eet_cat_names = 'Europe;International;World';
+eet_ads_term_ids = 'eet_europe-18,eet_international-19,eet_world-89904,eet_category-headlines-98889,eet_todays-headlines-98892';
+eet_post_id = '3019902';
+eet_author_nicename = 'gqpan';
+eet_author_name = 'The Associated Press';
+eet_primary_category_name = 'Europe';
+eet_tags = 'Italy;Americans';
+eet_tags_slugs = 'italy;americans';
+eet_publish_date = '20190728';
+eet_last_updated_date = '20190728';
+eet_word_count = '1043';
+eet_page_type = 'post';
+eet_is_premium_article = 'false';
+	</script>
+	<link rel="amphtml" href="https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html/amp" /><script id="apstag-js" type="text/javascript" async src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script id="prebid-js" type="text/javascript" async src="/assets/themes/eet/js/prebid.js"></script><!--[if lt IE 9]>
+     <script type="text/javascript" src="/assets/themes/eet/js/html5.js"></script>
+     <link href="/assets/themes/eet/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class="post-template-default single single-post postid-3019902 single-format-standard">
+	<script>
+    	// We want persisten UUID
+    	function epochuser () {
+			this.getUUID = function getUUID () {
+				if (localStorage && "_epochUUID" in localStorage) {
+					euid = localStorage._epochUUID;
+				} else {
+					euid = this.euid();
+					localStorage.setItem("_epochUUID",this.euid());
+				}
+				return euid;
+			}
+			this.euid = function () {
+				return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+					var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+					return v.toString(16);
+				});
+			}
+		}
+		var epoch = {}
+		var user = new epochuser();
+	</script>
+
+	<!-- Optimize Page Hiding Snippet -->
+	<style>.async-hide { opacity: 0 !important} </style>
+	<script>
+		var settings_obj = {};
+		
+		(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+		h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+		(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+		})(window,document.documentElement,'async-hide','dataLayer',500,settings_obj);
+
+		var eet_ga_id = 'UA-10465455-30';
+		var eet_domain = 'theepochtimes.com';
+
+	  	<!-- Analytics-Optimize Snippet -->
+	  	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  	ga('create', eet_ga_id, 'auto', {'allowLinker': true});
+	  	ga('require', 'linker');
+	  	ga('linker:autoLink', ['subscribe.epochtimes.com']);
+	 </script>
+
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5Z8H4H"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+	j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5Z8H4H');
+	</script>
+
+
+	<header id="header" class="single">
+    <div class="container">
+        <div class="top_wrapper">
+            <div class="left_col">
+                <a class="toggle" href="javascript:void(0);"></a>
+                <a class="about_us" href="https://www.theepochtimes.com/about-us">ABOUT US</a>
+            </div>
+            <div class="logo"><a href="https://www.theepochtimes.com/"><img src="/assets/themes/eet/images/logo_eet.svg"></a></div>
+            <div class="right_col">
+                <span id="login_wrapper">
+                    <div class="anonymous">
+                        <span class="my_subscription"><a target="_blank" href="https://service.theepochtimes.com">MY SUBSCRIPTION</a></span>
+                        <span class="subscribe"><a href="https://subscribe.theepochtimes.com/?utm_source=theepochtimes.com&utm_medium=static_link&utm_campaign=page_link&utm_content=front_header_menu_subscribe_link&utm_term=/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html">SUBSCRIBE</a></span>
+                        <span class="login"><a id="login-button" href="javascript:void(0)">Login</a></span>
+                    </div>
+                </span>
+                <span id="user_wrapper" class="hidden">
+                    <div class="user_name">MY ACCOUNT</div>
+                    <ul>
+                        <li><a href="https://www.theepochtimes.com/myaccount" id="myaccount" class="account">SETTINGS</a></li>
+                        <li><a href="#" id="logout-button" class="logout">LOGOUT</a></li>
+                    </ul>
+                </span>
+                <a class="search" href="javascript:void(0);"></a>
+            </div>
+        </div>
+        <div id="hidden_menu" class="hidden">
+            <div class="close_icon"><a href="javascript:void(0);">CLOSE</a></div>
+            <div class="icon_wrapper">
+                <a class="subscribe" href="https://subscribe.theepochtimes.com/?utm_source=theepochtimes.com&utm_medium=static_link&utm_campaign=page_link&utm_content=header_menu_subscribe_link&utm_term=/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html"><span>subscribe</span></a>
+                <a class="newsletter" href="https://www.theepochtimes.com/newsletter"><span>newsletter</span></a>
+                <a class="newsstands" href="https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper"><span>Newsstands</span></a>
+            </div>
+            <div class="full_menu_items">
+                <span class="first_col">
+                    <div class="menu-feature-menu-container"><ul id="menu-feature-menu" class="nav-menu"><li id="menu-item-2635427" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-editors-picks menu-item-2635427"><a href="https://www.theepochtimes.com/editors-picks">Editor&#8217;s Picks</a></li>
+<li id="menu-item-2635433" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-special-series menu-item-2635433"><a href="https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world">SPECIAL SERIES</a></li>
+<li id="menu-item-2635480" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-special-coverage menu-item-2635480"><a href="https://www.theepochtimes.com/c-shen-yun">Special Coverage</a></li>
+</ul></div>                    <div class="menu-front-main-column1-container"><ul id="menu-front-main-column1" class="nav-menu"><li id="menu-item-2298344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-us menu-item-2298344"><a href="https://www.theepochtimes.com/c-us">US</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-news menu-item-2298345"><a href="https://www.theepochtimes.com/c-us-news">US News</a></li>
+	<li id="menu-item-2298346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-features menu-item-2298346"><a href="https://www.theepochtimes.com/c-us-features">US Features</a></li>
+	<li id="menu-item-2298348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298348"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+	<li id="menu-item-2880426" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-trump-presidency menu-item-2880426"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></li>
+	<li id="menu-item-2638693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-crime-and-incidents menu-item-2638693"><a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a></li>
+	<li id="menu-item-2638696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-new-york menu-item-2638696"><a href="https://www.theepochtimes.com/c-nyc">New York</a></li>
+	<li id="menu-item-2654668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-san-francisco menu-item-2654668"><a href="https://www.theepochtimes.com/c-nor-cal-san-francisco">San Francisco</a></li>
+	<li id="menu-item-2654669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-los-angeles menu-item-2654669"><a href="https://www.theepochtimes.com/c-so-cal-los-angeles">Los Angeles</a></li>
+</ul>
+</li>
+<li id="menu-item-2638699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-opinion menu-item-2638699"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-thinking-about-china menu-item-2638700"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></li>
+	<li id="menu-item-2638701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-viewpoints menu-item-2638701"><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></li>
+	<li id="menu-item-2833178" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-declassified menu-item-2833178"><a href="https://www.theepochtimes.com/c-declassified">Declassified</a></li>
+	<li id="menu-item-2833181" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-american-thought-leaders menu-item-2833181"><a href="https://www.theepochtimes.com/c-american-thought-leaders">American Thought Leaders</a></li>
+</ul>
+</li>
+</ul></div>                </span>
+                <span class="second_col"><div class="menu-front-main-column2-container"><ul id="menu-front-main-column2" class="nav-menu"><li id="menu-item-2638657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-china menu-item-2638657"><a href="https://www.theepochtimes.com/c-china">China</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-us-news menu-item-2638661"><a href="https://www.theepochtimes.com/c-china-us-news">China-US News</a></li>
+	<li id="menu-item-2638685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-regime menu-item-2638685"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></li>
+	<li id="menu-item-2638658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business-economy menu-item-2638658"><a href="https://www.theepochtimes.com/c-business-economy">Business &#038; Economy</a></li>
+	<li id="menu-item-2638663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-culture menu-item-2638663"><a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a></li>
+	<li id="menu-item-2638659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-human-rights menu-item-2638659"><a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a></li>
+	<li id="menu-item-2638660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-society menu-item-2638660"><a href="https://www.theepochtimes.com/c-society">China Society</a></li>
+	<li id="menu-item-2638667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-organ-harvesting-in-china menu-item-2638667"><a href="https://www.theepochtimes.com/c-organ-harvesting-in-china">Organ Harvesting in China</a></li>
+</ul>
+</li>
+<li id="menu-item-2638669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-world menu-item-2638669"><a href="https://www.theepochtimes.com/c-world">World</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-africa menu-item-2638670"><a href="https://www.theepochtimes.com/c-africa">Africa</a></li>
+	<li id="menu-item-2638671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-americas menu-item-2638671"><a href="https://www.theepochtimes.com/c-americas">Americas</a></li>
+	<li id="menu-item-2638672" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-asia-pacific menu-item-2638672"><a href="https://www.theepochtimes.com/c-asia-pacific">Asia &#038; Pacific</a></li>
+	<li id="menu-item-2638673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-canada menu-item-2638673"><a href="https://www.theepochtimes.com/c-canada">Canada</a></li>
+	<li id="menu-item-2638674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-europe menu-item-2638674"><a href="https://www.theepochtimes.com/c-europe">Europe</a></li>
+	<li id="menu-item-2654636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-uk menu-item-2654636"><a href="https://www.theepochtimes.com/c-uk">UK</a></li>
+	<li id="menu-item-2654635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-australia menu-item-2654635"><a href="https://www.theepochtimes.com/c-australia">Australia</a></li>
+	<li id="menu-item-2638677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-international menu-item-2638677"><a href="https://www.theepochtimes.com/c-international">International</a></li>
+	<li id="menu-item-2638679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-middle-east menu-item-2638679"><a href="https://www.theepochtimes.com/c-middle-east">Middle East</a></li>
+</ul>
+</li>
+<li id="menu-item-2298376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-business menu-item-2298376"><a href="https://www.theepochtimes.com/c-business">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-companies menu-item-2298377"><a href="https://www.theepochtimes.com/c-companies">Companies</a></li>
+	<li id="menu-item-2298378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-economies menu-item-2298378"><a href="https://www.theepochtimes.com/c-economies">Economies</a></li>
+	<li id="menu-item-2298379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-markets menu-item-2298379"><a href="https://www.theepochtimes.com/c-markets">Markets</a></li>
+	<li id="menu-item-2298380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-real-estate menu-item-2298380"><a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a></li>
+</ul>
+</li>
+</ul></div></span>
+                <span class="third_col"><div class="menu-front-main-column3-container"><ul id="menu-front-main-column3" class="nav-menu"><li id="menu-item-2298402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-arts menu-item-2298402"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298404" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-shen-yun-special-coverage menu-item-2298404"><a href="https://www.theepochtimes.com/c-shen-yun">Shen Yun Special Coverage</a></li>
+	<li id="menu-item-2298406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-performing-arts menu-item-2298406"><a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a></li>
+	<li id="menu-item-2298407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fine-arts menu-item-2298407"><a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts</a></li>
+	<li id="menu-item-2298408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-literature menu-item-2298408"><a href="https://www.theepochtimes.com/c-literature">Literature</a></li>
+</ul>
+</li>
+<li id="menu-item-2638641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-science menu-item-2638641"><a href="https://www.theepochtimes.com/c-science">Science</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638642"><a href="https://www.theepochtimes.com/c-science-news">News</a></li>
+	<li id="menu-item-2638645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-space menu-item-2638645"><a href="https://www.theepochtimes.com/c-space">Space</a></li>
+	<li id="menu-item-2638646" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-environment menu-item-2638646"><a href="https://www.theepochtimes.com/c-environment">Environment</a></li>
+</ul>
+</li>
+<li id="menu-item-2638648" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-title-tech menu-item-2638648"><a href="https://www.theepochtimes.com/c-tech">Tech</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638649" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-tech-news menu-item-2638649"><a href="https://www.theepochtimes.com/c-tech-news">Tech News</a></li>
+	<li id="menu-item-2638650" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-products-reviews menu-item-2638650"><a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &#038; Reviews</a></li>
+	<li id="menu-item-2638651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-social-media menu-item-2638651"><a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a></li>
+</ul>
+</li>
+<li id="menu-item-2638653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2638653"><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
+<li id="menu-item-2664345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2664345"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
+<li id="menu-item-2909260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-video menu-item-2909260"><a href="https://www.theepochtimes.com/c-video">Video</a>
+<ul class="sub-menu">
+	<li id="menu-item-2909265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-humanity menu-item-2909265"><a href="https://www.theepochtimes.com/c-humanity">Humanity</a></li>
+	<li id="menu-item-2909263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-amazing menu-item-2909263"><a href="https://www.theepochtimes.com/c-amazing">Amazing</a></li>
+	<li id="menu-item-2909262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-animal-videos menu-item-2909262"><a href="https://www.theepochtimes.com/c-animals-video">Animal videos</a></li>
+	<li id="menu-item-2909264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-funny menu-item-2909264"><a href="https://www.theepochtimes.com/c-funny">Funny</a></li>
+</ul>
+</li>
+</ul></div></span>
+                <span class="fourth_col"><div class="menu-front-main-column4-container"><ul id="menu-front-main-column4" class="nav-menu"><li id="menu-item-2298413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-life menu-item-2298413"><a href="https://www.theepochtimes.com/c-life">Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-slice-of-life menu-item-2298414"><a href="https://www.theepochtimes.com/c-slice-of-life">Slice of Life</a></li>
+	<li id="menu-item-2638610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-good-to-know menu-item-2638610"><a href="https://www.theepochtimes.com/c-good-to-know">Good to Know</a></li>
+	<li id="menu-item-2298416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-inspired menu-item-2298416"><a href="https://www.theepochtimes.com/c-inspired">Inspired</a></li>
+	<li id="menu-item-2298418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-careers menu-item-2298418"><a href="https://www.theepochtimes.com/c-careers">Careers</a></li>
+	<li id="menu-item-2298419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-family menu-item-2298419"><a href="https://www.theepochtimes.com/c-family-life-2">Family</a></li>
+	<li id="menu-item-2298421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-travel menu-item-2298421"><a href="https://www.theepochtimes.com/c-travel">Travel</a></li>
+	<li id="menu-item-2833173" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-better-life menu-item-2833173"><a href="https://www.theepochtimes.com/c-better-life">Better Life</a></li>
+	<li id="menu-item-2886462" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-autos menu-item-2886462"><a href="https://www.theepochtimes.com/c-autos">Autos</a></li>
+</ul>
+</li>
+<li id="menu-item-2638612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-entertainment menu-item-2638612"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-reviews menu-item-2638613"><a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a></li>
+	<li id="menu-item-2638614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-tv menu-item-2638614"><a href="https://www.theepochtimes.com/c-film-tv">Film &#038; TV</a></li>
+	<li id="menu-item-2638615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment-news menu-item-2638615"><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></li>
+</ul>
+</li>
+<li id="menu-item-2638618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-wellness menu-item-2638618"><a href="https://www.theepochtimes.com/c-health">Wellness</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638619"><a href="https://www.theepochtimes.com/c-health-news">News</a></li>
+	<li id="menu-item-2638622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fitness-nutrition menu-item-2638622"><a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &#038; Nutrition</a></li>
+	<li id="menu-item-2638623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-traditional-chinese-medicine menu-item-2638623"><a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Traditional Chinese Medicine</a></li>
+	<li id="menu-item-2638624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-alternative-health menu-item-2638624"><a href="https://www.theepochtimes.com/c-alternative-health">Alternative Health</a></li>
+	<li id="menu-item-2638626" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-treatments-and-techniques menu-item-2638626"><a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a></li>
+</ul>
+</li>
+</ul></div></span>
+            </div>
+        </div>
+        <div id="search_pannel" class="hidden">
+            <form action="https://www.theepochtimes.com/search/" class="search_form" method="get">
+                <input type="text" name="q">
+                <a class="search_icon" href="javascript:void(0);"></a>
+            </form>
+        </div>
+    </div>
+    <div class="center_container">
+        <div class="main_nav clear">
+            <div class="menu-front-page-primary-container"><ul id="menu-front-page-primary" class="nav-menu"><li id="menu-item-2298321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us menu-item-2298321"><a href="https://www.theepochtimes.com/c-us">US</a></li>
+<li id="menu-item-2298322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298322"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+<li id="menu-item-2298323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china menu-item-2298323"><a href="https://www.theepochtimes.com/c-china">China</a></li>
+<li id="menu-item-2298324" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-world menu-item-2298324"><a href="https://www.theepochtimes.com/c-world">World</a></li>
+<li id="menu-item-2298325" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-opinion menu-item-2298325"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a></li>
+<li id="menu-item-2298326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business menu-item-2298326"><a href="https://www.theepochtimes.com/c-business">Business</a></li>
+<li id="menu-item-2568658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech menu-item-2568658"><a href="https://www.theepochtimes.com/c-tech">Tech</a></li>
+<li id="menu-item-2568659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-science menu-item-2568659"><a href="https://www.theepochtimes.com/c-science">Science</a></li>
+<li id="menu-item-2298328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-wellness menu-item-2298328"><a href="https://www.theepochtimes.com/c-health">Wellness</a></li>
+<li id="menu-item-2458283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2458283"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
+<li id="menu-item-2298331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-arts menu-item-2298331"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a></li>
+<li id="menu-item-2298332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment menu-item-2298332"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a></li>
+<li id="menu-item-2909246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-video menu-item-2909246"><a href="https://www.theepochtimes.com/c-video">Video</a></li>
+<li id="menu-item-2636307" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-more menu-item-2636307"><a>More</a></li>
+</ul></div>        </div>
+    </div>
+</header>
+<div class="top_ad"></div>
+<main id="main" role="main">
+	<div class="main_content">
+		<div class="one_post active">
+		  <div class="left_col">
+			<div class="active upper_row">
+				<div class="featured_image">
+					<div class="featured_img"><a href="https://img.theepochtimes.com/assets/uploads/2019/07/28/american-teens-italy-01-1200x898.jpg"><img src="https://img.theepochtimes.com/assets/uploads/2019/07/28/american-teens-italy-01-700x420.jpg" alt="Gabriel Christian Natale Hjorth (R) and Finnegan Lee Elder, sit in their hotel room in Rome, Italy. (Italian Carabinieri via AP)"></a></div><div class="featured_caption">Gabriel Christian Natale Hjorth (R) and Finnegan Lee Elder, sit in their hotel room in Rome, Italy. (Italian Carabinieri via AP)</div>				</div>
+                                <div class="pricat_name">
+                    <a href="https://www.theepochtimes.com/c-europe">
+                    Europe                    </a>
+                </div>
+                				<div class="post_title"><h1><span class="">2 American Teens Jailed in Italy in Policeman&#8217;s Killing</span></h1></div>
+				<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-associated-press">The Associated Press</a></span></div>				<div class="date_font">
+					<span class="publish">July 28, 2019</span>
+					<span class="update">Updated: July 28, 2019</span>
+					<span class="right_float social">
+						<div class="text">Share</div>
+						<div class="icons">
+							<span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank"></a></span><span class="flipboard"><a data-flip-widget="shareflip" href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;title=2 American Teens Jailed in Italy in Policeman&#8217;s Killing&amp;url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank"></a></span><span class="twitter"><a href="https://twitter.com/intent/tweet?text=2 American Teens Jailed in Italy in Policeman&#8217;s Killing&amp;url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html&amp;via=epochtimes" target="_blank"></a></span><span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank"></a></span><span class="email"><a href="mailto:?subject=2 American Teens Jailed in Italy in Policeman&#8217;s Killing&amp;body=2 American Teens Jailed in Italy in Policeman&#8217;s Killing https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank"></a></span>						</div>
+						<div class="extra">
+							<span class="more"><a href="javascript:void(0);">&nbsp;</a><ul><li><a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank">LINKEDIN</a></li><li><a class="pinterest" href="https://pinterest.com/pin/create/button/?url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html&amp;description=2 American Teens Jailed in Italy in Policeman&#8217;s Killing" target="_blank">PINTEREST</a></li><li><a class="reddit" href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank">REDDIT</a></li><li><a class="tumblr" href="http://www.tumblr.com/share/link?url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank">TUMBLR</a></li><li><a class="stumbleupon" href="http://www.stumbleupon.com/submit?url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank">STUMBLEUPON</a></li></ul></span><span class="printer"><a href="#Print" onclick="window.print(); return false;" target="_blank"></a></span><span id="font_up" class="font-bigger"><a href="javascript:void(0);">&nbsp;</a></span><span id="font_down" class="font-smaller"><a href="javascript:void(0);">&nbsp;</a></span>						</div>
+					</span>
+				</div>
+
+				<div class="post_content">
+					<p>ROME—Two American teenagers who were classmates at a California high school spent a second night in a Rome jail on July 27 after they were interrogated for hours about their alleged roles in the murder of an Italian policeman.</p>
+<p>Investigators contended in written statements Saturday that the pair had confessed to their roles in the grisly slaying. Vice Brigadier Mario Cerciello Rega, a member of the storied Carabinieri paramilitary corps, was stabbed eight times, allegedly by one of the teens, leaving him bleeding on a street close to the teens&#8217; upscale hotel near Rome&#8217;s Tiber River.</p>
+<p>Italian authorities identified the two as Gabriel Christian Natale-Hjorth, 18, and Finnegan Lee Elder, 19, and said they were born in San Francisco.</p>
+<figure id="attachment_3019978" style="width: 500px" class="wp-caption alignnone"><a href="https://img.theepochtimes.com/assets/uploads/2019/07/28/american-teen-italy.jpg"><img class="lazy  wp-image-3019978" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/28/american-teen-italy.jpg" alt="Finnegan Lee Elder " width="500" height="759" /><figcaption class="wp-caption-text"><noscript><img class=" wp-image-3019978" src="https://img.theepochtimes.com/assets/uploads/2019/07/28/american-teen-italy.jpg" alt="Finnegan Lee Elder " width="500" height="759" /></noscript></a> Finnegan Lee Elder sits in his hotel room in Rome, <a href="https://www.theepochtimes.com/t-italy">Italy</a>. (Italian Carabinieri via AP)</figcaption></figure>
+<figure id="attachment_3019980" style="width: 500px" class="wp-caption alignnone"><a href="https://img.theepochtimes.com/assets/uploads/2019/07/28/american-teen-italy-02.jpg"><img class="lazy  wp-image-3019980" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/28/american-teen-italy-02.jpg" alt="Italy Policeman Slain" width="500" height="748" /><figcaption class="wp-caption-text"><noscript><img class=" wp-image-3019980" src="https://img.theepochtimes.com/assets/uploads/2019/07/28/american-teen-italy-02.jpg" alt="Italy Policeman Slain" width="500" height="748" /></noscript></a> Gabriel Christian Natale Hjorth sits in his hotel room in Rome, Italy. (Italian Carabinieri via AP)</figcaption></figure>
+<p>Police said they were apparently vacationing in the Italian capital without family members.</p>
+<p>In the detention order, Elder is described as repeatedly stabbing the 35-year-old officer, who had just returned to duty a few days earlier from his honeymoon.</p>
+<p>Investigators said Cerciello Rega, along with another Carabinieri officer, were both in plainclothes when they confronted the <a href="https://www.theepochtimes.com/t-americans">Americans</a> about 3 a.m. Friday in the wake of a drug deal gone wrong.</p>
+<p>Natale-Hjorth was described in the document as having repeatedly punched Cerciello Rega&#8217;s partner.</p>
+<p>Under Italian law, persons participating in a killing, but who didn&#8217;t actually carry out the slaying itself, risk being charged with murder.</p>
+<p>Both suspects are also being investigated for attempted extortion.</p>
+<figure id="attachment_3019912" style="width: 500px" class="wp-caption alignnone"><a href="https://img.theepochtimes.com/assets/uploads/2019/07/28/italian-police-1200x1304.jpg"><img class="lazy  wp-image-3019912" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/28/italian-police-1200x1304.jpg" alt="Police officer Mario Cerciello Rega" width="500" height="543" /><figcaption class="wp-caption-text"><noscript><img class=" wp-image-3019912" src="https://img.theepochtimes.com/assets/uploads/2019/07/28/italian-police-1200x1304.jpg" alt="Police officer Mario Cerciello Rega" width="500" height="543" /></noscript></a> Police officer Mario Cerciello Rega, 35, who was stabbed to death in Rome, Italy, on July 26, 2019. (Italian Carabinieri via AP)</figcaption></figure>
+<p>Cerciello Rega, beloved for his charity work with the homeless and the ailing, was praised as a hero for trying to help keep Rome&#8217;s streets safe.</p>
+<p>Photos of the officer, wearing his uniform for his wedding and showing off his wedding band as he sat next to his beaming bride, dominated the front pages of many Italian newspapers Saturday.</p>
+<p>Parents with their children left bouquets of flowers at the bloodstained site.</p>
+<p>Authorities vowed that justice would be done.</p>
+<p>&#8220;Hoping that the killer of our poor Carabiniere never gets out of prison, I remind do-gooders that in the United States, whoever kills risks the death penalty,&#8221; tweeted Interior Minister Matteo Salvini, who is also in charge of state police, another national Italian police corps. &#8220;I&#8217;m not saying we&#8217;ll get to that, but yes to a life in prison (in labor, obviously).&#8221;</p>
+<p>Like all European Union countries, Italy doesn&#8217;t have the death penalty.</p>
+<p>Elder&#8217;s lawyer, Francesco Codini, said his client had exercised his right not to respond to questions during a hearing before a judge at the jail Saturday to determine whether the suspects remain locked up.</p>
+<p>Italian state radio reported Sunday the judge ruled that the Americans stay in jail while the investigation goes forward.</p>
+<p>Suspects deemed a flight risk are often denied release. Italian police had said the two teens were preparing to leave Italy later on Friday.</p>
+<p>Codini declined to say anything more out of &#8220;respect for the family&#8221; of the slain officer. Asked how Elder was doing psychologically, he replied: &#8220;worn out.&#8221;</p>
+<p>Natale-Hjorth&#8217;s lawyer didn&#8217;t speak to reporters waiting outside the jail after the hearing.</p>
+<p>The young men were high school classmates in Mill Valley, a wealthy suburb 10 miles north of San Francisco en route to the towering redwood trees in Muir Woods National Park. The town of 14,000 is a desirable destination for families who are drawn to its safe, leafy neighborhoods and reputable public schools.</p>
+<p>&#8220;We are shocked and dismayed at the events that have been reported, but we have very little independent information about these events,&#8221; Elder&#8217;s family said in a statement. &#8220;We have not been able to have any communication with our son.&#8221;</p>
+<p>The family expressed condolences to the policeman&#8217;s family and &#8220;all of those who have been impacted by this tragedy.&#8221;</p>
+<p>At a house listed for the mother of Natale-Hjorth, a young man who answered the door yelled &#8220;No!&#8221; when an Associated Press reporter asked to speak to her.</p>
+<p>An Italian investigator said the pair had snatched the bag of a drug dealer in Rome after the man apparently gave them a different substance instead of the cocaine they were seeking. The person spoke on condition of anonymity because the probe is continuing.</p>
+<p>In a statement, the Carabinieri contended that the Americans demanded cash and cocaine to return the knapsack. They said the bag, with a phone inside, was snatched from an Italian man. The Americans, police said, &#8220;threatened to not give it back to him without payment of 100 euros and a gram of cocaine.&#8221;</p>
+<p>The bag&#8217;s owner reported the theft, and the plainclothes officers were sent to the site of the rendezvous to allegedly turn over the bag for ransom, the statement said.</p>
+<p>The Americans, &#8220;even though the officers identified themselves as being Carabinieri, didn&#8217;t hesitate to engage in a struggle, culminating in the mortal wounding&#8221; of the policeman, the statement said.</p>
+<p>Italian police officers carry guns, but it was unclear why they weren&#8217;t used.</p>
+<p>The Carabinieri said surveillance cameras and witnesses helped them identify and find the Americans. While searching their hotel room, police said, investigators found a long knife hidden inside the room&#8217;s dropped ceiling. Also found were clothes worn during the attack, police said.</p>
+<p>The Carabinieri statement said the Americans during their interrogation and confronted with &#8220;hard evidence,&#8221; had &#8220;confessed to their blame.&#8221;</p>
+<p>This case could spark comparisons to another spectacular slaying investigation involving a young American in Italy.</p>
+<p>Amanda Knox was an American university student in Perugia when she was initially accused in the 2007 stabbing death of her British roommate Meredith Kercher. She was convicted but ultimately acquitted.</p>
+<p>Italian media focused on Knox, largely ignoring the fate of the Briton. In contrast, a decade later, the murder victim is an Italian policeman at a time when Salvini&#8217;s law-and-order right-wing party is soaring in popularity.</p>
+<p>&#8220;Hero of the Fatherland, justice for Mario,&#8221; read a note, signed by the &#8220;neighborhood citizens&#8221; and left near the scene of his death.</p>
+<p><em>By Frances d&#8217;Emilio</em></p>
+				</div>
+
+				<div class="social_email">
+					<span class="social">
+						<div class="text">Share this article</div>
+						<div class="icons">
+						<span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank"></a></span><span class="flipboard"><a data-flip-widget="shareflip" href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;title=2 American Teens Jailed in Italy in Policeman&#8217;s Killing&amp;url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank"></a></span><span class="twitter"><a href="https://twitter.com/intent/tweet?text=2 American Teens Jailed in Italy in Policeman&#8217;s Killing&amp;url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html&amp;via=epochtimes" target="_blank"></a></span><span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank"></a></span><span class="email"><a href="mailto:?subject=2 American Teens Jailed in Italy in Policeman&#8217;s Killing&amp;body=2 American Teens Jailed in Italy in Policeman&#8217;s Killing https://www.theepochtimes.com/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html" target="_blank"></a></span>						</div>
+					</span>
+				</div>
+				<div id="show_discussion"><a href="javascript:void(0)" class="button">Show Discussion</a></div>
+			</div>
+
+			<div class="recom_title">RECOMMENDED</div>
+			<div class="lower_row">
+				<div class="lower_container">
+					<span class="featured_videos" id="featured_videos">
+						<div class="block_title">TOP VIDEOS</div>
+						<ul>
+												<li>
+								<span class="image"><a href="https://www.theepochtimes.com/focus-on-the-familys-jim-daly-on-the-importance-of-family-marriage-and-having-children-wcs-special_3019526.html">
+								<img alt="Focus on the Family’s Jim Daly on the Importance of Family, Marriage, and Having Children [WCS Special]" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/27/Jim-Daly-205x123.png"><noscript><img alt="Focus on the Family’s Jim Daly on the Importance of Family, Marriage, and Having Children [WCS Special]" src="https://img.theepochtimes.com/assets/uploads/2019/07/27/Jim-Daly-205x123.png"></noscript><span class="eet_video_icon"></span></a>
+								</span>
+								<span class="title_author_date">
+									<div class="title"><a class="" href="https://www.theepochtimes.com/focus-on-the-familys-jim-daly-on-the-importance-of-family-marriage-and-having-children-wcs-special_3019526.html">Focus on the Family’s Jim Daly on the Importance of Family, Marriage, and Having Children [WCS Special]</a></div>
+									<div class="author_date">
+										<span class="date"><span class="time_diff">13hr</span></span>
+									<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jan-jekielek">Jan Jekielek</a></span></span>									</div>
+								</span>
+							</li>
+												<li>
+								<span class="image"><a href="https://www.theepochtimes.com/unwavering-spirit-falun-gong-perseveres-in-china-despite-20-years-of-persecution-peter-erping-zhang_3017389.html">
+								<img alt="Unwavering Spirit: Falun Gong Perseveres in China Despite 20 Years of Persecution—Peter Erping Zhang" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/25/Zhang-Erping-205x123.png"><noscript><img alt="Unwavering Spirit: Falun Gong Perseveres in China Despite 20 Years of Persecution—Peter Erping Zhang" src="https://img.theepochtimes.com/assets/uploads/2019/07/25/Zhang-Erping-205x123.png"></noscript><span class="eet_video_icon"></span></a>
+								</span>
+								<span class="title_author_date">
+									<div class="title"><a class="" href="https://www.theepochtimes.com/unwavering-spirit-falun-gong-perseveres-in-china-despite-20-years-of-persecution-peter-erping-zhang_3017389.html">Unwavering Spirit: Falun Gong Perseveres in China Despite 20 Years of Persecution—Peter Erping Zhang</a></div>
+									<div class="author_date">
+										<span class="date"><span class="time_diff">4d</span></span>
+									<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jan-jekielek">Jan Jekielek</a></span></span>									</div>
+								</span>
+							</li>
+												<li>
+								<span class="image"><a href="https://www.theepochtimes.com/wcs-special-on-marxism-identity-politics-the-lefts-ideology-of-resentment-rep-dan-crenshaw_3017334.html">
+								<img alt="[WCS Special] On Marxism, Identity Politics, &#038; the Left’s &#8216;Ideology of Resentment&#8217;—Rep. Dan Crenshaw" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/25/Dan-Crenshaw-205x123.png"><noscript><img alt="[WCS Special] On Marxism, Identity Politics, &#038; the Left’s &#8216;Ideology of Resentment&#8217;—Rep. Dan Crenshaw" src="https://img.theepochtimes.com/assets/uploads/2019/07/25/Dan-Crenshaw-205x123.png"></noscript><span class="eet_video_icon"></span></a>
+								</span>
+								<span class="title_author_date">
+									<div class="title"><a class="" href="https://www.theepochtimes.com/wcs-special-on-marxism-identity-politics-the-lefts-ideology-of-resentment-rep-dan-crenshaw_3017334.html">[WCS Special] On Marxism, Identity Politics, &#038; the Left’s &#8216;Ideology of Resentment&#8217;—Rep. Dan Crenshaw</a></div>
+									<div class="author_date">
+										<span class="date"><span class="time_diff">4d</span></span>
+									<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jan-jekielek">Jan Jekielek</a></span></span>									</div>
+								</span>
+							</li>
+											</ul>
+					</span>
+					<span class="more_content">
+						<div id="recommended_load_next_page" class="more_recposts">
+														<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Travel.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-destinations"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-destinations">Destinations</a></div>
+										<div class="date">April 4, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/tips-on-visiting-europe-for-the-first-time_2851454.html">
+										<h2><span class="">Tips on Visiting Europe for the First Time</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/tips-on-visiting-europe-for-the-first-time_2851454.html">
+										<img alt="Tips on Visiting Europe for the First Time" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/03/04/Europe-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-janna-graber">Janna Graber</a></span><span class="organization">, GoWorldTravel.com</span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/tips-on-visiting-europe-for-the-first-time_2851454.html">Looking back, I see the mistakes I made on my first trip to Europe. Two college friends and I spent 10 days exploring Europe, but we picked ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/tips-on-visiting-europe-for-the-first-time_2851454.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Tips on Visiting Europe for the First Time&amp;url=https://www.theepochtimes.com/tips-on-visiting-europe-for-the-first-time_2851454.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/tips-on-visiting-europe-for-the-first-time_2851454.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Opinion.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-viewpoints"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></div>
+										<div class="date">June 20, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/three-seas-initiative-boosting-economic-growth-in-central-and-eastern-europe-while-enhancing-regions-energy-security_2968408.html">
+										<h2><span class="">Three Seas Initiative: Boosting Economic Growth in Central and Eastern Europe While Enhancing Region’s Energy Security</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/three-seas-initiative-boosting-economic-growth-in-central-and-eastern-europe-while-enhancing-regions-energy-security_2968408.html">
+										<img alt="Three Seas Initiative: Boosting Economic Growth in Central and Eastern Europe While Enhancing Region’s Energy Security" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/06/20/GettyImages-809617308-0-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-ella-kietlinski">Ella Kietlinska</a></span><span class="organization">, Epoch Times</span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/three-seas-initiative-boosting-economic-growth-in-central-and-eastern-europe-while-enhancing-regions-energy-security_2968408.html">News Analysis Infrastructure is the lifeblood of a healthy economy. For more than 40 years, the infrastructure in Central and Eastern European countries remained underdeveloped as the ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/three-seas-initiative-boosting-economic-growth-in-central-and-eastern-europe-while-enhancing-regions-energy-security_2968408.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Three Seas Initiative: Boosting Economic Growth in Central and Eastern Europe While Enhancing Region’s Energy Security&amp;url=https://www.theepochtimes.com/three-seas-initiative-boosting-economic-growth-in-central-and-eastern-europe-while-enhancing-regions-energy-security_2968408.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/three-seas-initiative-boosting-economic-growth-in-central-and-eastern-europe-while-enhancing-regions-energy-security_2968408.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/Europe.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-europe"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-europe">Europe</a></div>
+										<div class="date">June 23, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/europe-to-experience-intense-heat-in-multi-day-heat-wave_2974771.html">
+										<h2><span class="">Europe to Experience &#8216;Intense Heat&#8217; in Multi-Day Heat Wave</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/europe-to-experience-intense-heat-in-multi-day-heat-wave_2974771.html">
+										<img alt="Europe to Experience &#8216;Intense Heat&#8217; in Multi-Day Heat Wave" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2017/06/05/GettyImages-153792684-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-wire-service-content">Wire Service Content</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/europe-to-experience-intense-heat-in-multi-day-heat-wave_2974771.html">Europe will be struck by a &quot;potentially dangerous&quot; heat wave next week.</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/europe-to-experience-intense-heat-in-multi-day-heat-wave_2974771.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Europe to Experience &#8216;Intense Heat&#8217; in Multi-Day Heat Wave&amp;url=https://www.theepochtimes.com/europe-to-experience-intense-heat-in-multi-day-heat-wave_2974771.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/europe-to-experience-intense-heat-in-multi-day-heat-wave_2974771.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/BUSINESS.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-companies"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-companies">Companies</a></div>
+										<div class="date">June 27, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/2980987_2980987.html">
+										<h2><span class="">Ford to Cut 12,000 Jobs in Europe by End 2020</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/2980987_2980987.html">
+										<img alt="Ford to Cut 12,000 Jobs in Europe by End 2020" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/06/27/Ford-Europe-job-cuts-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-reuters">Reuters</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/2980987_2980987.html">Ford said it will cut 12,000 jobs in Europe by the end of next year to try to return the business to profit.</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/2980987_2980987.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Ford to Cut 12,000 Jobs in Europe by End 2020&amp;url=https://www.theepochtimes.com/2980987_2980987.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/2980987_2980987.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/Europe.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-europe"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-europe">Europe</a></div>
+										<div class="date">July 30, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/kremlin-critic-navalny-returned-to-jail-despite-poisoning-fears_3021387.html">
+										<h2><span class="">Kremlin Critic Navalny Returned to Jail Despite Poisoning Fears</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/kremlin-critic-navalny-returned-to-jail-despite-poisoning-fears_3021387.html">
+										<img alt="Kremlin Critic Navalny Returned to Jail Despite Poisoning Fears" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/30/Alexei-Navalny-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-reuters">Reuters</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/kremlin-critic-navalny-returned-to-jail-despite-poisoning-fears_3021387.html">MOSCOW—Russian opposition leader Alexei Navalny was discharged from a Moscow hospital on July 29 and returned to prison under guard after being treated for what his lawyer ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/kremlin-critic-navalny-returned-to-jail-despite-poisoning-fears_3021387.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Kremlin Critic Navalny Returned to Jail Despite Poisoning Fears&amp;url=https://www.theepochtimes.com/kremlin-critic-navalny-returned-to-jail-despite-poisoning-fears_3021387.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/kremlin-critic-navalny-returned-to-jail-despite-poisoning-fears_3021387.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/Europe.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-europe"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-europe">Europe</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/migrant-pushes-8-year-old-boy-and-mother-in-front-of-oncoming-train-boy-dies_3021512.html">
+										<h2><span class="">Migrant Pushes 8-Year-Old Boy and Mother in Front of Oncoming Train, Boy Dies</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/migrant-pushes-8-year-old-boy-and-mother-in-front-of-oncoming-train-boy-dies_3021512.html">
+										<img alt="Migrant Pushes 8-Year-Old Boy and Mother in Front of Oncoming Train, Boy Dies" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/body-recovered-frankfurt-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-zachary-stieber">Zachary Stieber</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/migrant-pushes-8-year-old-boy-and-mother-in-front-of-oncoming-train-boy-dies_3021512.html">An African national pushed an 8-year-old boy and his mother in front of an oncoming train in Germany on Monday, July 29, killing the boy when the ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/migrant-pushes-8-year-old-boy-and-mother-in-front-of-oncoming-train-boy-dies_3021512.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Migrant Pushes 8-Year-Old Boy and Mother in Front of Oncoming Train, Boy Dies&amp;url=https://www.theepochtimes.com/migrant-pushes-8-year-old-boy-and-mother-in-front-of-oncoming-train-boy-dies_3021512.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/migrant-pushes-8-year-old-boy-and-mother-in-front-of-oncoming-train-boy-dies_3021512.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/Europe.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-europe"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-europe">Europe</a></div>
+										<div class="date">July 28, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/beijing-lashes-out-at-german-lawmaker-after-his-meeting-with-hong-kong-pro-democracy-camp_3018614.html">
+										<h2><span class="">Beijing Lashes Out at German Lawmaker After His Meeting With Hong Kong Pro-Democracy Camp</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/beijing-lashes-out-at-german-lawmaker-after-his-meeting-with-hong-kong-pro-democracy-camp_3018614.html">
+										<img alt="Beijing Lashes Out at German Lawmaker After His Meeting With Hong Kong Pro-Democracy Camp" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/26/GettyImages-1052166520-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-nicole-hao">Nicole Hao</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/beijing-lashes-out-at-german-lawmaker-after-his-meeting-with-hong-kong-pro-democracy-camp_3018614.html">Christian Lindner, leader of Germany’s Free Democratic Party (FDP), led a delegation to visit Beijing recently, but was treated rudely by Chinese officials because the group had ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/beijing-lashes-out-at-german-lawmaker-after-his-meeting-with-hong-kong-pro-democracy-camp_3018614.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Beijing Lashes Out at German Lawmaker After His Meeting With Hong Kong Pro-Democracy Camp&amp;url=https://www.theepochtimes.com/beijing-lashes-out-at-german-lawmaker-after-his-meeting-with-hong-kong-pro-democracy-camp_3018614.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/beijing-lashes-out-at-german-lawmaker-after-his-meeting-with-hong-kong-pro-democracy-camp_3018614.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/Europe.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-europe"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-europe">Europe</a></div>
+										<div class="date">July 27, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/blood-everywhere-as-fight-breaks-out-on-cruise-ship-injuring-6_3019444.html">
+										<h2><span class="">&#8216;Blood Everywhere&#8217; as Fight Breaks out on Cruise Ship, Injuring 6</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/blood-everywhere-as-fight-breaks-out-on-cruise-ship-injuring-6_3019444.html">
+										<img alt="&#8216;Blood Everywhere&#8217; as Fight Breaks out on Cruise Ship, Injuring 6" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/27/FeatureImage_1-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-justin-morgan-2">Justin Morgan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/blood-everywhere-as-fight-breaks-out-on-cruise-ship-injuring-6_3019444.html">Six people were injured during a brawl that broke out on a cruise ship as it sailed to Southhampton, U.K. from Norway on July 26. The fight ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/blood-everywhere-as-fight-breaks-out-on-cruise-ship-injuring-6_3019444.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=&#8216;Blood Everywhere&#8217; as Fight Breaks out on Cruise Ship, Injuring 6&amp;url=https://www.theepochtimes.com/blood-everywhere-as-fight-breaks-out-on-cruise-ship-injuring-6_3019444.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/blood-everywhere-as-fight-breaks-out-on-cruise-ship-injuring-6_3019444.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/China.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-business-economy"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-business-economy">China Business &amp; Economy</a></div>
+										<div class="date">July 27, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/taiwan-charges-5-basf-employees-for-selling-trade-secrets-to-china_3018104.html">
+										<h2><span class="">Taiwan Charges 5 BASF Employees for Selling Trade Secrets to China</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/taiwan-charges-5-basf-employees-for-selling-trade-secrets-to-china_3018104.html">
+										<img alt="Taiwan Charges 5 BASF Employees for Selling Trade Secrets to China" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/26/basf-germany-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-eva-fu">Eva Fu</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/taiwan-charges-5-basf-employees-for-selling-trade-secrets-to-china_3018104.html">Taiwan prosecutors on July 24 have charged five current and former senior staff members at German chemical giant BASF for stealing company secrets and selling them to ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/taiwan-charges-5-basf-employees-for-selling-trade-secrets-to-china_3018104.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Taiwan Charges 5 BASF Employees for Selling Trade Secrets to China&amp;url=https://www.theepochtimes.com/taiwan-charges-5-basf-employees-for-selling-trade-secrets-to-china_3018104.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/taiwan-charges-5-basf-employees-for-selling-trade-secrets-to-china_3018104.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/Europe.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-europe"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-europe">Europe</a></div>
+										<div class="date">July 27, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/2-americans-confess-to-stabbing-police-officer-after-drug-deal-gone-wrong-in-rome-authorities-say_3019342.html">
+										<h2><span class="">2 Americans Confess to Stabbing Police Officer After Drug Deal Gone Wrong in Rome, Authorities Say</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/2-americans-confess-to-stabbing-police-officer-after-drug-deal-gone-wrong-in-rome-authorities-say_3019342.html">
+										<img alt="2 Americans Confess to Stabbing Police Officer After Drug Deal Gone Wrong in Rome, Authorities Say" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/27/Italy-police-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-reuters">Reuters</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/2-americans-confess-to-stabbing-police-officer-after-drug-deal-gone-wrong-in-rome-authorities-say_3019342.html">A 19-year-old U.S. student has confessed to killing a policeman in central Rome, in a crime that has shaken Italy.</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/2-americans-confess-to-stabbing-police-officer-after-drug-deal-gone-wrong-in-rome-authorities-say_3019342.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=2 Americans Confess to Stabbing Police Officer After Drug Deal Gone Wrong in Rome, Authorities Say&amp;url=https://www.theepochtimes.com/2-americans-confess-to-stabbing-police-officer-after-drug-deal-gone-wrong-in-rome-authorities-say_3019342.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/2-americans-confess-to-stabbing-police-officer-after-drug-deal-gone-wrong-in-rome-authorities-say_3019342.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/Europe.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-europe"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-europe">Europe</a></div>
+										<div class="date">July 26, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/150-migrants-feared-dead-after-boats-capsize-off-libya-coast_3017669.html">
+										<h2><span class="">150 Migrants Feared Dead After Boats Capsize Off Libya Coast</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/150-migrants-feared-dead-after-boats-capsize-off-libya-coast_3017669.html">
+										<img alt="150 Migrants Feared Dead After Boats Capsize Off Libya Coast" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/26/migrants-rescued-boat-capsize-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-associated-press">The Associated Press</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/150-migrants-feared-dead-after-boats-capsize-off-libya-coast_3017669.html">CAIRO—Up to 150 Europe-bound migrants, including women and children, were missing and feared drowned on July 25 after the boats they were traveling in capsized in the Mediterranean ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/150-migrants-feared-dead-after-boats-capsize-off-libya-coast_3017669.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=150 Migrants Feared Dead After Boats Capsize Off Libya Coast&amp;url=https://www.theepochtimes.com/150-migrants-feared-dead-after-boats-capsize-off-libya-coast_3017669.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/150-migrants-feared-dead-after-boats-capsize-off-libya-coast_3017669.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/Europe.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-europe"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-europe">Europe</a></div>
+										<div class="date">July 25, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/notre-dames-architect-says-the-heat-wave-could-cause-the-cathedrals-ceiling-to-collapse_3017296.html">
+										<h2><span class="">Notre Dame&#8217;s Architect Says the Heat Wave Could Cause the Cathedral&#8217;s Ceiling to Collapse</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/notre-dames-architect-says-the-heat-wave-could-cause-the-cathedrals-ceiling-to-collapse_3017296.html">
+										<img alt="Notre Dame&#8217;s Architect Says the Heat Wave Could Cause the Cathedral&#8217;s Ceiling to Collapse" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/04/19/a-550x330.png">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-web-staff">Web Staff</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/notre-dames-architect-says-the-heat-wave-could-cause-the-cathedrals-ceiling-to-collapse_3017296.html">Notre Dame survived a massive fire months ago, but the beloved Paris cathedral is facing a new threat: a heat wave. The high temperatures bearing down on ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/notre-dames-architect-says-the-heat-wave-could-cause-the-cathedrals-ceiling-to-collapse_3017296.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Notre Dame&#8217;s Architect Says the Heat Wave Could Cause the Cathedral&#8217;s Ceiling to Collapse&amp;url=https://www.theepochtimes.com/notre-dames-architect-says-the-heat-wave-could-cause-the-cathedrals-ceiling-to-collapse_3017296.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/notre-dames-architect-says-the-heat-wave-could-cause-the-cathedrals-ceiling-to-collapse_3017296.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/TrumpPresidency.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-trump-presidency"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html">
+										<h2><span class="">Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html">
+										<img alt="Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/22/2019-07-22T165546Z_2_LYNXNPEF6L1D4_RTROPTP_4_USA-TRUMP-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-mimi-nguyen-ly">Mimi Nguyen Ly</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html">President Donald Trump’s recent vetoes have held up after votes in the U.S. Senate on July 29 showed the Senate majority will now allow the administration to ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto&amp;url=https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/BUSINESS.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-companies"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-companies">Companies</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html">
+										<h2><span class="">Capital One Target of Massive Data Breach</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html">
+										<img alt="Capital One Target of Massive Data Breach" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/30/capital-one-mailin-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-associated-press">The Associated Press</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html">SEATTLE—A hacker gained access to personal information from more than 100 million Capital One credit applications, the bank said on Monday, July 29, as federal authorities arrested ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Capital One Target of Massive Data Breach&amp;url=https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/Crime-and-Incidents.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-crime-us"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html">
+										<h2><span class="">2 Children Among Dead in Attack at California Festival</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html">
+										<img alt="2 Children Among Dead in Attack at California Festival" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/Gilroy-Garlic-Festival--550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-bowen-xiao">Bowen Xiao</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html">A man opened fire on a crowd at a popular food festival in California on July 28, killing three people and injuring about 15 others before law ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=2 Children Among Dead in Attack at California Festival&amp;url=https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/USNews.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-2020-election"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-2020-election">2020 Election</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html">
+										<h2><span class="">Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html">
+										<img alt="Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/GettyImages-1157547767-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-ivan-pentchoukov">Ivan Pentchoukov</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html">Democratic presidential hopeful Sen. Kamala Harris (D-Calif.) proposed a health care plan that would transition to a socialist &quot;Medicare for All&quot; system over the course of 10 ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years&amp;url=https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/TrumpPresidency.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-trump-presidency"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html">
+										<h2><span class="">President Trump Grants Pardons or Sentence Commutations to 7 People</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html">
+										<img alt="President Trump Grants Pardons or Sentence Commutations to 7 People" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9713-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-janita-kan">Janita Kan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html">President Donald Trump has commuted the sentences of two individuals and granted full pardons to five others who had already served sentences for non-violent crimes, the White ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=President Trump Grants Pardons or Sentence Commutations to 7 People&amp;url=https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/TrumpPresidency.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-trump-presidency"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html">
+										<h2><span class="">White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html">
+										<img alt="White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9594-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-zachary-stieber">Zachary Stieber</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html">No Democratic members of Congress attended the event featuring President Donald Trump signing a bill on July 29 to extend the compensation fund for the Sept. 11, ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend&amp;url=https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/USNews.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-news"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-news">US News</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html">
+										<h2><span class="">US Representative Warns Against Climate Change ‘Hysteria’</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html">
+										<img alt="US Representative Warns Against Climate Change ‘Hysteria’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/McClintock-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-matthew-vadum">Matthew Vadum</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html">WASHINGTON—Rep. Tom McClintock (R-Calif.) criticized the claim by Rep. Alexandria Ocasio-Cortez (D-N.Y.) that the earth has only 12 years left if nothing is done about the so-called ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=US Representative Warns Against Climate Change ‘Hysteria’&amp;url=https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/World.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-americas"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-americas">Americas</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html">
+										<h2><span class="">16 Prisoners Decapitated, 57 Dead in Prison Uprising in Brazil</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html">
+										<img alt="16 Prisoners Decapitated, 57 Dead in Prison Uprising in Brazil" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2017/01/02/GettyImages-584559812-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jack-phillips">Jack Phillips</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html">At least 16 prisoners were decapitated and dozens more were killed during a prison riot in Brazil. At least 57 inmates died in the riots that involved ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=16 Prisoners Decapitated, 57 Dead in Prison Uprising in Brazil&amp;url=https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/16-prisoners-decapitated-52-dead-in-prison-uprising-in-brazil_3021313.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Politics.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-politics"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html">
+										<h2><span class="">Papadopoulos to Bring Back Mystery $10,000 From Greece</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html">
+										<img alt="Papadopoulos to Bring Back Mystery $10,000 From Greece" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/GettyImages-1138504069-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-ivan-pentchoukov">Ivan Pentchoukov</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html">Former Trump 2016 presidential campaign associate George Papadopoulos intends to travel to Greece to retrieve $10,000 in cash that he believes consists of marked bills used by ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Papadopoulos to Bring Back Mystery $10,000 From Greece&amp;url=https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/papadopoulos-to-bring-back-mystery-10000-from-greece_3020852.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Politics.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-politics"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html">
+										<h2><span class="">Business Groups Press Every ‘US Senator and Representative’ to Pass USMCA</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html">
+										<img alt="Business Groups Press Every ‘US Senator and Representative’ to Pass USMCA" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/Dairy-US-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-emel-akan">Emel Akan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html">WASHINGTON—As Congress heads to a long recess, lobbying efforts for the new U.S.–Mexico–Canada (USMCA) trade agreement are kicking into high gear in Washington. More than 600 national ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Business Groups Press Every ‘US Senator and Representative’ to Pass USMCA&amp;url=https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/business-groups-press-every-us-senator-and-representative-to-pass-usmca_3021247.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Politics.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-politics"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html">
+										<h2><span class="">Bernie Sanders Previously Called Baltimore a &#8216;Disgrace,&#8217; Compared to &#8216;Third World Country&#8217;</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html">
+										<img alt="Bernie Sanders Previously Called Baltimore a &#8216;Disgrace,&#8217; Compared to &#8216;Third World Country&#8217;" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/01/31/Bernie-Sanders-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-samuel-allegri">Samuel Allegri</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html">President Donald Trump has received backlash from political opponents who called him &quot;racist&quot; for criticizing Rep. Elijah Cummings (D-Md.) and his district of Baltimore, which he called a ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Bernie Sanders Previously Called Baltimore a &#8216;Disgrace,&#8217; Compared to &#8216;Third World Country&#8217;&amp;url=https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/bernie-sanders-previously-called-baltimore-a-disgrace-compared-to-third-world-country_3021278.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Politics.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-politics"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html">
+										<h2><span class="">Trump on Gilroy Shooting: We Will Work to &#8216;Stop Evil, Prevent Violence, and Protect the Safety of All Americans&#8217;</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html">
+										<img alt="Trump on Gilroy Shooting: We Will Work to &#8216;Stop Evil, Prevent Violence, and Protect the Safety of All Americans&#8217;" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9754-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-janita-kan">Janita Kan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html">President Donald Trump sent his condolences to victims of the deadly shooting in Gilroy, California, on Monday, July 29, saying that the communities and citizens will work ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Trump on Gilroy Shooting: We Will Work to &#8216;Stop Evil, Prevent Violence, and Protect the Safety of All Americans&#8217;&amp;url=https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/trump-we-will-work-to-stop-evil-prevent-violence-and-protect-the-safety-of-all-americans_3020961.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Health.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-health-news"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-health-news">Health News</a></div>
+										<div class="date">July 30, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html">
+										<h2><span class="">Big Question in Opioid Suits: How to Divide Any Settlement</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html">
+										<img alt="Big Question in Opioid Suits: How to Divide Any Settlement" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/AP19207064596976-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-associated-press">The Associated Press</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html">The roughly 2,000 state and local governments suing the drug industry over the deadly opioid crisis have yet to see any verdicts or reach any big national ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Big Question in Opioid Suits: How to Divide Any Settlement&amp;url=https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/big-question-in-opioid-suits-how-to-divide-any-settlement_3021575.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Health.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-health"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-health">Health</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html">
+										<h2><span class="">8 Incredible Baking Soda Life-Hacks, It Can Do Much More Than Just Baking Cakes</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html">
+										<img alt="8 Incredible Baking Soda Life-Hacks, It Can Do Much More Than Just Baking Cakes" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/baking-soda-fb-1d-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-louise-bevan">Louise Bevan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html">If you or anybody you know likes to bake cakes, then you&#039;ll have heard of baking soda. It&#039;s a wonderful ingredient and a kitchen cupboard staple, but ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=8 Incredible Baking Soda Life-Hacks, It Can Do Much More Than Just Baking Cakes&amp;url=https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/8-incredible-baking-soda-life-hacks-it-can-do-much-more-than-just-baking-cakes_2977314.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/ARTS-Culture.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-performing-arts"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html">
+										<h2><span class="">Theater Review: ‘Two’s a Crowd’</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html">
+										<img alt="Theater Review: ‘Two’s a Crowd’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/8_6_older-couple-at-a-cafe-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-judd-hollander">Judd Hollander</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html">NEW YORK—It’s not what you&#039;ve done in life that matters, but what you haven&#039;t done. And thinking about the “if onlys” won&#039;t do anything to change them. These ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Theater Review: ‘Two’s a Crowd’&amp;url=https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/theater-review-twos-a-crowd_3019523.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/ARTS-Culture.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-history"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-history">History</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html">
+										<h2><span class="">Up From Slavery: A 400-Year Journey</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html">
+										<img alt="Up From Slavery: A 400-Year Journey" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/26/8_6_Winslow_Homer_-_The_Cotton_Pickers-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jeff-minick">Jeff Minick</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html">In August 1619, a privateer docked at Point Comfort near Jamestown, Virginia. In exchange for food and supplies, the privateer left behind “20 and odd” of the ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Up From Slavery: A 400-Year Journey&amp;url=https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/up-from-slavery-a-400-year-journey_3017295.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/11/UK.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-uk"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-uk">UK</a></div>
+										<div class="date">July 30, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html">
+										<h2><span class="">Coronation Street Actress Paula Williamson Found Dead in Midlands</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html">
+										<img alt="Coronation Street Actress Paula Williamson Found Dead in Midlands" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/30/Coronation-Street-Actress-Paula-Williamson-with-husband-Charles-Bronson-June-6-2017-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-richard-szabo">Richard Szabo</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html">One of the nation&#039;s longest-running soap operas lost one of its cast members on July 29. Authorities discovered the body of Stoke-on-Trent Actress Paula Williamson at a house ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Coronation Street Actress Paula Williamson Found Dead in Midlands&amp;url=https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/coronation-street-actress-paula-williamson-found-dead-in-midlands_3021959.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Entertainment.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-entertainment-news"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html">
+										<h2><span class="">Ariana Grande Apologizes for Instagram Joke About JonBenet Ramsey</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html">
+										<img alt="Ariana Grande Apologizes for Instagram Joke About JonBenet Ramsey" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/02/05/Ariana-Grande-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-jack-phillips">Jack Phillips</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html">Ariana Grande apologized for a joke she made about former child model JonBenet Ramsey, who was killed in 1996 and became the subject of national headlines for ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Ariana Grande Apologizes for Instagram Joke About JonBenet Ramsey&amp;url=https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/ariana-grande-apologizes-for-instagram-joke-about-jonbenet-ramsey_3021582.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/USNews.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-us-news"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-us-news">US News</a></div>
+										<div class="date">July 30, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html">
+										<h2><span class="">Health Hazard Warning for More than a Dozen Types of Recalled Shahjalal Fish</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html">
+										<img alt="Health Hazard Warning for More than a Dozen Types of Recalled Shahjalal Fish" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/30/Shahjalal-recalled-fish-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-richard-szabo">Richard Szabo</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html">A New York food importer recalled dozens of different kinds of fish because they were not re-inspected before being distributed across the nation on July 27. Premium ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Health Hazard Warning for More than a Dozen Types of Recalled Shahjalal Fish&amp;url=https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/health-hazard-warning-for-more-than-a-dozen-types-of-recalled-shahjalal-fish_3021815.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Life.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-life"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-life">Life</a></div>
+										<div class="date">July 28, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html">
+										<h2><span class="">The Original Gerber Baby Is 92 Years Old, See What She Looks Like Today</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html">
+										<img alt="The Original Gerber Baby Is 92 Years Old, See What She Looks Like Today" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/05/17/Gerber-Baby-fb-1-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-louise-bevan">Louise Bevan</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html">Whether you realize it or not, you know Ann Turner Cook. Or at least you know her face, albeit from 1927! Cook was the very first, the ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=The Original Gerber Baby Is 92 Years Old, See What She Looks Like Today&amp;url=https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/the-original-gerber-baby-is-92-years-old-see-what-she-looks-like-today_2915714.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Travel.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-destinations"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-destinations">Destinations</a></div>
+										<div class="date">July 27, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html">
+										<h2><span class="">Traveling Back in Time in Switzerland</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html">
+										<img alt="Traveling Back in Time in Switzerland" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/27/kronenhof-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-tim-johnson">Tim Johnson</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html">Together with nearby St. Moritz, the Grand Kronenhof Pontresina is one of Switzerland’s most stylish destinations.</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Traveling Back in Time in Switzerland&amp;url=https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/traveling-back-in-time-in-switzerland_3017302.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Travel.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-destinations"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-destinations">Destinations</a></div>
+										<div class="date">July 25, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html">
+										<h2><span class="">6 Under-the-Radar Destinations in Europe</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html">
+										<img alt="6 Under-the-Radar Destinations in Europe" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/25/Ascona-12-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-skye-sherman">Skye Sherman</a></span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html">Lesser-known destinations in Europe offer fewer crowds and more authentic, concentrated experiences. </a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=6 Under-the-Radar Destinations in Europe&amp;url=https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/6-under-the-radar-destinations-in-europe_3013200.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Life.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-life"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-life">Life</a></div>
+										<div class="date">July 29, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html">
+										<h2><span class="">Ultrasound Shows Baby Blowing Bubble. When Mom Learns the Sad Truth She’s Shattered</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html">
+										<img alt="Ultrasound Shows Baby Blowing Bubble. When Mom Learns the Sad Truth She’s Shattered" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/Ultrasound-Baby-Blow-fb-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-li-yen">Li Yen</a></span><span class="organization">, Epoch Times</span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html">When this mother learned that the peculiar bubble blowing out of her 17-week-old fetus’s mouth was actually a rare and fatal tumor, she thought “there has to ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Ultrasound Shows Baby Blowing Bubble. When Mom Learns the Sad Truth She’s Shattered&amp;url=https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/ultrasound-shows-baby-blowing-bubble-when-mom-learns-the-sad-truth-shes-shattered_3014147.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+													<div class="one_post">
+								<div class="pricat_date">
+																		<span class="cat_icon" style="background: url(https://www.theepochtimes.com/assets/uploads/2018/09/07/Life.png) no-repeat center center"><a href="https://www.theepochtimes.com/c-life"></a></span>
+									<span class="cat_date">
+										<div class="cat_name"><a href="https://www.theepochtimes.com/c-life">Life</a></div>
+										<div class="date">July 28, 2019</div>
+									</span>
+								</div>
+								<div class="title">
+									<a href="https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html">
+										<h2><span class="">Baby ‘Almost Killed’ by Dad Had Her Half Brain Removed in 2012, Here’s How She Is Now</span></h2>
+									</a>
+								</div>
+								<div class="img">
+									<a href="https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html">
+										<img alt="Baby ‘Almost Killed’ by Dad Had Her Half Brain Removed in 2012, Here’s How She Is Now" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/05/14/ET-Toddler-brain-fb-2-550x330.jpg">
+																			</a>
+								</div>
+								<div class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-li-yen">Li Yen</a></span><span class="organization">, Epoch Times</span></div>								<div class="excerpt">
+									<a href="https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html">On Aug. 17, 2012, this young baby was almost killed by her father when she was 8 months old. Half of her brain had to be removed. ...</a>
+								</div>
+	                            <div class="social">
+		                            <span class="fb"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html" target="_blank"></a></span>
+	                                <span class="twitter"><a href="https://twitter.com/intent/tweet?text=Baby ‘Almost Killed’ by Dad Had Her Half Brain Removed in 2012, Here’s How She Is Now&amp;url=https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html&amp;via=epochtimes" target="_blank"></a></span>
+	                                <span class="reddit"><a href="http://www.reddit.com/submit?url=https://www.theepochtimes.com/baby-almost-killed-by-dad-had-her-half-brain-removed-in-2012-heres-how-she-is-now_2923241.html" target="_blank"></a></span>
+	                            </div>
+							</div>
+												</div>
+					</span>
+				</div>
+			</div>
+		  </div>
+
+		  <div class="right_col">
+			<div class="sidebar_top"></div>
+<div class="side_ad_top"></div>
+<div class="sidebar_bottom"></div>
+<div class="side_ad_top2"></div>
+<div class="top_news">
+	<div class="block_title"><a href="https://www.theepochtimes.com/top-news">TOP NEWS</a></div>
+	<ul>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html">Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">4hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-mimi-nguyen-ly">Mimi Nguyen Ly</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/saudi-arms-sales-to-counter-iran-aggression-to-go-ahead-after-senate-sustains-trump-veto_3021999.html">
+			<img alt="Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/22/2019-07-22T165546Z_2_LYNXNPEF6L1D4_RTROPTP_4_USA-TRUMP-205x123.jpg"><noscript><img alt="Saudi Arms Sales to Counter Iran Aggression to Go Ahead After Senate Sustains Trump Veto" src="https://img.theepochtimes.com/assets/uploads/2019/07/22/2019-07-22T165546Z_2_LYNXNPEF6L1D4_RTROPTP_4_USA-TRUMP-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html">Capital One Target of Massive Data Breach</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">5hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-associated-press">The Associated Press</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/capital-one-target-of-massive-data-breach_3021967.html">
+			<img alt="Capital One Target of Massive Data Breach" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/30/capital-one-mailin-205x123.jpg"><noscript><img alt="Capital One Target of Massive Data Breach" src="https://img.theepochtimes.com/assets/uploads/2019/07/30/capital-one-mailin-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html">2 Children Among Dead in Attack at California Festival</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">11hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-bowen-xiao">Bowen Xiao</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/2-children-among-dead-in-attack-at-california-festival_3021173.html">
+			<img alt="2 Children Among Dead in Attack at California Festival" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/Gilroy-Garlic-Festival--205x123.jpg"><noscript><img alt="2 Children Among Dead in Attack at California Festival" src="https://img.theepochtimes.com/assets/uploads/2019/07/29/Gilroy-Garlic-Festival--205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html">Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">11hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-ivan-pentchoukov">Ivan Pentchoukov</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/harris-health-plan-would-transition-to-socialist-medicare-for-all-in-10-years_3021444.html">
+			<img alt="Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/GettyImages-1157547767-205x123.jpg"><noscript><img alt="Harris Health Plan Would Transition to Socialist &#8216;Medicare for All&#8217; in 10 Years" src="https://img.theepochtimes.com/assets/uploads/2019/07/29/GettyImages-1157547767-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html">President Trump Grants Pardons or Sentence Commutations to 7 People</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">12hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-janita-kan">Janita Kan</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/president-trump-grants-pardons-or-sentence-commutations-to-7-people_3021176.html">
+			<img alt="President Trump Grants Pardons or Sentence Commutations to 7 People" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9713-205x123.jpg"><noscript><img alt="President Trump Grants Pardons or Sentence Commutations to 7 People" src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9713-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html">White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">13hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-zachary-stieber">Zachary Stieber</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/white-house-all-democratic-members-of-congress-invited-to-attend-trumps-signing-of-9-11-bill-none-attend_3021347.html">
+			<img alt="White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9594-205x123.jpg"><noscript><img alt="White House: All Democratic Members of Congress Invited to Attend Trump&#8217;s Signing of 9/11 Bill, None Attend" src="https://img.theepochtimes.com/assets/uploads/2019/07/29/EpochTimes-510A9594-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+		<li>
+			<span class="title_author_date">
+				<div class="title"><a class="" href="https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html">US Representative Warns Against Climate Change ‘Hysteria’</a></div>
+				<div class="author_date">
+					<span class="date"><span class="time_diff">13hr</span></span>
+				<span class="author">By <span class="author_name"><a href="https://www.theepochtimes.com/author-matthew-vadum">Matthew Vadum</a></span></span>				</div>
+			</span>
+			<span class="image"><a href="https://www.theepochtimes.com/us-representative-warns-against-climate-change-hysteria_3021328.html">
+			<img alt="US Representative Warns Against Climate Change ‘Hysteria’" class="lazy" src="https://www.theepochtimes.com/assets/themes/eet/images/white.png" data-src="https://img.theepochtimes.com/assets/uploads/2019/07/29/McClintock-205x123.jpg"><noscript><img alt="US Representative Warns Against Climate Change ‘Hysteria’" src="https://img.theepochtimes.com/assets/uploads/2019/07/29/McClintock-205x123.jpg"></noscript></a>
+			</span>
+		</li>
+	</ul>
+</div>
+<div id="sticky_ad"></div><div id="side_ad_middle"></div>		  </div>
+		</div>
+
+	</div>
+
+</main>
+<footer id="footer">
+    <div class="container">
+        <div class="toprow">
+            <div class="logo">
+                <a href="https://www.theepochtimes.com">
+                    <img src="https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg">
+                </a>
+            </div>
+            <div class="icon_wrapper">
+                <a class="subscribe" href="https://subscribe.theepochtimes.com/?utm_source=theepochtimes.com&utm_medium=static_link&utm_campaign=page_link&utm_content=footer_subscribe_link&utm_term=/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html">
+                    <span>subscribe</span>
+                </a>
+                <a class="newsletter" href="https://www.theepochtimes.com/newsletter">
+                    <span>newsletter</span>
+                </a>
+	            <a class="newsstands" href="https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper">
+		            <span>Newsstands</span>
+	            </a>
+            </div>
+        </div>
+        <div class="menu-feature-menu-container"><ul id="menu-feature-menu" class="nav-menu"><li id="menu-item-2635427" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-editors-picks menu-item-2635427"><a href="https://www.theepochtimes.com/editors-picks">Editor&#8217;s Picks</a></li>
+<li id="menu-item-2635433" class="menu-item menu-item-type-post_type menu-item-object-page menu-title-special-series menu-item-2635433"><a href="https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world">SPECIAL SERIES</a></li>
+<li id="menu-item-2635480" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-special-coverage menu-item-2635480"><a href="https://www.theepochtimes.com/c-shen-yun">Special Coverage</a></li>
+</ul></div>        <div class="link_menu">
+            <ul class="others">
+                <li><a href="https://subscribe.theepochtimes.com/?utm_source=theepochtimes.com&utm_medium=static_link&utm_campaign=page_link&utm_content=footer_subscribe_link&utm_term=/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html">Subscribe</a></li>
+                <li><a href="https://www.theepochtimes.com/advertise">Advertise</a></li>
+                <li><a href="https://www.theepochtimes.com/about-us">About Us</a></li>
+                <li><a href="https://www.theepochtimes.com/contact-us">Contact Us</a></li>
+                <li><a href="https://subscribe.theepochtimes.com/?utm_source=theepochtimes.com&utm_medium=static_link&utm_campaign=page_link&utm_content=footer_subscribe_link&utm_term=/2-american-teens-jailed-in-italy-in-policemans-killing_3019902.html">Newspaper Subscription</a></li>
+                <li><a href="https://www.theepochtimes.com/rssfeeds">RSS Feeds</a></li>
+                <li><a href="https://www.theepochtimes.com/terms-of-service">Terms of Services</a></li>
+                <li><a href="https://www.theepochtimes.com/privacy-notice">Privacy Policy</a></li>
+                <li><a href="https://www.theepochtimes.com/copyright-infringement-notification">Copyright Policy</a></li>
+                <li><a href="https://reader.epoch.cloud/" target="_blank">Digital Newspaper</a></li>
+            </ul>
+            <div class="block_title">35 COUNTRIES, 21 LANGUAGES</div>
+            <ul class="languages clear">
+                <li><a href="https://www.theepochtimes.com/">English</a></li><li><a href="https://www.epochtimes.com/">Chinese</a></li><li><a href="https://www.lagranepoca.com/">Spanish</a></li><li><a href="http://www.epochtimes.co.il/">Hebrew</a></li><li><a href="https://www.epochtimes.jp/">Japanese</a></li><li><a href="http://www.epochtimes.co.kr/">Korean</a></li><li><a href="http://www.erabaru.net/">Indonesian</a></li><li><a href="https://www.epochtimes.fr/">French</a></li><li><a href="https://www.epochtimes.de/">German</a></li><li><a href="https://www.epochtimes.it/">Italian</a></li><li><a href="https://www.epochtimes.com.br/">Portuguese</a></li><li><a href="https://www.epochtimes.se/">Swedish</a></li><li><a href="https://www.epochtimes.nl/">Dutch</a></li><li><a href="https://www.epochtimes.ru/">Russian</a></li><li><a href="https://www.epochtimes.com.ua/">Ukrainian</a></li><li><a href="https://www.epochtimes-romania.com/">Romanian</a></li><li><a href="http://www.velkaepocha.cz/">Czech</a></li><li><a href="http://www.epochtimes.cz/">Slovak</a></li><li><a href="https://epochtimes.pl/">Polish</a></li><li><a href="http://epochtimestr.com/">Turkish</a></li><li><a href="http://persian.epochtimes.com/">Persian</a></li>            </ul>
+        </div>
+        <div class="full_menu_items">
+            <span class="first_col"><div class="menu-front-main-column1-container"><ul id="menu-front-main-column1" class="nav-menu"><li id="menu-item-2298344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-us menu-item-2298344"><a href="https://www.theepochtimes.com/c-us">US</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-news menu-item-2298345"><a href="https://www.theepochtimes.com/c-us-news">US News</a></li>
+	<li id="menu-item-2298346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us-features menu-item-2298346"><a href="https://www.theepochtimes.com/c-us-features">US Features</a></li>
+	<li id="menu-item-2298348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-2298348"><a href="https://www.theepochtimes.com/c-us-politics">Politics</a></li>
+	<li id="menu-item-2880426" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-trump-presidency menu-item-2880426"><a href="https://www.theepochtimes.com/c-trump-presidency">Trump Presidency</a></li>
+	<li id="menu-item-2638693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-crime-and-incidents menu-item-2638693"><a href="https://www.theepochtimes.com/c-crime-us">Crime and Incidents</a></li>
+	<li id="menu-item-2638696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-new-york menu-item-2638696"><a href="https://www.theepochtimes.com/c-nyc">New York</a></li>
+	<li id="menu-item-2654668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-san-francisco menu-item-2654668"><a href="https://www.theepochtimes.com/c-nor-cal-san-francisco">San Francisco</a></li>
+	<li id="menu-item-2654669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-los-angeles menu-item-2654669"><a href="https://www.theepochtimes.com/c-so-cal-los-angeles">Los Angeles</a></li>
+</ul>
+</li>
+<li id="menu-item-2638699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-opinion menu-item-2638699"><a href="https://www.theepochtimes.com/c-opinion">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-thinking-about-china menu-item-2638700"><a href="https://www.theepochtimes.com/c-thinking-about-china">Thinking About China</a></li>
+	<li id="menu-item-2638701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-viewpoints menu-item-2638701"><a href="https://www.theepochtimes.com/c-viewpoints">Viewpoints</a></li>
+	<li id="menu-item-2833178" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-declassified menu-item-2833178"><a href="https://www.theepochtimes.com/c-declassified">Declassified</a></li>
+	<li id="menu-item-2833181" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-american-thought-leaders menu-item-2833181"><a href="https://www.theepochtimes.com/c-american-thought-leaders">American Thought Leaders</a></li>
+</ul>
+</li>
+</ul></div></span>
+            <span class="second_col"><div class="menu-front-main-column2-container"><ul id="menu-front-main-column2" class="nav-menu"><li id="menu-item-2638657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-china menu-item-2638657"><a href="https://www.theepochtimes.com/c-china">China</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-us-news menu-item-2638661"><a href="https://www.theepochtimes.com/c-china-us-news">China-US News</a></li>
+	<li id="menu-item-2638685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-regime menu-item-2638685"><a href="https://www.theepochtimes.com/c-regime">Chinese Regime</a></li>
+	<li id="menu-item-2638658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business-economy menu-item-2638658"><a href="https://www.theepochtimes.com/c-business-economy">Business &#038; Economy</a></li>
+	<li id="menu-item-2638663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-chinese-culture menu-item-2638663"><a href="https://www.theepochtimes.com/c-culture">Chinese Culture</a></li>
+	<li id="menu-item-2638659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-human-rights menu-item-2638659"><a href="https://www.theepochtimes.com/c-human-rights">China Human Rights</a></li>
+	<li id="menu-item-2638660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china-society menu-item-2638660"><a href="https://www.theepochtimes.com/c-society">China Society</a></li>
+	<li id="menu-item-2638667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-organ-harvesting-in-china menu-item-2638667"><a href="https://www.theepochtimes.com/c-organ-harvesting-in-china">Organ Harvesting in China</a></li>
+</ul>
+</li>
+<li id="menu-item-2638669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-world menu-item-2638669"><a href="https://www.theepochtimes.com/c-world">World</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-africa menu-item-2638670"><a href="https://www.theepochtimes.com/c-africa">Africa</a></li>
+	<li id="menu-item-2638671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-americas menu-item-2638671"><a href="https://www.theepochtimes.com/c-americas">Americas</a></li>
+	<li id="menu-item-2638672" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-asia-pacific menu-item-2638672"><a href="https://www.theepochtimes.com/c-asia-pacific">Asia &#038; Pacific</a></li>
+	<li id="menu-item-2638673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-canada menu-item-2638673"><a href="https://www.theepochtimes.com/c-canada">Canada</a></li>
+	<li id="menu-item-2638674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-europe menu-item-2638674"><a href="https://www.theepochtimes.com/c-europe">Europe</a></li>
+	<li id="menu-item-2654636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-uk menu-item-2654636"><a href="https://www.theepochtimes.com/c-uk">UK</a></li>
+	<li id="menu-item-2654635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-australia menu-item-2654635"><a href="https://www.theepochtimes.com/c-australia">Australia</a></li>
+	<li id="menu-item-2638677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-international menu-item-2638677"><a href="https://www.theepochtimes.com/c-international">International</a></li>
+	<li id="menu-item-2638679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-middle-east menu-item-2638679"><a href="https://www.theepochtimes.com/c-middle-east">Middle East</a></li>
+</ul>
+</li>
+<li id="menu-item-2298376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-business menu-item-2298376"><a href="https://www.theepochtimes.com/c-business">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-companies menu-item-2298377"><a href="https://www.theepochtimes.com/c-companies">Companies</a></li>
+	<li id="menu-item-2298378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-economies menu-item-2298378"><a href="https://www.theepochtimes.com/c-economies">Economies</a></li>
+	<li id="menu-item-2298379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-markets menu-item-2298379"><a href="https://www.theepochtimes.com/c-markets">Markets</a></li>
+	<li id="menu-item-2298380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-real-estate menu-item-2298380"><a href="https://www.theepochtimes.com/c-real-estate">Real Estate</a></li>
+</ul>
+</li>
+</ul></div></span>
+            <span class="third_col"><div class="menu-front-main-column3-container"><ul id="menu-front-main-column3" class="nav-menu"><li id="menu-item-2298402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-arts menu-item-2298402"><a href="https://www.theepochtimes.com/c-arts-culture">Arts</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298404" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-shen-yun-special-coverage menu-item-2298404"><a href="https://www.theepochtimes.com/c-shen-yun">Shen Yun Special Coverage</a></li>
+	<li id="menu-item-2298406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-performing-arts menu-item-2298406"><a href="https://www.theepochtimes.com/c-performing-arts">Performing Arts</a></li>
+	<li id="menu-item-2298407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fine-arts menu-item-2298407"><a href="https://www.theepochtimes.com/c-fine-arts">Fine Arts</a></li>
+	<li id="menu-item-2298408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-literature menu-item-2298408"><a href="https://www.theepochtimes.com/c-literature">Literature</a></li>
+</ul>
+</li>
+<li id="menu-item-2638641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-science menu-item-2638641"><a href="https://www.theepochtimes.com/c-science">Science</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638642"><a href="https://www.theepochtimes.com/c-science-news">News</a></li>
+	<li id="menu-item-2638645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-space menu-item-2638645"><a href="https://www.theepochtimes.com/c-space">Space</a></li>
+	<li id="menu-item-2638646" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-environment menu-item-2638646"><a href="https://www.theepochtimes.com/c-environment">Environment</a></li>
+</ul>
+</li>
+<li id="menu-item-2638648" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-title-tech menu-item-2638648"><a href="https://www.theepochtimes.com/c-tech">Tech</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638649" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-title-tech-news menu-item-2638649"><a href="https://www.theepochtimes.com/c-tech-news">Tech News</a></li>
+	<li id="menu-item-2638650" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-tech-products-reviews menu-item-2638650"><a href="https://www.theepochtimes.com/c-products-reviews">Tech Products &#038; Reviews</a></li>
+	<li id="menu-item-2638651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-social-media menu-item-2638651"><a href="https://www.theepochtimes.com/c-tech-social-media">Social Media</a></li>
+</ul>
+</li>
+<li id="menu-item-2638653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-2638653"><a href="https://www.theepochtimes.com/c-sports">Sports</a></li>
+<li id="menu-item-2664345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-2664345"><a href="https://www.theepochtimes.com/c-food-dining">Food</a></li>
+<li id="menu-item-2909260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-video menu-item-2909260"><a href="https://www.theepochtimes.com/c-video">Video</a>
+<ul class="sub-menu">
+	<li id="menu-item-2909265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-humanity menu-item-2909265"><a href="https://www.theepochtimes.com/c-humanity">Humanity</a></li>
+	<li id="menu-item-2909263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-amazing menu-item-2909263"><a href="https://www.theepochtimes.com/c-amazing">Amazing</a></li>
+	<li id="menu-item-2909262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-animal-videos menu-item-2909262"><a href="https://www.theepochtimes.com/c-animals-video">Animal videos</a></li>
+	<li id="menu-item-2909264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-funny menu-item-2909264"><a href="https://www.theepochtimes.com/c-funny">Funny</a></li>
+</ul>
+</li>
+</ul></div></span>
+            <span class="fourth_col"><div class="menu-front-main-column4-container"><ul id="menu-front-main-column4" class="nav-menu"><li id="menu-item-2298413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-life menu-item-2298413"><a href="https://www.theepochtimes.com/c-life">Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-2298414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-slice-of-life menu-item-2298414"><a href="https://www.theepochtimes.com/c-slice-of-life">Slice of Life</a></li>
+	<li id="menu-item-2638610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-good-to-know menu-item-2638610"><a href="https://www.theepochtimes.com/c-good-to-know">Good to Know</a></li>
+	<li id="menu-item-2298416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-inspired menu-item-2298416"><a href="https://www.theepochtimes.com/c-inspired">Inspired</a></li>
+	<li id="menu-item-2298418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-careers menu-item-2298418"><a href="https://www.theepochtimes.com/c-careers">Careers</a></li>
+	<li id="menu-item-2298419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-family menu-item-2298419"><a href="https://www.theepochtimes.com/c-family-life-2">Family</a></li>
+	<li id="menu-item-2298421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-travel menu-item-2298421"><a href="https://www.theepochtimes.com/c-travel">Travel</a></li>
+	<li id="menu-item-2833173" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-better-life menu-item-2833173"><a href="https://www.theepochtimes.com/c-better-life">Better Life</a></li>
+	<li id="menu-item-2886462" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-autos menu-item-2886462"><a href="https://www.theepochtimes.com/c-autos">Autos</a></li>
+</ul>
+</li>
+<li id="menu-item-2638612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-entertainment menu-item-2638612"><a href="https://www.theepochtimes.com/c-entertainment">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-reviews menu-item-2638613"><a href="https://www.theepochtimes.com/c-film-reviews">Film Reviews</a></li>
+	<li id="menu-item-2638614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-film-tv menu-item-2638614"><a href="https://www.theepochtimes.com/c-film-tv">Film &#038; TV</a></li>
+	<li id="menu-item-2638615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment-news menu-item-2638615"><a href="https://www.theepochtimes.com/c-entertainment-news">Entertainment News</a></li>
+</ul>
+</li>
+<li id="menu-item-2638618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-title-wellness menu-item-2638618"><a href="https://www.theepochtimes.com/c-health">Wellness</a>
+<ul class="sub-menu">
+	<li id="menu-item-2638619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-news menu-item-2638619"><a href="https://www.theepochtimes.com/c-health-news">News</a></li>
+	<li id="menu-item-2638622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-fitness-nutrition menu-item-2638622"><a href="https://www.theepochtimes.com/c-fitness-nutrition">Fitness &#038; Nutrition</a></li>
+	<li id="menu-item-2638623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-traditional-chinese-medicine menu-item-2638623"><a href="https://www.theepochtimes.com/c-traditional-chinese-medicine">Traditional Chinese Medicine</a></li>
+	<li id="menu-item-2638624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-alternative-health menu-item-2638624"><a href="https://www.theepochtimes.com/c-alternative-health">Alternative Health</a></li>
+	<li id="menu-item-2638626" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-treatments-and-techniques menu-item-2638626"><a href="https://www.theepochtimes.com/c-treatments-and-techniques">Treatments and Techniques</a></li>
+</ul>
+</li>
+</ul></div></span>
+        </div>
+        <div class="copyright clear">Copyright @ 2000 - 2019</div>
+    </div>
+    <div id="backtotop">
+        <a title="back to top" href="javascript:void(0);" class="totop"></a>
+    </div>
+    <div class="cookie-bar">
+            <span class="warning-text">We use cookies to understand how you use our site and to improve your experience. This includes personalizing content and advertising. By continuing to use our site, you accept our use of cookies, revised Privacy Policy and Terms of Use.</span>
+            <span class="read-more"><a href="https://www.theepochtimes.com/privacy-notice">More information</a></span><span class="accept-btn"><a href="#">I accept</a></span><span id="top_close"><a href="javascript:void(0)" id="x_close">&#215;</a></span>
+		</div></footer>
+	<script type='text/javascript' src='//vs.youmaker.com/js/jwplayer/jwplayer8-all.js'></script>
+	<link rel='stylesheet' target="_blank" href='//vs.youmaker.com/css/api2.css' type='text/css' media='all' />
+	<script>
+	  if ( typeof(eet_primary_category) != "undefined" && eet_primary_category !== null ) {
+		  ga('set', 'dimension1', eet_primary_category);
+	  }
+	  if ( typeof(eet_cat_ids) != "undefined" && eet_cat_ids !== null ) {
+		  ga('set', 'dimension3', ";" + eet_cat_ids + ";");
+	  }
+	  if ( typeof(eet_term_ids) != "undefined" && eet_term_ids !== null ) {
+		  ga('set', 'dimension4', ";" + eet_term_ids + ";");
+	  }
+	  if ( typeof(eet_all_term_ids) != "undefined" && eet_all_term_ids !== null ) {
+		  ga('set', 'dimension5', ";" + eet_all_term_ids + ";");
+	  }
+	  if ( typeof(eet_post_id) != "undefined" && eet_post_id !== null ) {
+		  ga('set', 'dimension21', eet_post_id);
+	  }
+	  if ( typeof(eet_author_nicename) != "undefined" && eet_author_nicename !== null ) {
+		  ga('set', 'dimension22', eet_author_nicename);
+	  }
+	  if ( typeof(eet_author_name) != "undefined" && eet_author_name !== null ) {
+		  ga('set', 'dimension23', eet_author_name);
+	  }
+	  if ( typeof(eet_primary_category_name) != "undefined" && eet_primary_category_name !== null ) {
+		  ga('set', 'dimension26', eet_primary_category_name);
+	  }
+	  if ( typeof(eet_cat_names) != "undefined" && eet_cat_names !== null ) {
+		  ga('set', 'dimension28', ";" + eet_cat_names + ";");
+	  }
+	  if ( typeof(eet_tags) != "undefined" && eet_tags !== null ) {
+		  ga('set', 'dimension29', ";" + eet_tags + ";");
+	  }
+	  if ( typeof(eet_publish_date) != "undefined" && eet_publish_date !== null ) {
+		  ga('set', 'dimension30', eet_publish_date);
+	  }
+	  if ( typeof(eet_last_updated_date) != "undefined" && eet_last_updated_date !== null ) {
+		  ga('set', 'dimension31', eet_last_updated_date);
+	  }
+	  if ( typeof(eet_word_count) != "undefined" && eet_word_count !== null ) {
+		  ga('set', 'dimension33', eet_word_count);
+	  }
+
+	  if ( typeof(epoch.uuid) != "undefined" && epoch.uuid !== null ) {
+		  ga('set', 'dimension38', epoch.uuid);
+	  }
+
+	  if ( typeof(eet_tags_slugs) != "undefined" && eet_tags_slugs !== null ) {
+		  ga('set', 'dimension42', ";" + eet_tags_slugs + ";");
+	  }
+	  if ( typeof(eet_page_type) != "undefined" && eet_page_type !== null ) {
+		  ga('set', 'dimension43', eet_page_type);
+	  }
+
+	  // load parameters from URL and save them into custom dimension
+	  var eet_ref = getUrlParameter('ref');
+	  var eet_refcat = getUrlParameter('refcat');
+	  var eet_refname = getUrlParameter('refname');
+	  var eet_refpos = getUrlParameter('refpos');
+	  if (eet_ref) {
+		  ga('set', 'dimension34', eet_ref);
+	  }
+	  if (eet_refcat) {
+		  ga('set', 'dimension35', eet_refcat);
+	  }
+	  if (eet_refname) {
+		  ga('set', 'dimension36', eet_refname);
+	  }
+	  if (eet_refpos) {
+		  ga('set', 'dimension37', eet_refpos);
+	  }
+	  var url_path = window.location.pathname;
+	  if (url_path.indexOf('theepochtimes.com') > 0) {
+		  var arr_path = url_path.split('theepochtimes.com');
+		  if (arr_path.length == 2) {
+			  url_path = arr_path[1];
+		  }
+	  }
+	  ga('send', 'pageview', url_path);
+
+	  function getUrlParameter(name) {
+		  name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+		  var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+		  var results = regex.exec(location.search);
+		  return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+	  };
+
+	</script>
+
+	<script type='text/javascript' src='https://www.theepochtimes.com/assets/themes/eet/js/jquery-all.min.js?ver=20170224'></script>
+<script type='text/javascript' src='https://www.theepochtimes.com/assets/themes/eet/js/bottom.js?ver=20190223'></script>
+<script type='text/javascript' src='https://www.theepochtimes.com/assets/themes/eet/js/article_ads_entry.js?ver=20190626'></script>
+</body>
+</html>

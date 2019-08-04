@@ -1,0 +1,288 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link data-react-helmet="true" rel="manifest" href="/manifest.json"/><link data-react-helmet="true" rel="icon" sizes="16x16" href="/branding/favicon/16.png"/><link data-react-helmet="true" rel="icon" sizes="24x24" href="/branding/favicon/24.png"/><link data-react-helmet="true" rel="icon" sizes="32x32" href="/branding/favicon/32.png"/><link data-react-helmet="true" rel="icon" sizes="64x64" href="/branding/favicon/64.png"/><link data-react-helmet="true" rel="icon" sizes="128x128" href="/branding/favicon/128.png"/><link data-react-helmet="true" rel="icon" sizes="256x256" href="/branding/favicon/256.png"/><link data-react-helmet="true" rel="apple-touch-icon" href="/branding/apple-touch/ap-news-apple-touch-152.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="152x152" href="/branding/apple-touch/ap-news-apple-touch-152.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="180x180" href="/branding/apple-touch/ap-news-apple-touch-180.png"/><link data-react-helmet="true" rel="apple-touch-icon" sizes="167x167" href="/branding/apple-touch/ap-news-apple-touch-167.png"/><link data-react-helmet="true" rel="mask-icon" href="/branding/touch-bar-icon/ap-news-touch-bar.svg" color="#dedede"/><meta data-react-helmet="true" name="apple-mobile-web-app-capable" content="yes"/><meta data-react-helmet="true" name="apple-mobile-web-app-status-bar-style" content="black"/><meta data-react-helmet="true" name="theme-color" content="#dedede"/><meta data-react-helmet="true" name="msapplication-config" content="browserconfig.xml"/><meta data-react-helmet="true" name="description" content="BEIJING (AP) — China blamed Western forces and defended police conduct after Hong Kong endured another weekend of violent clashes between protesters and police. Some &quot;irresponsible people&quot;... "/><meta data-react-helmet="true" name="keywords" content="breaking news,U.S. news,news,news online,world news,weather,business,sports,politics,law,
+technology,entertainment,education,travel,health"/><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"/><meta data-react-helmet="true" name="twitter:site" content="@ap"/><meta data-react-helmet="true" property="twitter:title" content="China defends Hong Kong police, blames Western forces"/><meta data-react-helmet="true" property="twitter:description" content="BEIJING (AP) — China blamed Western forces and defended police conduct after Hong Kong endured another weekend of violent clashes between protesters and police. Some &quot;irresponsible people&quot;... "/><meta data-react-helmet="true" property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/6ddcfe42887a4637bc4a73d99962e1fc/3000.jpeg"/><meta data-react-helmet="true" property="twitter:url" content="https://apnews.com/9e943323758a42de8431a5b45aef1839"/><meta data-react-helmet="true" property="og:title" content="China defends Hong Kong police, blames Western forces"/><meta data-react-helmet="true" property="og:description" content="BEIJING (AP) — China blamed Western forces and defended police conduct after Hong Kong endured another weekend of violent clashes between protesters and police. Some &quot;irresponsible people&quot;... "/><meta data-react-helmet="true" property="og:type" content="article"/><meta data-react-helmet="true" property="og:url" content="https://apnews.com/9e943323758a42de8431a5b45aef1839"/><meta data-react-helmet="true" property="og:image" content="https://storage.googleapis.com/afs-prod/media/6ddcfe42887a4637bc4a73d99962e1fc/3000.jpeg"/><meta data-react-helmet="true" property="og:image:width" content="4500"/><meta data-react-helmet="true" property="og:image:height" content="3000"/><meta data-react-helmet="true" property="og:site_name" content="AP NEWS"/><meta data-react-helmet="true" property="fb:app_id" content="870613919693099"/><meta data-react-helmet="true" property="fb:pages" content="249655421622"/><meta data-react-helmet="true" property="article:published_time" content="2019-07-30T00:38:24Z"/><meta data-react-helmet="true" property="article:modified_time" content="2019-07-30T00:38:23Z"/><meta data-react-helmet="true" property="article:section" content="Beijing"/><meta data-react-helmet="true" property="article:tag" content="Beijing"/><meta data-react-helmet="true" property="article:tag" content="Police"/><meta data-react-helmet="true" property="article:tag" content="International News"/><meta data-react-helmet="true" property="article:tag" content="Hong Kong"/><meta data-react-helmet="true" property="article:tag" content="General News"/><meta data-react-helmet="true" property="article:tag" content="Crime"/><meta data-react-helmet="true" property="article:tag" content="China"/><meta data-react-helmet="true" property="article:tag" content="Asia Pacific"/><meta data-react-helmet="true" property="article:tag" content="Violent crime"/><script data-react-helmet="true" type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","author":["Yanan Wang"],"dateModified":"2019-07-30T00:38:23Z","datePublished":"2019-07-30T00:38:24Z","description":"BEIJING (AP) — China blamed Western forces and defended police conduct after Hong Kong endured another weekend of violent clashes between protesters and police. Some \"irresponsible people\"... ","headline":"China defends Hong Kong police, blames Western forces","image":["https://storage.googleapis.com/afs-prod/media/6ddcfe42887a4637bc4a73d99962e1fc/3000.jpeg","https://storage.googleapis.com/afs-prod/media/6ddcfe42887a4637bc4a73d99962e1fc/2000.jpeg"],"mainEntityOfPage":{"@id":"https://apnews.com/9e943323758a42de8431a5b45aef1839","@type":"WebPage"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","height":60,"url":"http://apcontextual.appspot.com/Support/AMPLogo.png","width":600},"name":"Associated Press"}}</script><title data-react-helmet="true">China defends Hong Kong police, blames Western forces</title><meta name="google-site-verification" content="XvG-YKlyyPmG2x0J9-rdS-zI8LhL4d75ZQoccETD2qA"><link rel="stylesheet" type="text/css" href="/dist/index.css?hash=16c2da316e1"><style id="server-side-styles" type="text/css">.c016 {
+  width: 3.75rem;
+  height: 0.5rem;
+  background: #ff322e;
+  transform-origin: left top;
+}
+.c014 {
+  height: 0;
+  display: flex;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+  box-sizing: content-box;
+  justify-content: center;
+}
+.c015 {
+  position: absolute;
+}
+.c018 {
+  width: 100%;
+  display: block;
+}
+.c019 {
+  opacity: 0;
+}
+.c0110 {
+  animation: LazyImage 0.3s;
+}
+.c017 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.c0111 {
+  margin: 0.75rem 0;
+}
+.c0128 {
+  margin: 1.125rem 0 -1.5rem 0;
+  display: inline-flex;
+  padding: 0;
+  flex-flow: wrap;
+  list-style: none;
+}
+.c0129 {
+  margin-bottom: 1.5rem;
+}
+.c0129:not(:last-child) {
+  margin-right: 1.5rem;
+}
+.c0130 {
+  width: 1.5625rem;
+  height: 1.5625rem;
+  display: block;
+}
+.c0124 {
+  margin: 1.5rem 0 -0.5rem 0;
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0124 {
+    display: flex;
+    flex-flow: wrap;
+  }
+}
+.c0125 {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+.c0125:not(:last-child) {
+  margin-right: 0.5rem;
+}
+.c0126 {
+  width: 8.125rem;
+  height: 2.75rem;
+}
+.c0127 {
+  width: 9.375rem;
+  height: 2.75rem;
+}
+@media only screen and (min-width: 64rem) {
+  .c0131 {
+    display: flex;
+    padding: 0 0 6.25rem;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0131 {
+    padding: 0 0 2.375rem;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0131 {
+    padding: 0 0 2.375rem;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .c0132 {
+    display: flex;
+  }
+}
+.c0133 {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+.c0134 {
+  padding-right: 0.75rem;
+}
+.c0135 {
+  font-size: 0.75rem;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0135 {
+    padding: 1px 0.75rem 0 0;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .c0135 {
+    padding: 1px 0.75rem 0 0;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .c0136 {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0137 {
+    display: block;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0137 {
+    display: block;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0138 {
+    margin-bottom: 0.5rem;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0138 {
+    margin-bottom: 0.5rem;
+  }
+}
+.c0123 {
+  width: 100%;
+  height: 1px;
+  background: rgba(236, 236, 236, 0.19999999999999996);
+}
+@media only screen and (min-width: 64rem) {
+  .c0123 {
+    margin: 2.25rem 0 1.75rem 0;
+  }
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0123 {
+    margin: 1.5rem 0 1.25rem 0;
+  }
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0123 {
+    margin: 1.125rem 0 0.75rem 0;
+  }
+}
+.c0112 {
+  color: #fff;
+  padding: 2.1875rem 0 0 0;
+  font-size: 0.75rem;
+  background: #2c2c2c;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 300;
+}
+.c0112 a, .c0112 a:link, .c0112 a:visited, .c0112 a:hover, .c0112 a:active {
+  text-decoration: none;
+}
+@media only screen and (min-width: 48rem) and (max-width: 63.9375rem) {
+  .c0113 {
+    display: grid;
+    grid-template-rows: auto 1.875rem auto auto auto;
+    grid-template-areas: "nav nav nav . . . apps apps apps . ." ". . . . . . . . . . ." "moreFromAp moreFromAp moreFromAp . . . followAp followAp followAp . ." "divider divider divider divider divider divider divider divider divider divider divider" "legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff";
+    grid-template-columns: repeat(5, 4.8125rem 1fr) 4.8125rem;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  .c0113 {
+    display: grid;
+    grid-template-areas: "nav nav nav . . . apps apps apps . . . moreFromAp moreFromAp moreFromAp . . . followAp followAp followAp . ." "divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider divider" "legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff legalStuff";
+    grid-template-columns: repeat(11, 4.8125rem 1fr) 4.8125rem;
+  }
+}
+.c0114 {
+  grid-area: nav;
+}
+.c0115 {
+  grid-area: apps;
+}
+.c0116 {
+  grid-area: moreFromAp;
+}
+.c0117 {
+  grid-area: followAp;
+}
+.c0118 {
+  grid-area: divider;
+}
+.c0119 {
+  grid-area: legalStuff;
+}
+.c0120 {
+  font-size: 1rem;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c0120 {
+    font-size: 0.875rem;
+  }
+}
+.c0121 {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 2;
+}
+.c0122 {
+  padding-top: 0.3125rem;
+}
+.c011 {
+  top: 1rem;
+  right: var(--fluid-wrapper-padding);
+  width: auto;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  outline: none;
+  padding: 0 1rem;
+  position: absolute;
+  font-size: 1rem;
+  background: #104ba5;
+  text-align: left;
+  font-family: 'GoodOT', Arial, sans-serif;
+  font-weight: 300;
+  line-height: 2rem;
+}
+.c011, .c011:link, .c011:visited, .c011:hover, .c011:active {
+  color: white;
+  text-decoration: none;
+}
+@media only screen and (max-width: 47.9375rem) {
+  .c011 {
+    top: 0;
+  }
+}
+.c012 {
+  display: none;
+  --colour: white;
+  margin-left: 6px;
+}
+.c012 .sk-fading-circle {
+  width: 1rem;
+  height: 1rem;
+}
+.c012.searching {
+  display: inline-block;
+}
+.c013 {
+  width: 0.78125rem;
+  height: 0.78125rem;
+  display: inline;
+  margin-left: 0.625rem;
+}
+.c013.searching {
+  display: none;
+}</style></head><body><div id="root"><div class="App"><noscript style="display:none;visibility:hidden"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNXLD4" width="0" height="0"></iframe></noscript><noscript style="display:none;visibility:hidden"><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3005041&amp;cv=2.0&amp;cj=1" alt="Comscore beacon"/></noscript><main class="Main"><div class="Header" style="height:97px;top:0"><div class="fluid-wrapper"><a class="header-logo" href="/"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-logo"></use></svg></a><div class="optional-header-title hub" style="opacity:0"></div><div class="header-title" style="height:48px;padding-top:17px"><div class="title">AP NEWS</div></div><nav class="header-navigation-wrapper"><ol class="header-navigation"><li class="header-navigation-item"><a class="nav-action" href="/">Top Stories</a></li><li class="header-navigation-item topics"><label class="nav-action">Topics<svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-down-arrow"></use></svg></label><nav class="TopicsDropdown" style="right:auto"><div class="dropdown-wrapper" style="--height:0"><ol class="dropdown"></ol></div></nav></li><li class="header-navigation-item"><a class="nav-action" href="/apf-videos">Video</a></li><li class="header-navigation-item radio"><span class="nav-action">Listen</span><div class="Radio" style="height:0;width:0"><div class="radio-content"><audio class="radio-player"></audio><div class="radio-text"><div class="radio-title">AP RADIO</div><div class="radio-subtitle">Update hourly</div></div><div class="radio-control radio-play"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-play"></use></svg></div></div></div></li><li class="header-navigation-item search"><div class="nav-action"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-search"></use></svg></div></li></ol></nav></div><div class="search-wrapper"><div class="SearchPopover close" style="--height:0"><div class="inner"><input class="input" placeholder="Search" value=""/><button class="c011"><span>Search</span><div class="Loader c012"><div class="sk-fading-circle"><div class="sk-circle1 sk-circle"></div><div class="sk-circle2 sk-circle"></div><div class="sk-circle3 sk-circle"></div><div class="sk-circle4 sk-circle"></div><div class="sk-circle5 sk-circle"></div><div class="sk-circle6 sk-circle"></div><div class="sk-circle7 sk-circle"></div><div class="sk-circle8 sk-circle"></div><div class="sk-circle9 sk-circle"></div><div class="sk-circle10 sk-circle"></div><div class="sk-circle11 sk-circle"></div><div class="sk-circle12 sk-circle"></div></div></div><svg class="SvgSprite c013"><use xlink:href="/dist/spritemap.svg#sprite-arrow"></use></svg></button><section class="search-results"></section></div></div></div></div><div class="header-placeholder"></div><div class="Body"><div class="Content WireStory fluid-wrapper with-lead"><div class="Leaderboard c014"><div data-key="ad-placeholder" id="div-gpt-ad-1461247613791-X" class="DFPSlot c015"></div></div><div class="SocialShare tablet-view"><a href="https://facebook.com/dialog/share?app_id=870613919693099&amp;quote=
+			China defends Hong Kong police, blames Western forces&amp;display=popup&amp;href=https://apnews.com/9e943323758a42de8431a5b45aef1839" target="_blank" rel="noopener" class="share-facebook"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-facebook"></use></svg></a><a href="https://twitter.com/intent/tweet?text=China defends Hong Kong police, blames Western forces&amp;url=https://apnews.com/9e943323758a42de8431a5b45aef1839" target="_blank" rel="noopener" class="share-twitter"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-twitter"></use></svg></a><a href="mailto:?subject=China defends Hong Kong police, blames Western forces&amp;body=https://apnews.com/9e943323758a42de8431a5b45aef1839" class="share-email"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-email"></use></svg></a><span class="share-link success-nothing"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-link"></use></svg><span class="share-link-text">Click to copy</span><span class="share-link-inner">https://apnews.com/9e943323758a42de8431a5b45aef1839</span></span></div><div class="ContentView-LeftRail"><div class="sticky-part"><div class="SocialShare"><a href="https://facebook.com/dialog/share?app_id=870613919693099&amp;quote=
+			China defends Hong Kong police, blames Western forces&amp;display=popup&amp;href=https://apnews.com/9e943323758a42de8431a5b45aef1839" target="_blank" rel="noopener" class="share-facebook"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-facebook"></use></svg></a><a href="https://twitter.com/intent/tweet?text=China defends Hong Kong police, blames Western forces&amp;url=https://apnews.com/9e943323758a42de8431a5b45aef1839" target="_blank" rel="noopener" class="share-twitter"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-twitter"></use></svg></a><a href="mailto:?subject=China defends Hong Kong police, blames Western forces&amp;body=https://apnews.com/9e943323758a42de8431a5b45aef1839" class="share-email"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-email"></use></svg></a><span class="share-link success-nothing"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-share-link"></use></svg><span class="share-link-text">Click to copy</span><span class="share-link-inner">https://apnews.com/9e943323758a42de8431a5b45aef1839</span></span></div><div class="RelatedTopics"><div class="heading">Related topics</div><ul class="tag-list"><li class="tag"><a data-key="related-tag" href="/Beijing">Beijing</a></li><li class="tag"><a data-key="related-tag" href="/Police">Police</a></li><li class="tag"><a data-key="related-tag" href="/apf-intlnews">International News</a></li><li class="tag"><a data-key="related-tag" href="/HongKong">Hong Kong</a></li><li class="tag"><a data-key="related-tag" href="/apf-GeneralNews">General News</a></li><li class="tag"><a data-key="related-tag" href="/Crime">Crime</a></li><li class="tag"><a data-key="related-tag" href="/China">China</a></li><li class="tag"><a data-key="related-tag" href="/apf-asiapac">Asia Pacific</a></li><li class="tag"><a data-key="related-tag" href="/Violentcrime">Violent crime</a></li></ul></div></div></div><div class="CardHeadline"><div class="headline" data-key="card-headline"><h1>China defends Hong Kong police, blames Western forces</h1></div><div class="signature"><span class="byline">By YANAN WANG and KATIE TAM</span><span class="Timestamp" data-key="timestamp" data-source="2019-07-30T00:38:23Z">July 30, 2019</span></div><div class="c016" style="transform:scale(1)"></div></div><div class="divider"></div><a class="LeadFeature LeadFeature_gallery" href="/9e943323758a42de8431a5b45aef1839/gallery/6ddcfe42887a4637bc4a73d99962e1fc"><div class="c017 LazyImage"><div></div></div><svg class="SvgSprite gallery-arrow"><use xlink:href="/dist/spritemap.svg#sprite-gallery-arrow"></use></svg><div class="count-caption ssr-desktop"><div class="ImageGalleryCount"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-gallery-count"></use></svg><span>1 of 5</span></div><div class="embed-caption" data-key="embed-caption">Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, speaks during a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)</div></div><div class="count-caption ssr-tablet"><div class="ImageGalleryCount"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-gallery-count"></use></svg><span>1 of 5</span></div><div class="embed-caption" data-key="embed-caption">Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, speaks during a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)</div></div></a><div class="Article" data-key="article"><p>BEIJING (AP) — China blamed Western forces and defended police conduct after Hong Kong endured another weekend of violent clashes between protesters and police.</p><p>Some “irresponsible people” in the West have applied “strange logic” that made them sympathetic and tolerant to “violent crimes” but critical of the police force’s “due diligence,” a Chinese government spokesman said at a news briefing Monday.</p><p>“At the end of the day, their intention is to create trouble in Hong Kong, make Hong Kong a problem to China, in order to contain China’s development,” said Yang Guang, spokesman for the Chinese Cabinet’s Hong Kong and Macao Affairs Office, without mentioning any specific individuals or countries.</p><div data-key="ad-placeholder" id="div-gpt-ad-1470255291270-0" class="DFPSlot"></div><p>He added that such attempts will come to nothing because Beijing will tolerate no outside interference in Hong Kong’s affairs.</p><p>Residents of the semi-autonomous Chinese territory began protesting in early June for the government to withdraw an extradition bill that would have allowed people to be sent to stand trial in mainland China, where critics say their legal rights would be threatened. The government suspended the bill, but the protests have expanded to calls for democracy and government accountability.</p><p>Police on Sunday repeatedly fired tear gas and rubber bullets to drive back protesters blocking Hong Kong streets with road signs and umbrellas.</p><div data-key="media-placeholder"><div class="YoutubeEmbed"><div class="youtube-player" id="youtube-wrapper-192ce90f1b4b44a59e7ef002106e8e2c-article"><img src="https://img.youtube.com/vi/ibghyJfYHqg/0.jpg" alt="Police repeatedly fired tear gas and rubber bullets to drive back protesters blocking Hong Kong streets Sunday night as protests for democracy in the Chinese territory escalate. (July 29)"/></div></div></div><p>The protesters have demanded an independent inquiry into police conduct at the protests, which they say has been abusive.</p><p>At least one woman was knocked down when police used rods Saturday to disperse crowds in Hong Kong’s Yuen Long area, where officers later charged into a train station swinging batons. Protesters were “holding iron poles, self-made shields and even removing fences from roads,” police said in a statement that accused demonstrators of putting officers’ lives in danger by surrounding an occupied police vehicle.</p><p>Yang said the Chinese government firmly supports the police in Hong Kong.</p><p>“We understand the huge pressure facing the Hong Kong police and their families,” he said, “and would like to salute the Hong Kong police who have been fearlessly sticking to their posts and fulfilling their duties against all odds.”</p><p>Hong Kong’s government and police force have said the protests have placed considerable strain on their officers, who are dispatched in large numbers for the protests, which occur at least once a week and generally go late into the night despite repeated appeals to disband. Hong Kong authorities said these pressures made it difficult for police to act immediately when a band of white-clad assailants beat people inside the Yuen Long train station on July 21.</p><div data-key="ad-placeholder" id="div-gpt-ad-1470255291270-1" class="DFPSlot"></div><p>Protesters said the slow police response to that attack indicated that officers were colluding with the attackers — an allegation that authorities have refuted. Last Monday, police arrested six men in connection with the attack, including some linked to triad gangs.</p><p>Pro-Beijing lawmakers in Hong Kong said the “general wishes” of the city’s residents are for the violence to stop immediately.</p><p>“Regardless of your stance, I think all this violence should not continue because it brings no benefit to any person,” said legislator Starry Lee.</p><p>Claudia Mo, a pro-democracy lawmaker, said she fears the Chinese government’s statements will further inflame demonstrators.</p><p>“I’m so worried that what happened in Beijing this afternoon will actually help fan the fire of what’s already been a tsunami of protests in Hong Kong,” Mo said, noting that the Hong Kong and Macao Affairs Office appeared to fully support the police and Hong Kong’s leader, Carrie Lam.</p><p>___</p><p>Tam reported from Hong Kong. Associated Press news assistants Nadia Lam and Phoebe Lai in Hong Kong contributed to this report.</p></div><aside class="RightRail"><div data-key="ad-placeholder" id="div-gpt-ad-1461247613791-2" class="DFPSlot"></div><div id="taboola-right-rail-thumbnails" class="top-stories"></div><div class="persistent-ad"><div data-key="ad-placeholder" id="div-gpt-ad-1461247613791-1" class="DFPSlot"></div></div></aside><div class="bellow-article"><div><div id="taboola-below-article-thumbnails"></div></div><div data-key="ad-placeholder" id="div-gpt-ad-1470255291270-X" class="DFPSlot"></div></div></div></div><div class="c0112"><div class="fluid-wrapper"><div class="c0113"><nav class="c0114"><div class="c0120">AP NEWS</div><ol class="c0121"><li><a href="/">Top Stories</a></li><li><a href="/apf-videos">Video</a></li><li><a href="mailto:support@apnews.com" rel="noopener">Contact Us</a></li><li><a class="optanon-show-settings">Cookie Settings</a></li></ol></nav><div class="ssr-mobile c0123"></div><nav class="c0115"><div class="c0120">Download AP NEWS</div><div class="c0122">Connect with the definitive source for global and local news</div><div class="c0124"><a href="https://itunes.apple.com/us/app/ap-news/id364677107" target="_blank" rel="noopener" class="c0125 c0126"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-app-store"></use></svg></a><a href="https://play.google.com/store/apps/details?id=mnn.Android" target="_blank" rel="noopener" class="c0125 c0127"><img src="/en_badge_web_generic.png" class="SvgSprite"/></a></div></nav><div class="ssr-mobile c0123"></div><nav class="c0116"><div class="c0120">More from AP</div><ol class="c0121"><li><a target="_blank" rel="noopener" href="https://www.ap.org">ap.org</a></li><li><a target="_blank" rel="noopener" href="https://insights.ap.org/">AP Insights</a></li><li><a target="_blank" rel="noopener" href="https://blog.ap.org/">AP Definitive Source</a></li><li><a target="_blank" rel="noopener" href="https://apimagesblog.com/">AP Images Spotlight</a></li><li><a target="_blank" rel="noopener" href="https://www.ap.org/explore/">AP Explore</a></li><li><a target="_blank" rel="noopener" href="https://www.ap.org/books/">AP Books</a></li></ol></nav><div class="ssr-mobile c0123"></div><nav class="c0117"><div class="c0120">Follow AP</div><ol class="c0128"><li class="c0129"><a target="_blank" rel="noopener" href="https://twitter.com/AP" class="c0130"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-twitter"></use></svg></a></li><li class="c0129"><a target="_blank" rel="noopener" href="https://www.facebook.com/APNews" class="c0130"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-facebook"></use></svg></a></li><li class="c0129"><a target="_blank" rel="noopener" href="https://www.youtube.com/user/AssociatedPress" class="c0130"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-youtube"></use></svg></a></li><li class="c0129"><a target="_blank" rel="noopener" href="https://www.linkedin.com/company/associated-press" class="c0130"><svg class="SvgSprite"><use xlink:href="/dist/spritemap.svg#sprite-social-linkedin"></use></svg></a></li></ol></nav><div class="c0118 c0123"></div><div class="c0119 c0131"><nav class="c0132"><div class="c0135 c0138">The Associated Press</div><ol class="c0133"><li class="c0134 c0138"><a target="_blank" rel="noopener" href="https://www.ap.org/about">About</a></li><li class="c0134 c0138"><a target="_blank" rel="noopener" href="https://www.ap.org/contact-us">Contact</a></li><li class="c0134 c0138"><a target="_blank" rel="noopener" href="http://aphelp.ap.org">Customer Support</a></li><li class="c0134 c0138"><a target="_blank" rel="noopener" href="https://www.ap.org/careers/">Careers</a></li><li class="c0134 c0138"><a href="/termsofservice">Terms &amp; Conditions</a></li><li class="c0134 c0138"><a href="/privacystatement">Privacy</a></li></ol></nav><div class="c0136"><span class="c0137 c0138">All contents © copyright <!-- -->2019<!-- --> The Associated Press.</span><span class="c0137 c0138"> All rights reserved.</span></div></div></div></div></div></main></div></div><script>window['titanium-config'] = {"base":"https://apnews.com","afsApi":"https://afs-prod.appspot.com/api/v2","gcsRoot":"https://storage.googleapis.com/afs-prod","googleAnalyticsId":"UA-19104461-33","googleTagManagerId":"GTM-WNXLD4","dfpEnvironment":"PRODUCTION","branch":"key_live_ndufC8VAc2V3dnaX3lenvdhkvAc3rs4S","appVersion":"157"};
+window['titanium-state'] = {"eyebrow":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"markdown":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":600000},"hub":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"card":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":120000},"content":{"loading":{"urn:publicid:ap.org:9e943323758a42de8431a5b45aef1839":false},"error":{"urn:publicid:ap.org:9e943323758a42de8431a5b45aef1839":null},"data":{"urn:publicid:ap.org:9e943323758a42de8431a5b45aef1839":{"embedHeight":null,"stackedStory":true,"contentSponsor":null,"tagObjs":[{"id":"Beijing","name":"Beijing","order":0},{"id":"Police","name":"Police","order":0},{"id":"apf-intlnews","name":"International News","order":3},{"id":"HongKong","name":"Hong Kong","order":0},{"id":"apf-GeneralNews","name":"General News","order":6},{"id":"Crime","name":"Crime","order":0},{"id":"China","name":"China","order":0},{"id":"apf-asiapac","name":"Asia Pacific","order":1},{"id":"Violentcrime","name":"Violent crime","order":0}],"slugline":"BC-AS--China-Hong Kong,3rd Ld-Writethru","pullQuoteObjs":[],"title":"AS--China-Hong Kong","localMemberName":null,"dateline":null,"contentType":"text","embedRatio":null,"layoutType":"Small Photo","alertLinkDateTime":null,"embedCaption":null,"old_lead_video_key":"192ce90f1b4b44a59e7ef002106e8e2c","etag":"9e943323758a42de8431a5b45aef1839_4a12aza0c0","gcsUrl":"https://storage.googleapis.com/afs-prod/contents/urn:publicid:ap.org:9e943323758a42de8431a5b45aef1839","embedLinkURL":null,"language":null,"leadVideoId":"192ce90f1b4b44a59e7ef002106e8e2c","headline":"China defends Hong Kong police, blames Western forces","firstWords":"\u003cp>BEIJING (AP) — China blamed Western forces and defended police conduct after Hong Kong endured another weekend of violent clashes between protesters and police.\u003c/p>\u003cp>Some \"irresponsible people\"...\u003c/p>","published":"2019-07-30 00:38:24","block_fundamentals":true,"embedHTML":null,"pubstatus":"usable","sequenceNumber":null,"embedType":"Other","notificationId":null,"storyHTML":"\u003cp>BEIJING (AP) — China blamed Western forces and defended police conduct after Hong Kong endured another weekend of violent clashes between protesters and police.\u003c/p>\u003cp>Some \"irresponsible people\" in the West have applied \"strange logic\" that made them sympathetic and tolerant to \"violent crimes\" but critical of the police force's \"due diligence,\" a Chinese government spokesman said at a news briefing Monday.\u003c/p>\u003cp>\"At the end of the day, their intention is to create trouble in Hong Kong, make Hong Kong a problem to China, in order to contain China's development,\" said Yang Guang, spokesman for the Chinese Cabinet's Hong Kong and Macao Affairs Office, without mentioning any specific individuals or countries.\u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>He added that such attempts will come to nothing because Beijing will tolerate no outside interference in Hong Kong's affairs.\u003c/p>\u003cp>Residents of the semi-autonomous Chinese territory began protesting in early June for the government to withdraw an extradition bill that would have allowed people to be sent to stand trial in mainland China, where critics say their legal rights would be threatened. The government suspended the bill, but the protests have expanded to calls for democracy and government accountability.\u003c/p>\u003cp>Police on Sunday repeatedly fired tear gas and rubber bullets to drive back protesters blocking Hong Kong streets with road signs and umbrellas.\u003c/p>\u003cdiv id='192ce90f1b4b44a59e7ef002106e8e2c' class='media-placeholder'>\u003c/div>\u003cp>The protesters have demanded an independent inquiry into police conduct at the protests, which they say has been abusive.\u003c/p>\u003cp>At least one woman was knocked down when police used rods Saturday to disperse crowds in Hong Kong's Yuen Long area, where officers later charged into a train station swinging batons. Protesters were \"holding iron poles, self-made shields and even removing fences from roads,\" police said in a statement that accused demonstrators of putting officers' lives in danger by surrounding an occupied police vehicle.\u003c/p>\u003cp>Yang said the Chinese government firmly supports the police in Hong Kong.\u003c/p>\u003cp>\"We understand the huge pressure facing the Hong Kong police and their families,\" he said, \"and would like to salute the Hong Kong police who have been fearlessly sticking to their posts and fulfilling their duties against all odds.\"\u003c/p>\u003cp>Hong Kong's government and police force have said the protests have placed considerable strain on their officers, who are dispatched in large numbers for the protests, which occur at least once a week and generally go late into the night despite repeated appeals to disband. Hong Kong authorities said these pressures made it difficult for police to act immediately when a band of white-clad assailants beat people inside the Yuen Long train station on July 21.\u003c/p>\u003cdiv class=\"ad-placeholder\">\u003c/div>\u003cp>Protesters said the slow police response to that attack indicated that officers were colluding with the attackers — an allegation that authorities have refuted. Last Monday, police arrested six men in connection with the attack, including some linked to triad gangs.\u003c/p>\u003cp>Pro-Beijing lawmakers in Hong Kong said the \"general wishes\" of the city's residents are for the violence to stop immediately.\u003c/p>\u003cp>\"Regardless of your stance, I think all this violence should not continue because it brings no benefit to any person,\" said legislator Starry Lee.\u003c/p>\u003cp>Claudia Mo, a pro-democracy lawmaker, said she fears the Chinese government's statements will further inflame demonstrators.\u003c/p>\u003cp>\"I'm so worried that what happened in Beijing this afternoon will actually help fan the fire of what's already been a tsunami of protests in Hong Kong,\" Mo said, noting that the Hong Kong and Macao Affairs Office appeared to fully support the police and Hong Kong's leader, Carrie Lam.\u003c/p>\u003cp>___\u003c/p>\u003cp>Tam reported from Hong Kong. Associated Press news assistants Nadia Lam and Phoebe Lai in Hong Kong contributed to this report.\u003c/p>","truncatedFirstWords":false,"mediaCount":5,"shortId":"9e943323758a42de8431a5b45aef1839","localLinkUrl":"https://apnews.com/9e943323758a42de8431a5b45aef1839","interactiveLinkUrl":null,"organisationTagObjs":{"chinagovernment":{"order":0,"name":"china government"}},"mediumIds":["6ddcfe42887a4637bc4a73d99962e1fc","33e9fb2a78a54aafb5bf6cc37baee18b","4a9c1e5cd9f84fc7ac4054e6e60e2350","b99be112b8444905b2e310ad10428cde","192ce90f1b4b44a59e7ef002106e8e2c"],"contexts":null,"richEmbeds":null,"xxUpdated":"2019-07-30 01:00:57","updated":"2019-07-30 00:38:23","flattenedFirstWords":"BEIJING (AP) — China blamed Western forces and defended police conduct after Hong Kong endured another weekend of violent clashes between protesters and police.\n\nSome \"irresponsible people\"...","id":"urn:publicid:ap.org:9e943323758a42de8431a5b45aef1839","media":[{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 01:16:42","id":"6ddcfe42887a4637bc4a73d99962e1fc","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"6ddcfe42887a4637bc4a73d99962e1fc_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, speaks during a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)","type":"Photo","caption":"\u003cp>Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, speaks during a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5001500150015001,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/6ddcfe42887a4637bc4a73d99962e1fc/"},{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 01:16:42","id":"33e9fb2a78a54aafb5bf6cc37baee18b","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"33e9fb2a78a54aafb5bf6cc37baee18b_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, gestures as reporters approach him after a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)","type":"Photo","caption":"\u003cp>Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, gestures as reporters approach him after a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5001500150015001,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/33e9fb2a78a54aafb5bf6cc37baee18b/"},{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 01:16:42","id":"4a9c1e5cd9f84fc7ac4054e6e60e2350","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"4a9c1e5cd9f84fc7ac4054e6e60e2350_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, speaks during a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)","type":"Photo","caption":"\u003cp>Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, speaks during a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5001500150015001,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/4a9c1e5cd9f84fc7ac4054e6e60e2350/"},{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 01:16:42","id":"b99be112b8444905b2e310ad10428cde","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"b99be112b8444905b2e310ad10428cde_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, is approached by reporters as he prepares to leave after a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)","type":"Photo","caption":"\u003cp>Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, is approached by reporters as he prepares to leave after a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5001500150015001,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/b99be112b8444905b2e310ad10428cde/"},{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 01:16:42","id":"192ce90f1b4b44a59e7ef002106e8e2c","embedCaption":null,"videoRenderedSizes":[640],"imageMimeType":"image/jpeg","etag":"192ce90f1b4b44a59e7ef002106e8e2c_0a4aza9c0","externalId":"ibghyJfYHqg","videoMimeType":"video/mpeg","managementId":"192ce90f1b4b44a59e7ef002106e8e2c","state":null,"flattenedCaption":"Police repeatedly fired tear gas and rubber bullets to drive back protesters blocking Hong Kong streets Sunday night as protests for democracy in the Chinese territory escalate. (July 29)","videoFileExtension":".mp4","type":"YouTube","caption":"\u003cp>Police repeatedly fired tear gas and rubber bullets to drive back protesters blocking Hong Kong streets Sunday night as protests for democracy in the Chinese territory escalate. (July 29)\u003c/p>","imageRenderedSizes":[1920,1000,800,600,400],"aspectRatio":1.7777777777777777,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/192ce90f1b4b44a59e7ef002106e8e2c/"}],"hons":false,"revision":null,"videoContext":null,"omitFromFeed":null,"tagIds":["Beijing","Police","apf-intlnews","HongKong","apf-GeneralNews","Crime","China","apf-asiapac","Violentcrime"],"hasTextOverlay":false,"bylines":"By YANAN WANG and KATIE TAM","leadPhotoId":"6ddcfe42887a4637bc4a73d99962e1fc"}},"loadedAt":{"urn:publicid:ap.org:9e943323758a42de8431a5b45aef1839":1564473114281},"expiration":120000},"medium":{"loading":{},"error":{},"data":{"6ddcfe42887a4637bc4a73d99962e1fc":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 01:16:42","id":"6ddcfe42887a4637bc4a73d99962e1fc","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"6ddcfe42887a4637bc4a73d99962e1fc_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, speaks during a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)","type":"Photo","caption":"\u003cp>Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, speaks during a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5001500150015001,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/6ddcfe42887a4637bc4a73d99962e1fc/"},"33e9fb2a78a54aafb5bf6cc37baee18b":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 01:16:42","id":"33e9fb2a78a54aafb5bf6cc37baee18b","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"33e9fb2a78a54aafb5bf6cc37baee18b_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, gestures as reporters approach him after a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)","type":"Photo","caption":"\u003cp>Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, gestures as reporters approach him after a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5001500150015001,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/33e9fb2a78a54aafb5bf6cc37baee18b/"},"4a9c1e5cd9f84fc7ac4054e6e60e2350":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 01:16:42","id":"4a9c1e5cd9f84fc7ac4054e6e60e2350","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"4a9c1e5cd9f84fc7ac4054e6e60e2350_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, speaks during a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)","type":"Photo","caption":"\u003cp>Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, speaks during a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5001500150015001,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/4a9c1e5cd9f84fc7ac4054e6e60e2350/"},"b99be112b8444905b2e310ad10428cde":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 01:16:42","id":"b99be112b8444905b2e310ad10428cde","embedCaption":null,"videoRenderedSizes":[],"imageMimeType":"image/jpeg","etag":"b99be112b8444905b2e310ad10428cde_0a1aza3c0","externalId":null,"videoMimeType":null,"managementId":null,"state":null,"flattenedCaption":"Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, is approached by reporters as he prepares to leave after a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)","type":"Photo","caption":"\u003cp>Yang Guang, spokesman of the Hong Kong and Macau Affairs Office of the State Council, is approached by reporters as he prepares to leave after a press conference about the ongoing protests in Hong Kong, at the State Council Information Office in Beijing, Monday, July 29, 2019. Yang said some Western politicians are stirring unrest in Hong Kong in hopes of creating difficulties that will impede China’s overall development. (AP Photo/Andy Wong)\u003c/p>","imageRenderedSizes":[3000,2000,1000,800,600,400],"aspectRatio":1.5001500150015001,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/b99be112b8444905b2e310ad10428cde/"},"192ce90f1b4b44a59e7ef002106e8e2c":{"altText":null,"imageFileExtension":".jpeg","xxUpdated":"2019-07-30 01:16:42","id":"192ce90f1b4b44a59e7ef002106e8e2c","embedCaption":null,"videoRenderedSizes":[640],"imageMimeType":"image/jpeg","etag":"192ce90f1b4b44a59e7ef002106e8e2c_0a4aza9c0","externalId":"ibghyJfYHqg","videoMimeType":"video/mpeg","managementId":"192ce90f1b4b44a59e7ef002106e8e2c","state":null,"flattenedCaption":"Police repeatedly fired tear gas and rubber bullets to drive back protesters blocking Hong Kong streets Sunday night as protests for democracy in the Chinese territory escalate. (July 29)","videoFileExtension":".mp4","type":"YouTube","caption":"\u003cp>Police repeatedly fired tear gas and rubber bullets to drive back protesters blocking Hong Kong streets Sunday night as protests for democracy in the Chinese territory escalate. (July 29)\u003c/p>","imageRenderedSizes":[1920,1000,800,600,400],"aspectRatio":1.7777777777777777,"gcsBaseUrl":"https://storage.googleapis.com/afs-prod/media/192ce90f1b4b44a59e7ef002106e8e2c/"}},"loadedAt":{"6ddcfe42887a4637bc4a73d99962e1fc":1564473114281,"33e9fb2a78a54aafb5bf6cc37baee18b":1564473114281,"4a9c1e5cd9f84fc7ac4054e6e60e2350":1564473114281,"b99be112b8444905b2e310ad10428cde":1564473114281,"192ce90f1b4b44a59e7ef002106e8e2c":1564473114281},"expiration":120000},"defaultTags":{"loading":{},"error":{},"data":{},"loadedAt":{},"expiration":600000},"radio":{"ignoreClickOnElements":[],"opened":false},"search":{"ignoreClickOnElements":[],"opened":false},"topics":{"ignoreClickOnElements":[],"opened":false},"headerTitle":{},"shareImage":{"loading":{"share-image":false},"error":{"share-image":null},"data":{"share-image":null},"loadedAt":{"share-image":1564473114281},"hasImage":false,"expiration":120000}}</script><script src="/dist/index.js?hash=16c2da316e1" async></script></body></html>

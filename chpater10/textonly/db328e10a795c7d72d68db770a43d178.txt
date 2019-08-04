@@ -1,0 +1,15 @@
+
+                                                    Technology
+                                                
+
+                                29 July 2019
+                                                                
+The source of a gigantic, mysterious leak of radioactive material that swept across Europe in 2017 has been traced to a Russian nuclear facility, which appears to have been preparing materials for experiments in Italy.
+Georg Steinhauser at Leibniz University Hannover in Germany says he was “stunned” when he first noticed the event. Routine surveillance detects several radiation leaks each year, mostly of extremely low levels of radionuclides used in medicine. But this event was different.
+                    
+“The ruthenium-106 was one of a kind. We had never measured anything like this before,” says Steinhauser. Even so, the radiation level wasn’t high enough to impact human health in Europe, although exposure closer to the site of release would have been far greater.
+At the time of the 2017 leak, Russian officials denied the possibility of the facility being the source, saying there were no radioactive ruthenium traces in the surrounding soil. Instead, they suggested the source may have been a radionuclide battery from a satellite burning up during re-entry into the atmosphere.
+Steinhauser and his colleagues decided to investigate more thoroughly by forensically analysing 1300 measurements from hundreds of monitoring stations across Europe. They found that radiation levels in the atmosphere were between 30 and 100 times higher than those measured after Fukushima. “This was indeed quite alarming,” says Steinhauser.
+The team excluded Romania as the source of the accident, despite the country’s high radiation levels. Each station in the country detected the radioactive plume simultaneously, which indicated the source was far enough away for it to have grown to the width of Romania.
+They also excluded a satellite as the cause because space organisations didn’t report any missing at the time. The pattern of radiation through the atmosphere didn’t match the spread of radiation from a satellite’s reentry either.
+Combining these findings with information on air movements and concentration levels from monitoring data, the team found clear evidence that the release happened in the Southern Urals, which is where the Mayak nuclear facility is located.
